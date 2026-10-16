@@ -48,6 +48,31 @@ test('preview builds are noindex, production builds are not', () => {
   assert.ok(!homePage(ctx).includes('noindex'));
 });
 
+test('price feeds keep the store object and mark the lowest price', () => {
+  const data = {
+    ...ctx.data,
+    offers: {
+      9780441013593: [
+        { store: 'bookshop', price: 12.5, currency: 'USD' },
+        { store: 'abebooks', price: 6, currency: 'USD' },
+      ],
+    },
+  };
+  const html = bookPage(createContext({ data, site }), dune);
+  assert.ok(html.includes('$6.00'));
+  assert.ok(html.includes('$12.50'));
+  assert.equal(html.match(/Lowest price/g).length, 1);
+  assert.ok(html.indexOf('AbeBooks') < html.indexOf('ThriftBooks'), 'priced offer sorts first');
+  assert.ok(html.includes('/go/abebooks/9780441013593'));
+});
+
+test('empty production home page has no dead search box', () => {
+  const prod = createContext({ data: ctx.data, site: { ...site, includeDrafts: false } });
+  const html = homePage(prod);
+  assert.ok(!html.includes('id="q"'));
+  assert.ok(html.includes('Check back soon'));
+});
+
 test('production hides draft books and anything that points at them', () => {
   const prod = createContext({ data: ctx.data, site: { ...site, includeDrafts: false } });
   assert.equal(prod.published.length, 0);

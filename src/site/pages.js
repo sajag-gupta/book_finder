@@ -37,7 +37,8 @@ export function homePage(ctx) {
         `<li><a class="chip chip-${esc(m.color)}" href="/moods/${esc(m.slug)}/">${esc(m.name)}<span>${esc(m.blurb)}</span></a></li>`,
     )
     .join('');
-  const body = `<section class="hero">
+  const body = ctx.published.length
+    ? `<section class="hero">
   <h1>How do you want to feel?</h1>
   <ul class="chips" aria-label="Moods">${moodChips}</ul>
   <form class="search" role="search" action="/books/" method="get">
@@ -45,6 +46,10 @@ export function homePage(ctx) {
     <input id="q" name="q" type="search" autocomplete="off" placeholder="Try &ldquo;Fourth Wing&rdquo;">
     <ul id="results" class="results" aria-live="polite"></ul>
   </form>
+</section>`
+    : `<section class="hero">
+  <h1>How do you want to feel?</h1>
+  <p class="lede">We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.</p>
 </section>`;
   return withSearchScript(
     layout({
@@ -109,7 +114,8 @@ export function booksLikePage(ctx, book) {
 function offersTable(book, ctx) {
   const query = `${book.title} ${book.author}`;
   const feed = new Map((ctx.data.offers[book.isbn13] ?? []).map((o) => [o.store, o]));
-  const rows = rankOffers(allStores.map((store) => ({ store, ...(feed.get(store.id) ?? {}) })));
+  // Feed entries name their store by id, so the store object must be applied last.
+  const rows = rankOffers(allStores.map((store) => ({ ...(feed.get(store.id) ?? {}), store })));
   const money = (o) =>
     new Intl.NumberFormat('en-US', { style: 'currency', currency: o.currency ?? 'USD' }).format(
       o.price,
