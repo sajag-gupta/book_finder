@@ -56,6 +56,13 @@ reasons. That is the reviewer's job, and why approval needs a name. Do not appro
 Where Open Library and Wikipedia disagree on the year, the check warns instead of failing, because
 Open Library's work-level year is sometimes wrong. Settle it from a third source.
 
+## The `checked` level
+
+Most of the catalogue is `checked`: facts verified automatically, text not yet read by a person (see
+[catalogue.md](catalogue.md)). To promote one, read its report entry
+(`npm run review -- <slug>`), then run the `--approve` command above. Content warnings are the field
+most worth your attention: they are written conservatively and can be incomplete.
+
 ## Status of the launch batch
 
 The 13 records that ship with the scaffold are **drafts** written from general knowledge and

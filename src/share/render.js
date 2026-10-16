@@ -47,5 +47,14 @@ export async function renderCardPng(book, options) {
     height,
     fonts: loadFonts(),
   });
-  return new Resvg(svg, { fitTo: { mode: 'width', value: width } }).render().asPng();
+  // resvg objects live in WebAssembly memory and are not garbage collected: free them explicitly,
+  // or a few hundred renders exhaust the heap and the module traps.
+  const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: width } });
+  const image = resvg.render();
+  try {
+    return image.asPng();
+  } finally {
+    image.free();
+    resvg.free();
+  }
 }

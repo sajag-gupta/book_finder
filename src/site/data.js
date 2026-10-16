@@ -11,11 +11,20 @@ const readDir = (dir) =>
     .sort()
     .map((name) => ({ name, value: readJson(join(dir, name)) }));
 
+/**
+ * Which books a build publishes: `reviewed` (a person read it) and `checked` (facts verified
+ * against two public sources, text not yet read by a person; pages carry a notice). Drafts only
+ * appear in preview builds.
+ */
+export const isPublished = (book, includeDrafts = false) =>
+  includeDrafts || book.status === 'reviewed' || book.status === 'checked';
+
 /** Loads every editorial file from `root` (the repository root). */
 export function loadData(root) {
   const data = join(root, 'data');
   const vocab = (file) => readJson(join(data, 'vocab', file));
   return {
+    genres: vocab('genres.json'),
     moods: vocab('moods.json'),
     tropes: vocab('tropes.json'),
     warnings: vocab('warnings.json'),
@@ -43,6 +52,7 @@ export function validateData(data) {
   const ajv = new Ajv({ allErrors: true, strict: false, validateFormats: false });
   const validate = ajv.compile(data.schema);
 
+  const genres = new Set(data.genres.map((g) => g.slug));
   const moods = new Set(data.moods.map((m) => m.slug));
   const tropes = new Set(data.tropes.map((t) => t.slug));
   const warnings = new Set(data.warnings.map((w) => w.slug));
@@ -74,11 +84,17 @@ export function validateData(data) {
       if (!slugs.has(p.slug)) errors.push(`${at}: pairing points to unknown book "${p.slug}"`);
       if (p.slug === book.slug) errors.push(`${at}: a book cannot pair with itself`);
     }
+    for (const g of book.genres) if (!genres.has(g)) errors.push(`${at}: unknown genre "${g}"`);
     if (book.status === 'reviewed') {
       if ((book.sources ?? []).length < 2)
         errors.push(`${at}: reviewed books need at least two sources`);
       if (!book.reviewedBy || !book.reviewedOn)
         errors.push(`${at}: reviewed books need reviewedBy and reviewedOn`);
+    }
+    if (book.status === 'checked') {
+      if ((book.sources ?? []).length < 2)
+        errors.push(`${at}: checked books need at least two sources`);
+      if (!book.checkedOn) errors.push(`${at}: checked books need checkedOn`);
     }
   }
 

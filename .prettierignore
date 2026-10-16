@@ -4,3 +4,6 @@ node_modules
 .tools
 coverage
 package-lock.json
+.work
+.review
+out

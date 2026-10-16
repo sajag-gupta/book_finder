@@ -13,6 +13,9 @@ coverage/
 # Local tooling (portable Node used on locked-down machines)
 .tools/
 
+# Scratch space for data drafting
+.work/
+
 # Generated review reports and rendered emails
 .review/
 out/
