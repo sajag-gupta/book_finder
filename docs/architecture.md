@@ -52,4 +52,6 @@ page says "Check price". Amazon prices must not be shown until its API terms are
 - Ebook and audio links search by title and author, not by edition ISBN.
 - Libby links are a generic OverDrive search; per-library deep links depend on the Title Link API terms.
 - Cover images are loaded from Open Library by ISBN. Confirm their cover terms before launch.
-- Share cards, the weekly email and the price-refresh job are not built yet.
+- The price-refresh job is not built yet (see the offers section above).
+- Share cards and the weekly email exist; see [newsletter.md](newsletter.md).
+- Sending is manual: `npm run email` renders the issue and you paste it into the email service.

@@ -56,5 +56,6 @@ apply to Journey by Mediavine (accepts sites from about 1,000 sessions a month).
 
 ## Status
 
-Scaffold complete: static site, offers table, `/go` redirect, 13 draft book records. Not yet done:
-share cards, weekly email, price feeds, affiliate approvals, human review of the draft records.
+Live: static site, offers table, `/go` redirect with click log, 13 reviewed books, review workflow,
+share cards (PNG per book), weekly email template. Not yet done: price feeds, affiliate approvals,
+automated sending, Release 2 features.

@@ -297,6 +297,26 @@ td {
   background: var(--mint);
   color: var(--ink);
 }
+[hidden] {
+  display: none !important;
+}
+.btn-ghost {
+  background: var(--white);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+.share-preview {
+  display: block;
+  width: 270px;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--sky);
+  border-radius: var(--radius);
+  margin-bottom: 1rem;
+}
 .badge {
   background: var(--mint);
   border-radius: 999px;

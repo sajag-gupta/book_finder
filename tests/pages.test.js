@@ -39,6 +39,17 @@ test('book page carries structured data and a canonical URL', () => {
   assert.ok(html.includes('<link rel="canonical" href="https://example.test/books/dune/">'));
 });
 
+test('book page offers a share card and sets link-preview metadata', () => {
+  const html = bookPage(ctx, dune);
+  assert.ok(html.includes('href="/share/dune.png" download="dune-share-card.png"'));
+  assert.ok(
+    html.includes('<meta property="og:image" content="https://example.test/share/dune-og.png">'),
+  );
+  assert.ok(html.includes('twitter:card'));
+  assert.ok(html.includes('/assets/share.js'));
+  assert.ok(!homePage(ctx).includes('og:image'), 'only book pages carry a card');
+});
+
 test('preview builds are noindex, production builds are not', () => {
   assert.ok(
     homePage(createContext({ data: ctx.data, site: { ...site, preview: true } })).includes(

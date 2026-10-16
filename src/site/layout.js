@@ -5,7 +5,22 @@ import { esc, jsonLd } from './html.js';
  */
 
 /** Wraps page content in the shared document shell. */
-export function layout({ site, title, description, path, body, structuredData, noindex = false }) {
+export function layout({
+  site,
+  title,
+  description,
+  path,
+  body,
+  structuredData,
+  image,
+  noindex = false,
+}) {
+  const social = image
+    ? `<meta property="og:image" content="${esc(site.url + image)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">`
+    : '';
   const fullTitle = path === '/' ? title : `${title} | ${site.name}`;
   const robots = noindex || site.preview ? '<meta name="robots" content="noindex, nofollow">' : '';
   const ld = structuredData
@@ -24,6 +39,7 @@ ${robots}
 <meta property="og:site_name" content="${esc(site.name)}">
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
+${social}
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,6 +71,8 @@ ${body}
 `;
 }
 
-/** Layout for a page that needs the home-page search script. */
-export const withSearchScript = (html) =>
-  html.replace('</body>', '<script src="/assets/search.js" defer></script>\n</body>');
+/** Adds a deferred first-party script to a rendered page. */
+export const withScript = (html, name) =>
+  html.replace('</body>', `<script src="/assets/${name}.js" defer></script>\n</body>`);
+
+export const withSearchScript = (html) => withScript(html, 'search');

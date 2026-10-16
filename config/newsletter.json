@@ -1,0 +1,5 @@
+{
+  "_comment": "Weekly email settings. Commercial email must carry a physical postal address and a working unsubscribe link. Most email services add both automatically from your account settings: if yours does, leave these blank and confirm in a test send. Otherwise fill them in; unsubscribeTag is your provider's merge tag for the unsubscribe URL.",
+  "postalAddress": "",
+  "unsubscribeTag": ""
+}
