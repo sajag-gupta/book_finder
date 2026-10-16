@@ -36,6 +36,22 @@ and country. No IP address, no user agent, no cookies.
 **No scraping.** Facts come from open sources (Open Library, Hardcover, Google Books as a cross-check)
 under their published limits. Prices come only from approved affiliate feeds.
 
+## Any book, never a dead end
+
+Our editorial catalogue is a curated layer, not the limit of what readers can find. Search
+(header suggestions and `/books/?q=`) shows our books first, then fills in from Open Library through
+`/api/search`. Choosing one opens `/b/?isbn=...`, a static shell that `/api/book` fills with facts
+(title, authors, year, pages, publisher, subjects) and the full where-to-get-it table, library first.
+If the ISBN is one of our books, the shell redirects to its full page.
+
+- Only English editions' ISBNs are used (a work lists every translation's ISBN, and linking a reader
+  to an Urdu edition of an English book would be worse than showing nothing).
+- Open Library's free-text descriptions are not shown: they are often copied publisher blurbs. Books
+  outside the catalogue get facts and subjects, not prose.
+- Responses are cached at the edge (an hour for search, a day for a book), and empty search results
+  for only two minutes so a hiccup cannot stick. `OL_CONTACT` (a Pages variable) identifies us to
+  Open Library, which asks for it.
+
 ## Offers
 
 `config/stores.json` lists every retailer with its kind (`library`, `print`, `used`, `ebook`,

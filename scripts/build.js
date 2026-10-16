@@ -54,6 +54,7 @@ page('/tropes/', pages.tropesIndexPage(ctx));
 page('/about/how-we-pick/', pages.howWePickPage(ctx));
 page('/about/affiliate-disclosure/', pages.disclosurePage(ctx));
 page('/shelf/', pages.shelfPage(ctx), { listed: false });
+page('/b/', pages.lookupPage(ctx), { listed: false });
 page('/subscribed/', pages.subscribedPage(ctx, true), { listed: false });
 page('/subscribe-error/', pages.subscribedPage(ctx, false), { listed: false });
 page('/404.html', pages.notFoundPage(ctx));

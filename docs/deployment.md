@@ -27,6 +27,13 @@ The steps below are kept for recreating the setup in another Cloudflare account.
 
 Pushing to `main` then validates, tests, builds, applies D1 migrations and publishes.
 
+## Pages variables and secrets
+
+| Name            | Kind     | Used by                                   |
+| --------------- | -------- | ----------------------------------------- |
+| `EMAIL_API_KEY` | secret   | `/api/subscribe` (Buttondown)             |
+| `OL_CONTACT`    | variable | `/api/search`, `/api/book` (Open Library) |
+
 ## Nightly refresh
 
 [deploy.yml](../.github/workflows/deploy.yml) also runs every night at 03:23 UTC. It refreshes

@@ -1,5 +1,7 @@
 // Client-side filtering for /books/. The full list is in the HTML, so this only hides, orders and
 // reveals cards; the URL keeps the state so a filtered view can be shared or bookmarked.
+import { resultCard } from './dom.js';
+
 const form = document.querySelector('[data-filters]');
 const list = document.querySelector('[data-results]');
 
@@ -54,6 +56,44 @@ if (form && list) {
     history.replaceState(null, '', query ? `?${query}` : location.pathname);
   }
 
+  // When our own list has few matches, Open Library fills in the rest so a search never dead-ends.
+  const remoteBox = document.querySelector('[data-remote]');
+  const remoteList = document.querySelector('[data-remote-list]');
+  const remoteQuery = document.querySelector('[data-remote-q]');
+  const known = new Set(cards.map((c) => c.dataset.isbn));
+  let remoteTimer;
+
+  function loadRemote(query, localCount) {
+    clearTimeout(remoteTimer);
+    if (query.length < 3 || localCount >= 12) {
+      remoteBox.hidden = true;
+      return;
+    }
+    remoteTimer = setTimeout(async () => {
+      try {
+        const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+        if (!response.ok) return;
+        const results = (await response.json()).results.filter((r) => !known.has(r.isbn13));
+        remoteList.replaceChildren(
+          ...results.map((r) =>
+            resultCard({
+              href: `/b/?isbn=${r.isbn13}`,
+              key: r.isbn13,
+              title: r.title,
+              author: r.author,
+              isbn: r.isbn13,
+              meta: r.year ? String(r.year) : '',
+            }),
+          ),
+        );
+        remoteQuery.textContent = query;
+        remoteBox.hidden = results.length === 0;
+      } catch {
+        remoteBox.hidden = true;
+      }
+    }, 350);
+  }
+
   function apply(resetPage = true) {
     if (resetPage) shown = PAGE;
     const words = form.elements.q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
@@ -79,6 +119,7 @@ if (form && list) {
 
     countEl.textContent = `${matches.length} ${matches.length === 1 ? 'book' : 'books'}`;
     emptyEl.hidden = matches.length > 0;
+    loadRemote(form.elements.q.value.trim(), matches.length);
     moreBtn.hidden = matches.length <= shown;
     writeUrl();
   }
