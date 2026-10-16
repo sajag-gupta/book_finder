@@ -7,7 +7,7 @@
   "series": { "slug": "a-court-of-thorns-and-roses", "position": 1 },
   "genres": ["romantasy"],
   "pace": "medium",
-  "length": "long",
+  "length": "medium",
   "moods": ["swoony", "tense", "dark"],
   "tropes": ["fairy-tale-retelling", "forced-proximity", "enemies-to-lovers"],
   "warnings": ["violence", "death", "sexual-content", "abuse"],

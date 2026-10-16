@@ -34,10 +34,29 @@ See [data/schema/book.schema.json](../data/schema/book.schema.json). Highlights:
 1. Copy an existing file in `data/books/` and rename it to the new slug.
 2. Write the fields. Leave `status` as `draft`.
 3. If it belongs to a series, add or update the file in `data/series/`.
-4. Run `npm run validate`, then `npm run verify:isbns` (needs `OL_CONTACT` in `.env`).
-5. Check the facts against two sources, fill `sources`, `reviewedBy`, `reviewedOn`, and set
-   `status` to `reviewed`.
-6. Open a PR. `npm run build:preview` shows how the page looks.
+4. Run `npm run validate`, then `npm run review -- <slug>` (needs `OL_CONTACT` in `.env`).
+5. Open `.review/report.md`. It shows the automatic fact checks and the text to read, with a
+   checklist. Fix the record for any FAIL, and look into any WARN by hand.
+6. When you have read the text and are satisfied, publish it under your name:
+   `npm run review -- --approve <slug...> --reviewer "Your Name"`
+   (add `--accept-warnings` once you have checked every warning). This records the sources, your
+   name and today's date and sets `status` to `reviewed`.
+7. Open a PR. `npm run build:preview` shows how the page looks.
+
+## What the automatic check does and does not do
+
+It compares **objective facts** with two independent public sources, Open Library and the book's
+Wikipedia article: ISBN against title, author, first-publication year, and page count against the
+`length` band. The Wikipedia article is accepted only if its title is this exact book and its intro
+names the author. Sources are used to check facts, never to copy text.
+
+It does **not** judge the summary, read-if/skip-if, moods, tropes, content warnings or pairing
+reasons. That is the reviewer's job, and why approval needs a name. Do not approve what you have not read.
+
+Where Open Library and Wikipedia disagree on the year, the check warns instead of failing, because
+Open Library's work-level year is sometimes wrong. Settle it from a third source.
+
+## Status of the launch batch
 
 The 13 records that ship with the scaffold are **drafts** written from general knowledge and
-cross-checked only for ISBN and title. They need the full review above before they go live.
+cross-checked only for ISBN and title. They need the review above before they go live.
