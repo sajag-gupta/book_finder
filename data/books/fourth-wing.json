@@ -26,8 +26,11 @@
       "moodShift": "quieter"
     }
   ],
-  "sources": [],
-  "status": "draft",
-  "reviewedBy": null,
-  "reviewedOn": null
+  "sources": [
+    "https://openlibrary.org/isbn/9781649374042",
+    "https://en.wikipedia.org/wiki/Fourth_Wing"
+  ],
+  "status": "reviewed",
+  "reviewedBy": "Sajag Gupta",
+  "reviewedOn": "2026-10-16"
 }
