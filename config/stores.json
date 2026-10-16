@@ -1,0 +1,111 @@
+[
+  {
+    "id": "libby",
+    "name": "Libby / OverDrive",
+    "kind": "library",
+    "label": "Borrow free with Libby",
+    "plain": "https://www.overdrive.com/search?q={query}",
+    "affiliate": null,
+    "commissionRate": 0,
+    "cookieDays": 0
+  },
+  {
+    "id": "bookshop",
+    "name": "Bookshop.org",
+    "kind": "print",
+    "label": "Buy new",
+    "plain": "https://bookshop.org/book/{isbn13}",
+    "affiliate": {
+      "template": "https://bookshop.org/a/{bookshop_id}/{isbn13}",
+      "requires": ["bookshop_id"]
+    },
+    "commissionRate": 0.1,
+    "cookieDays": 2
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "kind": "print",
+    "label": "Buy new",
+    "plain": "https://www.amazon.com/s?k={isbn13}&i=stripbooks",
+    "affiliate": {
+      "template": "https://www.amazon.com/s?k={isbn13}&i=stripbooks&tag={amazon_tag}",
+      "requires": ["amazon_tag"]
+    },
+    "commissionRate": 0.045,
+    "cookieDays": 1
+  },
+  {
+    "id": "barnesnoble",
+    "name": "Barnes & Noble",
+    "kind": "print",
+    "label": "Buy new",
+    "plain": "https://www.barnesandnoble.com/s/{isbn13}",
+    "affiliate": null,
+    "commissionRate": 0.02,
+    "cookieDays": 1
+  },
+  {
+    "id": "thriftbooks",
+    "name": "ThriftBooks",
+    "kind": "used",
+    "label": "Buy used",
+    "plain": "https://www.thriftbooks.com/browse/?b.search={isbn13}",
+    "affiliate": null,
+    "commissionRate": 0.04,
+    "cookieDays": 7
+  },
+  {
+    "id": "abebooks",
+    "name": "AbeBooks",
+    "kind": "used",
+    "label": "Buy used",
+    "plain": "https://www.abebooks.com/servlet/SearchResults?isbn={isbn13}",
+    "affiliate": null,
+    "commissionRate": 0.05,
+    "cookieDays": 30
+  },
+  {
+    "id": "kobo",
+    "name": "Kobo",
+    "kind": "ebook",
+    "label": "Buy ebook",
+    "plain": "https://www.kobo.com/us/en/search?query={query}",
+    "affiliate": {
+      "template": "https://click.linksynergy.com/deeplink?id={kobo_partner_id}&mid={kobo_merchant_id}&murl={plain_encoded}",
+      "requires": ["kobo_partner_id", "kobo_merchant_id"]
+    },
+    "commissionRate": 0.05,
+    "cookieDays": 14
+  },
+  {
+    "id": "googleplay",
+    "name": "Google Play Books",
+    "kind": "ebook",
+    "label": "Buy ebook",
+    "plain": "https://play.google.com/store/search?q={query}&c=books",
+    "affiliate": null,
+    "commissionRate": 0,
+    "cookieDays": 0
+  },
+  {
+    "id": "librofm",
+    "name": "Libro.fm",
+    "kind": "audio",
+    "label": "Buy audiobook",
+    "plain": "https://libro.fm/search?q={query}",
+    "affiliate": null,
+    "commissionRate": 0.1,
+    "cookieDays": 30
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "kind": "audio",
+    "label": "Buy audiobook",
+    "plain": "https://www.audible.com/search?keywords={query}",
+    "affiliate": null,
+    "commissionRate": 0,
+    "cookieDays": 1
+  }
+]
