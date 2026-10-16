@@ -4,6 +4,13 @@ Hosting is Cloudflare Pages (static files plus the `/go` function) with D1 for t
 Deploys run from GitHub Actions ([.github/workflows/deploy.yml](../.github/workflows/deploy.yml)),
 because Wrangler's native dependencies do not run on some locked-down workstations.
 
+## Current state
+
+The D1 database (`book-finder`) and the Pages project (`book-finder`, production branch `main`,
+`DB` binding on production and preview) already exist, and the GitHub secrets and variables below
+are set. The site will be at <https://book-finder-azs.pages.dev> after the first deploy from `main`.
+The steps below are kept for recreating the setup in another Cloudflare account.
+
 ## One-time setup
 
 1. Create the D1 database and note its ID:

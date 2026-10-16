@@ -5,5 +5,5 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "book-finder"
-database_id = "00000000-0000-0000-0000-000000000000" # replaced by `wrangler d1 create book-finder`
+database_id = "edab33bc-52db-4e0c-a5ea-67f5f333ba6e"
 migrations_dir = "migrations"
