@@ -54,7 +54,7 @@ If the ISBN is one of our books, the shell redirects to its full page.
 
 ## Offers
 
-`config/stores.json` lists every retailer with its kind (`library`, `print`, `used`, `ebook`,
+`config/stores.json` lists every retailer with its kind (`library`, `print`, `ebook`,
 `audio`), plain and affiliate URL templates, the IDs required for the affiliate form, a planning
 commission rate and a cookie window. `src/shared/offers.js` ranks offers: lowest total price first,
 unknown prices last, ties to the higher-paying program, library always kept.

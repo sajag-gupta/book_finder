@@ -6,7 +6,7 @@ in every format, at the best price.
 1. **Decide what to read.** Say how you want to feel, or name a book you loved. Get a short list with
    a plain reason for each pick, written by us. 550 books: the best sellers of all time plus genre
    staples, filterable by genre, mood, length, pace and content warnings.
-2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook, used and library options
+2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook and library options
    side by side. Library borrowing is always shown first.
 
 Also: bestseller rankings, a nightly "Trending now" shelf from Hardcover's API, genre, mood, trope and

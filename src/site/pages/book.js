@@ -9,7 +9,6 @@ import { FORMAT_ORDER, FORMAT_TITLES, rankOffers } from '../../shared/offers.js'
 const FORMAT_ICONS = {
   library: 'library',
   print: 'book',
-  used: 'tag',
   ebook: 'tablet',
   audio: 'headphones',
 };
@@ -216,7 +215,7 @@ ${more.length ? `<section class="section" aria-labelledby="more-h"><div class="s
     site,
     path: `/books/${book.slug}/`,
     title: `${book.title} by ${book.author}: where to buy or borrow`,
-    description: `${book.summary} Compare print, ebook, audiobook, used and library options.`,
+    description: `${book.summary} Compare print, ebook, audiobook and library options.`,
     image: `/share/${book.slug}-og.png`,
     body,
     scripts: ['share', 'book'],
