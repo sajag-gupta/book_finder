@@ -1,0 +1,45 @@
+{
+  "slug": "the-duke-and-i",
+  "title": "The Duke and I",
+  "author": "Julia Quinn",
+  "isbn13": "9780708803318",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["romance", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "witty", "funny"],
+  "tropes": ["fake-dating", "friends-to-lovers", "royalty"],
+  "warnings": ["sexual-content", "child-abuse"],
+  "summary": "In Regency London, a newly returned duke who wants to avoid marriage and a young woman tired of being chased by suitors agree to pretend to court. Their scheme gives them an excuse to spend time together, and it works a little too well.",
+  "readIf": "you enjoy Regency ballroom romance with sparkling dialogue and a fake courtship at its centre.",
+  "skipIf": "you want a modern setting or would rather avoid a hero with a painful father-son history.",
+  "pairings": [
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "The original model for witty, society-bound courtship if you want to go to the source.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "A much more comic, fairy-tale take on love, with plenty of the same cheeky charm.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "outlander",
+      "reason": "Another historical romance, but far longer, grittier and sweeping.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780708803318",
+    "https://en.wikipedia.org/wiki/The_Duke_and_I",
+    "https://hardcover.app/books/the-duke-and-i"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

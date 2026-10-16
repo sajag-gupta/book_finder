@@ -1,0 +1,45 @@
+{
+  "slug": "digital-fortress",
+  "title": "Digital Fortress",
+  "author": "Dan Brown",
+  "isbn13": "9780593055069",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious"],
+  "tropes": ["spy"],
+  "warnings": ["violence", "death"],
+  "summary": "The National Security Agency's giant code-breaking machine meets an unbreakable code. A cryptographer and her fiance, a linguist sent to Spain, race against time to find a key before the secrets of the agency are exposed.",
+  "readIf": "you want a short, quick, techno thriller from before the author's biggest success.",
+  "skipIf": "you want technical realism; the computing details are very dated and often unlikely.",
+  "pairings": [
+    {
+      "slug": "snow-crash",
+      "reason": "A much wittier, stranger look at hackers, code and power, set in a lively near-future.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-firm",
+      "reason": "Another fast thriller about an ordinary professional who learns that a respectable organisation is hiding something sinister.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hunt-for-red-october",
+      "reason": "A more detailed, technical thriller with plenty of high-stakes manoeuvring.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593055069",
+    "https://en.wikipedia.org/wiki/Digital_Fortress",
+    "https://hardcover.app/books/digital-fortress"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

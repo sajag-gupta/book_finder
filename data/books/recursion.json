@@ -1,0 +1,45 @@
+{
+  "slug": "recursion",
+  "title": "Recursion",
+  "author": "Blake Crouch",
+  "isbn13": "9781984826015",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mind-bending", "heartbreaking"],
+  "tropes": ["time-travel"],
+  "warnings": ["death", "suicide", "violence"],
+  "summary": "A New York detective investigates a strange epidemic in which people recall whole lives they never lived. At the same time a scientist is racing to build a machine that can preserve memories.",
+  "readIf": "you like twisty, high-concept thrillers that play with memory and time.",
+  "skipIf": "you prefer your science fiction grounded, as the plot becomes increasingly intricate and demands close attention.",
+  "pairings": [
+    {
+      "slug": "dark-matter",
+      "reason": "The same author's other fast, mind-twisting thriller built on a love story and an impossible choice.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "sea-of-tranquility",
+      "reason": "A calmer, more literary novel about time and memory that shares some of the same wonder.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A gentler tale of alternate lives, focused on emotion rather than action.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781984826015",
+    "https://en.wikipedia.org/wiki/Recursion_(disambiguation)",
+    "https://hardcover.app/books/recursion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

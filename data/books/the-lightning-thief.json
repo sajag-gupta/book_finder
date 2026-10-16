@@ -1,0 +1,45 @@
+{
+  "slug": "the-lightning-thief",
+  "title": "The Lightning Thief",
+  "author": "Rick Riordan",
+  "isbn13": "9781467658195",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "whimsical"],
+  "tropes": ["gods-and-myth", "quest", "road-trip", "coming-of-age"],
+  "warnings": ["violence"],
+  "summary": "A twelve-year-old with dyslexia and ADHD is accused of stealing Zeus's lightning bolt and learns he is the son of a Greek god. With two friends he sets out across the United States to clear his name and prevent a war among the gods.",
+  "readIf": "you want a quick, jokey, myth-filled adventure with a snarky narrator and a cross-country quest.",
+  "skipIf": "you want serious, deeply drawn characters, as this is breezy and aimed at younger readers.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "reason": "Another young hero who learns he belongs to a hidden magical world, with humour and friends.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "A shorter, older portal adventure where siblings are swept into a world of talking animals and myth.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "circe",
+      "reason": "A grown-up, lyrical look at Greek myth for those who want the same material told more seriously.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781467658195",
+    "https://en.wikipedia.org/wiki/The_Lightning_Thief",
+    "https://hardcover.app/books/the-lightning-thief"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

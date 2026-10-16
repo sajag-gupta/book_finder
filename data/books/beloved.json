@@ -1,0 +1,44 @@
+{
+  "slug": "beloved",
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "isbn13": "9780099511656",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "heartbreaking", "dark"],
+  "tropes": ["haunted-house"],
+  "warnings": ["slavery", "child-death", "sexual-assault", "violence", "racism", "grief"],
+  "summary": "In 1870s Ohio, Sethe, a formerly enslaved woman, lives in a house haunted by the spirit of her baby daughter. When a mysterious young woman called Beloved arrives, the past she has tried to escape is pulled closer.",
+  "readIf": "you want a demanding, beautiful novel that treats the legacy of slavery as living memory.",
+  "skipIf": "you want an easy read; it is emotionally heavy and structurally complex.",
+  "pairings": [
+    {
+      "slug": "kindred",
+      "reason": "Another novel that makes slavery immediate, through a modern woman pulled back into the past.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-color-purple",
+      "reason": "Another Black American classic about women surviving cruelty, with more hope.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-only-good-indians",
+      "reason": "A horror novel in which a past wrong comes back in a very physical form.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099511656",
+    "https://en.wikipedia.org/wiki/Beloved_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

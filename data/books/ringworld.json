@@ -1,0 +1,40 @@
+{
+  "slug": "ringworld",
+  "title": "Ringworld",
+  "author": "Larry Niven",
+  "isbn13": "9780345418401",
+  "firstPublished": 1970,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "mind-bending", "thoughtful"],
+  "tropes": ["quest", "first-contact"],
+  "warnings": [],
+  "summary": "A bored two-hundred-year-old man is hired by a cowardly alien to join an expedition to an enormous artificial ring built around a distant star. The crew includes a fierce feline warrior and a lucky young woman.",
+  "readIf": "you love hard-science thought experiments and the sense of wonder of exploring a giant structure.",
+  "skipIf": "you want subtle characters or modern gender politics, since both feel dated.",
+  "pairings": [
+    {
+      "slug": "rendezvous-with-rama",
+      "reason": "Another exploration of a huge, silent alien artefact, in a calmer and more mysterious register.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "A modern book that matches Ringworld's love of big physical ideas, with more menace.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345418401",
+    "https://en.wikipedia.org/wiki/Ringworld",
+    "https://hardcover.app/books/ringworld"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

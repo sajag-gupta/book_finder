@@ -1,0 +1,44 @@
+{
+  "slug": "the-cruel-prince",
+  "title": "The Cruel Prince",
+  "author": "Holly Black",
+  "isbn13": "9780316310314",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["fae", "enemies-to-lovers", "political-intrigue", "morally-grey"],
+  "warnings": ["violence", "death", "bullying", "manipulation"],
+  "summary": "A human girl raised in the fae High Court after her parents' murder longs to belong in a place that despises her. She chases power through its schemes, which pits her against the cruel prince who torments her most.",
+  "readIf": "you want a twisty, scheming fae court story with an ambitious heroine and a hero who is both enemy and temptation.",
+  "skipIf": "you want warm characters, since almost everyone here lies, bullies or plays a game.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "Another fae-court fantasy, with more romance and a very different, less cruel male lead.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "A comparably clever and morally murky YA fantasy with scheming and double-crosses.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "uprooted",
+      "reason": "A fairy-tale fantasy with a powerful, prickly hero and a heroine who finds her own strength.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316310314",
+    "https://hardcover.app/books/the-cruel-prince"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

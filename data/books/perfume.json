@@ -1,0 +1,45 @@
+{
+  "slug": "perfume",
+  "title": "Perfume",
+  "author": "Patrick Süskind",
+  "isbn13": "9780141037509",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["literary", "horror"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "haunting", "mysterious"],
+  "tropes": ["serial-killer"],
+  "warnings": ["violence", "death", "sexual-assault"],
+  "summary": "Born with no scent of his own but an extraordinary sense of smell, Jean-Baptiste Grenouille grows up in eighteenth-century France obsessed with capturing the perfect scent, and willing to kill to do it.",
+  "readIf": "you want a strange, lush, grotesque fable with a chilling antihero and rich sensory writing.",
+  "skipIf": "you want a protagonist with any empathy, or violence against young women is a line for you.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "Another story that looks closely at a killer's mind, though as a faster thriller.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-picture-of-dorian-gray",
+      "reason": "A classic about beauty and moral decay, in more elegant, less grotesque form.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-shadow-of-the-wind",
+      "reason": "Another European novel built on atmosphere and obsession, with more warmth.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141037509",
+    "https://en.wikipedia.org/wiki/Perfume_(novel)",
+    "https://hardcover.app/books/perfume-ef2f3694-4413-4a11-bc81-3a0437d8cf99"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-kiss-quotient",
+  "title": "The Kiss Quotient",
+  "author": "Helen Hoang",
+  "isbn13": "9781683248736",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "hopeful", "funny"],
+  "tropes": ["fake-dating", "slow-burn", "unlikely-friendship"],
+  "warnings": ["sexual-content", "prejudice", "bullying"],
+  "summary": "A successful, autistic economist decides she needs practice at relationships and hires an escort to teach her. What starts as a carefully planned set of lessons becomes something neither of them predicted.",
+  "readIf": "you want an open, steamy romance about two people learning to be themselves with each other.",
+  "skipIf": "you are uncomfortable with explicit scenes or a premise built around paid companionship.",
+  "pairings": [
+    {
+      "slug": "get-a-life-chloe-brown",
+      "reason": "Another warm, funny romance with a heroine whose needs are treated with care and humour.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-rosie-project",
+      "reason": "Flips the set-up with a neurodivergent hero, and it is just as tender and quietly funny.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "A similar brilliant-but-awkward heroine falling into a deal that turns into love.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781683248736",
+    "https://en.wikipedia.org/wiki/The_Kiss_Quotient",
+    "https://hardcover.app/books/the-kiss-quotient"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

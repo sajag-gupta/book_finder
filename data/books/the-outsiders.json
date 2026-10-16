@@ -1,0 +1,45 @@
+{
+  "slug": "the-outsiders",
+  "title": "The Outsiders",
+  "author": "S. E. Hinton",
+  "isbn13": "9781484492222",
+  "firstPublished": 1967,
+  "series": null,
+  "genres": ["young-adult", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "nostalgic", "hopeful"],
+  "tropes": ["found-family", "coming-of-age"],
+  "warnings": ["violence", "death", "bullying"],
+  "summary": "Fourteen-year-old Ponyboy belongs to the Greasers, a group of working-class boys who clash with the wealthy Socs. A violent night forces him and his brothers to face what their loyalty costs.",
+  "readIf": "you want a short, emotional story about brotherhood and class divides.",
+  "skipIf": "you dislike dated slang or stories where teenage violence ends in tragedy.",
+  "pairings": [
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "Another teen classic about belonging, with a quieter, more introspective tone.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A short, fast novel with a young hero facing something much bigger than himself.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hate-u-give",
+      "reason": "A newer novel about a teen caught between two worlds and the violence in her community.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484492222",
+    "https://en.wikipedia.org/wiki/The_Outsiders_(novel)",
+    "https://hardcover.app/books/the-outsiders"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

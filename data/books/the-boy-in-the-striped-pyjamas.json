@@ -1,0 +1,45 @@
+{
+  "slug": "the-boy-in-the-striped-pyjamas",
+  "title": "The Boy in the Striped Pyjamas",
+  "author": "John Boyne",
+  "isbn13": "9780385611350",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["historical", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "haunting"],
+  "tropes": ["unlikely-friendship", "war-story", "coming-of-age"],
+  "warnings": ["war", "genocide", "child-death", "death", "violence"],
+  "summary": "Bruno, the nine-year-old son of a Nazi commandant, is moved to a bleak house in the countryside and befriends a boy who lives behind the wire fence in what Bruno takes to be a strange farm.",
+  "readIf": "you want a very short, simply told fable about childhood innocence set during the Holocaust.",
+  "skipIf": "you want historical accuracy; many readers and historians criticise its plausibility.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "A fuller and more textured novel about a child's life in Nazi Germany.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "sarahs-key",
+      "reason": "Another novel where a child's experience of the Holocaust is uncovered by someone in the present.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-tattooist-of-auschwitz",
+      "reason": "A story set inside a camp, aimed at adults, also with a simple style.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 11,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385611350",
+    "https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas",
+    "https://hardcover.app/books/the-boy-in-the-striped-pyjamas"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "dragonflight",
+  "title": "Dragonflight",
+  "author": "Anne McCaffrey",
+  "isbn13": "9780345917478",
+  "firstPublished": 1968,
+  "series": null,
+  "genres": ["fantasy", "science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "epic", "hopeful"],
+  "tropes": ["dragons", "chosen-one"],
+  "warnings": ["violence", "death"],
+  "summary": "On a world menaced by deadly spores falling from a wandering star, the dragonriders are few and the other holds have grown complacent. A dispossessed young woman is swept into the riders' ranks when a queen dragon chooses her.",
+  "readIf": "you love dragons that bond with their riders and want a classic of the genre from the late sixties.",
+  "skipIf": "you want modern romance or gender politics, as some attitudes in this book feel distinctly dated.",
+  "pairings": [
+    {
+      "slug": "eragon",
+      "reason": "A more recent and younger dragon-and-rider bond story that owes a lot to this book.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "Also built around riders and their dragons, but a fast, romance-forward and far bloodier take.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "A more sprawling epic if you want a bigger and more political secondary world.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345917478",
+    "https://en.wikipedia.org/wiki/Dragonflight_(novel)",
+    "https://hardcover.app/books/dragonflight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

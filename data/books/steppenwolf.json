@@ -1,0 +1,45 @@
+{
+  "slug": "steppenwolf",
+  "title": "Steppenwolf",
+  "author": "Hermann Hesse",
+  "isbn13": "9781324036821",
+  "firstPublished": 1927,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "mind-bending", "thoughtful"],
+  "tropes": ["book-within-a-book"],
+  "warnings": ["suicide", "mental-illness"],
+  "summary": "Harry Haller, a middle-aged intellectual who thinks of himself as half man and half wolf, is out of tune with the modern world. Through a chance meeting, he is drawn into a strange series of encounters, including a magic theatre.",
+  "readIf": "you like strange, philosophical novels about alienation and inner division.",
+  "skipIf": "you want a straightforward story, since the second half becomes surreal.",
+  "pairings": [
+    {
+      "slug": "siddhartha",
+      "reason": "The author's calmer, more hopeful book about finding peace.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-metamorphosis",
+      "reason": "Another short novel about a man estranged from himself and the world around him.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "kafka-on-the-shore",
+      "reason": "A modern, dreamlike novel in which the real and the strange blur.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781324036821",
+    "https://en.wikipedia.org/wiki/Steppenwolf_(novel)",
+    "https://hardcover.app/books/steppenwolf"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

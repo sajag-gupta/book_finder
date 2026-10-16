@@ -1,0 +1,41 @@
+{
+  "slug": "the-girl-before",
+  "title": "The Girl Before",
+  "author": "J. P. Delaney",
+  "isbn13": "9781529419405",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["dual-timeline", "unreliable-narrator"],
+  "warnings": ["death", "manipulation"],
+  "summary": "A grieving woman rents a stark, ultra-minimalist house from an enigmatic architect, on the condition that she obeys strict rules. She learns that the previous tenant died there, and that the pair share an eerie resemblance.",
+  "readIf": "you like sleek psychological thrillers with a spooky house and two women's stories moving in parallel.",
+  "skipIf": "you dislike narrators who withhold things, or books where the male lead is clearly suspicious from page one.",
+  "pairings": [
+    {
+      "slug": "behind-closed-doors",
+      "reason": "Another fast domestic thriller about control and a charming man who is not what he seems.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "The classic version of this story: a young woman haunted by the woman who lived in the house before her.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-silent-patient",
+      "reason": "Another twisty thriller with a psychologist at its heart and a shocking reveal late on.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

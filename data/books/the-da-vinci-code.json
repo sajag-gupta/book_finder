@@ -1,0 +1,45 @@
+{
+  "slug": "the-da-vinci-code",
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "isbn13": "9780739339787",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "adventurous"],
+  "tropes": ["secret-society", "detective", "twist-ending"],
+  "warnings": ["violence", "death"],
+  "summary": "A Harvard symbologist is called to the Louvre after a curator is found murdered, with a cryptic message left beside the body. He and a French cryptologist race across Europe decoding clues tied to a secret about the Church.",
+  "readIf": "you want a short-chapter, cliffhanger-driven chase built on puzzles, codes and art history.",
+  "skipIf": "you mind thin characterisation or want the history to be strictly accurate.",
+  "pairings": [
+    {
+      "slug": "angels-and-demons",
+      "reason": "The earlier Robert Langdon adventure, set in Rome and with the same clue-chasing structure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "A far denser and more learned mystery in a similar world of hidden texts and Church secrets.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-shadow-of-the-wind",
+      "reason": "Books, secrets and a city full of hidden history, with richer prose and more heart.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 80,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739339787",
+    "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(film)",
+    "https://hardcover.app/books/the-da-vinci-code"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

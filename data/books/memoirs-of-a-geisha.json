@@ -1,0 +1,45 @@
+{
+  "slug": "memoirs-of-a-geisha",
+  "title": "Memoirs of a Geisha",
+  "author": "Arthur Golden",
+  "isbn13": "9780099275992",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "melancholic", "nostalgic"],
+  "tropes": ["rags-to-riches", "coming-of-age"],
+  "warnings": ["abuse", "sexual-content", "war"],
+  "summary": "A poor fisherman's daughter is sold to a geisha house in Kyoto in the 1930s. She trains in the arts and politics of the flower and willow world, hoping for the favour of one man.",
+  "readIf": "you like lush, detailed historical fiction with a first-person voice and a slow, longing love story.",
+  "skipIf": "you want an authentically Japanese viewpoint; it is a Western author's imagined account, which some readers and a legal case challenged.",
+  "pairings": [
+    {
+      "slug": "pachinko",
+      "reason": "Another saga about a woman from a poor background in Japan, told with a more realistic, grounded eye.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-joy-luck-club",
+      "reason": "Women's life stories shaped by tradition and sacrifice, in a shorter and more varied form.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "girl-with-a-pearl-earring",
+      "reason": "A short, quiet novel about a girl of low status drawn into a world of art and unspoken desire.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099275992",
+    "https://en.wikipedia.org/wiki/Memoirs_of_a_Geisha",
+    "https://hardcover.app/books/memoirs-of-a-geisha"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

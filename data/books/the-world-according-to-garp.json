@@ -1,0 +1,45 @@
+{
+  "slug": "the-world-according-to-garp",
+  "title": "The World According to Garp",
+  "author": "John Irving",
+  "isbn13": "9780345915597",
+  "firstPublished": 1978,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["funny", "dark", "witty"],
+  "tropes": ["family-saga", "satire"],
+  "warnings": ["death", "child-death", "infidelity", "sexual-assault"],
+  "summary": "The son of an outspoken nurse who became a feminist icon grows up to become a writer and wrestler. His family life is a stream of comic misadventures, accidents and tragedies.",
+  "readIf": "you like sprawling, outrageous family novels that swing between farce and grief.",
+  "skipIf": "you want a gentle book, as the humour often arrives alongside sudden, shocking events.",
+  "pairings": [
+    {
+      "slug": "a-prayer-for-owen-meany",
+      "reason": "The author's other great novel, more spiritual and sentimental, with a similar mix of comedy and loss.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-corrections",
+      "reason": "Another large American family comedy with a dark, observant edge.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "A war-time comedy in which the absurd and the horrible are inseparable.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345915597",
+    "https://en.wikipedia.org/wiki/The_World_According_to_Garp",
+    "https://hardcover.app/books/the-world-according-to-garp"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

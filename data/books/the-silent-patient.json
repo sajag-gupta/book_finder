@@ -1,0 +1,40 @@
+{
+  "slug": "the-silent-patient",
+  "title": "The Silent Patient",
+  "author": "Alex Michaelides",
+  "isbn13": "9781409181620",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["twist-ending"],
+  "warnings": ["violence", "death", "mental-illness"],
+  "summary": "A famous painter shoots her husband and then never speaks another word. A psychotherapist becomes obsessed with getting her to talk and takes a job at the secure unit where she lives.",
+  "readIf": "you like quick psychological thrillers that build toward a big reveal.",
+  "skipIf": "you dislike twists that hinge on the reader being misdirected, or want more realistic therapy.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "A sharper, more cynical thriller about a marriage and a narrator whose story is not to be trusted.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-woman-in-the-window",
+      "reason": "Another fast, unsettling story told by someone whose mind and reliability are in question.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409181620",
+    "https://en.wikipedia.org/wiki/The_Silent_Patient",
+    "https://hardcover.app/books/the-silent-patient"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

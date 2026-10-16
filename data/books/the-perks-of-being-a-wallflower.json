@@ -1,0 +1,52 @@
+{
+  "slug": "the-perks-of-being-a-wallflower",
+  "title": "The Perks of Being a Wallflower",
+  "author": "Stephen Chbosky",
+  "isbn13": "9780736649360",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "nostalgic", "hopeful"],
+  "tropes": ["epistolary", "coming-of-age", "found-family"],
+  "warnings": [
+    "child-sexual-abuse",
+    "suicide",
+    "sexual-assault",
+    "homophobia",
+    "addiction",
+    "mental-illness"
+  ],
+  "summary": "In letters to an unnamed friend, a shy freshman describes his first year of high school, adopted by two older students who bring him into their circle of music, parties and friendship.",
+  "readIf": "you want a tender, honest coming-of-age story told in a young, plain voice.",
+  "skipIf": "you want to avoid stories involving abuse and mental illness.",
+  "pairings": [
+    {
+      "slug": "looking-for-alaska",
+      "reason": "Another sensitive teenage story about belonging, loss and finding a group.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-catcher-in-the-rye",
+      "reason": "The older classic of a sensitive teen narrator who sees through the adult world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A warm, funny romance with the same 1980s-and-1990s mixtape nostalgia.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780736649360",
+    "https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower",
+    "https://hardcover.app/books/the-perks-of-being-a-wallflower"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

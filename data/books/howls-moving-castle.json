@@ -1,0 +1,45 @@
+{
+  "slug": "howls-moving-castle",
+  "title": "Howl's Moving Castle",
+  "author": "Diana Wynne Jones",
+  "isbn13": "9780007380459",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["whimsical", "funny", "cozy"],
+  "tropes": ["witches", "fairy-tale-retelling", "slow-burn", "enemies-to-lovers"],
+  "warnings": [],
+  "summary": "A shy hat-maker named Sophie is cursed by a witch into the body of an old woman. She takes refuge as housekeeper in the walking castle of the vain wizard Howl, whose household turns out to be full of secrets.",
+  "readIf": "you want a cheerful, witty fantasy with a cranky wizard, a capable heroine and a very odd house.",
+  "skipIf": "you want a close match to the film, as the novel's plot and tone differ from it in many ways.",
+  "pairings": [
+    {
+      "slug": "uprooted",
+      "reason": "A grown-up, more serious fairy-tale fantasy with a similar mix of a prickly wizard and a determined young woman.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "Another warm story about a quirky household, found family and a reluctant outsider.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "ella-enchanted",
+      "reason": "Another light, funny fairy-tale retelling with a spirited heroine struggling against a curse.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007380459",
+    "https://en.wikipedia.org/wiki/Howl's_Moving_Castle_(novel)",
+    "https://hardcover.app/books/howls-moving-castle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

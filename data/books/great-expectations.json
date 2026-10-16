@@ -1,0 +1,45 @@
+{
+  "slug": "great-expectations",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "isbn13": "9780174324584",
+  "firstPublished": 1861,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["melancholic", "thoughtful", "mysterious"],
+  "tropes": ["rags-to-riches", "coming-of-age"],
+  "warnings": ["violence", "death"],
+  "summary": "Pip, a poor blacksmith's apprentice in the Kent marshes, is told by a lawyer that a mysterious benefactor will make him a gentleman. He moves to London and must reckon with the cost of his ambition.",
+  "readIf": "you like a classic with a strong plot, memorable characters and a sharp sense of social class.",
+  "skipIf": "you find nineteenth-century prose slow going.",
+  "pairings": [
+    {
+      "slug": "david-copperfield",
+      "reason": "Another Dickens novel about a young man making his way, longer and more comic.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "oliver-twist",
+      "reason": "A darker Dickens story of an orphan, crime and the cruelty of the poor-law system.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "Another story of an unexpected fortune and a plan that goes beyond what its maker imagined.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780174324584",
+    "https://en.wikipedia.org/wiki/Great_Expectations",
+    "https://hardcover.app/books/great-expectations"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

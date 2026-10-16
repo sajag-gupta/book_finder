@@ -1,0 +1,45 @@
+{
+  "slug": "the-love-hypothesis",
+  "title": "The Love Hypothesis",
+  "author": "Ali Hazelwood",
+  "isbn13": "9781638082156",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "swoony", "witty"],
+  "tropes": ["fake-dating", "academic-rivals", "grumpy-sunshine"],
+  "warnings": ["sexual-content"],
+  "summary": "A PhD student invents a boyfriend to convince her best friend she is over a crush, then grabs the nearest man to prove it. He turns out to be a feared young professor in her own department, and the pretence gets complicated fast.",
+  "readIf": "you want a warm, funny academic romance with a grumpy hero and plenty of lab-bench banter.",
+  "skipIf": "you prefer your romances low on contrivance or find science-workplace settings a bit too cute.",
+  "pairings": [
+    {
+      "slug": "the-hating-game",
+      "reason": "Another banter-heavy romance built on a tense workplace rivalry, with the same sharp, funny rhythm.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "beach-read",
+      "reason": "Also a smart, bookish rom-com with a prickly leading man, though it has a little more emotional weight.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-kiss-quotient",
+      "reason": "Another romance starring a brilliant, socially uncertain lead who learns about love through a very structured arrangement.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781638082156",
+    "https://en.wikipedia.org/wiki/The_Love_Hypothesis",
+    "https://hardcover.app/books/the-love-hypothesis"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

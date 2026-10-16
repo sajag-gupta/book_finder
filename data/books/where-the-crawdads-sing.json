@@ -1,0 +1,44 @@
+{
+  "slug": "where-the-crawdads-sing",
+  "title": "Where the Crawdads Sing",
+  "author": "Delia Owens",
+  "isbn13": "9781472158666",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["literary", "mystery"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "mysterious", "hopeful"],
+  "tropes": ["dual-timeline", "coming-of-age", "small-town"],
+  "warnings": ["abuse", "domestic-violence", "death"],
+  "summary": "Kya Clark is abandoned by her family and grows up alone in the North Carolina marshes, known to locals as the Marsh Girl. Years later, when a young man is found dead, she becomes the main suspect.",
+  "readIf": "you like a nature-filled, atmospheric story that blends a coming-of-age tale with a courtroom mystery.",
+  "skipIf": "you want a tough, twisty crime plot, since this is more a love story and a portrait of a place.",
+  "pairings": [
+    {
+      "slug": "the-secret-life-of-bees",
+      "reason": "Another Southern story of a girl finding her way after loss, with a warmer, kinder tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-great-alone",
+      "reason": "Another novel about a girl raised in a wild landscape and shaped by a troubled family.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "remarkably-bright-creatures",
+      "reason": "A gentler, funnier story of nature, loneliness and an unexpected friendship.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781472158666",
+    "https://en.wikipedia.org/wiki/Where_the_Crawdads_Sing"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

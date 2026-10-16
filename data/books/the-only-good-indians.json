@@ -1,0 +1,45 @@
+{
+  "slug": "the-only-good-indians",
+  "title": "The Only Good Indians",
+  "author": "Stephen Graham Jones",
+  "isbn13": "9781663624147",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "haunting", "tense"],
+  "tropes": ["revenge", "monster"],
+  "warnings": ["violence", "death", "gore", "animal-death", "grief"],
+  "summary": "Four Blackfeet men share a guilty memory of an elk hunt they should never have taken part in. Years later, something begins to hunt them, and the story moves between their lives and the reservation they come from.",
+  "readIf": "you want fresh, character-driven horror that is rooted in a particular community and culture.",
+  "skipIf": "you dislike graphic violence or stories about animals being harmed.",
+  "pairings": [
+    {
+      "slug": "heart-shaped-box",
+      "reason": "Another story of a man haunted by something he cannot escape, with more straightforward scares.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "beloved",
+      "reason": "A haunting rooted in a community's history and unresolved harm.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-road",
+      "reason": "Sparse, bleak and unflinching about violence and grief.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781663624147",
+    "https://en.wikipedia.org/wiki/The_Only_Good_Indians",
+    "https://hardcover.app/books/the-only-good-indians"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

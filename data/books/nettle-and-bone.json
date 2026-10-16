@@ -1,0 +1,40 @@
+{
+  "slug": "nettle-and-bone",
+  "title": "Nettle & Bone",
+  "author": "T. Kingfisher",
+  "isbn13": "9781250244031",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["whimsical", "witty", "hopeful"],
+  "tropes": ["found-family", "quest", "fairy-tale-retelling", "revenge"],
+  "warnings": ["domestic-violence", "abuse", "violence", "death"],
+  "summary": "The youngest princess of a minor kingdom sees her sister suffer in a brutal royal marriage and decides the only fix is to remove the prince. Her quest gathers an unlikely band of helpers, including a witch and a retired knight.",
+  "readIf": "you like fairy tales with a dry sense of humour, practical heroines and a bunch of oddballs who become a team.",
+  "skipIf": "you would rather avoid a story that begins with an abusive marriage, even though it is handled with care.",
+  "pairings": [
+    {
+      "slug": "spinning-silver",
+      "reason": "Also a clever, grounded fairy-tale retelling where hard-working women outwit powerful and dangerous men.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "Shares the warm, wry humour and the ramshackle household of misfits, in a gentler and more playful story.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250244031",
+    "https://en.wikipedia.org/wiki/Nettle_%26_Bone",
+    "https://hardcover.app/books/nettle-and-bone-2022"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

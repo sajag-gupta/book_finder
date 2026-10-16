@@ -1,0 +1,45 @@
+{
+  "slug": "enders-game",
+  "title": "Ender's Game",
+  "author": "Orson Scott Card",
+  "isbn13": "9780613824224",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "thoughtful", "dark"],
+  "tropes": ["chosen-one", "coming-of-age", "war-story"],
+  "warnings": ["violence", "bullying", "death"],
+  "summary": "A gifted six-year-old is taken to an orbiting military school to be trained as humanity's commander against an alien enemy. The games and pressure become harder and lonelier at every step.",
+  "readIf": "you like smart, tense stories about a young prodigy under pressure and the ethics of using children in war.",
+  "skipIf": "you dislike stories where children face bullying and brutal violence, which are central here.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another story of young people trained and used by adults for a battle that is also a spectacle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "starship-troopers",
+      "reason": "A different and much more militaristic look at the same questions of training, duty and war.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A brutal, high-stakes school of rivals where a gifted outsider learns to lead.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780613824224",
+    "https://en.wikipedia.org/wiki/Ender's_Game",
+    "https://hardcover.app/books/enders-game"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

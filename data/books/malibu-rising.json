@@ -1,0 +1,45 @@
+{
+  "slug": "malibu-rising",
+  "title": "Malibu Rising",
+  "author": "Taylor Jenkins Reid",
+  "isbn13": "9781786331533",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["nostalgic", "tense", "melancholic"],
+  "tropes": ["family-saga", "celebrity-romance", "dual-timeline"],
+  "warnings": ["infidelity", "grief", "addiction", "abuse"],
+  "summary": "The four famous Riva siblings throw a huge end-of-summer party at their Malibu house in 1983. As the guest list grows and the night runs out of control, the book goes back through their family's past.",
+  "readIf": "you like a single-night family drama with a big cast, a sunlit setting and a dramatic finale.",
+  "skipIf": "you want a close romance, as this centres on siblings and many other voices.",
+  "pairings": [
+    {
+      "slug": "daisy-jones-and-the-six",
+      "reason": "Same author, same glossy period glamour and tangled loyalties, with music at the core.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Another ensemble story with secrets that build toward one night everyone remembers.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "little-fires-everywhere",
+      "reason": "A more serious family drama with a similar ability to move between households and decades.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781786331533",
+    "https://en.wikipedia.org/wiki/Malibu_Rising",
+    "https://hardcover.app/books/malibu-rising"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

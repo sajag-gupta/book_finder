@@ -1,0 +1,45 @@
+{
+  "slug": "the-flatshare",
+  "title": "The Flatshare",
+  "author": "Beth O'Leary",
+  "isbn13": "9781250295651",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["comforting", "swoony", "funny"],
+  "tropes": ["forced-proximity", "slow-burn", "unlikely-friendship"],
+  "warnings": ["abuse", "manipulation", "sexual-content"],
+  "summary": "To afford London rent, a woman shares a one-bedroom flat and even the bed with a night-shift nurse she never meets, since their schedules never overlap. They start leaving each other notes, and a friendship grows through sticky labels.",
+  "readIf": "you want a gentle, warm romance told through notes, with real care for its characters.",
+  "skipIf": "you want fast flirty banter, as this one is slow and has a thread about emotional abuse.",
+  "pairings": [
+    {
+      "slug": "the-unhoneymooners",
+      "reason": "Another forced-togetherness romance, but louder and more comedic where this one is soft and thoughtful.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Shares a gentle focus on loneliness, healing and finding a person who is kind to you.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "get-a-life-chloe-brown",
+      "reason": "Another romance where old wounds are handled with care and humour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250295651",
+    "https://en.wikipedia.org/wiki/The_Flatshare_(TV_series)",
+    "https://hardcover.app/books/the-flatshare"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

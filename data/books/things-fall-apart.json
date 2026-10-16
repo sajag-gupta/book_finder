@@ -1,0 +1,45 @@
+{
+  "slug": "things-fall-apart",
+  "title": "Things Fall Apart",
+  "author": "Chinua Achebe",
+  "isbn13": "9780679417149",
+  "firstPublished": 1958,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful", "dark"],
+  "tropes": [],
+  "warnings": ["violence", "death", "child-death", "suicide", "domestic-violence"],
+  "summary": "Okonkwo, a proud and fiercely driven man in a Nigerian Igbo village, tries to build a name for himself as the community's traditions are shaken by the arrival of colonial missionaries and officials.",
+  "readIf": "you want a short, classic of African literature that shows a society from within before and after colonial contact.",
+  "skipIf": "you want a lighter read; it is spare, grim and doesn't soften its hero.",
+  "pairings": [
+    {
+      "slug": "half-of-a-yellow-sun",
+      "reason": "A later Nigerian novel on a different crisis, with more characters and a wider emotional range.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-poisonwood-bible",
+      "reason": "Another novel about outsiders reshaping an African community, told from the outsiders' side.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "reason": "Another novel about tradition, power and a family in a postcolonial world.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679417149",
+    "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+    "https://hardcover.app/books/things-fall-apart"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

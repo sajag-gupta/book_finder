@@ -1,0 +1,44 @@
+{
+  "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "author": "J. R. R. Tolkien",
+  "isbn13": "9780061917813",
+  "firstPublished": 1954,
+  "series": null,
+  "genres": ["epic-fantasy", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "nostalgic"],
+  "tropes": ["quest", "found-family", "chosen-one"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A hobbit inherits a ring that turns out to be the one object a dark lord needs to rule everything. With a small company of friends and allies, he leaves home to carry it toward the only place it can be destroyed.",
+  "readIf": "you want the foundational epic fantasy, with rich landscapes, songs and a slow, immersive journey.",
+  "skipIf": "you want quick plotting, since the book lingers on travel, history and description.",
+  "pairings": [
+    {
+      "slug": "the-hobbit",
+      "reason": "The lighter, shorter prequel, if you want to ease into the same world first.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "An epic fantasy that clearly grew from this one, with a similar village-to-quest opening.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "A shorter, more spare high fantasy that shares the sense of ancient magic and moral weight.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061917813",
+    "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

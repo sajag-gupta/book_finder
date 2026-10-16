@@ -1,0 +1,45 @@
+{
+  "slug": "cutting-for-stone",
+  "title": "Cutting for Stone",
+  "author": "Abraham Verghese",
+  "isbn13": "9780701183776",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "thoughtful"],
+  "tropes": ["family-saga", "coming-of-age"],
+  "warnings": ["death", "grief", "violence"],
+  "summary": "Twin brothers are born in an Ethiopian mission hospital to a nun who dies in childbirth and a surgeon father who disappears. They grow up in the hospital, drawn to medicine and to the same woman, as the country changes around them.",
+  "readIf": "you like generous, absorbing sagas set around a hospital, with a lot of medical detail and heart.",
+  "skipIf": "you dislike graphic surgery scenes or want a book that moves quickly.",
+  "pairings": [
+    {
+      "slug": "the-covenant-of-water",
+      "reason": "The author's later novel, set in India, with the same patient pace, doctors and family secrets.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-kite-runner",
+      "reason": "Another novel about brothers, betrayal and exile, with a more focused plot and a fast build-up.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "Another moving story of lives shaped by political turmoil in a far-off country.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780701183776",
+    "https://en.wikipedia.org/wiki/Cutting_for_Stone",
+    "https://hardcover.app/books/cutting-for-stone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

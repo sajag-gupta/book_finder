@@ -1,0 +1,45 @@
+{
+  "slug": "dracula",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "isbn13": "9781731487551",
+  "firstPublished": 1897,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["spooky", "dark", "mysterious"],
+  "tropes": ["vampires", "epistolary", "monster"],
+  "warnings": ["death", "violence"],
+  "summary": "Told through letters, journals and newspaper clippings, a young solicitor travels to a Transylvanian castle and discovers his client is not human. The Count then follows to England, where a band of friends sets out to stop him.",
+  "readIf": "you want the original vampire novel and enjoy an old-fashioned gothic story told in documents.",
+  "skipIf": "you want a fast, modern horror pace, because Victorian prose and some slow stretches are part of the deal.",
+  "pairings": [
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "A modern, emotional retelling of what it is like to be a vampire.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "frankenstein",
+      "reason": "Another Victorian-era gothic classic about a monster and the ethics of creating or confronting it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-historian",
+      "reason": "A modern, scholarly novel that follows the Dracula legend through libraries and old cities.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781731487551",
+    "https://en.wikipedia.org/wiki/Dracula",
+    "https://hardcover.app/books/dracula"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

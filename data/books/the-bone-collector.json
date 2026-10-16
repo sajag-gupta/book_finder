@@ -1,0 +1,45 @@
+{
+  "slug": "the-bone-collector",
+  "title": "The Bone Collector",
+  "author": "Jeffery Deaver",
+  "isbn13": "9780451469793",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["detective", "serial-killer"],
+  "warnings": ["violence", "death", "gore", "kidnapping"],
+  "summary": "A forensic expert left paralysed after an accident is persuaded to help the police track a killer who leaves clues at each scene. A young patrol officer becomes his eyes and legs.",
+  "readIf": "you like forensic thrillers with an inventive twist and a pair of strong, contrasting leads.",
+  "skipIf": "you do not enjoy gruesome killings or a stack of cliffhanger chapters.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "The classic serial-killer thriller, with a more psychological and chilling flavour.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "postmortem",
+      "reason": "Another forensic-led story, centred on a medical examiner and the grim details of her work.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-snowman",
+      "reason": "A bleak Scandinavian serial-killer story with a haunted, damaged detective.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451469793",
+    "https://en.wikipedia.org/wiki/The_Bone_Collector",
+    "https://hardcover.app/books/the-bone-collector"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

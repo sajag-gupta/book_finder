@@ -1,0 +1,45 @@
+{
+  "slug": "the-cuckoos-calling",
+  "title": "The Cuckoo's Calling",
+  "author": "Robert Galbraith",
+  "isbn13": "9780316206853",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["mystery", "crime"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "thoughtful", "tense"],
+  "tropes": ["detective", "whodunit"],
+  "warnings": ["death", "violence"],
+  "summary": "War veteran turned London private detective Cormoran Strike, short on money and clients, is hired to doubt the official verdict on a supermodel's fall from her balcony. A new temp, Robin, becomes his sharp assistant.",
+  "readIf": "you like a classic, rain-soaked British detective story with a long, patient investigation.",
+  "skipIf": "you want quick pacing; this one takes its time.",
+  "pairings": [
+    {
+      "slug": "the-maltese-falcon",
+      "reason": "The older, harder-edged ancestor of the lone private eye and his office life.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "A warmer, funnier British mystery with a cast of amateur sleuths.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "still-life",
+      "reason": "Another long-running detective series, gentler and more focused on community.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316206853",
+    "https://en.wikipedia.org/wiki/The_Cuckoo's_Calling",
+    "https://hardcover.app/books/the-cuckoos-calling"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

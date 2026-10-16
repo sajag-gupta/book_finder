@@ -1,0 +1,45 @@
+{
+  "slug": "the-andromeda-strain",
+  "title": "The Andromeda Strain",
+  "author": "Michael Crichton",
+  "isbn13": "9780061703157",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "mysterious", "thoughtful"],
+  "tropes": [],
+  "warnings": ["pandemic", "death"],
+  "summary": "A military satellite crashes near a small Arizona town and nearly everyone there is found dead. A team of scientists is locked inside an underground laboratory to work out what it brought back, and how to stop it.",
+  "readIf": "you like cool, procedural thrillers with a documentary feel and a ticking clock.",
+  "skipIf": "you want rounded characters, since the people are mostly vehicles for the investigation.",
+  "pairings": [
+    {
+      "slug": "jurassic-park",
+      "reason": "The author's later, more adventurous take on science that outruns the people who control it.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-stand",
+      "reason": "A much longer, darker and more human novel about a deadly plague and what comes after.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A quieter, more literary look at the aftermath of a deadly outbreak.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061703157",
+    "https://en.wikipedia.org/wiki/The_Andromeda_Strain",
+    "https://hardcover.app/books/the-andromeda-strain"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

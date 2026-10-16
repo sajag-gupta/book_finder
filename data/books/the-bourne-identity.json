@@ -1,0 +1,45 @@
+{
+  "slug": "the-bourne-identity",
+  "title": "The Bourne Identity",
+  "author": "Robert Ludlum",
+  "isbn13": "9780752858548",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "adventurous"],
+  "tropes": ["amnesia", "spy", "hidden-identity"],
+  "warnings": ["violence", "death", "kidnapping"],
+  "summary": "A man is pulled half-dead from the Mediterranean with no memory of who he is, only fragments of skill and a number on his body. Hunted by assassins, he tries to reconstruct his identity before he is killed.",
+  "readIf": "you like dense, twisting espionage with a hero who is as puzzled as anyone about what he can do.",
+  "skipIf": "you want the film's tight pacing; the novel is longer, more intricate and more old-fashioned.",
+  "pairings": [
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "Another meticulous, hard-edged thriller about a professional killer and the people trying to stop him.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "tinker-tailor-soldier-spy",
+      "reason": "A slower, much more cerebral spy novel that treats espionage as patient detective work.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "casino-royale",
+      "reason": "The classic spy hero in a shorter, more stylish and glamorous adventure.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780752858548",
+    "https://en.wikipedia.org/wiki/The_Bourne_Identity_(novel)",
+    "https://hardcover.app/books/the-bourne-identity"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

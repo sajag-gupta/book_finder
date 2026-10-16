@@ -1,0 +1,45 @@
+{
+  "slug": "the-way-of-kings",
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781398703629",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "thoughtful", "inspiring"],
+  "tropes": ["war-story", "redemption", "quest", "found-family"],
+  "warnings": ["violence", "war", "death", "slavery", "suicide", "mental-illness"],
+  "summary": "On a world battered by violent storms, a war has dragged on for years across a field of broken plains. The story follows a slave who was once a soldier, a scholar with a dangerous plan, and a warlord prince who is haunted by visions.",
+  "readIf": "you want an enormous, detailed fantasy with deep worldbuilding and a payoff that rewards your patience.",
+  "skipIf": "you want a quick start, since it is very long and its big moments arrive after a lot of setup.",
+  "pairings": [
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Same author, faster and more contained, if you want to test his style first.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "Another big, standalone world with a layered history and many viewpoints.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-fifth-season",
+      "reason": "A grimmer, more experimental epic in a world constantly under threat from the planet itself.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781398703629",
+    "https://en.wikipedia.org/wiki/The_Way_of_Kings",
+    "https://hardcover.app/books/the-way-of-kings"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

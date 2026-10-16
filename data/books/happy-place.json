@@ -1,0 +1,45 @@
+{
+  "slug": "happy-place",
+  "title": "Happy Place",
+  "author": "Emily Henry",
+  "isbn13": "9780241995365",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "funny"],
+  "tropes": ["second-chance", "fake-dating", "forced-proximity"],
+  "warnings": [],
+  "summary": "Harriet and Wyn broke up months ago but haven't told their friends. At their annual week at a Maine cottage, they pretend to still be together so as not to ruin the trip.",
+  "readIf": "you like a friend-group romance that balances laughter with a real ache.",
+  "skipIf": "you dislike secrets kept from friends or want a lighter, simpler plot.",
+  "pairings": [
+    {
+      "slug": "beach-read",
+      "reason": "Another Emily Henry story with a hurting heroine, banter and an emotional centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-unhoneymooners",
+      "reason": "A lighter, sillier pretend-couple romance with a trip.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A more sombre book about two people who love each other and can't communicate.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241995365",
+    "https://en.wikipedia.org/wiki/Happy_Place_(novel)",
+    "https://hardcover.app/books/happy-place"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

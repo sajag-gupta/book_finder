@@ -1,0 +1,45 @@
+{
+  "slug": "uprooted",
+  "title": "Uprooted",
+  "author": "Naomi Novik",
+  "isbn13": "9780804179058",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mysterious", "whimsical", "swoony"],
+  "tropes": ["fairy-tale-retelling", "witches", "slow-burn", "enemies-to-lovers"],
+  "warnings": ["violence", "death", "sexual-content"],
+  "summary": "Every ten years, a wizard known as the Dragon takes a girl from a valley village to live in his tower, and everyone expects it will be her best friend. It is not, and she finds she has her own kind of magic, while a corrupted forest spreads.",
+  "readIf": "you like a folk-tale feel, grumpy wizards, strong magic and a creeping forest that is truly dangerous.",
+  "skipIf": "you want a gentle, cosy read, as the Wood is frightening and the plot gets violent.",
+  "pairings": [
+    {
+      "slug": "spinning-silver",
+      "reason": "Same author, another folk-tale reimagining with a clever, capable heroine at its centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bear-and-the-nightingale",
+      "reason": "Another atmospheric tale rooted in Slavic folklore with a quiet, strong heroine.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A lighter, funnier fantasy with a cranky wizard and a determined girl.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780804179058",
+    "https://en.wikipedia.org/wiki/Uprooted_(novel)",
+    "https://hardcover.app/books/uprooted"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

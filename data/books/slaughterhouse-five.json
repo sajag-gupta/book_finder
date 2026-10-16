@@ -1,0 +1,45 @@
+{
+  "slug": "slaughterhouse-five",
+  "title": "Slaughterhouse-Five",
+  "author": "Kurt Vonnegut",
+  "isbn13": "9780613647885",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["melancholic", "witty", "mind-bending"],
+  "tropes": ["time-travel", "war-story", "satire"],
+  "warnings": ["war", "death", "violence"],
+  "summary": "A mild American soldier has come unstuck in time and drifts between his wartime capture, his comfortable later life and an alien zoo. At the centre is the firebombing of Dresden, which he saw as a prisoner.",
+  "readIf": "you want an odd, short, darkly funny anti-war novel that refuses to follow a straight line.",
+  "skipIf": "you need a conventional plot or a satisfying hero, because the book is fragmentary and deliberately flat.",
+  "pairings": [
+    {
+      "slug": "catch-22",
+      "reason": "Another satirical war novel in which the absurdity of the army is the real enemy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cats-cradle",
+      "reason": "The same author at his funniest and strangest, in a smaller and more playful apocalypse.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-forever-war",
+      "reason": "A science-fiction look at the same disconnection soldiers feel after the war.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780613647885",
+    "https://en.wikipedia.org/wiki/Slaughterhouse-Five",
+    "https://hardcover.app/books/slaughterhouse-five"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

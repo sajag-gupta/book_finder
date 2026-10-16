@@ -1,0 +1,45 @@
+{
+  "slug": "the-exorcist",
+  "title": "The Exorcist",
+  "author": "William Peter Blatty",
+  "isbn13": "9780552156882",
+  "firstPublished": 1971,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "spooky", "tense"],
+  "tropes": [],
+  "warnings": ["violence", "gore", "death", "mental-illness"],
+  "summary": "When strange things start happening to the young daughter of an actress living in Georgetown, doctors cannot find a cause. A troubled priest who has lost his faith is eventually called in.",
+  "readIf": "you want a serious, slow-building horror novel about faith and doubt with a real sense of dread.",
+  "skipIf": "you can't take disturbing, graphic scenes involving a child.",
+  "pairings": [
+    {
+      "slug": "rosemarys-baby",
+      "reason": "Another 1960s-70s horror classic about evil closing in on a domestic life, quieter and creepier.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-shining",
+      "reason": "Another horror novel about a family and a presence that wears down the people in it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "salems-lot",
+      "reason": "A small-town horror about spreading evil, with a similar faith-versus-darkness theme.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 11,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780552156882",
+    "https://en.wikipedia.org/wiki/The_Exorcist_(novel)",
+    "https://hardcover.app/books/the-exorcist"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

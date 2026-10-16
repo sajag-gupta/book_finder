@@ -1,0 +1,45 @@
+{
+  "slug": "lincoln-in-the-bardo",
+  "title": "Lincoln in the Bardo",
+  "author": "George Saunders",
+  "isbn13": "9781408897256",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["haunting", "heartbreaking", "mind-bending"],
+  "tropes": [],
+  "warnings": ["death", "grief", "child-death", "war", "racism"],
+  "summary": "In 1862, a president's young son dies and is laid to rest in a Washington cemetery. His spirit lingers among the other ghosts, a chorus of voices that tries to coax him onward.",
+  "readIf": "you want an inventive, quick-moving book made of many voices, and do not mind being moved.",
+  "skipIf": "you prefer conventional narration; it reads like a script with quoted fragments and ghostly overlapping speakers.",
+  "pairings": [
+    {
+      "slug": "the-lovely-bones",
+      "reason": "Another novel that gives the dead a voice and treats grief as something both sad and strangely hopeful.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "A war-time story narrated by Death that also looks at loss from an unexpected angle.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "Likewise mixes history, tragedy and surreal elements in a short, formally playful book.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781408897256",
+    "https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo",
+    "https://hardcover.app/books/lincoln-in-the-bardo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

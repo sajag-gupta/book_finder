@@ -1,0 +1,45 @@
+{
+  "slug": "new-moon",
+  "title": "New Moon",
+  "author": "Stephenie Meyer",
+  "isbn13": "9780316032544",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["young-adult", "romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["melancholic", "heartbreaking", "swoony"],
+  "tropes": ["love-triangle", "vampires"],
+  "warnings": ["grief", "death", "violence"],
+  "summary": "After Edward leaves Forks, Bella falls into months of numb grief. She finds comfort in a friendship with Jacob Black, who has secrets of his own.",
+  "readIf": "you read the first book and want to see what happens next in the series.",
+  "skipIf": "you have not read Twilight, or you dislike long stretches of sadness in a romance.",
+  "pairings": [
+    {
+      "slug": "twilight",
+      "reason": "The first book in the series and the place to start.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "A teen love story where loss runs through every page.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-court-of-mist-and-fury",
+      "reason": "A romantasy that also follows a heroine through trauma toward a new love.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316032544",
+    "https://en.wikipedia.org/wiki/New_Moon_(novel)",
+    "https://hardcover.app/books/new-moon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

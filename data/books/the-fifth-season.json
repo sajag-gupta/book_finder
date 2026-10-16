@@ -1,0 +1,45 @@
+{
+  "slug": "the-fifth-season",
+  "title": "The Fifth Season",
+  "author": "N. K. Jemisin",
+  "isbn13": "9780316229296",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "haunting", "mind-bending"],
+  "tropes": ["post-apocalyptic", "rebellion", "family-saga", "revenge"],
+  "warnings": ["child-death", "slavery", "prejudice", "violence", "grief", "abuse"],
+  "summary": "On a continent regularly shattered by world-ending seismic disasters, people called orogenes who can move the earth are feared and controlled. Three women of different ages, in three storylines, are each pursuing survival and answers.",
+  "readIf": "you want a demanding, brilliantly constructed fantasy that blends science fiction and uses a surprising narrative voice.",
+  "skipIf": "you want comfort or an easy start, as it opens with a child's death and is bleak and confusing at first.",
+  "pairings": [
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "Another stark story of a young woman with a difference who survives a collapsing world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "Another unsparing fantasy about power, oppression and the price paid by those with dangerous gifts.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hundred-thousand-kingdoms",
+      "reason": "Same author's debut, a more accessible, gods-and-politics epic with a livelier voice.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316229296",
+    "https://en.wikipedia.org/wiki/The_Fifth_Season_(novel)",
+    "https://hardcover.app/books/the-fifth-season"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

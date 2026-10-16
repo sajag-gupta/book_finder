@@ -1,0 +1,44 @@
+{
+  "slug": "snow-crash",
+  "title": "Snow Crash",
+  "author": "Neal Stephenson",
+  "isbn13": "9780593599730",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "witty", "adventurous"],
+  "tropes": ["satire"],
+  "warnings": ["violence", "death"],
+  "summary": "A pizza deliveryman who is also a master hacker finds a dangerous new drug that works inside a virtual world. It leads him into a conflict among franchised city-states, an eccentric media tycoon and a sword-wielding young courier.",
+  "readIf": "you want zany, idea-packed cyberpunk with a satirical eye on corporations and religion.",
+  "skipIf": "you dislike long info-dumps about language and history that interrupt the action.",
+  "pairings": [
+    {
+      "slug": "neuromancer",
+      "reason": "The cooler, more atmospheric father of the genre, which this book riffs on.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "ready-player-one",
+      "reason": "A simpler and more nostalgic virtual-world adventure that is easier to enter.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Equally comic and inventive in satirising its society, though gentler and more absurd.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593599730",
+    "https://en.wikipedia.org/wiki/Snow_Crash"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-trial",
+  "title": "The Trial",
+  "author": "Franz Kafka",
+  "isbn13": "9781645601968",
+  "firstPublished": 1925,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "mind-bending", "haunting"],
+  "tropes": [],
+  "warnings": ["death"],
+  "summary": "A respectable bank clerk is arrested one morning and never told what he is accused of. He spends the rest of the book trying to navigate a court that no one can explain.",
+  "readIf": "you like unsettling, airless stories about bureaucracy and guilt that you can read as a nightmare or a joke.",
+  "skipIf": "you need a clear plot, a fair resolution or characters who learn from what happens to them.",
+  "pairings": [
+    {
+      "slug": "the-metamorphosis",
+      "reason": "Kafka at his shortest and strangest, with the same dread of an absurd, unexplained fate landing on an ordinary man.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "Takes the faceless-authority fear of The Trial and builds an entire state around it, with far more plot and politics.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-stranger",
+      "reason": "Another short, cold novel about a man judged by a system that cares less about what he did than who he seems to be.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781645601968",
+    "https://en.wikipedia.org/wiki/The_Trial",
+    "https://hardcover.app/books/the-trial"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

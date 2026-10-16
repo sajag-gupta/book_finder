@@ -1,0 +1,45 @@
+{
+  "slug": "then-she-was-gone",
+  "title": "Then She Was Gone",
+  "author": "Lisa Jewell",
+  "isbn13": "9781780896410",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "heartbreaking", "mysterious"],
+  "tropes": ["twist-ending"],
+  "warnings": ["grief", "kidnapping", "death"],
+  "summary": "Ten years after her fifteen-year-old daughter vanished, Laurel begins a relationship with a man whose young daughter looks startlingly like the girl she lost. Her search for answers begins again.",
+  "readIf": "you like domestic suspense that mixes grief with a creeping sense that something is wrong.",
+  "skipIf": "you do not want a story about a missing child.",
+  "pairings": [
+    {
+      "slug": "the-couple-next-door",
+      "reason": "Another family-centred thriller where a child's disappearance exposes what the adults hide.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lovely-bones",
+      "reason": "A gentler, more reflective story about a family shaped by a girl's death.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-guest-list",
+      "reason": "A pacier ensemble mystery that holds its secrets until late.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781780896410",
+    "https://en.wikipedia.org/wiki/Then_She_Was_Gone",
+    "https://hardcover.app/books/then-she-was-gone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

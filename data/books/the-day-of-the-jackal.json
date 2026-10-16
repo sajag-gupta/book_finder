@@ -1,0 +1,45 @@
+{
+  "slug": "the-day-of-the-jackal",
+  "title": "The Day of the Jackal",
+  "author": "Frederick Forsyth",
+  "isbn13": "9781407075990",
+  "firstPublished": 1971,
+  "series": null,
+  "genres": ["thriller", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["political-intrigue", "hidden-identity"],
+  "warnings": ["violence", "death"],
+  "summary": "In 1963 a secret group of French extremists hires a British professional killer to assassinate President de Gaulle. French police race to identify him before he reaches Paris.",
+  "readIf": "you like procedural suspense where meticulous planning drives the tension, even though you know history.",
+  "skipIf": "you want deep character studies, because this is told mostly through process.",
+  "pairings": [
+    {
+      "slug": "the-bourne-identity",
+      "reason": "A higher-octane chase with a trained operative running across Europe.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-spy-who-came-in-from-the-cold",
+      "reason": "Cold War espionage that is just as cool and exact, but far more morally weary.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "tinker-tailor-soldier-spy",
+      "reason": "A slower, subtler spy novel built on patience and deduction.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407075990",
+    "https://en.wikipedia.org/wiki/The_Day_of_the_Jackal",
+    "https://hardcover.app/books/the-day-of-the-jackal"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

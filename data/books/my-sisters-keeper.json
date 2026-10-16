@@ -1,0 +1,45 @@
+{
+  "slug": "my-sisters-keeper",
+  "title": "My Sister's Keeper",
+  "author": "Jodi Picoult",
+  "isbn13": "9781417675982",
+  "firstPublished": 2004,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "tense", "thoughtful"],
+  "tropes": [],
+  "warnings": ["terminal-illness", "death", "grief", "child-death"],
+  "summary": "A thirteen-year-old girl, conceived to be a match for her sister who has leukaemia, hires a lawyer to sue her parents for control over her own body. The case divides the family.",
+  "readIf": "you like emotional family dramas built around a moral dilemma with no easy side.",
+  "skipIf": "you want to avoid stories about childhood cancer and the strain it places on a family.",
+  "pairings": [
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "Another story of young people facing cancer, with more romance and wit.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "me-before-you",
+      "reason": "Another tear-jerker that asks hard questions about choice, family and who has the right to decide.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "never-let-me-go",
+      "reason": "A quieter, stranger novel about young people whose bodies belong to others.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417675982",
+    "https://en.wikipedia.org/wiki/My_Sister's_Keeper_(novel)",
+    "https://hardcover.app/books/my-sisters-keeper"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

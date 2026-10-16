@@ -1,0 +1,44 @@
+{
+  "slug": "the-wind-in-the-willows",
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "isbn13": "9781093466904",
+  "firstPublished": 1908,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["cozy", "whimsical", "nostalgic", "comforting"],
+  "tropes": ["talking-animals", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "A shy Mole meets Water Rat on a riverbank and is drawn into a world of picnics, boats and the boastful, accident-prone Mr Toad, with mild trouble waiting in the wild wood.",
+  "readIf": "you want a lazy, comforting read full of rivers, friendship and good food.",
+  "skipIf": "you want modern pacing or complex plots.",
+  "pairings": [
+    {
+      "slug": "winnie-the-pooh",
+      "reason": "Another gentle, cosy collection about animal friends and small adventures.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "redwall",
+      "reason": "A livelier animal adventure with feasting, swordplay and heroes.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "legends-and-lattes",
+      "reason": "A modern cosy tale with the same comfort-of-friends feel for adult readers.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 25,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781093466904",
+    "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

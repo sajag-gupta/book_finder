@@ -1,0 +1,45 @@
+{
+  "slug": "catch-22",
+  "title": "Catch-22",
+  "author": "Joseph Heller",
+  "isbn13": "9780224602679",
+  "firstPublished": 1961,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["funny", "dark", "mind-bending"],
+  "tropes": ["war-story", "satire"],
+  "warnings": ["war", "death", "violence", "sexual-assault"],
+  "summary": "Captain Yossarian, a bombardier stationed on an island in the Mediterranean in the Second World War, wants only to survive, but whenever he's about to complete his missions, the military raises the number required.",
+  "readIf": "you enjoy circular, absurdist satire with black humour and a bleak heart.",
+  "skipIf": "you want a linear plot; it jumps in time and repeats scenes on purpose.",
+  "pairings": [
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "Another darkly comic, jumbled anti-war novel, shorter and more science-fictional.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "cats-cradle",
+      "reason": "Another satirical novel that laughs at human folly in a bleak, short form.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "A silly, gentler satire of bureaucracy and nonsense, in space.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780224602679",
+    "https://en.wikipedia.org/wiki/Catch-22",
+    "https://hardcover.app/books/catch-22"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

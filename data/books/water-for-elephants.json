@@ -1,0 +1,45 @@
+{
+  "slug": "water-for-elephants",
+  "title": "Water for Elephants",
+  "author": "Sara Gruen",
+  "isbn13": "9780340935460",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["historical", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["nostalgic", "swoony", "dark"],
+  "tropes": ["dual-timeline", "forbidden-love"],
+  "warnings": ["animal-death", "violence", "abuse", "death"],
+  "summary": "A ninety-something man in a care home remembers his youth in the Depression, when he jumped a train and joined a travelling circus as its vet. There he fell for the star performer, married to the volatile ringmaster.",
+  "readIf": "you like historical romance with plenty of circus-life colour and a frank narrator in old age.",
+  "skipIf": "you do not want to read scenes of animal cruelty and violence.",
+  "pairings": [
+    {
+      "slug": "the-night-circus",
+      "reason": "Another novel set among the tents and performers, in a far more magical, dreamy vein.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-notebook",
+      "reason": "Also frames a great love story through an old person looking back, with a more sentimental style.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-giver-of-stars",
+      "reason": "A warm historical American novel with a strong sense of place and a love story at its edges.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780340935460",
+    "https://en.wikipedia.org/wiki/Water_for_Elephants",
+    "https://hardcover.app/books/water-for-elephants"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

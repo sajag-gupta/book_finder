@@ -1,0 +1,44 @@
+{
+  "slug": "love-on-the-brain",
+  "title": "Love on the Brain",
+  "author": "Ali Hazelwood",
+  "isbn13": "9780593336854",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful"],
+  "tropes": ["enemies-to-lovers", "forced-proximity", "academic-rivals"],
+  "warnings": ["sexual-content", "bullying"],
+  "summary": "A neuroscientist lands a dream project at a major space agency, only to find she has to share it with the colleague she can't stand from her grad school days. Working side by side, old grudges and misunderstandings start to unravel.",
+  "readIf": "you like steamy, science-flavoured enemies-to-lovers with a heroine who is still finding her confidence.",
+  "skipIf": "you want a low-drama story or dislike romances driven by long-running misunderstandings.",
+  "pairings": [
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "Same author, same cheerful academic setting and a similar mix of banter and slow-building tenderness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-unhoneymooners",
+      "reason": "Another enemies-to-lovers story where forced togetherness does the work, played with a lighter comedic touch.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "get-a-life-chloe-brown",
+      "reason": "A romance with a clever, guarded heroine and a hero who gradually earns her trust.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593336854",
+    "https://hardcover.app/books/love-on-the-brain"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

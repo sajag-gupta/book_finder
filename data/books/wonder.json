@@ -1,0 +1,40 @@
+{
+  "slug": "wonder",
+  "title": "Wonder",
+  "author": "R. J. Palacio",
+  "isbn13": "9781949061871",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["children", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["hopeful", "comforting", "inspiring"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": ["bullying"],
+  "summary": "Auggie Pullman, who was born with a facial difference and has been homeschooled, starts fifth grade at a mainstream school. The story is told by several voices, including his classmates and his sister.",
+  "readIf": "you want an uplifting, kind story about empathy that works for both younger and older readers.",
+  "skipIf": "you prefer subtle, complex fiction or dislike messages that are stated openly.",
+  "pairings": [
+    {
+      "slug": "charlottes-web",
+      "reason": "A classic about friendship and kindness that also has a gentle emotional punch.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "holes",
+      "reason": "Another middle-grade book about a boy who finds friendship in an unwelcoming place.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781949061871",
+    "https://en.wikipedia.org/wiki/Wonder_(Palacio_novel)",
+    "https://hardcover.app/books/wonder"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

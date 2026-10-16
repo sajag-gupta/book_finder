@@ -1,0 +1,45 @@
+{
+  "slug": "remarkably-bright-creatures",
+  "title": "Remarkably Bright Creatures",
+  "author": "Shelby Van Pelt",
+  "isbn13": "9780063204164",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["literary", "mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["comforting", "hopeful", "cozy"],
+  "tropes": ["unlikely-friendship", "small-town"],
+  "warnings": ["grief", "death"],
+  "summary": "A widow who cleans a small-town aquarium at night strikes up a friendship with a giant Pacific octopus. He has long watched everything that goes on in the building and has his own opinions about her missing son.",
+  "readIf": "you want a gentle, funny story about loneliness in later life and an unusually clever animal.",
+  "skipIf": "you want fast pacing or a sharp edge; this is a soft, steady and sentimental read.",
+  "pairings": [
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another lonely older person gradually softened by the people and creatures who refuse to leave them alone.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "where-the-crawdads-sing",
+      "reason": "Also a coastal small-town story with a strong sense of nature and a quiet mystery running underneath.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "A cosy, funny cast of older characters who have more going on than anyone expects.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063204164",
+    "https://en.wikipedia.org/wiki/Remarkably_Bright_Creatures_(novel)",
+    "https://hardcover.app/books/remarkably-bright-creatures"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "annihilation",
+  "title": "Annihilation",
+  "author": "Jeff VanderMeer",
+  "isbn13": "9780374104092",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["science-fiction", "horror"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["haunting", "mysterious", "dark"],
+  "tropes": [],
+  "warnings": ["death", "violence"],
+  "summary": "An all-woman expedition crosses the border into Area X, a stretch of coast that has been sealed off from the world for decades. The biologist who narrates begins to realise that the place is changing her.",
+  "readIf": "you like eerie, atmospheric weird fiction that leaves its biggest mysteries unexplained.",
+  "skipIf": "you want clear answers or a conventional monster story, since the book deliberately does not give them.",
+  "pairings": [
+    {
+      "slug": "solaris",
+      "reason": "A classic about humans meeting something so alien that they cannot understand it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "house-of-leaves",
+      "reason": "Another unsettling book about a space that does not obey the rules, with a stranger structure.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "A slower, domestic version of a place that quietly takes over those who enter.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780374104092",
+    "https://en.wikipedia.org/wiki/Annihilation_(VanderMeer_novel)",
+    "https://hardcover.app/books/annihilation"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "lolita",
+  "title": "Lolita",
+  "author": "Vladimir Nabokov",
+  "isbn13": "9781507796238",
+  "firstPublished": 1955,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "haunting", "melancholic"],
+  "tropes": ["unreliable-narrator", "road-trip"],
+  "warnings": ["child-sexual-abuse", "abuse", "manipulation", "death"],
+  "summary": "Humbert Humbert, an educated European, recounts from prison his obsession with a twelve-year-old girl and the cross-country journey that followed. His elegant, self-justifying narration is the book's trap.",
+  "readIf": "you want a landmark of unreliable narration and ornate prose and can face a deeply disturbing narrator.",
+  "skipIf": "depictions of child sexual abuse are something you cannot read, even when the narrator is condemned.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another literary novel narrated by someone who is charming, complicit and unreliable about a crime.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-talented-mr-ripley",
+      "reason": "Lets you sit inside an amoral, intelligent mind, in a faster and more thriller-like way.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "A modern, plot-heavy take on narrators who control the story they tell.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781507796238",
+    "https://en.wikipedia.org/wiki/Lolita_(1962_film)",
+    "https://hardcover.app/books/lolita"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

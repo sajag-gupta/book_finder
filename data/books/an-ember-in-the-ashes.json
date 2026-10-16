@@ -1,0 +1,45 @@
+{
+  "slug": "an-ember-in-the-ashes",
+  "title": "An Ember in the Ashes",
+  "author": "Sabaa Tahir",
+  "isbn13": "9781410488756",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "adventurous"],
+  "tropes": ["rebellion", "forbidden-love"],
+  "warnings": ["violence", "torture", "sexual-assault", "slavery", "death", "war"],
+  "summary": "In a Roman-inspired empire, Laia goes undercover as a slave at an elite military academy to save her brother. Elias, its top cadet, wants nothing more than to desert. Their stories collide.",
+  "readIf": "you like a brutal, high-stakes YA fantasy with two alternating narrators and a brooding mood.",
+  "skipIf": "you are sensitive to violence against women and cruelty in an institution.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another story that makes children and young people fight in a brutal system.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "A far darker, more adult story set in a military academy.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A somewhat lighter YA rebellion story with more romance.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781410488756",
+    "https://en.wikipedia.org/wiki/An_Ember_in_the_Ashes",
+    "https://hardcover.app/books/an-ember-in-the-ashes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

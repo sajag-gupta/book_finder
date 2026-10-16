@@ -1,0 +1,45 @@
+{
+  "slug": "persuasion",
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "isbn13": "9781703938401",
+  "firstPublished": 1817,
+  "series": null,
+  "genres": ["classic", "romance"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "swoony", "hopeful"],
+  "tropes": ["second-chance", "slow-burn"],
+  "warnings": [],
+  "summary": "Anne Elliot was persuaded years ago to turn down the man she loved. When Captain Wentworth, now wealthy and successful, returns to her circle, she has to face feelings she thought were gone.",
+  "readIf": "you love a quiet, mature second-chance romance with perfectly judged restraint.",
+  "skipIf": "you want sparkling banter, since this is more reflective than Austen's sunnier books.",
+  "pairings": [
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "Austen's livelier romance, with sharper wit and a younger couple.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "sense-and-sensibility",
+      "reason": "Another Austen novel about heartbreak, restraint and a heroine who keeps her feelings to herself.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A modern English novel about love that goes unspoken and the regret that follows.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781703938401",
+    "https://en.wikipedia.org/wiki/Persuasion_(novel)",
+    "https://hardcover.app/books/persuasion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

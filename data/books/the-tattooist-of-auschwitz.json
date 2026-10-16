@@ -1,0 +1,45 @@
+{
+  "slug": "the-tattooist-of-auschwitz",
+  "title": "The Tattooist of Auschwitz",
+  "author": "Heather Morris",
+  "isbn13": "9781785763649",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "hopeful", "haunting"],
+  "tropes": ["star-crossed-lovers", "survival", "war-story"],
+  "warnings": ["war", "genocide", "death", "violence"],
+  "summary": "A Slovak Jewish man is forced to tattoo numbers onto fellow prisoners at Auschwitz. He falls in love with a young woman he marks and risks his life to help others survive.",
+  "readIf": "you want a very readable, emotional entry point into Holocaust fiction.",
+  "skipIf": "you want strict historical accuracy; it is a novel drawn from one man's account, and historians have raised questions about details.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "Another accessible war-time story told with great tenderness, focused on small acts of kindness under terror.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-nightingale",
+      "reason": "Also centres on the courage of ordinary people in occupied Europe, with a stronger focus on women.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-boy-in-the-striped-pyjamas",
+      "reason": "A shorter, simpler fable about the camps seen through a child's eyes.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781785763649",
+    "https://en.wikipedia.org/wiki/The_Tattooist_of_Auschwitz",
+    "https://hardcover.app/books/the-tattooist-of-auschwitz"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

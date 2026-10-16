@@ -1,0 +1,45 @@
+{
+  "slug": "sarahs-key",
+  "title": "Sarah's Key",
+  "author": "Tatiana de Rosnay",
+  "isbn13": "9781250004345",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "haunting", "tense"],
+  "tropes": ["dual-timeline"],
+  "warnings": ["war", "death", "child-death", "prejudice"],
+  "summary": "In 1942 a young girl is rounded up with her family in Paris, but first locks her little brother in a hiding place, planning to come back. Decades later a journalist researching the roundup stumbles onto the girl's trail.",
+  "readIf": "you want a quick, emotional story about a little-known episode of the Occupation of France.",
+  "skipIf": "you cannot read about children suffering, since the early chapters are very distressing.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "Also centres on a child's view of war and persecution, and does so with a gentler, more lyrical hand.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-nightingale",
+      "reason": "Follows ordinary people in occupied France, with a bigger cast and more heroism.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "reason": "Another novel split between two points of view during the war, with beautifully measured prose.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250004345",
+    "https://en.wikipedia.org/wiki/Sarah's_Key",
+    "https://hardcover.app/books/sarahs-key"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

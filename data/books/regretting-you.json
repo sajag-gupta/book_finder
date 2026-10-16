@@ -1,0 +1,45 @@
+{
+  "slug": "regretting-you",
+  "title": "Regretting You",
+  "author": "Colleen Hoover",
+  "isbn13": "9781799719625",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "hopeful", "swoony"],
+  "tropes": ["second-chance", "small-town"],
+  "warnings": ["death", "grief", "infidelity"],
+  "summary": "A mother and her teenage daughter, who have never quite understood one another, are thrown together by a sudden loss and a betrayal that forces them to look at each of their relationships again.",
+  "readIf": "you want a family-focused Hoover with a mother-daughter relationship at its centre.",
+  "skipIf": "you need a romance-only story; this splits attention between two generations.",
+  "pairings": [
+    {
+      "slug": "big-little-lies",
+      "reason": "Another mix of family secrets, school-community drama and women supporting each other.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "little-fires-everywhere",
+      "reason": "A mother-daughter, suburban story about secrets and choices, with a literary edge.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "reminders-of-him",
+      "reason": "Another Hoover novel where one tragedy ripples through a family and a town.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781799719625",
+    "https://en.wikipedia.org/wiki/Regretting_You",
+    "https://hardcover.app/books/regretting-you"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

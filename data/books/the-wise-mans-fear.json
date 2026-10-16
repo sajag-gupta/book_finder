@@ -1,0 +1,45 @@
+{
+  "slug": "the-wise-mans-fear",
+  "title": "The Wise Man's Fear",
+  "author": "Patrick Rothfuss",
+  "isbn13": "9781423389392",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["adventurous", "mysterious", "swoony"],
+  "tropes": ["coming-of-age", "fae", "quest", "royalty"],
+  "warnings": ["violence", "sexual-content", "sexual-assault", "death"],
+  "summary": "The second day of an innkeeper's tale continues the story of a gifted young man's rise from a poor student to a famed figure. He travels beyond the university, serves a noble patron and learns from unusual teachers.",
+  "readIf": "you want more of the first book's lyrical, meandering storytelling and its charismatic narrator.",
+  "skipIf": "you want plot to move forward, because it wanders and the series is still unfinished.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "The first book, which you should read before this one.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another charismatic, cocky hero told with relish, with a faster, funnier plot.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "assassins-apprentice",
+      "reason": "A first-person fantasy with a similar intimate voice, though far sadder and more restrained.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781423389392",
+    "https://en.wikipedia.org/wiki/The_Wise_Man's_Fear",
+    "https://hardcover.app/books/the-wise-mans-fear"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

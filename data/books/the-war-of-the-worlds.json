@@ -1,0 +1,45 @@
+{
+  "slug": "the-war-of-the-worlds",
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "isbn13": "9780850466669",
+  "firstPublished": 1898,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "dark", "haunting"],
+  "tropes": ["survival"],
+  "warnings": ["death", "violence", "war"],
+  "summary": "A narrator in Victorian England watches cylinders fall from Mars and unleash towering war machines on the countryside. He tries to survive and find his wife as the army fails and society falls apart.",
+  "readIf": "you want the original alien-invasion story, told with a grim, documentary calm.",
+  "skipIf": "you want a heroic resistance, since the narrator mostly hides, watches and endures.",
+  "pairings": [
+    {
+      "slug": "the-time-machine",
+      "reason": "The same author's other short classic, with a similar mix of ideas and quiet dread.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-andromeda-strain",
+      "reason": "A scientific, procedural take on a threat from space that spreads before anyone understands it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "A modern, far larger story about the dread of knowing something is coming from the stars.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780850466669",
+    "https://en.wikipedia.org/wiki/The_War_of_the_Worlds",
+    "https://hardcover.app/books/the-war-of-the-worlds"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

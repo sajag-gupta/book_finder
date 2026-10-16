@@ -1,0 +1,45 @@
+{
+  "slug": "legend",
+  "title": "Legend",
+  "author": "Marie Lu",
+  "isbn13": "9780141339412",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "In a divided future Los Angeles, June is a prodigy soldier from a wealthy family, and Day is the country's most wanted criminal. When her brother is killed, she is sent to hunt him, though neither is quite what they seem.",
+  "readIf": "you want a fast, easy-to-read dystopian adventure with two alternating narrators.",
+  "skipIf": "you want original world-building or a quiet, thoughtful read.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The best-known young adult dystopia, with a more intense and emotional edge.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "divergent",
+      "reason": "Another fast YA dystopia about a young woman who does not fit the system.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "An adult dystopian story about class, rebellion and a hero who infiltrates the elite.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141339412",
+    "https://en.wikipedia.org/wiki/Legend",
+    "https://hardcover.app/books/legend"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

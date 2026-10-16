@@ -1,0 +1,45 @@
+{
+  "slug": "war-and-peace",
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "isbn13": "9781524881993",
+  "firstPublished": 1869,
+  "series": null,
+  "genres": ["historical", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "thoughtful", "heartbreaking"],
+  "tropes": ["war-story", "family-saga"],
+  "warnings": ["war", "death", "violence"],
+  "summary": "Following several aristocratic Russian families across the Napoleonic Wars, this enormous novel moves between drawing rooms and battlefields while its characters search for love, purpose and meaning.",
+  "readIf": "you want a monumental novel that is far more readable and human than its reputation suggests.",
+  "skipIf": "you don't have the time or patience for essays on history and a very large cast.",
+  "pairings": [
+    {
+      "slug": "anna-karenina",
+      "reason": "Tolstoy's other great novel, tighter and more focused on love, marriage and consequence.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "les-miserables",
+      "reason": "Another big, humane classic about individuals caught in a nation's upheaval.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-gentleman-in-moscow",
+      "reason": "A far lighter and more charming take on Russian history and aristocrats, at a manageable length.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 36,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781524881993",
+    "https://en.wikipedia.org/wiki/War_and_Peace",
+    "https://hardcover.app/books/war-and-peace"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

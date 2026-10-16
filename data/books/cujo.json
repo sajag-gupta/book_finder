@@ -1,0 +1,45 @@
+{
+  "slug": "cujo",
+  "title": "Cujo",
+  "author": "Stephen King",
+  "isbn13": "9781508216940",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "heartbreaking"],
+  "tropes": ["survival"],
+  "warnings": ["animal-death", "child-death", "violence", "death", "infidelity"],
+  "summary": "In a small Maine town, a friendly St. Bernard is bitten by a bat and becomes dangerous. A mother and her young son end up trapped in a broken-down car on a hot summer day while their marriage is also under strain.",
+  "readIf": "you want a stripped-down, edge-of-the-seat survival thriller with a very ordinary threat.",
+  "skipIf": "you do not want to read about a dog's suffering or a child in danger.",
+  "pairings": [
+    {
+      "slug": "jaws",
+      "reason": "Another story where an animal terrorises a small community, with a similar mix of family drama and danger.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A survival story of a different kind, hopeful where this one is bleak.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "bird-box",
+      "reason": "A different threat but the same close, claustrophobic focus on a mother protecting children.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781508216940",
+    "https://en.wikipedia.org/wiki/Cujo",
+    "https://hardcover.app/books/cujo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

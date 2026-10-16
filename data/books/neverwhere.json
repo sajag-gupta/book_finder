@@ -1,0 +1,45 @@
+{
+  "slug": "neverwhere",
+  "title": "Neverwhere",
+  "author": "Neil Gaiman",
+  "isbn13": "9780061964947",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "mysterious", "adventurous"],
+  "tropes": ["portal-fantasy", "quest", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "A young Londoner stops to help an injured girl on the street and is suddenly invisible to the people he knew. He is left to follow her into London Below, a hidden city of strange characters under and between the streets.",
+  "readIf": "you want a dark, funny urban fantasy that treats the city's map and history as magic.",
+  "skipIf": "you want a deep plot or emotional weight, since it is more about its odd inventions than depth.",
+  "pairings": [
+    {
+      "slug": "a-darker-shade-of-magic",
+      "reason": "Another fast fantasy that uses different versions of London and a rogue at its centre.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Another very British, humour-laced supernatural adventure with a brisk comic style.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "The older story it plays on, where a bewildered visitor falls into a world of absurd rules.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061964947",
+    "https://en.wikipedia.org/wiki/Neverwhere",
+    "https://hardcover.app/books/neverwhere"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

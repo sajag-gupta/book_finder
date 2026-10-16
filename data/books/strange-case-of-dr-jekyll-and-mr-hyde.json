@@ -1,0 +1,39 @@
+{
+  "slug": "strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "isbn13": "9780893753573",
+  "firstPublished": 1886,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "mysterious", "thoughtful"],
+  "tropes": ["monster"],
+  "warnings": ["violence", "death"],
+  "summary": "A London lawyer investigates the odd link between his friend, the respectable Dr Jekyll, and a violent, hidden man named Hyde. The truth is revealed through a series of documents.",
+  "readIf": "you want a short, classic story about the two sides of a person, in fewer than two hundred pages.",
+  "skipIf": "you have not read it and want it to be a surprise, because its twist is now famous.",
+  "pairings": [
+    {
+      "slug": "frankenstein",
+      "reason": "Another Victorian cautionary tale about science, ambition and a creation beyond control.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-picture-of-dorian-gray",
+      "reason": "Another story of a respectable face covering a hidden, corrupt double life.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780893753573",
+    "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

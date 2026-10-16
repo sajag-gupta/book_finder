@@ -1,0 +1,40 @@
+{
+  "slug": "heart-shaped-box",
+  "title": "Heart-Shaped Box",
+  "author": "Joe Hill",
+  "isbn13": "9780061147937",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["spooky", "dark", "tense"],
+  "tropes": ["road-trip"],
+  "warnings": ["death", "violence", "suicide", "abuse"],
+  "summary": "An ageing rock star who collects macabre objects buys a dead man's suit online. It arrives with a ghost that has a grudge, and he and his girlfriend are pulled into a road trip to the truth.",
+  "readIf": "you like horror with a fast pace, a music-world setting and a very direct ghost.",
+  "skipIf": "you want subtle, literary frights.",
+  "pairings": [
+    {
+      "slug": "the-shining",
+      "reason": "By the author's father, with a similar fondness for flawed leads and haunted objects or places.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-only-good-indians",
+      "reason": "Another story of a past event that comes back to hunt the people responsible.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061147937",
+    "https://en.wikipedia.org/wiki/Heart-Shaped_Box_(novel)",
+    "https://hardcover.app/books/heart-shaped-box"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

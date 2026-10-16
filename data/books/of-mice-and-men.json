@@ -1,0 +1,45 @@
+{
+  "slug": "of-mice-and-men",
+  "title": "Of Mice and Men",
+  "author": "John Steinbeck",
+  "isbn13": "9780241952481",
+  "firstPublished": 1937,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "melancholic", "thoughtful"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": ["death", "violence", "racism", "prejudice", "animal-death"],
+  "summary": "George and Lennie are migrant workers in 1930s California, one sharp and wary, the other huge and simple. They share a dream of owning a bit of land, but trouble follows Lennie wherever they go.",
+  "readIf": "you want a very short, powerful story about friendship and fragile hope.",
+  "skipIf": "you dislike sad endings or cruel treatment of animals and outsiders.",
+  "pairings": [
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "The author's epic of poor migrants in the same era, with a wider lens.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "east-of-eden",
+      "reason": "Another Steinbeck novel set in California, richer and more sweeping.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "Another American classic about prejudice, told with more warmth and humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241952481",
+    "https://en.wikipedia.org/wiki/Of_Mice_and_Men",
+    "https://hardcover.app/books/of-mice-and-men"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

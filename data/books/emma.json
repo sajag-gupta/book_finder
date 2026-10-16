@@ -1,0 +1,45 @@
+{
+  "slug": "emma",
+  "title": "Emma",
+  "author": "Jane Austen",
+  "isbn13": "9780395051153",
+  "firstPublished": 1815,
+  "series": null,
+  "genres": ["classic", "romance"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["witty", "funny", "cozy"],
+  "tropes": ["friends-to-lovers", "small-town"],
+  "warnings": [],
+  "summary": "Emma Woodhouse is clever, rich and sure she knows best. She sets about matchmaking among her neighbours in the village of Highbury, with consequences she did not expect.",
+  "readIf": "you enjoy comic social observation and a heroine who is flawed but easy to forgive.",
+  "skipIf": "you want a swift romance, since the love story builds quietly.",
+  "pairings": [
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "Austen's most famous, with a more sparkling romance and sharper pace.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "bridget-joness-diary",
+      "reason": "A modern, comic romance that borrows from Austen's habit of showing a heroine's mistakes.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-duke-and-i",
+      "reason": "A bubbly, modern take on Regency matchmaking and society gossip.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780395051153",
+    "https://en.wikipedia.org/wiki/Emma_(novel)",
+    "https://hardcover.app/books/emma"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

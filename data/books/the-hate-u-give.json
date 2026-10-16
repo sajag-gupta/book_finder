@@ -1,0 +1,45 @@
+{
+  "slug": "the-hate-u-give",
+  "title": "The Hate U Give",
+  "author": "Angie Thomas",
+  "isbn13": "9780062677099",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "inspiring", "tense"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["racism", "prejudice", "violence", "death", "grief"],
+  "summary": "Sixteen-year-old Starr moves between her poor Black neighbourhood and her mostly white prep school. When she witnesses a police officer shoot an unarmed childhood friend, she has to decide whether to speak up.",
+  "readIf": "you want a powerful, readable novel about family, identity and finding your voice in public.",
+  "skipIf": "you want an escape from difficult real-world issues.",
+  "pairings": [
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "A classic about racial injustice seen through a young person's eyes, with a more distant historical setting.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "native-son",
+      "reason": "A bleak classic of how racism shapes a young Black man's life.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "speak",
+      "reason": "Another young adult story about a girl deciding whether to tell what she saw.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062677099",
+    "https://en.wikipedia.org/wiki/The_Hate_U_Give",
+    "https://hardcover.app/books/the-hate-u-give"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

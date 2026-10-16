@@ -1,0 +1,45 @@
+{
+  "slug": "jonathan-strange-and-mr-norrell",
+  "title": "Jonathan Strange & Mr Norrell",
+  "author": "Susanna Clarke",
+  "isbn13": "9780765356154",
+  "firstPublished": 2004,
+  "series": null,
+  "genres": ["fantasy", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["witty", "whimsical", "mysterious"],
+  "tropes": ["fae", "political-intrigue", "war-story", "unlikely-friendship"],
+  "warnings": ["death", "mental-illness"],
+  "summary": "In Regency England, magic has long been dead until two very different magicians bring it back: a dry, secretive scholar and a charming, impulsive rival. Their partnership and quarrel draw in the Napoleonic wars and a dangerous fairy presence.",
+  "readIf": "you enjoy a long, funny, footnoted alternate history written in the voice of a Victorian novel.",
+  "skipIf": "you want pace or modern language, as it is leisurely, dry and extremely long.",
+  "pairings": [
+    {
+      "slug": "piranesi",
+      "reason": "Same author, a much shorter and stranger book with the same unusual, elegant approach to magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Another very English, comic take on the supernatural, though brisk and playful rather than stately.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "The era's original social comedy, which this book gently echoes in its manners and dry humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765356154",
+    "https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell",
+    "https://hardcover.app/books/jonathan-strange-mr-norrell"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

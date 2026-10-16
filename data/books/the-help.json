@@ -1,0 +1,44 @@
+{
+  "slug": "the-help",
+  "title": "The Help",
+  "author": "Kathryn Stockett",
+  "isbn13": "9780399155345",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["hopeful", "heartbreaking", "thoughtful"],
+  "tropes": ["unlikely-friendship", "small-town"],
+  "warnings": ["racism", "prejudice", "domestic-violence", "death"],
+  "summary": "In early 1960s Jackson, Mississippi, a young white writer secretly interviews Black maids about their work for white families, and two of the women risk everything to tell their stories.",
+  "readIf": "you want a warm, readable, multi-voice novel about courage and friendship in the Civil Rights era.",
+  "skipIf": "you are bothered by a white author writing Black dialect and a white-saviour framing.",
+  "pairings": [
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "The classic of Southern racial injustice that this novel follows, told through a child's eyes.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-secret-life-of-bees",
+      "reason": "Another warm Southern novel in the 1960s about women who support each other.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-color-purple",
+      "reason": "A deeper, harder novel about Black women's lives in the South.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399155345",
+    "https://en.wikipedia.org/wiki/The_Help"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

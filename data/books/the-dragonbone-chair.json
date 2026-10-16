@@ -1,0 +1,45 @@
+{
+  "slug": "the-dragonbone-chair",
+  "title": "The Dragonbone Chair",
+  "author": "Tad Williams",
+  "isbn13": "9781101160312",
+  "firstPublished": 1988,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "melancholic"],
+  "tropes": ["coming-of-age", "quest", "political-intrigue"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A kitchen boy in a great castle grows up in the shadow of a dying king. When the old order collapses and something ancient stirs in the north, he is swept into a war far bigger than anything he imagined.",
+  "readIf": "you like long, patient epic fantasy that takes its time building a world and a hero you grow up alongside.",
+  "skipIf": "you want a quick start, because the early chapters are slow and the plot only fully opens up later.",
+  "pairings": [
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "Another classic farm-boy-to-epic quest, with a similarly slow-burn, travel-heavy structure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "assassins-apprentice",
+      "reason": "A lonely royal servant's son growing up, but told in a more intimate, emotional first person.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "A comparable castle-and-succession crisis, written with far more brutality and politics.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101160312",
+    "https://en.wikipedia.org/wiki/The_Dragonbone_Chair",
+    "https://hardcover.app/books/the-dragonbone-chair"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

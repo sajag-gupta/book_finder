@@ -1,0 +1,44 @@
+{
+  "slug": "james-and-the-giant-peach",
+  "title": "James and the Giant Peach",
+  "author": "Roald Dahl",
+  "isbn13": "9780140342697",
+  "firstPublished": 1961,
+  "series": null,
+  "genres": ["children", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "funny", "adventurous"],
+  "tropes": ["found-family", "unlikely-friendship"],
+  "warnings": ["death"],
+  "summary": "After his parents are lost, young James lives with two horrid aunts until a magic potion grows a gigantic peach in the garden. He climbs inside and sets off across the sea with a crew of oversized insects.",
+  "readIf": "you want a short, silly adventure with cheerful nastiness and a lot of imagination.",
+  "skipIf": "you dislike dark, exaggerated humour or cruel villains.",
+  "pairings": [
+    {
+      "slug": "charlie-and-the-chocolate-factory",
+      "reason": "The same author's most famous tale of a poor boy and a wild, wonderful place.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "matilda",
+      "reason": "Another cruelly treated child who finds strength and a happy ending.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bfg",
+      "reason": "Another Dahl story pairing a small child with an unlikely giant friend.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 28,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140342697",
+    "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tinker-tailor-soldier-spy",
+  "title": "Tinker Tailor Soldier Spy",
+  "author": "John le Carré",
+  "isbn13": "9780340733950",
+  "firstPublished": 1974,
+  "series": null,
+  "genres": ["thriller", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["tense", "melancholic", "thoughtful"],
+  "tropes": ["spy", "whodunit"],
+  "warnings": ["death", "violence", "infidelity"],
+  "summary": "A quiet, retired intelligence man is quietly called back to find a Soviet mole in the top ranks of the British Secret Service. He works through old files and old colleagues to find which of four senior men has betrayed them.",
+  "readIf": "you like patient, intricate espionage with a keenly observed cast and a pleasingly tough puzzle.",
+  "skipIf": "you need quick pacing or clear exposition, because the book is dense with names, jargon and time shifts.",
+  "pairings": [
+    {
+      "slug": "the-spy-who-came-in-from-the-cold",
+      "reason": "The shorter, more direct earlier novel that is easier to enter and just as bleak.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "A very different, procedural thriller, with a cold professional assassin and the men trying to stop him.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780340733950",
+    "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy",
+    "https://hardcover.app/books/tinker-tailor-soldier-spy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

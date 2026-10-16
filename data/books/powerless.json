@@ -1,0 +1,45 @@
+{
+  "slug": "powerless",
+  "title": "Powerless",
+  "author": "Lauren Roberts",
+  "isbn13": "9781960854841",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "swoony", "adventurous"],
+  "tropes": ["enemies-to-lovers", "hidden-identity", "love-triangle", "rebellion"],
+  "warnings": ["violence", "death", "prejudice"],
+  "summary": "In a kingdom where people with powers rule and those without are treated as lesser, a girl without any powers survives as a pickpocket. She is pulled into a deadly trial and a complicated attraction to two brothers.",
+  "readIf": "you want a quick, YA romantasy with a lot of tension, a love triangle and a deadly contest.",
+  "skipIf": "you want more complex worldbuilding or are tired of love triangles and rivals-to-lovers.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another society-spanning contest story with a fierce young heroine and a gap between rich and poor.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A very similar premise of a powerless girl hiding among the powerful, with shifting loyalties.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "throne-of-glass",
+      "reason": "Another young-adult fantasy with a tournament, a court and a love triangle.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781960854841",
+    "https://en.wikipedia.org/wiki/Powerless_(novel)",
+    "https://hardcover.app/books/powerless-the-powerless-trilogy-book-1-2023"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

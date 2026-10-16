@@ -1,0 +1,45 @@
+{
+  "slug": "the-bear-and-the-nightingale",
+  "title": "The Bear and the Nightingale",
+  "author": "Katherine Arden",
+  "isbn13": "9780399593284",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["fantasy", "historical"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "spooky", "mysterious"],
+  "tropes": ["fairy-tale-retelling", "witches", "coming-of-age"],
+  "warnings": ["religious-extremism", "death", "violence"],
+  "summary": "In a snowbound village in medieval Russia, a wild, headstrong girl can see the household spirits that her community leaves offerings for. When a zealous priest arrives and the old customs fade, something dark begins to wake in the forest.",
+  "readIf": "you like cold, atmospheric fantasy rooted in folklore and a heroine who refuses to be tamed.",
+  "skipIf": "you want a fast-paced read, as the opening chapters are slow and quietly told.",
+  "pairings": [
+    {
+      "slug": "uprooted",
+      "reason": "Another fairy-tale fantasy based on Slavic story with a wild forest threat and a stubborn heroine.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "spinning-silver",
+      "reason": "Another wintry, folklore-heavy novel with a determined girl and ancient powers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "A creepier, more horror-leaning story of a young woman against a threat that hides in old family ways.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399593284",
+    "https://en.wikipedia.org/wiki/The_Bear_and_the_Nightingale",
+    "https://hardcover.app/books/the-bear-and-the-nightingale"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

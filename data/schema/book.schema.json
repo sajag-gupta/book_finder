@@ -23,18 +23,40 @@
     "status"
   ],
   "properties": {
-    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "title": { "type": "string", "minLength": 1 },
-    "author": { "type": "string", "minLength": 1 },
-    "isbn13": { "type": "string", "pattern": "^\\d{13}$" },
-    "firstPublished": { "type": "integer", "minimum": 1400, "maximum": 2100 },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "isbn13": {
+      "type": "string",
+      "pattern": "^\\d{13}$"
+    },
+    "firstPublished": {
+      "type": "integer",
+      "minimum": 1400,
+      "maximum": 2100
+    },
     "series": {
       "type": ["object", "null"],
       "additionalProperties": false,
       "required": ["slug", "position"],
       "properties": {
-        "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-        "position": { "type": "number", "minimum": 0 }
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "position": {
+          "type": "number",
+          "minimum": 0
+        }
       }
     },
     "genres": {
@@ -44,25 +66,68 @@
         "enum": [
           "romance",
           "romantasy",
+          "fantasy",
           "cozy-fantasy",
           "epic-fantasy",
           "science-fiction",
+          "dystopian",
+          "thriller",
+          "mystery",
+          "crime",
+          "horror",
+          "historical",
+          "young-adult",
           "literary",
-          "fantasy"
+          "classic",
+          "adventure",
+          "children"
         ]
       }
     },
-    "pace": { "enum": ["slow", "medium", "fast"] },
+    "pace": {
+      "enum": ["slow", "medium", "fast"]
+    },
     "length": {
       "enum": ["short", "medium", "long"],
       "description": "short < 300 pages, medium 300-450, long > 450"
     },
-    "moods": { "type": "array", "minItems": 1, "items": { "type": "string" }, "uniqueItems": true },
-    "tropes": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
-    "warnings": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
-    "summary": { "type": "string", "minLength": 20, "maxLength": 400 },
-    "readIf": { "type": "string", "minLength": 10, "maxLength": 200 },
-    "skipIf": { "type": "string", "minLength": 10, "maxLength": 200 },
+    "moods": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tropes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 400
+    },
+    "readIf": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200
+    },
+    "skipIf": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200
+    },
     "pairings": {
       "type": "array",
       "items": {
@@ -70,19 +135,51 @@
         "additionalProperties": false,
         "required": ["slug", "reason", "moodShift"],
         "properties": {
-          "slug": { "type": "string" },
-          "reason": { "type": "string", "minLength": 20, "maxLength": 300 },
-          "moodShift": { "enum": ["similar", "lighter", "darker", "quieter", "bigger"] }
+          "slug": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 20,
+            "maxLength": 300
+          },
+          "moodShift": {
+            "enum": ["similar", "lighter", "darker", "quieter", "bigger"]
+          }
         }
       }
     },
     "sources": {
       "type": "array",
-      "items": { "type": "string", "format": "uri" },
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
       "description": "Public pages used to check the facts. A reviewed record needs at least two."
     },
-    "status": { "enum": ["draft", "reviewed"] },
-    "reviewedBy": { "type": ["string", "null"] },
-    "reviewedOn": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+    "status": {
+      "enum": ["draft", "checked", "reviewed"],
+      "description": "draft: not published. checked: facts verified automatically against two public sources, text not yet read by a person (published with a notice). reviewed: a person read and approved it."
+    },
+    "reviewedBy": {
+      "type": ["string", "null"]
+    },
+    "reviewedOn": {
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "soldMillions": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "description": "Approximate lifetime copies sold in millions, from the cited public estimate (Wikipedia's list of best-selling books). Estimates vary widely; the site labels this approximate."
+    },
+    "tier": {
+      "enum": ["all-time", "modern"],
+      "description": "all-time: appears in published best-seller lists with a sales estimate. modern: a current or enduring genre bestseller without a sourced figure."
+    },
+    "checkedOn": {
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
   }
 }

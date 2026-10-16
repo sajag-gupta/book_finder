@@ -1,0 +1,40 @@
+{
+  "slug": "the-abc-murders",
+  "title": "The ABC Murders",
+  "author": "Agatha Christie",
+  "isbn13": "9780062073587",
+  "firstPublished": 1936,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "mysterious", "witty"],
+  "tropes": ["detective", "serial-killer", "whodunit"],
+  "warnings": ["death", "violence"],
+  "summary": "Poirot receives a taunting letter warning of a murder in a town beginning with A, followed by another letter and another crime. The killer seems to be working through the alphabet and a railway timetable.",
+  "readIf": "you want a clever early take on the serial-killer mystery, in a classic puzzle form.",
+  "skipIf": "you want graphic, psychological crime, as the tone remains polite and puzzle-focused.",
+  "pairings": [
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "Another of her boldest plots, built around a killer with a plan and a pattern.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A modern forensic thriller that follows a killer who leaves deliberate clues for the investigators.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062073587",
+    "https://en.wikipedia.org/wiki/The_ABC_Murders_(TV_series)",
+    "https://hardcover.app/books/the-abc-murders"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

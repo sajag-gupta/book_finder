@@ -1,0 +1,52 @@
+{
+  "slug": "normal-people",
+  "title": "Normal People",
+  "author": "Sally Rooney",
+  "isbn13": "9780571334643",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["literary", "romance"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "swoony", "thoughtful"],
+  "tropes": ["second-chance", "coming-of-age"],
+  "warnings": [
+    "abuse",
+    "mental-illness",
+    "domestic-violence",
+    "sexual-content",
+    "suicide",
+    "grief"
+  ],
+  "summary": "In a small Irish town, Marianne and Connell secretly connect despite being on opposite ends of the school pecking order. We follow them through university and the years after, as they drift together and apart.",
+  "readIf": "you like a precise, restrained love story about class, communication and being known by someone.",
+  "skipIf": "you want chatty prose or a tidy romance, since it avoids quotation marks and easy answers.",
+  "pairings": [
+    {
+      "slug": "norwegian-wood",
+      "reason": "Another quiet, melancholy love story about young people and the weight of grief and mental health.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A younger, warmer story of first love between two misfits.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-flatshare",
+      "reason": "A cosier, sweeter love story between two people who slowly learn each other.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571334643",
+    "https://en.wikipedia.org/wiki/Normal_People",
+    "https://hardcover.app/books/normal-people"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-black-company",
+  "title": "The Black Company",
+  "author": "Glen Cook",
+  "isbn13": "9780812584387",
+  "firstPublished": 1984,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "witty"],
+  "tropes": ["war-story", "morally-grey", "found-family"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "A band of mercenaries works for a dark empire, and its tired field surgeon keeps the company's annals. As they serve powerful sorcerers, the soldiers start to question whom they are fighting for.",
+  "readIf": "you like gritty, soldier's-eye fantasy narrated with dry humour and little glory.",
+  "skipIf": "you want clear heroes and villains, or a fully explained world.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "A later grimdark fantasy with the same cynicism, banter and morally compromised leads.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "A harsher, more brutal take on war in a fantasy setting, with a harder look at atrocity.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Features a similar pack of rough companions, though with swagger, wit and heist plotting.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812584387",
+    "https://en.wikipedia.org/wiki/The_Black_Company",
+    "https://hardcover.app/books/the-black-company"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

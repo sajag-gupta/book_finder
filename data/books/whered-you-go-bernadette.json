@@ -1,0 +1,45 @@
+{
+  "slug": "whered-you-go-bernadette",
+  "title": "Where'd You Go, Bernadette",
+  "author": "Maria Semple",
+  "isbn13": "9780316204279",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "hopeful"],
+  "tropes": ["epistolary", "satire"],
+  "warnings": ["mental-illness"],
+  "summary": "A teenage girl tries to find her brilliant, anxious architect mother after she disappears just before a family trip. The story is pieced together from emails, memos and notes.",
+  "readIf": "you like a funny, fast and satirical novel that pokes fun at school parents and the Seattle tech set.",
+  "skipIf": "you dislike storytelling through documents, or find the tone of the satire too broad.",
+  "pairings": [
+    {
+      "slug": "anxious-people",
+      "reason": "Another farce in which odd, endearing characters reveal their hearts through one chaotic situation.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Another satirical look at privileged parents and school gossip, with a darker mystery.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another story about a difficult, brilliant woman who is more fragile than she appears.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316204279",
+    "https://en.wikipedia.org/wiki/Where'd_You_Go%2C_Bernadette_(novel)",
+    "https://hardcover.app/books/whered-you-go-bernadette"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

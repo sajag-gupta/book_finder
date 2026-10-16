@@ -1,0 +1,45 @@
+{
+  "slug": "the-girl-on-the-train",
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "isbn13": "9781784161750",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["unreliable-narrator", "twist-ending"],
+  "warnings": ["abuse", "domestic-violence", "addiction", "infidelity", "manipulation", "death"],
+  "summary": "Rachel, a woman struggling with drinking and a collapsed marriage, watches the same house from her commuter train every day. When a woman from that house goes missing, she becomes convinced she saw something.",
+  "readIf": "you like twisty domestic thrillers with narrators you can't fully trust.",
+  "skipIf": "you want likeable characters or a calm read.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "The defining twisty marriage thriller, with colder, sharper writing.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-woman-in-the-window",
+      "reason": "Another thriller where an unreliable narrator watches a neighbour and sees something terrible.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "before-i-go-to-sleep",
+      "reason": "Another thriller built on a narrator who cannot trust her own memory.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 23,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784161750",
+    "https://en.wikipedia.org/wiki/The_Girl_on_the_Train_(novel)",
+    "https://hardcover.app/books/the-girl-on-the-train"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

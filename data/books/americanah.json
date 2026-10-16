@@ -1,0 +1,45 @@
+{
+  "slug": "americanah",
+  "title": "Americanah",
+  "author": "Chimamanda Ngozi Adichie",
+  "isbn13": "9780307397928",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["thoughtful", "swoony", "hopeful"],
+  "tropes": ["second-chance", "dual-timeline"],
+  "warnings": ["racism", "infidelity"],
+  "summary": "Two Nigerian teenagers fall in love, then drift apart as one moves to America and the other tries his luck in Britain. Years later, they meet again in Lagos, shaped by what each learned about race and belonging abroad.",
+  "readIf": "you like a love story that is also a sharp, funny look at race, hair, class and what home means.",
+  "skipIf": "you want a fast romance, since much of the book is essayistic observation of immigrant life.",
+  "pairings": [
+    {
+      "slug": "half-of-a-yellow-sun",
+      "reason": "The same author's historical novel about the Nigerian civil war, equally rich in character and much heavier.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-namesake",
+      "reason": "Another immigrant family story that explores identity and belonging with a quieter, more reflective hand.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "Also follows a pair of young lovers who keep missing each other across the years, in a plainer, more intimate style.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307397928",
+    "https://en.wikipedia.org/wiki/Americanah",
+    "https://hardcover.app/books/americanah"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

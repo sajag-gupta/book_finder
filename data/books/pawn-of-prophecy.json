@@ -1,0 +1,44 @@
+{
+  "slug": "pawn-of-prophecy",
+  "title": "Pawn of Prophecy",
+  "author": "David Eddings",
+  "isbn13": "9781581167559",
+  "firstPublished": 1982,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "whimsical", "hopeful"],
+  "tropes": ["quest", "found-family", "coming-of-age"],
+  "warnings": ["violence"],
+  "summary": "A farm boy's quiet life ends when a storyteller and an aunt take him on a chase across the kingdoms after a stolen magical orb. His companions are an odd and bickering lot.",
+  "readIf": "you want a breezy, humorous fantasy with a cast of comfortable, bickering travellers.",
+  "skipIf": "you want surprises; it follows the standard farm-boy quest closely and is just the start of a longer series.",
+  "pairings": [
+    {
+      "slug": "eragon",
+      "reason": "Another farm-boy-to-hero series with a mentor figure and a growing party.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "A more serious and sprawling fantasy that starts in a similar way but goes much further.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-sword-of-shannara",
+      "reason": "Another old-school quest with a reluctant hero and a band of unlikely companions.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781581167559",
+    "https://hardcover.app/books/pawn-of-prophecy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

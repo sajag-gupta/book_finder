@@ -1,0 +1,45 @@
+{
+  "slug": "murder-on-the-orient-express",
+  "title": "Murder on the Orient Express",
+  "author": "Agatha Christie",
+  "isbn13": "9780671829117",
+  "firstPublished": 1934,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["mysterious", "tense", "witty"],
+  "tropes": ["detective", "whodunit", "locked-room", "twist-ending"],
+  "warnings": ["death", "violence"],
+  "summary": "A snowdrift stops a luxury train overnight in the Balkans, and a wealthy passenger is found stabbed in his compartment. Detective Hercule Poirot, travelling by chance, has a carriage of suspects with locked stories.",
+  "readIf": "you want a classic closed-circle murder mystery with a famous, satisfying solution.",
+  "skipIf": "you want a dark, modern crime novel, since the style is polished and the violence mostly offstage.",
+  "pairings": [
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "Another of her cleverest closed-circle puzzles, with a much bleaker atmosphere.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "A modern, funny cosy mystery that captures the same pleasure of clues and suspects.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hunting-party",
+      "reason": "A contemporary thriller where a group of people are stuck together with a murderer.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780671829117",
+    "https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express",
+    "https://hardcover.app/books/murder-on-the-orient-express"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

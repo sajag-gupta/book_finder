@@ -1,0 +1,45 @@
+{
+  "slug": "the-shadow-of-the-wind",
+  "title": "The Shadow of the Wind",
+  "author": "Carlos Ruiz Zafón",
+  "isbn13": "9781399624350",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["mystery", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "haunting", "swoony"],
+  "tropes": ["book-within-a-book", "coming-of-age", "dual-timeline"],
+  "warnings": ["violence", "death", "war", "torture"],
+  "summary": "In Barcelona after the Spanish Civil War, a boy is taken to a secret library of forgotten books and chooses one by an obscure author. He discovers that someone is burning every copy of that writer's work.",
+  "readIf": "you love gothic, bookish mysteries with a city as vivid as any character.",
+  "skipIf": "you dislike heavy melodrama or long, tangled backstories.",
+  "pairings": [
+    {
+      "slug": "the-starless-sea",
+      "reason": "Another dreamlike tale of hidden libraries and a reader who finds himself part of a story.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A moody, literary mystery of obsession and a death within a closed circle.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "A more learned, medieval version of a murder mystery set around a library.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781399624350",
+    "https://en.wikipedia.org/wiki/The_Shadow_of_the_Wind",
+    "https://hardcover.app/books/the-shadow-of-the-wind"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

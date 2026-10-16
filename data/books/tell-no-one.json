@@ -1,0 +1,45 @@
+{
+  "slug": "tell-no-one",
+  "title": "Tell No One",
+  "author": "Harlan Coben",
+  "isbn13": "9781409117025",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "heartbreaking", "mysterious"],
+  "tropes": ["twist-ending"],
+  "warnings": ["death", "violence", "grief"],
+  "summary": "A paediatrician is still grieving the murder of his wife, killed eight years earlier. Then he gets an email that suggests she may be alive, and the police begin to look at him again.",
+  "readIf": "you like a fast, twisty story that is as much about love and loss as it is about the chase.",
+  "skipIf": "you dislike coincidences, since the plot leans on a lot of them to keep moving.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "Another thriller in which a husband is under suspicion and nothing about his missing wife is as it seems.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-couple-next-door",
+      "reason": "A shorter, similar domestic thriller built on a disappearance and slowly revealed secrets.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-pelican-brief",
+      "reason": "A less personal, more political thriller with a clever protagonist on the run.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409117025",
+    "https://en.wikipedia.org/wiki/Tell_No_One",
+    "https://hardcover.app/books/tell-no-one"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

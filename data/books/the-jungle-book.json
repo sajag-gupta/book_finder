@@ -1,0 +1,45 @@
+{
+  "slug": "the-jungle-book",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "isbn13": "9780008514440",
+  "firstPublished": 1894,
+  "series": null,
+  "genres": ["adventure", "children", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["adventurous", "whimsical", "nostalgic"],
+  "tropes": ["talking-animals", "coming-of-age"],
+  "warnings": ["animal-death"],
+  "summary": "A boy raised by wolves in the Indian jungle learns its laws from a bear and a panther while a tiger wants him dead. The book also contains several unconnected animal stories.",
+  "readIf": "you like classic animal adventure with real stakes and a strong jungle atmosphere.",
+  "skipIf": "you expect the film; the original is more serious, and reflects colonial attitudes of its time.",
+  "pairings": [
+    {
+      "slug": "watership-down",
+      "reason": "Another story in which animals have their own laws, dangers and culture, with a tougher heart.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "A calmer animal classic with similar charm and a love of landscape.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "treasure-island",
+      "reason": "Another short adventure from the same era that does not talk down to young readers.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008514440",
+    "https://en.wikipedia.org/wiki/The_Jungle_Book",
+    "https://hardcover.app/books/the-jungle-book"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

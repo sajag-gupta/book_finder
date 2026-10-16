@@ -1,0 +1,45 @@
+{
+  "slug": "the-princess-bride",
+  "title": "The Princess Bride",
+  "author": "William Goldman",
+  "isbn13": "9780345242259",
+  "firstPublished": 1973,
+  "series": null,
+  "genres": ["fantasy", "classic"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "swoony"],
+  "tropes": ["fairy-tale-retelling", "star-crossed-lovers", "revenge", "royalty"],
+  "warnings": ["violence"],
+  "summary": "Presented as an abridgement of an old classic by an author who pretends to be only the editor, this is a tale of a farm boy and the beautiful girl he loves. They are separated by pirates, a prince and a quest for revenge.",
+  "readIf": "you want a witty, affectionate adventure that parodies fairy tales while still being moving.",
+  "skipIf": "you want a serious epic, or you would rather not have the narrator interrupt the story with asides.",
+  "pairings": [
+    {
+      "slug": "stardust",
+      "reason": "Another fairy tale for adults with a lightly mocking voice and a love story at its heart.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-three-musketeers",
+      "reason": "The swashbuckling classic that this book lovingly echoes, with duels and friendship.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Another very funny, quotable fantasy that mixes jokes with real affection for its characters.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345242259",
+    "https://en.wikipedia.org/wiki/The_Princess_Bride",
+    "https://hardcover.app/books/the-princess-bride"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

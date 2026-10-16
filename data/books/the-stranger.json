@@ -1,0 +1,44 @@
+{
+  "slug": "the-stranger",
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "isbn13": "9780679720201",
+  "firstPublished": 1942,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["haunting", "thoughtful", "dark"],
+  "tropes": [],
+  "warnings": ["death", "violence"],
+  "summary": "Meursault, a detached clerk in French Algeria, attends his mother's funeral without grief and, soon after, commits a killing on a beach. His trial turns less on the act than on how he behaves.",
+  "readIf": "you want a short, cold classic of existentialist fiction.",
+  "skipIf": "you want an emotional connection to the narrator; he is deliberately flat.",
+  "pairings": [
+    {
+      "slug": "the-plague",
+      "reason": "Camus's larger novel about a town under siege, more humane and hopeful.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "crime-and-punishment",
+      "reason": "Another novel about a killer's mind and a society that judges him, more feverish and moral.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-metamorphosis",
+      "reason": "Another short, strange story about an alienated man and a world that doesn't care.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679720201",
+    "https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

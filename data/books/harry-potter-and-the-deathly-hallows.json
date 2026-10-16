@@ -1,0 +1,45 @@
+{
+  "slug": "harry-potter-and-the-deathly-hallows",
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J. K. Rowling",
+  "isbn13": "9781551929781",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "tense"],
+  "tropes": ["quest", "chosen-one", "war-story", "found-family"],
+  "warnings": ["death", "violence", "war", "torture", "grief"],
+  "summary": "Leaving school behind, Harry and two friends set out to find and destroy the hidden objects that anchor the dark wizard's power. Hunted and cut off from help, they are drawn into a final confrontation.",
+  "readIf": "you want a bigger, bleaker finale where the whole series pays off, and you've read the other six books.",
+  "skipIf": "you haven't read the series, as it will not stand alone and gives away earlier surprises.",
+  "pairings": [
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "Another long, elegiac finale to a beloved fantasy series, with a similar sense of loss and triumph.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mockingjay",
+      "reason": "Another series ender that takes its young heroes through war at a high personal price.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "A short, gentler tale of good against evil that is a great palate cleanser after a long saga.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781551929781",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
+    "https://hardcover.app/books/harry-potter-and-the-deathly-hallows"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

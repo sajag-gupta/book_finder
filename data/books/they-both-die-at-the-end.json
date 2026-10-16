@@ -1,0 +1,45 @@
+{
+  "slug": "they-both-die-at-the-end",
+  "title": "They Both Die at the End",
+  "author": "Adam Silvera",
+  "isbn13": "9781398514751",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "hopeful", "melancholic"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": ["death", "grief"],
+  "summary": "In a world where a service calls you on the day you will die, two teenage strangers, Mateo and Rufus, meet through an app. They set out to make the most of their last twenty-four hours together.",
+  "readIf": "you want a moving story that makes you think about what you would do with your final day.",
+  "skipIf": "you dislike sad stories, because the title is a promise.",
+  "pairings": [
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "Another teen story where mortality shapes everything, written with humour and heart.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "aristotle-and-dante-discover-the-secrets-of-the-universe",
+      "reason": "A gentler, more hopeful story of two boys and an honest, tender friendship.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "Another novel that asks how to live well when time is limited.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781398514751",
+    "https://en.wikipedia.org/wiki/They_Both_Die_at_the_End",
+    "https://hardcover.app/books/they-both-die-at-the-end"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

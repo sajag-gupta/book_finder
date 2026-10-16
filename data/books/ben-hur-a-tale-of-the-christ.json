@@ -1,0 +1,45 @@
+{
+  "slug": "ben-hur-a-tale-of-the-christ",
+  "title": "Ben-Hur: A Tale of the Christ",
+  "author": "Lew Wallace",
+  "isbn13": "9781934648216",
+  "firstPublished": 1880,
+  "series": null,
+  "genres": ["historical", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "inspiring"],
+  "tropes": ["revenge", "redemption"],
+  "warnings": ["slavery", "violence", "death"],
+  "summary": "A Jewish nobleman in Roman-ruled Judea is falsely condemned to the galleys after a childhood friend, now a Roman officer, betrays him. He survives and returns, seeking revenge, as another figure's story unfolds alongside his own.",
+  "readIf": "you like a 19th-century adventure with sea battles, a famous chariot race and a religious thread.",
+  "skipIf": "you dislike old-fashioned style or a novel with overtly Christian themes.",
+  "pairings": [
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "Another tale of a man wrongly condemned who returns for justice, with a brisker, wittier plot.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "shogun",
+      "reason": "Another large-scale historical adventure about an outsider dropped into a foreign power struggle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-red-tent",
+      "reason": "A different take on ancient history, told closely from a woman's view.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 26,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781934648216",
+    "https://en.wikipedia.org/wiki/Ben-Hur%3A_A_Tale_of_the_Christ",
+    "https://hardcover.app/books/ben-hur"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

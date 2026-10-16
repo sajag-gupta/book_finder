@@ -1,0 +1,45 @@
+{
+  "slug": "the-fault-in-our-stars",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "isbn13": "9780141345710",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "funny", "thoughtful"],
+  "tropes": ["star-crossed-lovers"],
+  "warnings": ["terminal-illness", "death", "grief"],
+  "summary": "Hazel, a sixteen-year-old living with cancer, meets Augustus at a support group. They bond over a favourite novel and a trip they hope will answer the questions it leaves open.",
+  "readIf": "you want a witty, tearful teen romance that treats illness without pity.",
+  "skipIf": "you want to avoid stories about young people with terminal illness.",
+  "pairings": [
+    {
+      "slug": "me-before-you",
+      "reason": "Another love story shaped by illness and hard choices, aimed at older readers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "they-both-die-at-the-end",
+      "reason": "A young adult story about love and time running out, with a high concept.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "looking-for-alaska",
+      "reason": "Another John Green novel about first love and loss, with a different structure.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 23,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141345710",
+    "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+    "https://hardcover.app/books/the-fault-in-our-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

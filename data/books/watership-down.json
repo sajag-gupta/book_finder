@@ -1,0 +1,45 @@
+{
+  "slug": "watership-down",
+  "title": "Watership Down",
+  "author": "Richard Adams",
+  "isbn13": "9780380395866",
+  "firstPublished": 1972,
+  "series": null,
+  "genres": ["fantasy", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "tense", "epic"],
+  "tropes": ["quest", "talking-animals", "survival"],
+  "warnings": ["violence", "death", "animal-death"],
+  "summary": "A small group of rabbits flees their doomed warren after one of them has a vision of disaster, and they travel across the English countryside to found a new home, facing predators and rival warrens on the way.",
+  "readIf": "you want an animal story that is also a full-blooded adventure, with its own language and mythology.",
+  "skipIf": "you want a soft read; there is real violence and loss.",
+  "pairings": [
+    {
+      "slug": "redwall",
+      "reason": "A younger, cosier animal adventure with feasts and heroes rather than grim survival.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "A calm, riverside animal classic with the danger turned down.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-last-unicorn",
+      "reason": "Another animal-centred quest with a mythic, melancholy tone.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780380395866",
+    "https://en.wikipedia.org/wiki/Watership_Down",
+    "https://hardcover.app/books/watership-down"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cloud-atlas",
+  "title": "Cloud Atlas",
+  "author": "David Mitchell",
+  "isbn13": "9780375507250",
+  "firstPublished": 2004,
+  "series": null,
+  "genres": ["literary", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "epic", "thoughtful"],
+  "tropes": ["book-within-a-book", "dystopian-regime", "post-apocalyptic"],
+  "warnings": ["violence", "slavery", "death"],
+  "summary": "Six nested stories, from a nineteenth-century sea voyage to a far-future island, each in a different genre and voice. Every narrative is discovered by a character in the next one.",
+  "readIf": "you like ambitious structure and genre-hopping, and enjoy spotting how the pieces echo one another.",
+  "skipIf": "you want to settle into one character and plot, or find stylised dialects hard going.",
+  "pairings": [
+    {
+      "slug": "the-starless-sea",
+      "reason": "Another novel of stories nested within stories, where the tales and their readers keep intersecting.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A gentler, more focused novel that links separate lives across time through a single thread.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "Plays with time and genre in a shorter, angrier and more satirical way.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780375507250",
+    "https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

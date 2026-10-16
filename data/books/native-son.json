@@ -1,0 +1,45 @@
+{
+  "slug": "native-son",
+  "title": "Native Son",
+  "author": "Richard Wright",
+  "isbn13": "9780060830557",
+  "firstPublished": 1940,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": [],
+  "warnings": ["racism", "violence", "death", "sexual-assault"],
+  "summary": "A young Black man in 1930s Chicago takes a job as a chauffeur for a wealthy white family. One night's accident sets off events that ruin his life and lay bare the forces that boxed him in.",
+  "readIf": "you want a hard-hitting classic that explains, rather than excuses, how pressure and fear can shape a person.",
+  "skipIf": "you want hope or a sympathetic hero; the violence and its subject can be very harsh.",
+  "pairings": [
+    {
+      "slug": "invisible-man",
+      "reason": "Another landmark novel of Black American life, more experimental and bitterly comic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hate-u-give",
+      "reason": "A modern young adult novel about race and violence, easier to read but still deeply felt.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "The gentler, more hopeful side of the same questions about justice, told through a white child's eyes.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780060830557",
+    "https://en.wikipedia.org/wiki/Native_Son",
+    "https://hardcover.app/books/native-son-1940"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

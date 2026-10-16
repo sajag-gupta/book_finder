@@ -1,0 +1,45 @@
+{
+  "slug": "in-a-dark-dark-wood",
+  "title": "In a Dark, Dark Wood",
+  "author": "Ruth Ware",
+  "isbn13": "9781501112331",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "spooky", "mysterious"],
+  "tropes": ["locked-room", "whodunit"],
+  "warnings": ["violence", "death"],
+  "summary": "Reclusive writer Nora is invited to a hen weekend at a glass house deep in the English woods, hosted by a friend she has not seen in ten years. By the end of the weekend someone is hurt and Nora cannot remember why.",
+  "readIf": "you want a quick, atmospheric whodunit with a cut-off setting and a cast who all have something to hide.",
+  "skipIf": "you prefer a patient detective to a nervous, unreliable witness.",
+  "pairings": [
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The model for a group trapped together as secrets surface, in an older and tidier form.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-guest-list",
+      "reason": "A wedding-weekend variation with another isolated setting and a pile of old grievances.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hunting-party",
+      "reason": "Friends snowed in at a remote lodge, with a murder and a slowly shifting cast of suspects.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781501112331",
+    "https://en.wikipedia.org/wiki/In_a_Dark%2C_Dark_Wood",
+    "https://hardcover.app/books/in-a-dark-dark-wood"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

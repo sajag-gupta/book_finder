@@ -1,0 +1,45 @@
+{
+  "slug": "pet-sematary",
+  "title": "Pet Sematary",
+  "author": "Stephen King",
+  "isbn13": "9780451132376",
+  "firstPublished": 1983,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["spooky", "dark", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["death", "grief", "child-death", "animal-death", "violence"],
+  "summary": "A doctor moves his young family into a Maine house beside a busy road. Behind it lies an old burial ground in the woods, and its power tempts him after tragedy strikes.",
+  "readIf": "you want horror that works through grief and parental fear rather than monsters in the dark.",
+  "skipIf": "you cannot read about the death of a child or a pet.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "A classic of quiet dread, in which the damage is mostly psychological.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "heart-shaped-box",
+      "reason": "Another horror novel about a ghost that follows someone from his past, with a faster pace.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lovely-bones",
+      "reason": "Not horror, but a moving look at how a family handles a child's death.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451132376",
+    "https://en.wikipedia.org/wiki/Pet_Sematary",
+    "https://hardcover.app/books/pet-sematary"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

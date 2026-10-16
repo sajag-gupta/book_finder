@@ -1,0 +1,45 @@
+{
+  "slug": "the-other-boleyn-girl",
+  "title": "The Other Boleyn Girl",
+  "author": "Philippa Gregory",
+  "isbn13": "9781416556534",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["historical", "romance"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark", "swoony"],
+  "tropes": ["royalty", "forbidden-love", "political-intrigue"],
+  "warnings": ["sexual-content", "death", "infidelity", "incest", "violence"],
+  "summary": "At the court of Henry VIII, the ambitious Boleyn family pushes a young daughter into the king's bed. Her sister Anne soon takes her place, and both are caught between family loyalty and rivalry.",
+  "readIf": "you want a page-turning, soapy take on the Tudor court that is full of rivalry and bad decisions.",
+  "skipIf": "you want strict history, as the novel changes and dramatises many events.",
+  "pairings": [
+    {
+      "slug": "wolf-hall",
+      "reason": "Covers the same court and period in much more literary, probing prose and from the opposite point of view.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "outlander",
+      "reason": "Another long, romantic historical saga that mixes love, danger and a strong heroine.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-thorn-birds",
+      "reason": "A sweeping family drama of forbidden desire and ambition, in a very different setting.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781416556534",
+    "https://en.wikipedia.org/wiki/The_Other_Boleyn_Girl",
+    "https://hardcover.app/books/the-other-boleyn-girl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

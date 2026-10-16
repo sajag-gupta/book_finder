@@ -1,0 +1,44 @@
+{
+  "slug": "the-eye-of-the-world",
+  "title": "The Eye of the World",
+  "author": "Robert Jordan",
+  "isbn13": "9780812500493",
+  "firstPublished": 1990,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "mysterious"],
+  "tropes": ["chosen-one", "quest", "coming-of-age", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "After a night attack on their quiet village, three young friends are hurried away by a mysterious woman and a wandering guide. They learn that they may be tied to a prophecy about a dark power returning to the world.",
+  "readIf": "you want a classic, slow-building fantasy quest that opens up into a huge, richly layered world.",
+  "skipIf": "you want fresh plotting, since the start borrows heavily from older fantasy, and it is long.",
+  "pairings": [
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "reason": "The model for this opening, with a similar flight from home and a hidden danger on the road.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A faster, more tightly plotted epic fantasy with a crisp system of magic.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "eragon",
+      "reason": "A simpler, younger-feeling fantasy with a similar farm-boy-to-hero beginning.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812500493",
+    "https://en.wikipedia.org/wiki/The_Eye_of_the_World"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

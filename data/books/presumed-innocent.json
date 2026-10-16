@@ -1,0 +1,45 @@
+{
+  "slug": "presumed-innocent",
+  "title": "Presumed Innocent",
+  "author": "Scott Turow",
+  "isbn13": "9780374701093",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "thoughtful"],
+  "tropes": ["whodunit", "twist-ending"],
+  "warnings": ["death", "sexual-assault", "infidelity"],
+  "summary": "A veteran prosecutor is asked to investigate the murder of a colleague with whom he once had an affair. As evidence mounts, he finds himself the accused in his own courtroom.",
+  "readIf": "you like legal thrillers with a deep look at ambition, marriage and how the courts really work.",
+  "skipIf": "you want fast action; it is a measured, procedural book with a lot of talk.",
+  "pairings": [
+    {
+      "slug": "a-time-to-kill",
+      "reason": "Another courtroom drama, but with a clearer moral spine and a more emotional centre.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-firm",
+      "reason": "A faster, lighter legal thriller with a young lawyer who finds out his job is dangerous.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-talented-mr-ripley",
+      "reason": "Another study of a cool, plausible man dealing with a crime that threatens to expose him.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780374701093",
+    "https://en.wikipedia.org/wiki/Presumed_Innocent_(film)",
+    "https://hardcover.app/books/presumed-innocent"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

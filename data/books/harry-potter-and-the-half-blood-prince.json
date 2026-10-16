@@ -1,0 +1,44 @@
+{
+  "slug": "harry-potter-and-the-half-blood-prince",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "author": "J. K. Rowling",
+  "isbn13": "9781644732120",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "melancholic", "tense"],
+  "tropes": ["magic-school", "chosen-one", "secret-society", "coming-of-age"],
+  "warnings": ["death", "violence", "grief"],
+  "summary": "As the wizarding world slides toward open war, Harry takes private lessons with the headmaster to learn about the enemy's past. A battered old potions textbook and a suspicion about a rival add to a year of growing up and growing worry.",
+  "readIf": "you want a book that mixes teenage crushes with a deepening mystery about a villain's origins.",
+  "skipIf": "you haven't read the earlier books, since this makes sense only as part of the whole.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-deathly-hallows",
+      "reason": "The final book, where everything set up here comes to a head.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another story about a gifted young person at a school of magic, with a more adult, lyrical voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-darker-shade-of-magic",
+      "reason": "A fast, moodier fantasy with a charming rogue and a layered magical world.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781644732120",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

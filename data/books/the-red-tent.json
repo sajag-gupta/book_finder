@@ -1,0 +1,45 @@
+{
+  "slug": "the-red-tent",
+  "title": "The Red Tent",
+  "author": "Anita Diamant",
+  "isbn13": "9781568958972",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["haunting", "nostalgic", "thoughtful"],
+  "tropes": ["family-saga", "gods-and-myth"],
+  "warnings": ["violence", "death", "sexual-content"],
+  "summary": "Retells a short episode of Genesis through the eyes of Dinah, Jacob's daughter. Her story is set among the women of the family, who share their rituals, births and secrets in the red tent.",
+  "readIf": "you like biblical retellings that centre women's lives, rituals and friendships.",
+  "skipIf": "you want a literal retelling; this novel reimagines and softens key events.",
+  "pairings": [
+    {
+      "slug": "circe",
+      "reason": "Another retelling of an ancient story from a woman's point of view, richly detailed and emotionally close.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-song-of-achilles",
+      "reason": "Reworks a famous myth into an intimate love story, with the same blend of tenderness and tragedy.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "reason": "Another first-person account of a woman's life within a closed world of rules and rituals.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781568958972",
+    "https://en.wikipedia.org/wiki/The_Red_Tent_(Diamant_novel)",
+    "https://hardcover.app/books/the-red-tent"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

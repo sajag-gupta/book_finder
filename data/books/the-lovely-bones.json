@@ -1,0 +1,45 @@
+{
+  "slug": "the-lovely-bones",
+  "title": "The Lovely Bones",
+  "author": "Alice Sebold",
+  "isbn13": "9781407405988",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["literary", "mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "haunting", "hopeful"],
+  "tropes": [],
+  "warnings": ["sexual-assault", "child-death", "death", "grief", "violence"],
+  "summary": "Fourteen-year-old Susie Salmon narrates from her own heaven after she was murdered in 1973, watching her family fall apart and heal as the police search for the man who killed her.",
+  "readIf": "you want a tender, strange novel about grief that looks at a family's recovery.",
+  "skipIf": "the rape and murder of a child, even handled with restraint, is too much.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "Another novel narrated from beyond, centred on a young girl and the aftermath of loss.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "sharp-objects",
+      "reason": "A much harder, nastier novel about harm to girls and what a community hides.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A more hopeful book that also imagines life beyond the end.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407405988",
+    "https://en.wikipedia.org/wiki/The_Lovely_Bones",
+    "https://hardcover.app/books/the-lovely-bones"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

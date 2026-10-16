@@ -1,0 +1,45 @@
+{
+  "slug": "guards-guards",
+  "title": "Guards! Guards!",
+  "author": "Terry Pratchett",
+  "isbn13": "9781473230705",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "adventurous"],
+  "tropes": ["satire", "detective", "monster", "dragons"],
+  "warnings": ["death"],
+  "summary": "A secret order summons a dragon to Ankh-Morpork in order to install a puppet king, and the city's neglected, underpaid Night Watch is left to deal with it. Led by the weary Captain Vimes and a new recruit, they have to investigate.",
+  "readIf": "you want a funny, clever fantasy detective story with a loveable ragtag police force.",
+  "skipIf": "you want a very serious fantasy, as it is full of puns, parody and footnotes.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Same co-author, a similarly witty and humane comedy about people muddling through a supernatural mess.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mort",
+      "reason": "Another Discworld novel that is gentler and more about growing up, with Death as a major character.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another fantasy set in a gritty city with sharp humour, though far more violent and adult.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473230705",
+    "https://en.wikipedia.org/wiki/Guards!_Guards!",
+    "https://hardcover.app/books/guards-guards"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

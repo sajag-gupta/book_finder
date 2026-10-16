@@ -1,0 +1,45 @@
+{
+  "slug": "shogun",
+  "title": "Shōgun",
+  "author": "James Clavell",
+  "isbn13": "9780440178002",
+  "firstPublished": 1975,
+  "series": null,
+  "genres": ["historical", "adventure"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "tense", "adventurous"],
+  "tropes": ["political-intrigue", "war-story"],
+  "warnings": ["violence", "war", "death", "sexual-content"],
+  "summary": "In 1600, an English ship's pilot is shipwrecked in feudal Japan, where rival warlords are competing for control of the country. Both he and the people who hold him captive have reasons to use each other.",
+  "readIf": "you want a huge, immersive historical epic about culture clash and political scheming.",
+  "skipIf": "you want a quick read, or are wary of a Western perspective on Japan.",
+  "pairings": [
+    {
+      "slug": "the-pillars-of-the-earth",
+      "reason": "Another huge historical novel full of rivalries and power plays.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "reason": "Another novel set in Japan, with an intimate focus on one woman.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "A fantasy saga with the same scheming and shifting alliances.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780440178002",
+    "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(novel)",
+    "https://hardcover.app/books/shogun"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

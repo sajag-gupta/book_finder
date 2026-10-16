@@ -1,0 +1,45 @@
+{
+  "slug": "it",
+  "title": "It",
+  "author": "Stephen King",
+  "isbn13": "9781623300890",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["spooky", "dark", "nostalgic"],
+  "tropes": ["monster", "coming-of-age", "dual-timeline"],
+  "warnings": ["violence", "gore", "child-death", "bullying", "child-abuse", "homophobia"],
+  "summary": "In Derry, Maine, a group of outcast children band together to fight a shape-shifting creature that preys on the town's young. Twenty-seven years later, the survivors must return and finish what they began.",
+  "readIf": "you like a long, character-rich horror novel that is as much about childhood friendship as about fear.",
+  "skipIf": "you want a short read or are bothered by stories involving harm to children.",
+  "pairings": [
+    {
+      "slug": "salems-lot",
+      "reason": "Another King story of a New England town quietly eaten from within by something old.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-ocean-at-the-end-of-the-lane",
+      "reason": "A far gentler, shorter story about childhood, memory and a supernatural threat.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-only-good-indians",
+      "reason": "Horror about a past act that comes back for a group of friends in later life.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781623300890",
+    "https://en.wikipedia.org/wiki/It_(novel)",
+    "https://hardcover.app/books/it"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

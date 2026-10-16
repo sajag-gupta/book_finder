@@ -1,0 +1,45 @@
+{
+  "slug": "a-farewell-to-arms",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "isbn13": "9781521308202",
+  "firstPublished": 1929,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "melancholic"],
+  "tropes": ["war-story", "star-crossed-lovers"],
+  "warnings": ["war", "death", "grief", "child-death"],
+  "summary": "An American ambulance driver serving with the Italian army in the First World War falls in love with an English nurse. As the war turns against Italy, the pair try to escape the front together.",
+  "readIf": "you want a short, direct war love story written in plain, controlled sentences.",
+  "skipIf": "you want a happy ending; the book is open about its tragedy from early on.",
+  "pairings": [
+    {
+      "slug": "for-whom-the-bell-tolls",
+      "reason": "The author's larger, more political war novel, set in the Spanish Civil War.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-sun-also-rises",
+      "reason": "The author's other classic, with the aftermath of war felt in the characters' drifting lives.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "atonement",
+      "reason": "Another war-tinged love story that cuts deep and is shaped by a single mistake.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781521308202",
+    "https://en.wikipedia.org/wiki/A_Farewell_to_Arms",
+    "https://hardcover.app/books/a-farewell-to-arms"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ugly-love",
+  "title": "Ugly Love",
+  "author": "Colleen Hoover",
+  "isbn13": "9781476753188",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking"],
+  "tropes": ["dual-timeline", "second-chance"],
+  "warnings": ["sexual-content", "grief", "death"],
+  "summary": "Tate, a nurse trainee, and Miles, a pilot who's closed off to love, agree to a purely physical arrangement with strict rules. Chapters from his past explain why he can't let anyone in.",
+  "readIf": "you want an angsty, steamy romance with a wounded hero and a heartbreaking backstory.",
+  "skipIf": "you dislike emotionally unavailable heroes or a hot-and-cold relationship.",
+  "pairings": [
+    {
+      "slug": "reminders-of-him",
+      "reason": "Another Hoover novel where grief and a past mistake stand between two people.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-deal",
+      "reason": "A sportier, lighter college romance that begins as an arrangement and turns real.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "november-9",
+      "reason": "Another Hoover romance with a time-spanning structure and an emotional reveal.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781476753188",
+    "https://hardcover.app/books/ugly-love"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

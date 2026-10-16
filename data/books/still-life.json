@@ -1,0 +1,45 @@
+{
+  "slug": "still-life",
+  "title": "Still Life",
+  "author": "Louise Penny",
+  "isbn13": "9780755328895",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["mystery", "crime"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["cozy", "mysterious", "comforting"],
+  "tropes": ["detective", "whodunit", "small-town"],
+  "warnings": ["death"],
+  "summary": "In a hidden Quebec village, a beloved retired teacher is found dead in the woods, seemingly the victim of a hunting accident. Chief Inspector Armand Gamache arrives and starts to suspect it was murder.",
+  "readIf": "you like gentle, humane mysteries with a charming village and a kind, intelligent detective.",
+  "skipIf": "you want a fast, dark thriller, as the focus is on character and community.",
+  "pairings": [
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "Another warm, funny whodunit with a lovable community and an easy rhythm.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A bigger-city detective story with a similar patient, character-led approach.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "death-on-the-nile",
+      "reason": "A classic puzzle mystery that shares the pleasure of a wide circle of suspects.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780755328895",
+    "https://en.wikipedia.org/wiki/Still_Life_(Penny_novel)",
+    "https://hardcover.app/books/still-life-2005"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

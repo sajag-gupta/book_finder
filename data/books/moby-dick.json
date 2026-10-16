@@ -1,0 +1,45 @@
+{
+  "slug": "moby-dick",
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "isbn13": "9781987650075",
+  "firstPublished": 1851,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "dark", "thoughtful"],
+  "tropes": ["quest", "revenge"],
+  "warnings": ["violence", "death", "animal-death"],
+  "summary": "Ishmael signs on to the whaling ship Pequod, whose captain, Ahab, is obsessed with hunting the white whale that took his leg. The novel mixes the voyage with long chapters on whales, ships and philosophy.",
+  "readIf": "you like ambitious, strange, encyclopedic novels with lots to chew on.",
+  "skipIf": "you want a swift adventure or are distressed by detailed whaling scenes.",
+  "pairings": [
+    {
+      "slug": "the-old-man-and-the-sea",
+      "reason": "A short, spare story of one man and one great fish, with a similar sense of struggle against nature.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "heart-of-darkness",
+      "reason": "Another short, dark story of a trip into the unknown and a man consumed by obsession.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "life-of-pi",
+      "reason": "A more modern, magical story of survival at sea.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781987650075",
+    "https://en.wikipedia.org/wiki/Moby-Dick",
+    "https://hardcover.app/books/moby-dick"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

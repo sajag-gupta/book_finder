@@ -1,0 +1,45 @@
+{
+  "slug": "carrie-soto-is-back",
+  "title": "Carrie Soto Is Back",
+  "author": "Taylor Jenkins Reid",
+  "isbn13": "9780593158692",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "tense", "heartbreaking"],
+  "tropes": ["sports", "second-chance", "redemption"],
+  "warnings": ["grief"],
+  "summary": "A retired tennis champion, disliked for her cold and fierce style, sees her record broken and decides at thirty-seven to come back to win it back. Her father coaches her, and the comeback is as much about her past as her game.",
+  "readIf": "you want a story of ambition and stubborn pride, with a heroine who is difficult and compelling.",
+  "skipIf": "you want a romance front and centre, as this is mainly about her sport, family and legacy.",
+  "pairings": [
+    {
+      "slug": "daisy-jones-and-the-six",
+      "reason": "Same author and another story of a talented woman judged harshly for her ambition.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "tomorrow-and-tomorrow-and-tomorrow",
+      "reason": "Another long look at obsessive creative or competitive drive and what it does to relationships.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "lessons-in-chemistry",
+      "reason": "Another determined woman refusing to shrink herself in a world built against her.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593158692",
+    "https://en.wikipedia.org/wiki/Carrie_Soto_Is_Back",
+    "https://hardcover.app/books/carrie-soto-is-back"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

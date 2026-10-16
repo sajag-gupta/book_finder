@@ -1,0 +1,45 @@
+{
+  "slug": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "isbn13": "9781546785484",
+  "firstPublished": 1813,
+  "series": null,
+  "genres": ["romance", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["witty", "swoony", "comforting"],
+  "tropes": ["enemies-to-lovers", "slow-burn"],
+  "warnings": [],
+  "summary": "In Regency England, sharp-tongued Elizabeth Bennet, one of five sisters whose family estate is entailed away, forms a snap judgement of the proud, wealthy Mr Darcy, and he must change his own as well.",
+  "readIf": "you love dry humour, sparkling dialogue and a romance built on mutual misjudgement.",
+  "skipIf": "you want modern settings or can't take a lot of drawing-room conversation.",
+  "pairings": [
+    {
+      "slug": "persuasion",
+      "reason": "Austen's quieter, more mature romance about second chances and regret.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "A modern office romance built on the same sparring and slow thaw.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "bridget-joness-diary",
+      "reason": "A funny modern reworking of the same story, with plenty of mishaps.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781546785484",
+    "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+    "https://hardcover.app/books/pride-and-prejudice"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "it-ends-with-us",
+  "title": "It Ends with Us",
+  "author": "Colleen Hoover",
+  "isbn13": "9781982143657",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "hopeful"],
+  "tropes": ["second-chance", "love-triangle"],
+  "warnings": ["domestic-violence", "abuse", "death"],
+  "summary": "Lily, who is starting a flower shop in Boston, falls for Ryle, a charming neurosurgeon, just as a boy from her past returns. Her new relationship is not as safe as it looks.",
+  "readIf": "you want an emotional, fast-reading romance that takes on a hard topic honestly.",
+  "skipIf": "domestic violence is something you want to avoid, even in a romance.",
+  "pairings": [
+    {
+      "slug": "reminders-of-him",
+      "reason": "Another Hoover novel with a heavy emotional core and a second chance at love.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Another popular novel about domestic abuse hidden behind a good-looking life, with a mystery.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-color-purple",
+      "reason": "A classic that looks at abuse and a woman's path to freedom.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781982143657",
+    "https://en.wikipedia.org/wiki/It_Ends_with_Us",
+    "https://hardcover.app/books/it-ends-with-us"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

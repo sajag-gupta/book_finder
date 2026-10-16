@@ -1,0 +1,45 @@
+{
+  "slug": "pachinko",
+  "title": "Pachinko",
+  "author": "Min Jin Lee",
+  "isbn13": "9781786691378",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "epic", "thoughtful"],
+  "tropes": ["family-saga"],
+  "warnings": ["racism", "prejudice", "death", "suicide", "war"],
+  "summary": "Starting in a Korean fishing village in the early twentieth century, the novel follows one family across four generations as they move to Japan and struggle with discrimination, poverty and ambition.",
+  "readIf": "you like generational sagas that show history through the daily choices of ordinary people.",
+  "skipIf": "you want a single clear protagonist, or a book without a lot of loss and hardship.",
+  "pairings": [
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "Another multi-decade story of resilient people under heavy social pressure, with similar emotional force.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cutting-for-stone",
+      "reason": "A big family saga with a medical backdrop and a similar mix of tragedy and hope.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "reason": "Another look at Japan through the eyes of a woman from a poor background, in a more glossy, romantic register.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781786691378",
+    "https://en.wikipedia.org/wiki/Pachinko_(novel)",
+    "https://hardcover.app/books/pachinko"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

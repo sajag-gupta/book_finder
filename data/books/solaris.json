@@ -1,0 +1,40 @@
+{
+  "slug": "solaris",
+  "title": "Solaris",
+  "author": "Stanisław Lem",
+  "isbn13": "9780425049884",
+  "firstPublished": 1961,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["haunting", "mind-bending", "melancholic"],
+  "tropes": ["first-contact"],
+  "warnings": ["suicide", "grief", "death"],
+  "summary": "A psychologist arrives at a research station above an ocean that may be alive, and finds the crew in a state of fear. Soon he is visited by the shape of someone he lost, and the ocean seems to be reading his mind.",
+  "readIf": "you like quiet, strange science fiction that asks whether we could ever truly understand an alien mind.",
+  "skipIf": "you want an adventure with answers, because the long passages about imagined science are intentionally frustrating.",
+  "pairings": [
+    {
+      "slug": "annihilation",
+      "reason": "A modern, equally eerie look at a place that changes the people who enter it.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "2001-a-space-odyssey",
+      "reason": "A more visionary and hopeful treatment of a human encounter with a vast intelligence.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425049884",
+    "https://en.wikipedia.org/wiki/Solaris_(novel)",
+    "https://hardcover.app/books/solaris"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

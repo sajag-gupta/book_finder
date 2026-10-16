@@ -1,0 +1,44 @@
+{
+  "slug": "around-the-world-in-eighty-days",
+  "title": "Around the World in Eighty Days",
+  "author": "Jules Verne",
+  "isbn13": "9781534792999",
+  "firstPublished": 1872,
+  "series": null,
+  "genres": ["adventure", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "witty", "hopeful"],
+  "tropes": ["road-trip", "quest"],
+  "warnings": [],
+  "summary": "A precise and unflappable English gentleman bets his friends that he can circle the globe in eighty days. With his resourceful servant, he races across continents while a detective tracks him.",
+  "readIf": "you want a cheerful, quick-moving classic where every obstacle is another reason to enjoy the ride.",
+  "skipIf": "you want deep characters; the fun is in the speed and the clever logistics.",
+  "pairings": [
+    {
+      "slug": "twenty-thousand-leagues-under-the-sea",
+      "reason": "Another Verne adventure, moodier and more scientific, which takes the reader below the waves.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A comfortable, fussy hero is dragged on a long trip and discovers he enjoys it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "An equally breezy, comic journey, with the whole universe in place of the globe.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781534792999",
+    "https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

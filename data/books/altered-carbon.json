@@ -1,0 +1,45 @@
+{
+  "slug": "altered-carbon",
+  "title": "Altered Carbon",
+  "author": "Richard K. Morgan",
+  "isbn13": "9781400101375",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "mind-bending"],
+  "tropes": ["detective", "morally-grey"],
+  "warnings": ["violence", "torture", "gore", "sexual-content"],
+  "summary": "In a future where minds can be stored and moved between bodies, a hard-edged former soldier is revived in a stranger's body to investigate the apparent suicide of a very rich man. The rich man claims it was murder.",
+  "readIf": "you like violent, noir-flavoured science fiction with a cynical lead and a twisty case.",
+  "skipIf": "you are put off by graphic violence, torture and a bleak view of the powerful.",
+  "pairings": [
+    {
+      "slug": "neuromancer",
+      "reason": "The foundational cyberpunk novel this one is indebted to, a stylish, stranger and less violent read.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-big-sleep",
+      "reason": "The classic private-eye story in which a cynical detective is hired by a rich family with a lot to hide.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A space-opera mystery with a similarly gritty detective at its centre.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781400101375",
+    "https://en.wikipedia.org/wiki/Altered_Carbon",
+    "https://hardcover.app/books/altered-carbon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

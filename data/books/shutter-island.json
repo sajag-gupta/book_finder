@@ -1,0 +1,45 @@
+{
+  "slug": "shutter-island",
+  "title": "Shutter Island",
+  "author": "Dennis Lehane",
+  "isbn13": "9780061703256",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["detective", "twist-ending"],
+  "warnings": ["violence", "death", "mental-illness"],
+  "summary": "In 1954 a U.S. marshal and his partner travel to an island hospital for the criminally insane to find a patient who has vanished from a locked room. A hurricane cuts them off, and the staff are hiding something.",
+  "readIf": "you like a claustrophobic mystery with a storm, a gothic setting and an ending you will want to discuss.",
+  "skipIf": "you would rather have a straightforward procedural with no twists.",
+  "pairings": [
+    {
+      "slug": "the-silent-patient",
+      "reason": "Another psychiatric-setting thriller built around one big revelation.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mystic-river",
+      "reason": "Same author, a slower and more tragic crime novel set in a Boston neighbourhood.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "one-flew-over-the-cuckoos-nest",
+      "reason": "A classic set inside a psychiatric ward, asking who is really sick.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061703256",
+    "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+    "https://hardcover.app/books/shutter-island"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

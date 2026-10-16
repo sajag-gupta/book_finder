@@ -1,0 +1,45 @@
+{
+  "slug": "the-old-man-and-the-sea",
+  "title": "The Old Man and the Sea",
+  "author": "Ernest Hemingway",
+  "isbn13": "9780099908401",
+  "firstPublished": 1952,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful", "inspiring"],
+  "tropes": ["survival"],
+  "warnings": ["animal-death"],
+  "summary": "An aging Cuban fisherman who has gone eighty-four days without a catch rows far out into the Gulf and hooks an enormous marlin, beginning a three-day struggle of endurance.",
+  "readIf": "you want a spare, meditative short novel about dignity, effort and stubborn pride.",
+  "skipIf": "you want dialogue, a large cast or much happening.",
+  "pairings": [
+    {
+      "slug": "moby-dick",
+      "reason": "The huge, ornate counterpart: another man against a great sea creature, on an epic scale.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "life-of-pi",
+      "reason": "Another survival story at sea that doubles as a meditation on faith and endurance.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A simpler, younger survival story of a lone person against nature.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 13,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099908401",
+    "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea",
+    "https://hardcover.app/books/the-old-man-and-the-sea"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

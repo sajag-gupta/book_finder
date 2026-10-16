@@ -1,0 +1,45 @@
+{
+  "slug": "origin",
+  "title": "Origin",
+  "author": "Dan Brown",
+  "isbn13": "9780593078754",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "mind-bending"],
+  "tropes": ["secret-society", "artificial-intelligence"],
+  "warnings": ["violence", "death"],
+  "summary": "Robert Langdon attends a museum event in Bilbao where a former student plans to reveal a discovery that will shake the world's religions. The presentation is cut short, and Langdon is soon being pursued.",
+  "readIf": "you want another fast, puzzle-filled Langdon chase through art, architecture and big ideas.",
+  "skipIf": "you want fresh storytelling; the formula and its cliffhanger chapters are in full force.",
+  "pairings": [
+    {
+      "slug": "the-da-vinci-code",
+      "reason": "The first Langdon novel, whose mix of hidden history and brisk chapters is the template here.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "digital-fortress",
+      "reason": "An earlier thriller by the same author that also centres on powerful computing and secrecy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "recursion",
+      "reason": "A science-driven thriller with a bigger, stranger central idea and a similar breakneck feel.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593078754",
+    "https://en.wikipedia.org/wiki/Origin_(Brown_novel)",
+    "https://hardcover.app/books/origin-4b01071a-df52-4b44-a479-755e1335503b"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

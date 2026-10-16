@@ -1,0 +1,44 @@
+{
+  "slug": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "isbn13": "9781593420444",
+  "firstPublished": 1902,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["spooky", "mysterious", "tense"],
+  "tropes": ["detective", "whodunit"],
+  "warnings": ["death"],
+  "summary": "A family curse speaks of a huge spectral hound on the Devon moors, and the latest heir fears he will be its next victim. Holmes sends Watson to the lonely moorland house to keep watch.",
+  "readIf": "you want an atmospheric, creepy Holmes case with a strong setting.",
+  "skipIf": "you want Holmes at the centre of every scene, since he is absent for much of the middle.",
+  "pairings": [
+    {
+      "slug": "a-study-in-scarlet",
+      "reason": "The first Holmes novel, which is a good place to see how the detective and his friend began.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "Another story in which an old English house and its past hold the real menace.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A modern, grounded detective duo in the Holmes tradition, with a gentler sense of dread.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781593420444",
+    "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

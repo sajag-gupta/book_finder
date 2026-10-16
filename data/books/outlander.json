@@ -1,0 +1,45 @@
+{
+  "slug": "outlander",
+  "title": "Outlander",
+  "author": "Diana Gabaldon",
+  "isbn13": "9780385302302",
+  "firstPublished": 1991,
+  "series": null,
+  "genres": ["historical", "romance"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "swoony", "tense"],
+  "tropes": ["time-travel", "forced-proximity", "marriage-of-convenience"],
+  "warnings": ["violence", "sexual-assault", "torture", "sexual-content", "war", "death"],
+  "summary": "A married British combat nurse touches a standing stone in the Scottish Highlands in 1945 and finds herself in the 1740s. She is drawn into the clans' politics and into a marriage to a young Highland warrior.",
+  "readIf": "you want a long, absorbing historical romance with adventure, danger and a lot of Scottish detail.",
+  "skipIf": "you want a light read or are uneasy with graphic violence and sexual cruelty in the text.",
+  "pairings": [
+    {
+      "slug": "the-pillars-of-the-earth",
+      "reason": "A very long, immersive historical novel with violence, ambition and a love story inside it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "Another time-travel romance, but contemporary and more intimate than adventurous.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-duke-and-i",
+      "reason": "A much lighter, shorter historical romance for when you want the period charm without the brutality.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385302302",
+    "https://en.wikipedia.org/wiki/Outlander_(novel)",
+    "https://hardcover.app/books/outlander"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

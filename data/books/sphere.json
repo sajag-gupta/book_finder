@@ -1,0 +1,45 @@
+{
+  "slug": "sphere",
+  "title": "Sphere",
+  "author": "Michael Crichton",
+  "isbn13": "9780394561103",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious", "mind-bending"],
+  "tropes": ["survival", "first-contact"],
+  "warnings": ["death"],
+  "summary": "A psychologist and a small team of experts are called to a deep-sea habitat in the Pacific, where a huge object has been found on the ocean floor. Strange things begin to happen once they go inside it.",
+  "readIf": "you like science thrillers set in a sealed location with a big, creepy unknown at the centre.",
+  "skipIf": "you want a neat explanation; the ending is more atmospheric than satisfying for some readers.",
+  "pairings": [
+    {
+      "slug": "the-andromeda-strain",
+      "reason": "Another Crichton thriller that tracks a team of scientists confronted with something alien.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "A creepier, more literary expedition into an unexplainable zone where the rules no longer apply.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "solaris",
+      "reason": "A philosophical classic about humans meeting an intelligence they cannot understand.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780394561103",
+    "https://en.wikipedia.org/wiki/Sphere_(novel)",
+    "https://hardcover.app/books/sphere"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

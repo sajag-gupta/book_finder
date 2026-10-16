@@ -1,0 +1,40 @@
+{
+  "slug": "dune-messiah",
+  "title": "Dune Messiah",
+  "author": "Frank Herbert",
+  "isbn13": "9780441172696",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "melancholic", "thoughtful"],
+  "tropes": ["political-intrigue", "morally-grey"],
+  "warnings": ["violence", "death", "war", "manipulation"],
+  "summary": "Twelve years after taking the throne, Paul rules an empire swept by a religious war carried out in his name. Old enemies and a handful of insiders plot to bring him down.",
+  "readIf": "you finished Dune and want the sharp, sombre follow-up about what power does to a hero.",
+  "skipIf": "you want more desert adventure, since this is shorter, talkier and more of a tragedy than a sequel in spirit.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Read this first, since the sequel's weight depends on what the original set up.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "Another dense far-future work about religion, power and an empire sliding toward ruin.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780441172696",
+    "https://en.wikipedia.org/wiki/Dune_Messiah",
+    "https://hardcover.app/books/dune-messiah"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

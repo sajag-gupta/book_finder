@@ -1,0 +1,45 @@
+{
+  "slug": "daisy-jones-and-the-six",
+  "title": "Daisy Jones & the Six",
+  "author": "Taylor Jenkins Reid",
+  "isbn13": "9781524798628",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["literary", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["nostalgic", "heartbreaking", "swoony"],
+  "tropes": ["celebrity-romance", "epistolary", "forbidden-love"],
+  "warnings": ["addiction", "infidelity", "mental-illness"],
+  "summary": "Told as an oral history, this follows a 1970s Los Angeles rock band that becomes huge when a magnetic young singer joins it. The interviews trace the music, the rivalry and the break-up that ended it.",
+  "readIf": "you want a fast, vivid story of fame and creative sparks that reads like a documentary.",
+  "skipIf": "you dislike interview-style narration or stories where drug use is central.",
+  "pairings": [
+    {
+      "slug": "the-seven-husbands-of-evelyn-hugo",
+      "reason": "Same author and another glamorous, emotional look back at a famous woman's hidden life.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "malibu-rising",
+      "reason": "Same author, trading the band for a single famous family and one explosive night.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A quieter, more intense look at two people who keep drifting together and apart.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781524798628",
+    "https://en.wikipedia.org/wiki/Daisy_Jones_%26_the_Six",
+    "https://hardcover.app/books/daisy-jones-the-six"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

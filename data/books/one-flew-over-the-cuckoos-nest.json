@@ -1,0 +1,44 @@
+{
+  "slug": "one-flew-over-the-cuckoos-nest",
+  "title": "One Flew Over the Cuckoo's Nest",
+  "author": "Ken Kesey",
+  "isbn13": "9780451078353",
+  "firstPublished": 1962,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "thoughtful", "tense"],
+  "tropes": ["rebellion"],
+  "warnings": ["mental-illness", "abuse", "violence", "death", "racism"],
+  "summary": "Con man Randle McMurphy fakes madness to avoid a prison work farm and finds himself on a psychiatric ward run by the cold, controlling Nurse Ratched. The story is narrated by Chief Bromden, a silent patient.",
+  "readIf": "you like a classic about institutions, authority and one person's defiance.",
+  "skipIf": "you are bothered by outdated attitudes to mental illness, race and women, which show up in the book.",
+  "pairings": [
+    {
+      "slug": "catch-22",
+      "reason": "Another satire of a rigid institution where logic is turned against the people in it.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-bell-jar",
+      "reason": "A woman's account of depression and psychiatric treatment in the same era.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "shutter-island",
+      "reason": "A thriller set in a mental hospital where nothing is quite as it appears.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451078353",
+    "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo's_Nest_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

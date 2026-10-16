@@ -1,0 +1,45 @@
+{
+  "slug": "elantris",
+  "title": "Elantris",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780765381026",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "hopeful", "epic"],
+  "tropes": ["political-intrigue", "royalty", "marriage-of-convenience"],
+  "warnings": ["religious-extremism", "violence", "death"],
+  "summary": "A once-magnificent city of gods has fallen into ruin, and those struck by its curse are thrown inside to rot. A prince, a princess and a zealous priest each struggle to decide its fate.",
+  "readIf": "you like fantasy with clever political plotting, and a magic system that you can work out.",
+  "skipIf": "you want elaborate, polished prose; it is the author's first novel and reads like a puzzle first.",
+  "pairings": [
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "The author's better-known novel, with a tighter plot and a heist at its heart.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "tress-of-the-emerald-sea",
+      "reason": "A much lighter and quirkier tale from the same author, with an equally inventive magic system.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hundred-thousand-kingdoms",
+      "reason": "Another fantasy driven by palace politics and the machinations of gods.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765381026",
+    "https://en.wikipedia.org/wiki/Elantris",
+    "https://hardcover.app/books/elantris"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

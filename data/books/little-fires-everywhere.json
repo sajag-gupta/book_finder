@@ -1,0 +1,40 @@
+{
+  "slug": "little-fires-everywhere",
+  "title": "Little Fires Everywhere",
+  "author": "Celeste Ng",
+  "isbn13": "9780525507505",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "tense", "dark"],
+  "tropes": ["small-town"],
+  "warnings": [],
+  "summary": "In the planned community of Shaker Heights, Ohio, the orderly Richardson family rents a house to an artist, Mia Warren, and her teenage daughter. A custody battle over a baby soon divides the town.",
+  "readIf": "you like domestic fiction about families, class, race and the secrets in tidy suburbs.",
+  "skipIf": "you want a fast plot, since it is a slow, character-driven story.",
+  "pairings": [
+    {
+      "slug": "big-little-lies",
+      "reason": "Another novel about suburban mothers, secrets and a community that polices itself.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-corrections",
+      "reason": "A larger family novel about a Midwestern household's quiet dysfunction.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525507505",
+    "https://en.wikipedia.org/wiki/Little_Fires_Everywhere_(novel)",
+    "https://hardcover.app/books/little-fires-everywhere"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

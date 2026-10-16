@@ -1,0 +1,45 @@
+{
+  "slug": "breaking-dawn",
+  "title": "Breaking Dawn",
+  "author": "Stephenie Meyer",
+  "isbn13": "9781410413536",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["young-adult", "romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "tense", "adventurous"],
+  "tropes": ["vampires", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "The final Twilight book begins with a wedding and honeymoon, then moves into an unexpected pregnancy. It ends with the Cullens gathering allies against a threat from the vampire ruling council.",
+  "readIf": "you have followed the series and want to see how Bella and Edward's story concludes.",
+  "skipIf": "you have not read the earlier books, or dislike a story whose midsection turns on a dramatic, graphic birth.",
+  "pairings": [
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "A much older and more adult look at the experience of being a vampire, full of philosophy and loss.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "shadow-and-bone",
+      "reason": "Another young adult fantasy with a heroine discovering her power and a dangerous, charismatic attraction.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A more mature fantasy romance that also puts a human woman into a world of powerful immortals.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781410413536",
+    "https://en.wikipedia.org/wiki/Breaking_Dawn",
+    "https://hardcover.app/books/breaking-dawn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "message-in-a-bottle",
+  "title": "Message in a Bottle",
+  "author": "Nicholas Sparks",
+  "isbn13": "9780759517936",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["melancholic", "swoony", "heartbreaking"],
+  "tropes": ["second-chance", "epistolary", "slow-burn"],
+  "warnings": ["grief", "death"],
+  "summary": "A divorced newspaper researcher finds a love letter in a bottle on a beach and becomes fascinated by its writer, a widower. She tracks him down on the North Carolina coast, and a relationship begins that she is not fully honest about.",
+  "readIf": "you like quiet, coastal love stories about grief and starting again, with a good deal of sadness.",
+  "skipIf": "you want humour or a happy resolution, or you are not drawn to sentimental, slower-paced romance.",
+  "pairings": [
+    {
+      "slug": "the-notebook",
+      "reason": "Same author, the same seaside Southern setting and a similar tender, tearful feeling.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bridges-of-madison-county",
+      "reason": "Both tell of a mature romance with an aching sense of what might have been.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "me-before-you",
+      "reason": "Another bittersweet romance where grief and hard choices sit close to the love story.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780759517936",
+    "https://en.wikipedia.org/wiki/Message_in_a_Bottle_(film)",
+    "https://hardcover.app/books/message-in-a-bottle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

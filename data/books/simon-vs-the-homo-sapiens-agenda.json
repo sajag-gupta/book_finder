@@ -1,0 +1,45 @@
+{
+  "slug": "simon-vs-the-homo-sapiens-agenda",
+  "title": "Simon vs. the Homo Sapiens Agenda",
+  "author": "Becky Albertalli",
+  "isbn13": "9780062348678",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "hopeful", "swoony"],
+  "tropes": ["coming-of-age", "epistolary"],
+  "warnings": ["homophobia", "bullying"],
+  "summary": "Sixteen-year-old Simon has been emailing an anonymous boy at his school. When a classmate finds the emails and uses them for leverage, Simon must handle his secret on someone else's terms.",
+  "readIf": "you want a funny, warm, big-hearted teen romance about coming out and the awkward business of growing up.",
+  "skipIf": "you want deep conflict or a more complex plot.",
+  "pairings": [
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "An adult romcom with the same joyful, witty queer love story.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "aristotle-and-dante-discover-the-secrets-of-the-universe",
+      "reason": "A quieter, more lyrical story of two boys coming to terms with who they are.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "Another sweet, funny and very human high school romance.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062348678",
+    "https://en.wikipedia.org/wiki/Simon_vs._the_Homo_Sapiens_Agenda",
+    "https://hardcover.app/books/simon-vs-the-homo-sapiens-agenda"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

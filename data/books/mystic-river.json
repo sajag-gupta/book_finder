@@ -1,0 +1,45 @@
+{
+  "slug": "mystic-river",
+  "title": "Mystic River",
+  "author": "Dennis Lehane",
+  "isbn13": "9780062068408",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "heartbreaking", "tense"],
+  "tropes": ["detective"],
+  "warnings": ["violence", "death", "child-sexual-abuse", "kidnapping", "grief"],
+  "summary": "Three boys from a Boston neighbourhood are changed forever when one is abducted. Decades later, one friend's daughter is murdered, and the police detective on the case is another of the three.",
+  "readIf": "you want a crime novel that cares more about grief, class and old wounds than about clever clues.",
+  "skipIf": "you are sensitive to stories involving harm to children, or want a light read.",
+  "pairings": [
+    {
+      "slug": "in-the-woods",
+      "reason": "A detective haunted by a childhood event that echoes in the case he is working.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-black-echo",
+      "reason": "A steadier, more procedural crime story with a similarly weary, human tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-lovely-bones",
+      "reason": "Also about a murdered girl, told with more tenderness and attention to those left behind.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062068408",
+    "https://en.wikipedia.org/wiki/Mystic_River_(film)",
+    "https://hardcover.app/books/mystic-river"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

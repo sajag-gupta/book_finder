@@ -1,0 +1,45 @@
+{
+  "slug": "ella-enchanted",
+  "title": "Ella Enchanted",
+  "author": "Gail Carson Levine",
+  "isbn13": "9780007171682",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["children", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "funny", "hopeful"],
+  "tropes": ["fairy-tale-retelling", "royalty"],
+  "warnings": [],
+  "summary": "Ella of Frell was given the gift of obedience by a careless fairy, which means she must do whatever she is told. Determined to break the spell, she sets out into a world of ogres, elves and giants.",
+  "readIf": "you want a funny, light fairy-tale retelling with a feisty heroine.",
+  "skipIf": "you prefer dark or complex fantasy.",
+  "pairings": [
+    {
+      "slug": "cinder",
+      "reason": "Another Cinderella-inspired heroine, with a futuristic and more serious setting.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "A fairy tale with more satire and swordplay, that also never takes itself too seriously.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "stardust",
+      "reason": "A fairy-tale adventure for older readers, with a quest and a sly sense of humour.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007171682",
+    "https://en.wikipedia.org/wiki/Ella_Enchanted",
+    "https://hardcover.app/books/ella-enchanted"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

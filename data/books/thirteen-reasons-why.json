@@ -1,0 +1,45 @@
+{
+  "slug": "thirteen-reasons-why",
+  "title": "Thirteen Reasons Why",
+  "author": "Jay Asher",
+  "isbn13": "9781536402957",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "dark", "tense"],
+  "tropes": ["dual-timeline"],
+  "warnings": ["suicide", "sexual-assault", "bullying", "grief"],
+  "summary": "Clay receives a box of cassette tapes from Hannah Baker, a classmate who has died by suicide. Each tape explains how one person contributed to her decision, and he must listen to find out where he fits.",
+  "readIf": "you want a quick, emotional story about how small actions affect others, and are comfortable with the subject.",
+  "skipIf": "you are sensitive to suicide, assault or are in a fragile place; it is intense and at times controversial.",
+  "pairings": [
+    {
+      "slug": "speak",
+      "reason": "A quieter, more hopeful novel about the effects of an assault and the pressure to stay silent.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "A teen narrator confronting trauma, with more warmth and healing.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "they-both-die-at-the-end",
+      "reason": "Another young adult story that keeps death in view while looking at how people connect.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781536402957",
+    "https://en.wikipedia.org/wiki/Thirteen_Reasons_Why",
+    "https://hardcover.app/books/thirteen-reasons-why"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

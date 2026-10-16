@@ -1,0 +1,45 @@
+{
+  "slug": "the-snowman",
+  "title": "The Snowman",
+  "author": "Jo Nesbø",
+  "isbn13": "9781409089650",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark"],
+  "tropes": ["serial-killer", "detective"],
+  "warnings": ["violence", "death", "gore"],
+  "summary": "As the first snow falls on Oslo, women begin to disappear, each leaving behind a snowman. Troubled detective Harry Hole realises the killings reach back years and he may be the one being watched.",
+  "readIf": "you like Scandinavian crime fiction with a damaged detective and a cold, wintry mood.",
+  "skipIf": "you dislike graphic crime scenes or serial-killer plots.",
+  "pairings": [
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "reason": "Another dark Nordic thriller with a long-buried crime and an outsider investigating.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "The classic serial-killer hunt with a sharper psychological edge.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A fast forensic chase with a killer who leaves clues behind.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409089650",
+    "https://en.wikipedia.org/wiki/The_Snowman_(Nesb%C3%B8_novel)",
+    "https://hardcover.app/books/the-snowman"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

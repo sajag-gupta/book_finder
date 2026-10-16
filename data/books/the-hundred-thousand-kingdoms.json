@@ -1,0 +1,40 @@
+{
+  "slug": "the-hundred-thousand-kingdoms",
+  "title": "The Hundred Thousand Kingdoms",
+  "author": "N. K. Jemisin",
+  "isbn13": "9780748115907",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "mysterious", "epic"],
+  "tropes": ["political-intrigue", "gods-and-myth"],
+  "warnings": ["violence", "death", "manipulation"],
+  "summary": "A young woman from a remote northern land is summoned to a floating palace city and named heir to the ruling family, alongside two cousins who would rather she was dead. Enslaved gods walk the halls, and she narrates her own tangled story.",
+  "readIf": "you like myth-heavy fantasy with a sharp, personal narrator and a lot of palace scheming.",
+  "skipIf": "you prefer a clear, straight-ahead plot, because the story loops around and the gods' history takes time to decode.",
+  "pairings": [
+    {
+      "slug": "the-fifth-season",
+      "reason": "Same author, same gift for turning the mythology into something emotional, in a bleaker and more ambitious book.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "circe",
+      "reason": "Gods and their cruelty seen through one sharply observant woman, written in a calmer, more lyrical register.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780748115907",
+    "https://en.wikipedia.org/wiki/The_Hundred_Thousand_Kingdoms",
+    "https://hardcover.app/books/the-hundred-thousand-kingdoms"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "old-mans-war",
+  "title": "Old Man's War",
+  "author": "John Scalzi",
+  "isbn13": "9780765309402",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "tense"],
+  "tropes": ["war-story"],
+  "warnings": ["war", "violence", "death", "grief"],
+  "summary": "On his seventy-fifth birthday a widower joins the colonial army. In return for a stint of service, his old body is replaced by a young, powerful one, and he is sent to fight in wars among the stars.",
+  "readIf": "you like wisecracking military science fiction with a likeable narrator and a clear, quick pace.",
+  "skipIf": "you want a deep look at the ethics of war, since it is more entertainment than argument.",
+  "pairings": [
+    {
+      "slug": "the-forever-war",
+      "reason": "A grimmer, more angry classic that asks what a never-ending space war does to soldiers.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "starship-troopers",
+      "reason": "The older model for the genre, with a more serious and militaristic look at service.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "Another fast, funny and snarky narrator, with a lot of heart and a much smaller scale.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765309402",
+    "https://en.wikipedia.org/wiki/Old_Man's_War",
+    "https://hardcover.app/books/old-mans-war-2005"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

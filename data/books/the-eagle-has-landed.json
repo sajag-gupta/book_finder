@@ -1,0 +1,45 @@
+{
+  "slug": "the-eagle-has-landed",
+  "title": "The Eagle Has Landed",
+  "author": "Jack Higgins",
+  "isbn13": "9781405917520",
+  "firstPublished": 1975,
+  "series": null,
+  "genres": ["thriller", "historical"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["war-story", "spy"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "In 1943, German paratroopers are sent to a quiet English village on a daring mission to kidnap Winston Churchill. The book follows the planners, the soldiers and the villagers who stand in their way.",
+  "readIf": "you like a Second World War thriller with a believable what-if plot and a plot-driven pace.",
+  "skipIf": "you want an anti-war novel or a book with morally clear sides.",
+  "pairings": [
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "Another meticulous plot to kill a famous leader, told with great precision.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-spy-who-came-in-from-the-cold",
+      "reason": "A tenser, bleaker espionage novel, with more moral weight.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "for-whom-the-bell-tolls",
+      "reason": "A war novel built around a single mission, with a more literary and personal focus.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405917520",
+    "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(novel)",
+    "https://hardcover.app/books/the-eagle-has-landed-1975"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "heart-of-darkness",
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "isbn13": "9780582823044",
+  "firstPublished": 1899,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "haunting", "thoughtful"],
+  "tropes": ["quest"],
+  "warnings": ["racism", "violence", "death"],
+  "summary": "Sailor Marlow tells his shipmates about a steamboat trip up the Congo to find Kurtz, a trader who has become a legend. What he sees on the way shows him what the ivory trade has made of the people involved.",
+  "readIf": "you want a short, dense, atmospheric classic about colonialism and moral collapse.",
+  "skipIf": "you would struggle with its racist language and attitudes, which are the subject of ongoing criticism.",
+  "pairings": [
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "Another short classic about how thin the line is between order and savagery.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poisonwood-bible",
+      "reason": "A modern novel about a family in colonial-era Congo, told from several women's points of view.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "things-fall-apart",
+      "reason": "The African novel written partly in response, showing the same period from the inside.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780582823044",
+    "https://en.wikipedia.org/wiki/Heart_of_Darkness",
+    "https://hardcover.app/books/heart-of-darkness"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "to-kill-a-mockingbird",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "isbn13": "9780881030525",
+  "firstPublished": 1960,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "heartbreaking", "nostalgic"],
+  "tropes": ["coming-of-age", "small-town"],
+  "warnings": ["racism", "prejudice", "sexual-assault", "violence"],
+  "summary": "In 1930s Alabama, a girl nicknamed Scout watches her lawyer father defend a Black man accused of raping a white woman. The story is told from her view as she and her brother learn about prejudice in their town.",
+  "readIf": "you want a warm, human, morally serious classic with unforgettable characters.",
+  "skipIf": "you want an unflinching view of racism from a Black perspective; this is told through a white child's eyes.",
+  "pairings": [
+    {
+      "slug": "the-help",
+      "reason": "Another story of racial injustice in the American South, with a more modern, women-centred take.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-life-of-bees",
+      "reason": "A Southern coming-of-age story in the same era, with more warmth and healing.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hate-u-give",
+      "reason": "A contemporary young adult book about a Black teen confronting injustice.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 40,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780881030525",
+    "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+    "https://hardcover.app/books/to-kill-a-mockingbird"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-guest-list",
+  "title": "The Guest List",
+  "author": "Lucy Foley",
+  "isbn13": "9780062868930",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["mystery", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious", "dark"],
+  "tropes": ["whodunit", "twist-ending"],
+  "warnings": ["death", "bullying"],
+  "summary": "A glossy wedding is held on a windswept Irish island, with a storm rolling in and tensions among the guests. By the end of the night, someone is dead and the story shifts between several perspectives.",
+  "readIf": "you like a juicy, closed-setting mystery with lots of secrets and a creeping sense of dread.",
+  "skipIf": "you want a single clear protagonist, since the book jumps between many narrators and time frames.",
+  "pairings": [
+    {
+      "slug": "the-hunting-party",
+      "reason": "The author's earlier book with a nearly identical formula, set in a snowed-in Scottish lodge.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The original and sharper model of a group stuck in an isolated place with a killer.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "one-of-us-is-lying",
+      "reason": "A lighter, young-adult version with a closed group of suspects and secrets coming out.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062868930",
+    "https://en.wikipedia.org/wiki/The_Guest_List",
+    "https://hardcover.app/books/the-guest-list"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

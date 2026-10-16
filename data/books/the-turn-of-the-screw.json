@@ -1,0 +1,45 @@
+{
+  "slug": "the-turn-of-the-screw",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "isbn13": "9781974309313",
+  "firstPublished": 1898,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["spooky", "haunting", "mysterious"],
+  "tropes": ["haunted-house", "unreliable-narrator"],
+  "warnings": ["death"],
+  "summary": "A young governess takes charge of two orphaned children at a remote country house. She comes to believe that the ghosts of two former servants are trying to claim the children.",
+  "readIf": "you like old-fashioned ghost stories that leave you debating whether the haunting is real.",
+  "skipIf": "you want a clear answer and a modern, direct style.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "Another story where the line between ghost and mind is deliberately blurred.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "A young woman in an imposing house, haunted by someone else's past.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "we-have-always-lived-in-the-castle",
+      "reason": "An isolated house, a narrator we cannot fully trust, and a creeping unease.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781974309313",
+    "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw",
+    "https://hardcover.app/books/the-turn-of-the-screw"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "deception-point",
+  "title": "Deception Point",
+  "author": "Dan Brown",
+  "isbn13": "9780552149198",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous", "mysterious"],
+  "tropes": ["political-intrigue", "survival", "spy"],
+  "warnings": ["violence", "death"],
+  "summary": "A presidential candidate's daughter, working as an intelligence analyst, is sent to the Arctic to examine a discovery that NASA says will change everything. The remote ice becomes a trap.",
+  "readIf": "you want a snowbound conspiracy thriller with twists in every chapter.",
+  "skipIf": "you dislike improbable plot turns, since the mystery's solution takes real suspension of disbelief.",
+  "pairings": [
+    {
+      "slug": "sphere",
+      "reason": "A comparable isolated-expedition thriller in which a scientific find goes terribly wrong.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hunt-for-red-october",
+      "reason": "Another high-stakes thriller driven by technology, secrets and political tension.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-pelican-brief",
+      "reason": "A conspiracy thriller in which a smart outsider uncovers something powerful people want buried.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780552149198",
+    "https://en.wikipedia.org/wiki/Deception_Point",
+    "https://hardcover.app/books/deception-point"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

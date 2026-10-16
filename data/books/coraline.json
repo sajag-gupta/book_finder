@@ -1,0 +1,45 @@
+{
+  "slug": "coraline",
+  "title": "Coraline",
+  "author": "Neil Gaiman",
+  "isbn13": "9780060571528",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["spooky", "mysterious", "whimsical"],
+  "tropes": ["portal-fantasy", "haunted-house", "monster"],
+  "warnings": [],
+  "summary": "Bored in her family's new flat, a girl opens a small door and finds a copy of her home where everything is better and her other parents want her to stay. She soon learns what those button eyes are hiding.",
+  "readIf": "you want a short, properly creepy children's story that adults enjoy too.",
+  "skipIf": "you want a soft bedtime read, as it is genuinely unsettling for sensitive young readers.",
+  "pairings": [
+    {
+      "slug": "the-ocean-at-the-end-of-the-lane",
+      "reason": "Same author, another story of a child up against something old and frightening, told by an adult remembering.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another girl in a strange, upside-down world, with more nonsense and less menace.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "A grown-up horror classic with the same sense that a house can be wrong.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780060571528",
+    "https://en.wikipedia.org/wiki/Coraline",
+    "https://hardcover.app/books/coraline"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

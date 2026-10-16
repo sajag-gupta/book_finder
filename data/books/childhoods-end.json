@@ -1,0 +1,40 @@
+{
+  "slug": "childhoods-end",
+  "title": "Childhood's End",
+  "author": "Arthur C. Clarke",
+  "isbn13": "9780345315588",
+  "firstPublished": 1953,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "mind-bending", "melancholic"],
+  "tropes": ["first-contact"],
+  "warnings": [],
+  "summary": "Huge alien ships appear over every major city and the mysterious Overlords bring an age of peace to Earth, while refusing to show themselves. Humanity must decide what it costs to let someone else steer.",
+  "readIf": "you like quiet, awe-struck science fiction about humanity's destiny.",
+  "skipIf": "you want continuous plot and one central hero, as the story jumps across generations.",
+  "pairings": [
+    {
+      "slug": "2001-a-space-odyssey",
+      "reason": "The same author's other great look at what lies beyond us, with a similarly cosmic, eerie conclusion.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "contact",
+      "reason": "A more human and hopeful story of first contact, told through a determined scientist.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345315588",
+    "https://en.wikipedia.org/wiki/Childhood's_End",
+    "https://hardcover.app/books/childhoods-end"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

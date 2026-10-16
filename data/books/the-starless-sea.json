@@ -1,0 +1,45 @@
+{
+  "slug": "the-starless-sea",
+  "title": "The Starless Sea",
+  "author": "Erin Morgenstern",
+  "isbn13": "9781094257013",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mysterious", "whimsical", "mind-bending"],
+  "tropes": ["book-within-a-book", "secret-society", "portal-fantasy", "slow-burn"],
+  "warnings": ["violence", "death"],
+  "summary": "A graduate student finds a strange book in his university library that contains a scene from his own childhood. His search for its origin leads him to a hidden society and an underground library of stories by a sea of honey.",
+  "readIf": "you love books about books, interlocking tales and dreamlike settings that you can wander through.",
+  "skipIf": "you want a straightforward plot, as it jumps between narratives and is slow to fit together.",
+  "pairings": [
+    {
+      "slug": "the-night-circus",
+      "reason": "Same author, a more focused and more romantic fantasy with a similar love of enchanted places.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "Another strange, hushed fantasy about a vast, mysterious building and a person finding their place in it.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-shadow-of-the-wind",
+      "reason": "Another story driven by a mysterious book and a secret library, set in a more gothic, historical world.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781094257013",
+    "https://en.wikipedia.org/wiki/The_Starless_Sea",
+    "https://hardcover.app/books/the-starless-sea"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

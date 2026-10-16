@@ -1,0 +1,45 @@
+{
+  "slug": "anna-karenina",
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "isbn13": "9781975665807",
+  "firstPublished": 1878,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["melancholic", "heartbreaking", "thoughtful"],
+  "tropes": ["forbidden-love"],
+  "warnings": ["infidelity", "death", "suicide"],
+  "summary": "Moscow aristocrat Anna Karenina begins an affair with the dashing Count Vronsky and faces the cost. Alongside her story, the landowner Levin searches for meaning and happiness in country life.",
+  "readIf": "you want a large, humane novel about love, marriage and society that rewards long reading.",
+  "skipIf": "you dislike long digressions on farming and politics, or sad endings.",
+  "pairings": [
+    {
+      "slug": "madame-bovary",
+      "reason": "Another classic about a married woman whose search for passion ends badly, with a sharper focus.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "war-and-peace",
+      "reason": "The same author's wider, more hopeful epic of Russia during the Napoleonic wars.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-great-gatsby",
+      "reason": "A shorter novel of love, status and tragedy.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781975665807",
+    "https://en.wikipedia.org/wiki/Anna_Karenina",
+    "https://hardcover.app/books/anna-karenina"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

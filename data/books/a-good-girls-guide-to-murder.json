@@ -1,0 +1,45 @@
+{
+  "slug": "a-good-girls-guide-to-murder",
+  "title": "A Good Girl's Guide to Murder",
+  "author": "Holly Jackson",
+  "isbn13": "9781405293181",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["mystery", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious"],
+  "tropes": ["detective", "whodunit", "small-town"],
+  "warnings": ["death", "violence"],
+  "summary": "For a school project, a determined teenager decides to reinvestigate the murder of a local girl five years earlier, for which her boyfriend was blamed. The more she digs, the less safe the town feels.",
+  "readIf": "you like clue-by-clue young-adult mysteries with a clever, stubborn amateur sleuth.",
+  "skipIf": "you want a highly realistic police procedure, since the teen's access to evidence stretches belief.",
+  "pairings": [
+    {
+      "slug": "one-of-us-is-lying",
+      "reason": "Another quick teen whodunit with a closed set of suspects and secrets that surface.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "An adult detective story with an equally stubborn investigator and a re-opened death.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The classic that taught a generation to enjoy puzzles about who did it.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405293181",
+    "https://en.wikipedia.org/wiki/A_Good_Girl's_Guide_to_Murder",
+    "https://hardcover.app/books/a-good-girls-guide-to-murder"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

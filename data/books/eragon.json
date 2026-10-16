@@ -1,0 +1,45 @@
+{
+  "slug": "eragon",
+  "title": "Eragon",
+  "author": "Christopher Paolini",
+  "isbn13": "9780966621334",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "nostalgic", "epic"],
+  "tropes": ["dragons", "chosen-one", "quest", "coming-of-age"],
+  "warnings": ["violence", "death"],
+  "summary": "A farm boy finds a polished blue stone in the forest, and it hatches into a dragon. Hunted by agents of a tyrant king, he leaves home with an old storyteller to learn what it means to be a Dragon Rider.",
+  "readIf": "you want a straightforward, comforting dragon adventure in the classic fantasy mould.",
+  "skipIf": "you want fresh ideas, as the plot closely follows older fantasy stories you may know.",
+  "pairings": [
+    {
+      "slug": "fourth-wing",
+      "reason": "A much more grown-up, romantic and brutal story of dragons and riders.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "Another farm-boy-to-hero fantasy that grows far larger and more complex.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "dragonflight",
+      "reason": "An older classic where a bond between human and dragon is the heart of the story.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780966621334",
+    "https://en.wikipedia.org/wiki/Eragon",
+    "https://hardcover.app/books/eragon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

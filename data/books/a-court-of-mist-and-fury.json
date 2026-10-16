@@ -1,0 +1,44 @@
+{
+  "slug": "a-court-of-mist-and-fury",
+  "title": "A Court of Mist and Fury",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781685085391",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "dark", "tense"],
+  "tropes": ["fae", "slow-burn", "found-family", "magic-school"],
+  "warnings": ["violence", "sexual-content", "abuse", "manipulation", "mental-illness"],
+  "summary": "The second book in the series opens with a heroine struggling to recover from what happened Under the Mountain. A bargain pulls her toward a new court and a very different group of allies, while a larger war gets closer.",
+  "readIf": "you finished the first book and want its mood to deepen, with more heat and a wider cast.",
+  "skipIf": "you haven't read the first book, since this assumes it and its plot is not standalone.",
+  "pairings": [
+    {
+      "slug": "a-court-of-wings-and-ruin",
+      "reason": "The next book in the series, a bigger and more war-focused continuation.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "throne-of-glass",
+      "reason": "Same author and a similar mix of romance, court intrigue and a growing war, for a different heroine.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another fae-court story full of danger and manipulation, with a younger and sharper edge.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781685085391",
+    "https://hardcover.app/books/a-court-of-mist-and-fury"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

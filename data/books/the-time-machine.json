@@ -1,0 +1,45 @@
+{
+  "slug": "the-time-machine",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "isbn13": "9780451528551",
+  "firstPublished": 1895,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["thoughtful", "haunting", "adventurous"],
+  "tropes": ["time-travel", "monster"],
+  "warnings": ["violence", "death"],
+  "summary": "A Victorian inventor builds a machine that carries him hundreds of thousands of years into the future. There he finds a gentle, helpless people living above ground and something hungry below it.",
+  "readIf": "you want the classic time-travel story, brief and still unsettling.",
+  "skipIf": "you want elaborate paradoxes or deep characters, because the focus is on one idea and a single traveller.",
+  "pairings": [
+    {
+      "slug": "the-war-of-the-worlds",
+      "reason": "The author's other short classic, with the same eerie sense of humanity's smallness.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "A very different, romantic and emotional use of time travel that is about love instead of a warning.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "recursion",
+      "reason": "A modern thriller that plays with memory and time, with faster twists and a stronger emotional hook.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451528551",
+    "https://en.wikipedia.org/wiki/The_Time_Machine",
+    "https://hardcover.app/books/the-time-machine"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

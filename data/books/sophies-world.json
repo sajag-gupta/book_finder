@@ -1,0 +1,45 @@
+{
+  "slug": "sophies-world",
+  "title": "Sophie's World",
+  "author": "Jostein Gaarder",
+  "isbn13": "9780752818672",
+  "firstPublished": 1991,
+  "series": null,
+  "genres": ["young-adult", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "mind-bending", "whimsical"],
+  "tropes": ["book-within-a-book", "coming-of-age"],
+  "warnings": [],
+  "summary": "A fourteen-year-old girl starts receiving anonymous letters that ask big questions, and a mysterious teacher walks her through the history of Western philosophy. A strange puzzle about her own world slowly emerges.",
+  "readIf": "you want a gentle, readable crash course in philosophy wrapped in an odd little mystery.",
+  "skipIf": "you want a fast plot; long stretches are lectures on thinkers and ideas.",
+  "pairings": [
+    {
+      "slug": "the-midnight-library",
+      "reason": "A friendlier modern novel that also uses a fantastical frame to ask how to live well.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-neverending-story",
+      "reason": "Another story where a reader slips into a book-like world and the line between story and life blurs.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "cloud-atlas",
+      "reason": "Nested stories and big ideas for readers who want a more demanding puzzle.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 60,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780752818672",
+    "https://en.wikipedia.org/wiki/Sophie's_World",
+    "https://hardcover.app/books/sophies-world"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

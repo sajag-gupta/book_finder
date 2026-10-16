@@ -1,0 +1,45 @@
+{
+  "slug": "the-alchemist",
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "isbn13": "9780007423200",
+  "firstPublished": 1988,
+  "series": null,
+  "genres": ["literary", "adventure"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["inspiring", "hopeful", "adventurous"],
+  "tropes": ["quest", "road-trip"],
+  "warnings": [],
+  "summary": "A young Andalusian shepherd has a recurring dream about treasure near the Egyptian pyramids and sets off across the desert to find it, meeting a series of guides and teachers along the way.",
+  "readIf": "you want a quick, uplifting parable about following your dreams that you can finish in an afternoon.",
+  "skipIf": "you prefer subtle writing, since the messages here are stated plainly and repeated.",
+  "pairings": [
+    {
+      "slug": "siddhartha",
+      "reason": "A deeper and more austere search for meaning, written in the same spare, fable-like voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "life-of-pi",
+      "reason": "Another story about a young man testing his faith and resilience on a long, strange journey.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A modern, accessible book that also asks what it means to choose a life that feels like yours.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 150,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007423200",
+    "https://en.wikipedia.org/wiki/The_Alchemist_(novel)",
+    "https://hardcover.app/books/the-alchemist"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

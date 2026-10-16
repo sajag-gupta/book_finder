@@ -1,0 +1,45 @@
+{
+  "slug": "the-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "isbn13": "9781541326149",
+  "firstPublished": 1900,
+  "series": null,
+  "genres": ["fantasy", "children", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "adventurous", "comforting"],
+  "tropes": ["portal-fantasy", "quest", "found-family", "witches"],
+  "warnings": ["violence"],
+  "summary": "A Kansas farm girl is swept by a cyclone to the land of Oz. To get home she must follow the yellow brick road to the Emerald City, collecting a scarecrow, a tin woodman and a lion along the way.",
+  "readIf": "you want a short, quick, imaginative classic that differs a lot from the famous film.",
+  "skipIf": "you want something with emotional depth or complex plotting, as it is a simple, episodic children's story.",
+  "pairings": [
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another classic of a girl in a strange land, with more word-play and less of a clear mission.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "A later portal fantasy with a clearer moral struggle and a more serious tone.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "peter-pan",
+      "reason": "Another early children's fantasy with pirates, fairies and a bittersweet look at home.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781541326149",
+    "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz",
+    "https://hardcover.app/books/the-wonderful-wizard-of-oz"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

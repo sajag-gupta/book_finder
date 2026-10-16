@@ -1,0 +1,45 @@
+{
+  "slug": "norwegian-wood",
+  "title": "Norwegian Wood",
+  "author": "Haruki Murakami",
+  "isbn13": "9781417709069",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["literary", "romance"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "nostalgic", "heartbreaking"],
+  "tropes": ["coming-of-age", "love-triangle"],
+  "warnings": ["suicide", "mental-illness", "grief", "sexual-content", "death"],
+  "summary": "Looking back at his student days in 1960s Tokyo, Toru remembers the death of his best friend and his fraught relationship with the friend's fragile girlfriend, while a livelier young woman pulls him another way.",
+  "readIf": "you want a quiet, melancholy coming-of-age novel about grief and loneliness.",
+  "skipIf": "you expect the surreal side of Murakami, since this is his realistic novel, or suicide is a difficult subject.",
+  "pairings": [
+    {
+      "slug": "kafka-on-the-shore",
+      "reason": "Murakami's far stranger novel, with young protagonists in a world of magical happenings.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-bell-jar",
+      "reason": "Another honest, personal novel of a young person's depression and recovery.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A modern, close look at a young couple and the way they hurt one another.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 12,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417709069",
+    "https://en.wikipedia.org/wiki/Norwegian_Wood",
+    "https://hardcover.app/books/norwegian-wood"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

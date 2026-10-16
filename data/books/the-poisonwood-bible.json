@@ -1,0 +1,45 @@
+{
+  "slug": "the-poisonwood-bible",
+  "title": "The Poisonwood Bible",
+  "author": "Barbara Kingsolver",
+  "isbn13": "9780784814000",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["heartbreaking", "thoughtful", "haunting"],
+  "tropes": ["family-saga"],
+  "warnings": ["death", "child-death", "racism", "religious-extremism"],
+  "summary": "In 1959, a fervent Baptist missionary drags his wife and four daughters to a village in the Belgian Congo. The women narrate in turn as the family unravels and the country around them moves toward independence.",
+  "readIf": "you want a layered family story that also looks critically at colonialism and good intentions.",
+  "skipIf": "you want a quick read, since the middle section is slow and the tragedy is deeply felt.",
+  "pairings": [
+    {
+      "slug": "things-fall-apart",
+      "reason": "Shows the colonial encounter from the other side, in a short and powerful African classic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "half-of-a-yellow-sun",
+      "reason": "Another African-set family story through political upheaval, told by an author from the region.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "heart-of-darkness",
+      "reason": "A much shorter and more famous account of outsiders in Africa, whose attitudes this book quietly answers.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780784814000",
+    "https://en.wikipedia.org/wiki/The_Poisonwood_Bible",
+    "https://hardcover.app/books/the-poisonwood-bible"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

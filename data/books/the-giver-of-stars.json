@@ -1,0 +1,45 @@
+{
+  "slug": "the-giver-of-stars",
+  "title": "The Giver of Stars",
+  "author": "Jojo Moyes",
+  "isbn13": "9780718183202",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["historical", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["hopeful", "inspiring", "swoony"],
+  "tropes": ["found-family", "small-town"],
+  "warnings": ["violence", "death", "prejudice"],
+  "summary": "In 1930s Kentucky, a young English bride joins a travelling library of women who deliver books on horseback to isolated mountain families. The work brings friendship and plenty of local opposition.",
+  "readIf": "you want a warm, uplifting historical novel about women, books and close friendships.",
+  "skipIf": "you want much historical depth; it is a comfortable, plot-driven read that simplifies many issues.",
+  "pairings": [
+    {
+      "slug": "where-the-crawdads-sing",
+      "reason": "Another American story that makes the landscape a character and has a quiet, romantic heart.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-help",
+      "reason": "A comparable ensemble story of brave women in a prejudiced American community.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "lessons-in-chemistry",
+      "reason": "A more comic story of a woman who stubbornly does her own thing in a world not ready for her.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780718183202",
+    "https://en.wikipedia.org/wiki/The_Giver_of_Stars",
+    "https://hardcover.app/books/the-giver-of-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

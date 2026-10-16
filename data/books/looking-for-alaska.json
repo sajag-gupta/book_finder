@@ -1,0 +1,45 @@
+{
+  "slug": "looking-for-alaska",
+  "title": "Looking for Alaska",
+  "author": "John Green",
+  "isbn13": "9781484484708",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "nostalgic", "thoughtful"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["death", "grief"],
+  "summary": "A quiet teenager enrols in an Alabama boarding school hoping to find a bigger life. He falls in with a group of pranksters and a captivating, unpredictable girl named Alaska.",
+  "readIf": "you want a bittersweet teen novel about first love, friendship and how one day can divide your life.",
+  "skipIf": "you want a light read, because this deals with sudden loss.",
+  "pairings": [
+    {
+      "slug": "paper-towns",
+      "reason": "The same author, with a similar teen search for a magnetic, elusive person.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "Another honest, emotional story about finding your people at school.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "An adult take on an intense boarding or college circle shaped by an unexplained loss.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484484708",
+    "https://en.wikipedia.org/wiki/Looking_for_Alaska",
+    "https://hardcover.app/books/looking-for-alaska"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

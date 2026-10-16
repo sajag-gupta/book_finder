@@ -1,0 +1,44 @@
+{
+  "slug": "nineteen-eighty-four",
+  "title": "Nineteen Eighty-Four",
+  "author": "George Orwell",
+  "isbn13": "9781500440268",
+  "firstPublished": 1949,
+  "series": null,
+  "genres": ["dystopian", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "haunting", "tense"],
+  "tropes": ["dystopian-regime", "rebellion", "forbidden-love"],
+  "warnings": ["torture", "violence", "manipulation", "death"],
+  "summary": "In a country ruled by an all-seeing Party, a low-level clerk who rewrites the historical record begins to keep a secret diary. He starts an illicit affair, and both acts are crimes.",
+  "readIf": "you want the defining novel about surveillance, propaganda and the control of truth.",
+  "skipIf": "you want hope or catharsis, because the book is bleak and its last third is hard to read.",
+  "pairings": [
+    {
+      "slug": "brave-new-world",
+      "reason": "The other great classic dystopia, where control comes from pleasure instead of fear.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "A modern, intimate dystopia about a regime that controls bodies as well as language.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A much gentler, shorter story of a controlled society and a young person who begins to see through it.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781500440268",
+    "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

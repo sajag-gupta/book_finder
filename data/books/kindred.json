@@ -1,0 +1,40 @@
+{
+  "slug": "kindred",
+  "title": "Kindred",
+  "author": "Octavia E. Butler",
+  "isbn13": "9781411476073",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["science-fiction", "historical"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "dark", "haunting"],
+  "tropes": ["time-travel", "survival"],
+  "warnings": ["slavery", "racism", "violence", "sexual-assault", "abuse"],
+  "summary": "A young Black writer in 1970s California is pulled back in time to a Maryland plantation. There she repeatedly saves the life of a white boy who will grow up to be her ancestor, and the visits grow longer and more dangerous.",
+  "readIf": "you want a gripping, unflinching novel that uses time travel to make history feel personal.",
+  "skipIf": "you want to avoid detailed depictions of slavery, including whipping and sexual violence.",
+  "pairings": [
+    {
+      "slug": "beloved",
+      "reason": "Another powerful novel about the lasting human damage of slavery, in a more lyrical and ghostly form.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "More from the same author, about survival and belief in a society that treats people as disposable.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781411476073",
+    "https://en.wikipedia.org/wiki/Kindred_(novel)",
+    "https://hardcover.app/books/kindred"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

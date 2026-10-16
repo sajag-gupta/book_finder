@@ -1,0 +1,40 @@
+{
+  "slug": "the-hunt-for-red-october",
+  "title": "The Hunt for Red October",
+  "author": "Tom Clancy",
+  "isbn13": "9781101008775",
+  "firstPublished": 1984,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["spy", "war-story"],
+  "warnings": ["war", "death", "violence"],
+  "summary": "At the height of the Cold War, the captain of a new Soviet missile submarine steers west with a plan of his own. The Americans race to work out whether he is defecting or about to start a war.",
+  "readIf": "you like technical, tightly plotted military thrillers with plenty of detail on submarines.",
+  "skipIf": "you want character-led stories, because the book often stops for a long look at the hardware.",
+  "pairings": [
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "Another thriller that is gripping because it follows methods and procedure in forensic detail.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "tinker-tailor-soldier-spy",
+      "reason": "A much quieter and more human view of Cold War espionage, driven by people instead of machines.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101008775",
+    "https://en.wikipedia.org/wiki/The_Hunt_for_Red_October",
+    "https://hardcover.app/books/the-hunt-for-red-october"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

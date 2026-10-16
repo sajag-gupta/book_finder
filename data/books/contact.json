@@ -1,0 +1,45 @@
+{
+  "slug": "contact",
+  "title": "Contact",
+  "author": "Carl Sagan",
+  "isbn13": "9780099469506",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "hopeful", "inspiring"],
+  "tropes": ["first-contact"],
+  "warnings": [],
+  "summary": "A radio astronomer who has spent her career listening for signals from space finally hears one, from the star Vega. Humanity must decide how to respond to a message that contains instructions for building something.",
+  "readIf": "you like hopeful, idea-led science fiction about science, faith and being curious.",
+  "skipIf": "you want action and aliens early, because much of the book is about people debating what to do.",
+  "pairings": [
+    {
+      "slug": "the-three-body-problem",
+      "reason": "A darker modern book about humanity's first signals from the stars, with far more dread.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A more playful, lively story of a human who has to work with an alien to save the world.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "2001-a-space-odyssey",
+      "reason": "A more mysterious and visionary take on humanity's encounter with something greater.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099469506",
+    "https://en.wikipedia.org/wiki/Contact_(novel)",
+    "https://hardcover.app/books/contact"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

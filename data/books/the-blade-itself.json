@@ -1,0 +1,44 @@
+{
+  "slug": "the-blade-itself",
+  "title": "The Blade Itself",
+  "author": "Joe Abercrombie",
+  "isbn13": "9780316387330",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "witty", "tense"],
+  "tropes": ["morally-grey", "political-intrigue", "war-story", "quest"],
+  "warnings": ["violence", "torture", "death", "gore"],
+  "summary": "A crippled torturer, an arrogant young noble fencer and a barbarian warrior who wants to be left alone are all caught up when a wizard arrives and a war in the north draws near. None of them is a hero in the usual sense.",
+  "readIf": "you like grim, funny, cynical fantasy where characters are flawed and the fights are brutal.",
+  "skipIf": "you want inspiring heroes or a tidy, self-contained story, as this starts a trilogy with a slow build.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another darkly funny, sharply written fantasy with deeply imperfect leads.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Another epic where politics are brutal and the good guys do not always win.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A gritty, soldier's-eye fantasy with the same refusal to romanticise war.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316387330",
+    "https://hardcover.app/books/the-blade-itself"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

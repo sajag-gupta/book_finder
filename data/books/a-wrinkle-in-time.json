@@ -1,0 +1,44 @@
+{
+  "slug": "a-wrinkle-in-time",
+  "title": "A Wrinkle in Time",
+  "author": "Madeleine L'Engle",
+  "isbn13": "9780739331781",
+  "firstPublished": 1962,
+  "series": null,
+  "genres": ["science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "adventurous", "hopeful"],
+  "tropes": ["quest", "coming-of-age"],
+  "warnings": [],
+  "summary": "Meg Murry, her gifted little brother and a friend travel through space and time with three strange guides to rescue her missing father, and have to face a spreading darkness on a planet.",
+  "readIf": "you want a short, imaginative classic mixing science, fantasy and a reluctant hero.",
+  "skipIf": "you want deep science; it is more fantasy and moral allegory than science fiction.",
+  "pairings": [
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "Another children's classic with a Christian-tinged battle between light and dark.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A richer and more daring young-reader fantasy with parallel worlds.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A lighter, funnier magical adventure with a clever girl at the centre.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 14,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739331781",
+    "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

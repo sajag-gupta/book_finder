@@ -1,0 +1,45 @@
+{
+  "slug": "eleanor-and-park",
+  "title": "Eleanor & Park",
+  "author": "Rainbow Rowell",
+  "isbn13": "9781250064875",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "nostalgic"],
+  "tropes": ["slow-burn", "coming-of-age"],
+  "warnings": ["abuse", "bullying", "domestic-violence"],
+  "summary": "In 1986 Omaha, two sixteen-year-old misfits sit together on the school bus and slowly bond over comics and mixtapes. Their first love is complicated by unkind classmates and Eleanor's unsafe home.",
+  "readIf": "you want a tender first-love story with real sadness and wonderful music and nerd references.",
+  "skipIf": "you are uncomfortable with depictions of an abusive home.",
+  "pairings": [
+    {
+      "slug": "simon-vs-the-homo-sapiens-agenda",
+      "reason": "A funnier, more hopeful teen romance with the same warm, observant voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "aristotle-and-dante-discover-the-secrets-of-the-universe",
+      "reason": "Another slow, tender coming-of-age love story set before smartphones.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "anna-and-the-french-kiss",
+      "reason": "A sweeter, more glamorous version of a teen romance built on friendship and longing.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250064875",
+    "https://en.wikipedia.org/wiki/Eleanor_%26_Park",
+    "https://hardcover.app/books/eleanor-park"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

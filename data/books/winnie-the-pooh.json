@@ -1,0 +1,44 @@
+{
+  "slug": "winnie-the-pooh",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "isbn13": "9780525461753",
+  "firstPublished": 1926,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["cozy", "whimsical", "comforting", "nostalgic"],
+  "tropes": ["talking-animals", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "A small boy and his stuffed animals have mild adventures in the Hundred Acre Wood: hunting for honey, building houses, and getting lost on an expedition. Each chapter is a self-contained story.",
+  "readIf": "you want a soothing read-aloud full of gentle humour and affectionate misunderstanding.",
+  "skipIf": "you want plot momentum; the stories are tiny, episodic and cheerfully circular.",
+  "pairings": [
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "Another timeless world of animal friends whose small crises are treated with warmth and good humour.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "charlottes-web",
+      "reason": "Shares the tenderness toward friendship between creatures, with a more emotional story arc.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-little-prince",
+      "reason": "A short, wistful classic that uses a childlike voice to say something grown-up.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525461753",
+    "https://en.wikipedia.org/wiki/Winnie-the-Pooh_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

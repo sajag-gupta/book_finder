@@ -1,0 +1,45 @@
+{
+  "slug": "one-hundred-years-of-solitude",
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel García Márquez",
+  "isbn13": "9780141032436",
+  "firstPublished": 1967,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["whimsical", "haunting", "epic"],
+  "tropes": ["family-saga"],
+  "warnings": ["violence", "death", "war", "incest"],
+  "summary": "Seven generations of the Buendia family live and die in the isolated town of Macondo, where miracles, plagues, wars and repeating names blur together in a dreamlike chronicle of rise and fall.",
+  "readIf": "you want a landmark of magical realism and don't mind a huge cast with similar names.",
+  "skipIf": "you want a clear, linear plot or struggle to track a sprawling family tree.",
+  "pairings": [
+    {
+      "slug": "midnights-children",
+      "reason": "Another dazzling, myth-filled family chronicle that ties private lives to a nation's history.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "reason": "Lyrical, nonlinear and family-centred, with a tighter focus and a heartbreak at its core.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "A multi-generational family saga with a plainer style, which suits readers who want the sweep without the surrealism.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141032436",
+    "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+    "https://hardcover.app/books/one-hundred-years-of-solitude"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

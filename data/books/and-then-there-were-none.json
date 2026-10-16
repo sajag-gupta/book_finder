@@ -1,0 +1,45 @@
+{
+  "slug": "and-then-there-were-none",
+  "title": "And Then There Were None",
+  "author": "Agatha Christie",
+  "isbn13": "9781572704497",
+  "firstPublished": 1939,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "mysterious", "dark"],
+  "tropes": ["locked-room", "whodunit", "twist-ending"],
+  "warnings": ["death", "violence", "suicide"],
+  "summary": "Ten strangers are invited to a remote island off the English coast, where a recorded voice accuses each of them of a past crime. One by one they begin to die, following an old nursery rhyme.",
+  "readIf": "you love a closed-circle puzzle where nobody can be trusted and every page ratchets up the dread.",
+  "skipIf": "you want a lot of character depth or a hero to root for.",
+  "pairings": [
+    {
+      "slug": "murder-on-the-orient-express",
+      "reason": "Also a locked-in group of suspects and a famously clever solution, but with a detective guiding you.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-guest-list",
+      "reason": "A modern take on a remote, isolated setting with a murder and a cast who all have secrets.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "one-of-us-is-lying",
+      "reason": "A teen-focused update on the group-of-suspects puzzle, with a lighter touch.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 100,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781572704497",
+    "https://en.wikipedia.org/wiki/And_Then_There_Were_None_(play)",
+    "https://hardcover.app/books/and-then-there-were-none-f07f4a28-ecbf-4775-9a02-f3c4eb59b657"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

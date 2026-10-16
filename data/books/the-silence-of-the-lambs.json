@@ -1,0 +1,45 @@
+{
+  "slug": "the-silence-of-the-lambs",
+  "title": "The Silence of the Lambs",
+  "author": "Thomas Harris",
+  "isbn13": "9780099586579",
+  "firstPublished": 1988,
+  "series": null,
+  "genres": ["thriller", "horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["serial-killer", "detective"],
+  "warnings": ["violence", "gore", "kidnapping", "death"],
+  "summary": "An FBI trainee is sent to interview a brilliant imprisoned psychiatrist who is also a cannibal, in the hope that he can help catch a killer who is taking young women. Their conversations become a dangerous trade.",
+  "readIf": "you want a taut, psychological thriller with one of crime fiction's most chilling characters.",
+  "skipIf": "you dislike graphic crime-scene detail and disturbing violence against women.",
+  "pairings": [
+    {
+      "slug": "red-dragon",
+      "reason": "The earlier book in the same series, and a leaner pursuit of another disturbing killer.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A forensic race against a killer, with another smart investigator in an unusual position.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "reason": "A newer, bleaker crime story with an intense female lead and a very dark mystery.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099586579",
+    "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(novel)",
+    "https://hardcover.app/books/the-silence-of-the-lambs"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

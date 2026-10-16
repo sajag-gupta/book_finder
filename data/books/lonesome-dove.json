@@ -1,0 +1,45 @@
+{
+  "slug": "lonesome-dove",
+  "title": "Lonesome Dove",
+  "author": "Larry McMurtry",
+  "isbn13": "9780671623203",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "melancholic"],
+  "tropes": ["road-trip", "survival", "found-family"],
+  "warnings": ["violence", "death", "sexual-assault", "kidnapping", "animal-death"],
+  "summary": "Two retired Texas Rangers decide to drive a herd of cattle from the Rio Grande to Montana. Their journey is full of old friends, hard characters and dangers that wear the men down.",
+  "readIf": "you want a vast, character-rich Western that is part adventure and part elegy for a fading way of life.",
+  "skipIf": "you want a short book or a clean, heroic Western; it is long, brutal and often bleakly funny.",
+  "pairings": [
+    {
+      "slug": "blood-meridian",
+      "reason": "A far harsher and more mythic Western that strips away every romantic idea about the frontier.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "Another long American journey of endurance, though about families in poverty instead of cowboys.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cold-mountain",
+      "reason": "A slower, more lyrical travel story about a man crossing a ravaged landscape toward home.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780671623203",
+    "https://en.wikipedia.org/wiki/Lonesome_Dove",
+    "https://hardcover.app/books/lonesome-dove"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

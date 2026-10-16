@@ -1,0 +1,44 @@
+{
+  "slug": "fifty-shades-of-grey",
+  "title": "Fifty Shades of Grey",
+  "author": "E. L. James",
+  "isbn13": "9781101911600",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony"],
+  "tropes": [],
+  "warnings": ["sexual-content", "manipulation", "stalking"],
+  "summary": "A recent college graduate interviews a young, rich businessman and is drawn into an intense relationship in which he insists on a contract and control over how it works, while she tries to reach the man behind it.",
+  "readIf": "you want a very explicit, fast-reading contemporary romance that became a cultural phenomenon.",
+  "skipIf": "you dislike controlling partners or repetitive prose, or want sex scenes toned down.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A fantasy romance with similarly steamy scenes and a brooding, powerful love interest.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "ugly-love",
+      "reason": "Another heated, emotionally intense romance with a guarded hero.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "A much lighter, funnier romance with plenty of tension and less control.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 15.2,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101911600",
+    "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

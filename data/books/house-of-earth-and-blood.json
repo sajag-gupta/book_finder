@@ -1,0 +1,44 @@
+{
+  "slug": "house-of-earth-and-blood",
+  "title": "House of Earth and Blood",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781526638922",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "swoony"],
+  "tropes": ["detective", "enemies-to-lovers", "found-family", "fae"],
+  "warnings": ["violence", "death", "grief", "sexual-content", "gore"],
+  "summary": "In a modern city shared by angels, fae and shifters, a young woman still reeling from her friends' murder is pushed into working with a brutal assassin. They must track the killer, who has started again.",
+  "readIf": "you want urban fantasy with a murder investigation, a grief-stricken heroine and a lot of banter and heat.",
+  "skipIf": "you prefer traditional medieval fantasy, or find a modern slang-heavy style distracting.",
+  "pairings": [
+    {
+      "slug": "a-court-of-silver-flames",
+      "reason": "Same author, with a similar damaged heroine and a long road from guilt toward healing.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "ninth-house",
+      "reason": "Another dark urban fantasy where a haunted young woman becomes tangled in a murder mystery.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "from-blood-and-ash",
+      "reason": "Another long romantasy with a slow-burn bond between a guarded heroine and a dangerous man.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781526638922",
+    "https://hardcover.app/books/house-of-earth-and-blood"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

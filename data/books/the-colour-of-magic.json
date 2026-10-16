@@ -1,0 +1,45 @@
+{
+  "slug": "the-colour-of-magic",
+  "title": "The Colour of Magic",
+  "author": "Terry Pratchett",
+  "isbn13": "9780451135773",
+  "firstPublished": 1983,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "adventurous"],
+  "tropes": ["quest", "unlikely-friendship", "satire", "gods-and-myth"],
+  "warnings": [],
+  "summary": "The first Discworld novel follows Rincewind, a cowardly failed wizard, who is hired to guide the first tourist the flat world has ever seen. The pair stumble through danger, gods and dragons across a flat world carried on the back of a turtle.",
+  "readIf": "you want a silly, quick, joke-packed fantasy parody and enjoy episodes more than a single plot.",
+  "skipIf": "you want a polished story, since this early book is more a string of gags and wandered into by later ones improving.",
+  "pairings": [
+    {
+      "slug": "guards-guards",
+      "reason": "A later Discworld novel with a tighter plot and sharper characters, often a better entry point.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Another quick, absurdist comedy that sends hapless characters through a ridiculous universe.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "The classic quest story that this book playfully pokes at.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451135773",
+    "https://en.wikipedia.org/wiki/The_Colour_of_Magic",
+    "https://hardcover.app/books/the-colour-of-magic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

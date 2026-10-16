@@ -1,0 +1,45 @@
+{
+  "slug": "a-wizard-of-earthsea",
+  "title": "A Wizard of Earthsea",
+  "author": "Ursula K. Le Guin",
+  "isbn13": "9780606266246",
+  "firstPublished": 1968,
+  "series": null,
+  "genres": ["fantasy", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "mysterious", "haunting"],
+  "tropes": ["magic-school", "coming-of-age", "quest", "redemption"],
+  "warnings": ["death"],
+  "summary": "A proud, gifted boy from a small island is sent to a school for wizards, where his arrogance leads him to release something terrible into the world. He then spends years trying to put right what he has done.",
+  "readIf": "you want a short, wise fantasy about pride, names and responsibility, written with great clarity.",
+  "skipIf": "you want an action-packed read or lavish worldbuilding, since it is spare and quiet.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another story of a brilliant young magic student, far longer and more elaborate.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A comparably classic, concise fantasy with a similarly storytelling feel.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "Same author and the same thoughtful, humane style, applied to science fiction.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606266246",
+    "https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea",
+    "https://hardcover.app/books/a-wizard-of-earthsea"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "isbn13": "9781467775298",
+  "firstPublished": 1844,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "dark", "epic"],
+  "tropes": ["revenge", "hidden-identity"],
+  "warnings": ["violence", "death"],
+  "summary": "Edmond Dantès is falsely accused on the eve of his wedding and imprisoned for years in an island fortress. After escaping with a fortune, he returns to Paris under a new name to repay those who betrayed him.",
+  "readIf": "you want a huge, page-turning adventure about betrayal, patience and an elaborate revenge.",
+  "skipIf": "you want a short book, since the plot is intricate and the cast is big.",
+  "pairings": [
+    {
+      "slug": "les-miserables",
+      "reason": "Another giant French novel about a wronged man, with more compassion and less scheming.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-three-musketeers",
+      "reason": "By the same author, a faster, more cheerful swashbuckler.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "A funny, lighter story with a similar love of sword fights, revenge and a very long plan.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781467775298",
+    "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

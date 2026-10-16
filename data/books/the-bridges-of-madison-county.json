@@ -1,0 +1,45 @@
+{
+  "slug": "the-bridges-of-madison-county",
+  "title": "The Bridges of Madison County",
+  "author": "Robert James Waller",
+  "isbn13": "9780759592346",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["swoony", "melancholic", "heartbreaking"],
+  "tropes": ["forbidden-love"],
+  "warnings": ["infidelity"],
+  "summary": "A lonely Iowa farm wife meets a travelling photographer who has come to shoot the area's covered bridges. Over four days, they fall into a love that she will carry quietly for the rest of her life.",
+  "readIf": "you like a short, wistful love story about a road not taken.",
+  "skipIf": "you want a lively romance with banter and a tidy happy ending.",
+  "pairings": [
+    {
+      "slug": "the-notebook",
+      "reason": "Another sentimental romance told as a look back across a lifetime, with a gentler ending.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A quiet, restrained story of love left unspoken, with more literary depth.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "anna-karenina",
+      "reason": "The grand, tragic version of a married woman choosing love over duty.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 60,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780759592346",
+    "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County",
+    "https://hardcover.app/books/the-bridges-of-madison-county"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

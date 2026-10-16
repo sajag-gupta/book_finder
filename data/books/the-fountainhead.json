@@ -1,0 +1,45 @@
+{
+  "slug": "the-fountainhead",
+  "title": "The Fountainhead",
+  "author": "Ayn Rand",
+  "isbn13": "9781101136621",
+  "firstPublished": 1943,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "inspiring"],
+  "tropes": ["love-triangle"],
+  "warnings": ["sexual-assault"],
+  "summary": "An uncompromising young architect refuses to design anything but what he believes in, even when it costs him commissions and friends. The novel sets him against a world of conformity and compromise.",
+  "readIf": "you like long, polemical novels about individualism, whether you agree with them or not.",
+  "skipIf": "you dislike lecturing, or want complex, believable characters, since many of them stand for ideas.",
+  "pairings": [
+    {
+      "slug": "atlas-shrugged",
+      "reason": "The author's even longer and more explicit statement of the same philosophy, as a dystopian thriller.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-great-gatsby",
+      "reason": "A short, elegant novel about ambition and image that is much more doubtful about its hero.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "Offers a deeply different view of society, about collective struggle rather than the lone genius.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101136621",
+    "https://en.wikipedia.org/wiki/The_Fountainhead",
+    "https://hardcover.app/books/the-fountainhead"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

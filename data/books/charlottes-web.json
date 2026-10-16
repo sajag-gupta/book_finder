@@ -1,0 +1,45 @@
+{
+  "slug": "charlottes-web",
+  "title": "Charlotte's Web",
+  "author": "E. B. White",
+  "isbn13": "9780061228742",
+  "firstPublished": 1952,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["comforting", "heartbreaking", "whimsical"],
+  "tropes": ["unlikely-friendship", "talking-animals"],
+  "warnings": ["death", "animal-death"],
+  "summary": "A farm runt pig who is saved from slaughter makes friends with a clever barn spider, who sets out to spin messages in her web that might keep him from being killed.",
+  "readIf": "you want a gentle story about friendship and kindness that still treats loss honestly.",
+  "skipIf": "you do not want a tear-jerking ending.",
+  "pairings": [
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "Another classic animal friendship story set in a gentle countryside.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "winnie-the-pooh",
+      "reason": "A warm, small-scale friendship story with a similar, soothing feel.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "black-beauty",
+      "reason": "Another animal classic that leans harder into how creatures are treated and lost.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061228742",
+    "https://en.wikipedia.org/wiki/Charlotte's_Web",
+    "https://hardcover.app/books/charlottes-web-the-classic-children-s-story-of-barnyard-friendship-adapted-and-illustrated-for-babies-and-toddlers-ages-0-4"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

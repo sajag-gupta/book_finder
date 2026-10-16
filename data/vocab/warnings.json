@@ -1,13 +1,146 @@
 [
-  { "slug": "violence", "name": "Violence" },
-  { "slug": "death", "name": "Death" },
-  { "slug": "grief", "name": "Grief" },
-  { "slug": "war", "name": "War" },
-  { "slug": "sexual-content", "name": "Sexual content" },
-  { "slug": "abuse", "name": "Abuse" },
-  { "slug": "manipulation", "name": "Manipulation" },
-  { "slug": "pandemic", "name": "Pandemic" },
-  { "slug": "homophobia", "name": "Homophobia" },
-  { "slug": "infidelity", "name": "Infidelity" },
-  { "slug": "prejudice", "name": "Prejudice" }
+  {
+    "slug": "violence",
+    "name": "Violence"
+  },
+  {
+    "slug": "death",
+    "name": "Death"
+  },
+  {
+    "slug": "grief",
+    "name": "Grief"
+  },
+  {
+    "slug": "war",
+    "name": "War"
+  },
+  {
+    "slug": "sexual-content",
+    "name": "Sexual content"
+  },
+  {
+    "slug": "abuse",
+    "name": "Abuse"
+  },
+  {
+    "slug": "manipulation",
+    "name": "Manipulation"
+  },
+  {
+    "slug": "pandemic",
+    "name": "Pandemic"
+  },
+  {
+    "slug": "homophobia",
+    "name": "Homophobia"
+  },
+  {
+    "slug": "infidelity",
+    "name": "Infidelity"
+  },
+  {
+    "slug": "prejudice",
+    "name": "Prejudice"
+  },
+  {
+    "slug": "suicide",
+    "name": "Suicide"
+  },
+  {
+    "slug": "self-harm",
+    "name": "Self harm"
+  },
+  {
+    "slug": "sexual-assault",
+    "name": "Sexual assault"
+  },
+  {
+    "slug": "child-abuse",
+    "name": "Child abuse"
+  },
+  {
+    "slug": "child-sexual-abuse",
+    "name": "Child sexual abuse"
+  },
+  {
+    "slug": "incest",
+    "name": "Incest"
+  },
+  {
+    "slug": "animal-death",
+    "name": "Animal death"
+  },
+  {
+    "slug": "racism",
+    "name": "Racism"
+  },
+  {
+    "slug": "addiction",
+    "name": "Addiction"
+  },
+  {
+    "slug": "mental-illness",
+    "name": "Mental illness"
+  },
+  {
+    "slug": "genocide",
+    "name": "Genocide"
+  },
+  {
+    "slug": "slavery",
+    "name": "Slavery"
+  },
+  {
+    "slug": "torture",
+    "name": "Torture"
+  },
+  {
+    "slug": "eating-disorder",
+    "name": "Eating disorder"
+  },
+  {
+    "slug": "domestic-violence",
+    "name": "Domestic violence"
+  },
+  {
+    "slug": "gore",
+    "name": "Gore"
+  },
+  {
+    "slug": "child-death",
+    "name": "Child death"
+  },
+  {
+    "slug": "kidnapping",
+    "name": "Kidnapping"
+  },
+  {
+    "slug": "stalking",
+    "name": "Stalking"
+  },
+  {
+    "slug": "bullying",
+    "name": "Bullying"
+  },
+  {
+    "slug": "terminal-illness",
+    "name": "Terminal illness"
+  },
+  {
+    "slug": "miscarriage",
+    "name": "Miscarriage"
+  },
+  {
+    "slug": "cheating",
+    "name": "Cheating"
+  },
+  {
+    "slug": "religious-extremism",
+    "name": "Religious extremism"
+  },
+  {
+    "slug": "war-crimes",
+    "name": "War crimes"
+  }
 ]

@@ -1,0 +1,45 @@
+{
+  "slug": "the-song-of-achilles",
+  "title": "The Song of Achilles",
+  "author": "Madeline Miller",
+  "isbn13": "9781408821985",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["historical", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "epic"],
+  "tropes": ["gods-and-myth", "war-story", "forbidden-love", "star-crossed-lovers"],
+  "warnings": ["war", "death", "violence", "sexual-assault", "grief"],
+  "summary": "A shy exiled prince becomes the companion of Achilles, the golden favourite of the gods, and their friendship deepens into love. The narrator follows him from boyhood training through the long years of the Trojan War.",
+  "readIf": "you want a tender, devastating love story set against the Trojan War, with prose that is beautiful and clear.",
+  "skipIf": "you want to avoid stories where you know it will end in grief.",
+  "pairings": [
+    {
+      "slug": "circe",
+      "reason": "Same author, another retelling of Greek myth from a quieter, overlooked point of view.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "Another heartfelt, lyrical story built around a doomed-feeling love.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "Another book where death is a close presence and love and loss sit side by side.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781408821985",
+    "https://en.wikipedia.org/wiki/The_Song_of_Achilles",
+    "https://hardcover.app/books/the-song-of-achilles"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "a-memory-called-empire",
+  "title": "A Memory Called Empire",
+  "author": "Arkady Martine",
+  "isbn13": "9781250186447",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "thoughtful", "tense"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["death", "violence"],
+  "summary": "A new ambassador from a small mining station arrives at the glittering capital of a vast empire to find that her predecessor is dead. She must navigate the court and a coup while working out who killed him.",
+  "readIf": "you like political space opera with a clever heroine, rich culture and a strong sense of place.",
+  "skipIf": "you want blasters and space battles, because the book is about diplomacy, poetry and plots.",
+  "pairings": [
+    {
+      "slug": "ancillary-justice",
+      "reason": "Another thoughtful space empire built on ritual and language, seen by someone from outside.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "A classic about an envoy trying to understand a very different society's customs.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "dune",
+      "reason": "A larger, older story of imperial politics, religion and a ruling family.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250186447",
+    "https://en.wikipedia.org/wiki/A_Memory_Called_Empire",
+    "https://hardcover.app/books/a-memory-called-empire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

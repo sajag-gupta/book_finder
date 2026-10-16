@@ -1,0 +1,44 @@
+{
+  "slug": "kushiels-dart",
+  "title": "Kushiel's Dart",
+  "author": "Jacqueline Carey",
+  "isbn13": "9781400159499",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["epic-fantasy", "romance"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "swoony", "dark"],
+  "tropes": ["political-intrigue", "spy", "forbidden-love", "royalty"],
+  "warnings": ["sexual-content", "violence", "torture", "slavery", "sexual-assault"],
+  "summary": "In an alternate Renaissance Europe, a girl sold into service is trained as a courtesan-spy, marked from birth with a mark that ties her to a painful kind of pleasure. She uncovers a plot that threatens her country and has to travel far to stop it.",
+  "readIf": "you want a very long, lush, political fantasy with sensual detail and a narrator with a distinctive voice.",
+  "skipIf": "you are uncomfortable with explicit sexual content, including BDSM, or with sexual coercion and torture on the page.",
+  "pairings": [
+    {
+      "slug": "tigana",
+      "reason": "Another richly written, politically minded epic that is more sorrowful and has an Italianate setting.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A more mainstream, quicker romantasy that shares the heat and court intrigue.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "Another vast, standalone epic with court politics, queer love and a large cast.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781400159499",
+    "https://hardcover.app/books/kushiels-dart"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

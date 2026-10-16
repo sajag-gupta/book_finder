@@ -1,0 +1,45 @@
+{
+  "slug": "shadow-and-bone",
+  "title": "Shadow and Bone",
+  "author": "Leigh Bardugo",
+  "isbn13": "9780805094596",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "swoony", "tense"],
+  "tropes": ["chosen-one", "love-triangle", "magic-school", "royalty"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A mapmaker in an army regiment discovers she has a rare power that could free her country from a dark, monster-filled expanse of shadow. She is swept off to the royal court to train with the elite magicians, among them a charismatic leader.",
+  "readIf": "you want a young-adult fantasy with a Russian-inspired world, a clear chosen-one arc and a brooding love interest.",
+  "skipIf": "you want fresh twists on the chosen one, since this is the more conventional start to the series.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "Set in the same world but sharper, funnier and more tightly plotted, so a good next step.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "throne-of-glass",
+      "reason": "Another young-adult fantasy with a young woman at court, a love triangle and a growing war.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "Another story of a girl with unexpected power drawn into a royal court of schemers.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780805094596",
+    "https://en.wikipedia.org/wiki/Shadow_and_Bone",
+    "https://hardcover.app/books/shadow-and-bone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

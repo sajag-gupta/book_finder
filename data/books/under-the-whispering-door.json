@@ -1,0 +1,44 @@
+{
+  "slug": "under-the-whispering-door",
+  "title": "Under the Whispering Door",
+  "author": "TJ Klune",
+  "isbn13": "9781250850997",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["cozy-fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["comforting", "heartbreaking", "hopeful"],
+  "tropes": ["found-family", "slow-burn", "redemption", "forbidden-love"],
+  "warnings": ["death", "grief"],
+  "summary": "A ruthless lawyer dies and wakes up in a small tea shop at the edge of the afterlife, run by a ferryman who helps the dead cross over. He is given time to reckon with the person he was, and slowly starts to care about the people there.",
+  "readIf": "you want a funny, warm book about death, grief and second chances.",
+  "skipIf": "you find stories centred on mourning too hard, or dislike sentimental, speech-heavy writing.",
+  "pairings": [
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "Same author, another comforting story about a lonely man and a household that welcomes him.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "Another story where a stranded person is shown what a life is worth by getting a second look.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "A grumpy man softened by those who refuse to leave him alone, told without fantasy.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250850997",
+    "https://hardcover.app/books/under-the-whispering-door"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

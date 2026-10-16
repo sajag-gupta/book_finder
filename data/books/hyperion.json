@@ -1,0 +1,45 @@
+{
+  "slug": "hyperion",
+  "title": "Hyperion",
+  "author": "Dan Simmons",
+  "isbn13": "9780575081147",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "epic", "haunting"],
+  "tropes": ["quest", "monster"],
+  "warnings": ["violence", "death", "gore", "war"],
+  "summary": "Seven pilgrims travel across a remote planet to a mysterious creature called the Shrike, in the shadow of a looming interstellar war. On the way each tells the story of how they came to be there.",
+  "readIf": "you like layered, ambitious space opera told as separate stories, each with its own genre and mood.",
+  "skipIf": "you want the whole plot resolved, since this book ends partway and needs its sequel.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Another vast, serious far-future saga, with religion and politics as heavy as the technology.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cloud-atlas",
+      "reason": "Also a book of nested stories in different voices that slowly reveal a larger pattern.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-fifth-season",
+      "reason": "A newer, emotionally intense epic that likewise mixes myth and science.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575081147",
+    "https://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)",
+    "https://hardcover.app/books/hyperion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

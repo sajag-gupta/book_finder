@@ -1,0 +1,45 @@
+{
+  "slug": "charlie-and-the-chocolate-factory",
+  "title": "Charlie and the Chocolate Factory",
+  "author": "Roald Dahl",
+  "isbn13": "9780001854307",
+  "firstPublished": 1964,
+  "series": null,
+  "genres": ["children", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "funny", "nostalgic"],
+  "tropes": ["rags-to-riches"],
+  "warnings": [],
+  "summary": "A poor boy living with his family finds one of five golden tickets that open the gates to Willy Wonka's secret chocolate factory, where the other winners are far less well behaved than he is.",
+  "readIf": "you want a quick, mischievous read full of sweets, inventions and comeuppance.",
+  "skipIf": "you want gentle characters; the adults and the other children are cartoonish.",
+  "pairings": [
+    {
+      "slug": "james-and-the-giant-peach",
+      "reason": "Another short Dahl fantasy about a poor boy and a fantastical place.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "matilda",
+      "reason": "A Dahl story about a clever child outwitting terrible adults.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another classic about a child entering an absurd world with odd rules.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780001854307",
+    "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory",
+    "https://hardcover.app/books/charlie-and-the-chocolate-factory"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

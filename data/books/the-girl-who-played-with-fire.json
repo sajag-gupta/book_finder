@@ -1,0 +1,45 @@
+{
+  "slug": "the-girl-who-played-with-fire",
+  "title": "The Girl Who Played with Fire",
+  "author": "Stieg Larsson",
+  "isbn13": "9780857054043",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark"],
+  "tropes": ["detective"],
+  "warnings": ["violence", "death", "abuse", "sexual-assault"],
+  "summary": "Hacker Lisbeth Salander is accused of three murders after journalists researching sex trafficking are killed. She disappears, while the magazine editor who knows her tries to clear her name.",
+  "readIf": "you finished the first book and want Lisbeth's story to take centre stage.",
+  "skipIf": "you have not read the first book, or want to avoid depictions of violence against women.",
+  "pairings": [
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "reason": "The first book in the series, and the place to start for the full story.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "killing-floor",
+      "reason": "Another fast thriller with a lone, resourceful hero pulled into a conspiracy.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A different hero, but the same breakneck rhythm and a clever, ruthless opponent.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780857054043",
+    "https://en.wikipedia.org/wiki/The_Girl_Who_Played_with_Fire",
+    "https://hardcover.app/books/the-girl-who-played-with-fire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-summer-i-turned-pretty",
+  "title": "The Summer I Turned Pretty",
+  "author": "Jenny Han",
+  "isbn13": "9780141956749",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["nostalgic", "swoony", "melancholic"],
+  "tropes": ["love-triangle", "coming-of-age", "friends-to-lovers"],
+  "warnings": ["grief", "terminal-illness"],
+  "summary": "Every summer, a girl and her family stay at a beach house with her mother's best friend and her two sons. This year, at fifteen, she is seen differently by the brothers she has always known, and her feelings change too.",
+  "readIf": "you want a sun-soaked coming-of-age love triangle that captures the ache of one particular summer.",
+  "skipIf": "you want fast plotting or dislike teenage love triangles and drifting, reflective narration.",
+  "pairings": [
+    {
+      "slug": "to-all-the-boys-ive-loved-before",
+      "reason": "Same author, with a lighter, funnier voice and another teenage heroine learning about first love.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "anna-and-the-french-kiss",
+      "reason": "Another young-adult romance with a strong sense of place and a will-they-won't-they at the centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "Summer holidays, longing and a long friendship, written for adults.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141956749",
+    "https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(trilogy)",
+    "https://hardcover.app/books/the-summer-i-turned-pretty"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

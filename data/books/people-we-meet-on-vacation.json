@@ -1,0 +1,45 @@
+{
+  "slug": "people-we-meet-on-vacation",
+  "title": "People We Meet on Vacation",
+  "author": "Emily Henry",
+  "isbn13": "9781432890193",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "funny", "nostalgic"],
+  "tropes": ["friends-to-lovers", "dual-timeline", "slow-burn"],
+  "warnings": [],
+  "summary": "For ten years, two opposite best friends, Poppy and Alex, have taken one trip together every summer, until a falling out ended it. Now Poppy asks for one more week to put things right.",
+  "readIf": "you love friends-to-lovers stories with travel, banter and lots of longing.",
+  "skipIf": "you get impatient with characters who avoid saying the obvious for most of a book.",
+  "pairings": [
+    {
+      "slug": "the-flatshare",
+      "reason": "Another warm, funny romance with a slowly deepening bond between two very different people.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A quieter, sadder story of two people who keep circling each other over years.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "book-lovers",
+      "reason": "Another Emily Henry novel, more focused on work and family.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781432890193",
+    "https://en.wikipedia.org/wiki/People_We_Meet_on_Vacation",
+    "https://hardcover.app/books/people-we-meet-on-vacation"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

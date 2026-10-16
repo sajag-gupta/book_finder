@@ -1,0 +1,45 @@
+{
+  "slug": "the-wind-up-bird-chronicle",
+  "title": "The Wind-Up Bird Chronicle",
+  "author": "Haruki Murakami",
+  "isbn13": "9780679775430",
+  "firstPublished": 1994,
+  "series": null,
+  "genres": ["literary", "fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "mysterious", "haunting"],
+  "tropes": ["war-story"],
+  "warnings": ["violence", "war", "torture", "animal-death"],
+  "summary": "A jobless Tokyo man's cat vanishes, then his wife does too. As he searches, he meets a series of odd people and pieces together stories that reach back to wartime Manchuria.",
+  "readIf": "you like patient, strange novels that let ordinary routines drift into the surreal.",
+  "skipIf": "you want clear answers or are not up for some very graphic wartime violence.",
+  "pairings": [
+    {
+      "slug": "kafka-on-the-shore",
+      "reason": "A lighter, more compact Murakami novel with the same hum of mystery.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "1q84",
+      "reason": "Even bigger in scope, with a love story at its centre and a similar sense of hidden worlds.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-trial",
+      "reason": "Kafka's tale of a man pulled into forces he does not understand is a clear ancestor of this book's feeling.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679775430",
+    "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle",
+    "https://hardcover.app/books/the-wind-up-bird-chronicle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

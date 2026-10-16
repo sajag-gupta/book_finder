@@ -1,0 +1,45 @@
+{
+  "slug": "kafka-on-the-shore",
+  "title": "Kafka on the Shore",
+  "author": "Haruki Murakami",
+  "isbn13": "9781400079278",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["literary", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "mysterious", "haunting"],
+  "tropes": ["coming-of-age", "talking-animals"],
+  "warnings": ["sexual-content", "incest", "violence", "animal-death"],
+  "summary": "A fifteen-year-old runs away from home to escape a prophecy and takes shelter in a quiet private library. Meanwhile an elderly man who can talk to cats sets out on a strange errand of his own.",
+  "readIf": "you like dreamlike stories where the logic is emotional, not literal, and mysteries are left open.",
+  "skipIf": "you want questions answered, or you are put off by sexual content involving a teenager and a family relationship.",
+  "pairings": [
+    {
+      "slug": "the-wind-up-bird-chronicle",
+      "reason": "Murakami's longer, heavier novel with the same blend of ordinary life and slipping reality.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-ocean-at-the-end-of-the-lane",
+      "reason": "A short, shimmering fantasy that treats the uncanny just as matter-of-factly.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "A quiet, puzzle-like novel set in an impossible space that rewards slow, patient reading.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781400079278",
+    "https://en.wikipedia.org/wiki/Kafka_on_the_Shore",
+    "https://hardcover.app/books/kafka-on-the-shore"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

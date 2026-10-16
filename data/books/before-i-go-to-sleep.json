@@ -1,0 +1,40 @@
+{
+  "slug": "before-i-go-to-sleep",
+  "title": "Before I Go to Sleep",
+  "author": "S. J. Watson",
+  "isbn13": "9780062131324",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious", "dark"],
+  "tropes": ["amnesia", "unreliable-narrator", "twist-ending"],
+  "warnings": ["abuse", "manipulation", "violence"],
+  "summary": "Each morning Christine wakes with no memory of the last twenty years, and has to be told who her husband is. A secret journal and a doctor she is not supposed to know about begin to show her a different version of her life.",
+  "readIf": "you like claustrophobic thrillers built around a narrator who cannot trust her own memory.",
+  "skipIf": "you want a gentle read, as the story involves long-term deception and abuse.",
+  "pairings": [
+    {
+      "slug": "the-girl-on-the-train",
+      "reason": "Another story of a woman with a hazy memory piecing together what happened.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silent-patient",
+      "reason": "A shorter psychological thriller with a similar sense of something being hidden.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062131324",
+    "https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep",
+    "https://hardcover.app/books/before-i-go-to-sleep"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mistborn-the-final-empire",
+  "title": "Mistborn: The Final Empire",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780765311788",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense", "hopeful"],
+  "tropes": ["heist", "rebellion", "found-family", "chosen-one"],
+  "warnings": ["violence", "death", "abuse", "slavery"],
+  "summary": "In a land where ash falls from the sky and an immortal ruler has held power for a thousand years, a crew of thieves plots to overthrow him. Their newest recruit, a street girl, discovers she can use a rare kind of metal-based magic.",
+  "readIf": "you like a heist-style fantasy with an inventive magic system and a satisfying, twisty plot.",
+  "skipIf": "you want lyrical prose or a slow character study, as the writing is plain and plot-driven.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another fantasy about a crew of clever criminals with a long con, but more foul-mouthed and funny.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "A similar crew-and-heist adventure, shorter and aimed at a younger readership.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "The same author's much longer, slower and even bigger epic.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765311788",
+    "https://en.wikipedia.org/wiki/Mistborn%3A_The_Final_Empire",
+    "https://hardcover.app/books/mistborn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-invisible-life-of-addie-larue",
+  "title": "The Invisible Life of Addie LaRue",
+  "author": "V. E. Schwab",
+  "isbn13": "9781803364186",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["haunting", "melancholic", "swoony"],
+  "tropes": ["dual-timeline", "forbidden-love", "gods-and-myth", "second-chance"],
+  "warnings": ["suicide", "mental-illness", "sexual-content", "abuse"],
+  "summary": "In 1714, a young French woman desperate to escape an arranged marriage makes a bargain with a dark god and is cursed to be forgotten by everyone she meets. Three centuries later, a man in a New York bookshop remembers her name.",
+  "readIf": "you like a lyrical, melancholy story of art, memory and being seen, spanning centuries.",
+  "skipIf": "you want a faster plot, as it moves between timelines and spends a lot of time on mood.",
+  "pairings": [
+    {
+      "slug": "the-night-circus",
+      "reason": "Another romantic, atmospheric fantasy about magic, a bargain and a love that crosses time.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A brighter story about a woman reconsidering the lives she might have lived.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-starless-sea",
+      "reason": "A more labyrinthine, book-obsessed fantasy for readers who loved the storytelling here.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781803364186",
+    "https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue",
+    "https://hardcover.app/books/the-invisible-life-of-addie-larue"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "their-eyes-were-watching-god",
+  "title": "Their Eyes Were Watching God",
+  "author": "Zora Neale Hurston",
+  "isbn13": "9781983254246",
+  "firstPublished": 1937,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["hopeful", "thoughtful", "nostalgic"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["domestic-violence", "racism", "death"],
+  "summary": "Janie returns to her Florida town and tells her friend about her three marriages and her search for a life of her own. The story is told in rich dialect and with a strong sense of nature.",
+  "readIf": "you like lyrical, voice-driven novels about independence, love and finding your own way of speaking.",
+  "skipIf": "you find dialect hard to read; it takes a few pages to settle into the rhythm.",
+  "pairings": [
+    {
+      "slug": "the-color-purple",
+      "reason": "Another story about a Black woman finding strength, voice and love in the early-twentieth-century South.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "beloved",
+      "reason": "A more haunting and difficult novel that shares a rich, poetic voice and a woman's fight to own her life.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "Another Southern classic with a vivid sense of community, told from a different place and angle.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781983254246",
+    "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God",
+    "https://hardcover.app/books/their-eyes-were-watching-god"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

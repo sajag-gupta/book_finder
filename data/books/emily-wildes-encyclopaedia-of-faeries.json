@@ -1,0 +1,44 @@
+{
+  "slug": "emily-wildes-encyclopaedia-of-faeries",
+  "title": "Emily Wilde's Encyclopaedia of Faeries",
+  "author": "Heather Fawcett",
+  "isbn13": "9780593500132",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["cozy-fantasy", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["cozy", "whimsical", "witty"],
+  "tropes": ["fae", "academic-rivals", "slow-burn"],
+  "warnings": [],
+  "summary": "A prickly Cambridge scholar travels to a snowbound northern village to research the hidden folk for her great reference work. Her charming academic rival turns up uninvited, and the village's faeries are less harmless than they look.",
+  "readIf": "you want a snowy, bookish fantasy with a socially awkward heroine and a romance that creeps up on her.",
+  "skipIf": "you want a lot of action, since much of the book is field notes, village life and careful folklore.",
+  "pairings": [
+    {
+      "slug": "uprooted",
+      "reason": "A fairy-tale forest that is genuinely menacing, a prickly heroine and a slow-growing bond with a difficult man.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "A lighter, more modern take on academic rivals turned allies, without any of the folklore.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-bear-and-the-nightingale",
+      "reason": "Cold, folklore-rich and full of household spirits, but more solemn and rooted in medieval Russia.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593500132",
+    "https://hardcover.app/books/emily-wildes-encyclopaedia-of-faeries-2022"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

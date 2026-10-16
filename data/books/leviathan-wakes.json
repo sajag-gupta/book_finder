@@ -1,0 +1,40 @@
+{
+  "slug": "leviathan-wakes",
+  "title": "Leviathan Wakes",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316515986",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous", "dark"],
+  "tropes": ["detective", "political-intrigue"],
+  "warnings": ["violence", "death", "gore"],
+  "summary": "In a colonised solar system on the brink of war, a ship's officer survives a disaster that points to a vast conspiracy. Elsewhere a washed-up detective hunts for a missing heiress, and their stories collide.",
+  "readIf": "you like gritty, fast-paced space opera that mixes detective noir with big-scale politics.",
+  "skipIf": "you dislike horror touches and grim violence, as some scenes are brutal and bleak.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "Another violent, momentum-driven story of class war and conspiracy across the solar system.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "altered-carbon",
+      "reason": "A noir mystery in a hard-edged future that matches this book's detective spirit.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316515986",
+    "https://en.wikipedia.org/wiki/Leviathan_Wakes",
+    "https://hardcover.app/books/leviathan-wakes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

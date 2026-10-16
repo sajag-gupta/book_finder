@@ -1,0 +1,40 @@
+{
+  "slug": "the-road",
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "isbn13": "9781436100793",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["dystopian", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["haunting", "heartbreaking", "dark"],
+  "tropes": ["post-apocalyptic", "survival", "road-trip"],
+  "warnings": ["violence", "death", "gore"],
+  "summary": "A father and his young son push a shopping cart south across an ash-covered America, after an unnamed disaster has killed almost everything. They scavenge for food and hide from other survivors, who are mostly dangerous.",
+  "readIf": "you want a spare, devastating story about love between a parent and child in the worst of worlds.",
+  "skipIf": "you want hope or explanation, since the book is relentlessly bleak and gives little backstory.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "Another quiet post-collapse novel, but one that looks for art, beauty and people who still care.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "A more active and political story of travelling through a ruined America with a purpose.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781436100793",
+    "https://en.wikipedia.org/wiki/The_Road",
+    "https://hardcover.app/books/the-road"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

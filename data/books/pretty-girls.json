@@ -1,0 +1,41 @@
+{
+  "slug": "pretty-girls",
+  "title": "Pretty Girls",
+  "author": "Karin Slaughter",
+  "isbn13": "9780099599432",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark"],
+  "tropes": ["serial-killer"],
+  "warnings": ["violence", "death", "sexual-assault", "kidnapping", "abuse", "grief"],
+  "summary": "Two sisters, estranged since their teenage sister disappeared decades ago, are pushed back together when one of them discovers disturbing secrets after her husband's death. What she finds may link back to the old case.",
+  "readIf": "you want a relentless, high-stakes thriller and are comfortable with very dark material.",
+  "skipIf": "you avoid graphic violence or sexual violence in your reading.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "The benchmark for stories that follow a hunt for a predator with unflinching detail.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "reason": "Another thriller built on buried crimes against women and driven by determined investigators.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "sharp-objects",
+      "reason": "A more psychological, slower story of damage within a family.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

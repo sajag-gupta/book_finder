@@ -1,0 +1,40 @@
+{
+  "slug": "the-pelican-brief",
+  "title": "The Pelican Brief",
+  "author": "John Grisham",
+  "isbn13": "9780582816978",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["violence", "death"],
+  "summary": "After two Supreme Court justices are assassinated, a law student writes a theory about who was behind it. When her brief reaches the wrong people, she becomes a target and has to run.",
+  "readIf": "you want a fast, paranoid, on-the-run conspiracy thriller.",
+  "skipIf": "you want realism, as the plot is more about momentum than plausibility.",
+  "pairings": [
+    {
+      "slug": "the-firm",
+      "reason": "Another Grisham thriller where a clever young lawyer discovers the people around her are dangerous.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bourne-identity",
+      "reason": "A more action-heavy and international story of an individual hunted by a hidden network.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780582816978",
+    "https://en.wikipedia.org/wiki/The_Pelican_Brief",
+    "https://hardcover.app/books/the-pelican-brief"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

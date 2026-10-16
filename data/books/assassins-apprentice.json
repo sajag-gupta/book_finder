@@ -1,0 +1,45 @@
+{
+  "slug": "assassins-apprentice",
+  "title": "Assassin's Apprentice",
+  "author": "Robin Hobb",
+  "isbn13": "9780553897487",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "thoughtful", "tense"],
+  "tropes": ["coming-of-age", "political-intrigue", "royalty", "unlikely-friendship"],
+  "warnings": ["violence", "death", "animal-death", "abuse"],
+  "summary": "The unwanted illegitimate son of a prince is brought up in the royal stables and trained in secret as the crown's quiet killer. Looking back as an older man, he describes how raiders, court politics and a rare bond with animals shaped him.",
+  "readIf": "you want a patient, emotional fantasy told in a first-person voice with a deep focus on character.",
+  "skipIf": "you want fast action, since the first half is slow and the tone is often sad.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another confessional, first-person fantasy where a gifted outsider remembers how his story began.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "A shorter, wiser coming-of-age fantasy with a similar quiet seriousness.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "A much more cynical, violent fantasy for when you want to turn the mood harder and funnier.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553897487",
+    "https://en.wikipedia.org/wiki/Assassin's_Apprentice",
+    "https://hardcover.app/books/assassins-apprentice"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

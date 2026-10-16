@@ -1,0 +1,45 @@
+{
+  "slug": "a-gentleman-in-moscow",
+  "title": "A Gentleman in Moscow",
+  "author": "Amor Towles",
+  "isbn13": "9780099558781",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["cozy", "witty", "hopeful", "nostalgic"],
+  "tropes": ["unlikely-friendship", "found-family"],
+  "warnings": ["death", "suicide"],
+  "summary": "After the Russian Revolution, a Count is sentenced to house arrest in the grand Metropol Hotel, across the street from the Kremlin. As the decades pass, he builds a surprisingly full life within its walls.",
+  "readIf": "you like elegant, comic, civilised novels with a charming lead and a warm sense of community.",
+  "skipIf": "you want fast plotting; the pleasure is in digressions, manners and detail.",
+  "pairings": [
+    {
+      "slug": "the-lincoln-highway",
+      "reason": "The same author's later novel, another ensemble tale told with a similar love of language and a road in place of a hotel.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Also centres on a dignified man in a grand building watching history pass by, though with deeper regret.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "Another aristocrat confined by circumstance, in a much more melodramatic and revenge-driven classic.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099558781",
+    "https://en.wikipedia.org/wiki/A_Gentleman_in_Moscow",
+    "https://hardcover.app/books/a-gentleman-in-moscow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

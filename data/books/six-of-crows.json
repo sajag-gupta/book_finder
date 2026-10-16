@@ -1,0 +1,45 @@
+{
+  "slug": "six-of-crows",
+  "title": "Six of Crows",
+  "author": "Leigh Bardugo",
+  "isbn13": "9781491589250",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous", "witty"],
+  "tropes": ["heist", "found-family", "morally-grey", "slow-burn"],
+  "warnings": ["violence", "death", "slavery", "addiction", "abuse"],
+  "summary": "In a crowded trading city, a young criminal mastermind gathers a crew of six outcasts to attempt a break-in at an impregnable fortress, for a vast payment. Each of them has something to prove or to lose.",
+  "readIf": "you want a heist story with a clever plan, a lot of banter and characters you care about.",
+  "skipIf": "you want a lot of backstory and explanation, as the plot rushes and assumes you are along for it.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "A more adult, profane fantasy about thieves and long cons, with a similar loyalty among friends.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Another fantasy built around a crew plotting a big heist against a powerful regime.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another scheming young-adult fantasy with morally murky leads and ruthless plots.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781491589250",
+    "https://en.wikipedia.org/wiki/Six_of_Crows",
+    "https://hardcover.app/books/six-of-crows"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

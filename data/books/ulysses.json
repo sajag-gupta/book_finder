@@ -1,0 +1,41 @@
+{
+  "slug": "ulysses",
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "isbn13": "9781840226355",
+  "firstPublished": 1922,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "witty", "mind-bending"],
+  "tropes": [],
+  "warnings": ["sexual-content"],
+  "summary": "One ordinary day in Dublin in 1904, followed through the minds of an advertising canvasser, a young would-be writer and the canvasser's wife. Each chapter shifts style, from plain narration to parody to pure stream of thought.",
+  "readIf": "you like language experiments and are willing to read with a companion guide and a lot of patience.",
+  "skipIf": "you want a story that explains itself, or you are reading for plot rather than technique.",
+  "pairings": [
+    {
+      "slug": "mrs-dalloway",
+      "reason": "Also compresses a whole life into a single day through a flowing inner voice, but is shorter and far easier to enter.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "house-of-leaves",
+      "reason": "A modern book that plays with form just as boldly, with footnotes, shifting layouts and a deliberate dare to the reader.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "don-quixote",
+      "reason": "An earlier landmark of comic, self-aware storytelling that rewards a reader who likes literary history.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

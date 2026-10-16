@@ -1,0 +1,45 @@
+{
+  "slug": "harry-potter-and-the-philosophers-stone",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J. K. Rowling",
+  "isbn13": "9780747545729",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["whimsical", "adventurous", "cozy"],
+  "tropes": ["chosen-one", "magic-school", "found-family", "coming-of-age"],
+  "warnings": ["bullying", "death"],
+  "summary": "An orphan raised by unkind relatives learns on his eleventh birthday that he is a wizard, and is whisked off to a boarding school of magic where he makes friends and uncovers a secret hidden inside the castle.",
+  "readIf": "you want a warm, inventive school story with clever world-building and easy page-turning momentum.",
+  "skipIf": "you want complex, adult-focused fantasy rather than a children's adventure.",
+  "pairings": [
+    {
+      "slug": "the-lightning-thief",
+      "reason": "Another young hero discovers a hidden magical world and a band of friends, with a faster, funnier voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A quirky, witty and warm fantasy with a very different, more offbeat sense of magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-deadly-education",
+      "reason": "A magic school with the cosiness stripped out: lethal, sarcastic and aimed at older readers.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 120,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780747545729",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone",
+    "https://hardcover.app/books/harry-potter-and-the-philosophers-stone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

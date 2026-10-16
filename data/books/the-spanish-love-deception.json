@@ -1,0 +1,45 @@
+{
+  "slug": "the-spanish-love-deception",
+  "title": "The Spanish Love Deception",
+  "author": "Elena Armas",
+  "isbn13": "9781960854209",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful"],
+  "tropes": ["fake-dating", "enemies-to-lovers", "workplace-romance"],
+  "warnings": ["sexual-content"],
+  "summary": "A woman needs a date for her sister's wedding in Spain and, after a boast that backfires, asks the colleague she can't stand to pose as her boyfriend. A week with her family and his quiet attention changes how she sees him.",
+  "readIf": "you want a slow-thawing fake-dating story with a stern hero and a big, noisy family.",
+  "skipIf": "you dislike a long stretch of will-they-won't-they before anything resolves.",
+  "pairings": [
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "Another fake-relationship romance with a reserved, secretly devoted hero and a lot of humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "it-happened-one-summer",
+      "reason": "Both put a city woman into an unfamiliar setting alongside a gruff, protective man.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "A larger-scale fake-friendship-to-romance with more wit and more at stake publicly.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781960854209",
+    "https://en.wikipedia.org/wiki/The_Spanish_Love_Deception",
+    "https://hardcover.app/books/the-spanish-love-deception"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

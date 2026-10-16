@@ -1,0 +1,45 @@
+{
+  "slug": "girl-with-a-pearl-earring",
+  "title": "Girl with a Pearl Earring",
+  "author": "Tracy Chevalier",
+  "isbn13": "9781471296321",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "swoony", "melancholic"],
+  "tropes": ["forbidden-love", "slow-burn"],
+  "warnings": ["death"],
+  "summary": "In 1660s Delft, a sixteen-year-old girl takes a job as a maid in the household of the painter Vermeer. Her quiet eye for colour and light draws her closer to him, to the displeasure of his family.",
+  "readIf": "you want a short, restrained novel about art, class and desire expressed in small gestures.",
+  "skipIf": "you want real historical detail on Vermeer; the characters and relationships are invented.",
+  "pairings": [
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Another delicate story of a servant whose feelings are never openly spoken.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "jane-eyre",
+      "reason": "A classic about a young woman of low status who forms a deep attachment to the man of the house.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "reason": "Similarly follows a young woman at the mercy of others, in a more ornate and romantic style.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781471296321",
+    "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring_(novel)",
+    "https://hardcover.app/books/girl-with-a-pearl-earring"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

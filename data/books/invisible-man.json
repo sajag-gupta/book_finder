@@ -1,0 +1,44 @@
+{
+  "slug": "invisible-man",
+  "title": "Invisible Man",
+  "author": "Ralph Ellison",
+  "isbn13": "9781436104463",
+  "firstPublished": 1952,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["thoughtful", "dark", "mind-bending"],
+  "tropes": ["satire"],
+  "warnings": ["racism", "violence", "prejudice"],
+  "summary": "A nameless young Black man moves from a Southern college to Harlem, joining one organisation after another that promises purpose. He narrates from a hidden underground room, explaining how he became invisible.",
+  "readIf": "you like ambitious novels that mix satire, nightmare and jazz-like narration to examine identity.",
+  "skipIf": "you want a straightforward plot; it is episodic, symbolic and often surreal.",
+  "pairings": [
+    {
+      "slug": "native-son",
+      "reason": "A more direct, tragic and naturalistic novel about the same American problem.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "beloved",
+      "reason": "Another formally daring novel that uses surreal elements to confront American history.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "Shares the bitter, absurd comedy of an individual trapped in systems that make no sense.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781436104463",
+    "https://en.wikipedia.org/wiki/Invisible_Man"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

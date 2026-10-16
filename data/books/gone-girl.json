@@ -1,0 +1,52 @@
+{
+  "slug": "gone-girl",
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "isbn13": "9780307588364",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["unreliable-narrator", "twist-ending", "dual-timeline"],
+  "warnings": [
+    "manipulation",
+    "domestic-violence",
+    "sexual-assault",
+    "infidelity",
+    "violence",
+    "death"
+  ],
+  "summary": "On their fifth anniversary, Nick Dunne comes home to find his wife Amy missing and signs of a struggle. As police and the press close in, diary entries and his own account give conflicting pictures of the marriage.",
+  "readIf": "you like a sharp, nasty, twist-heavy thriller about a marriage and the stories people tell.",
+  "skipIf": "you want sympathetic characters; almost everyone is unpleasant.",
+  "pairings": [
+    {
+      "slug": "sharp-objects",
+      "reason": "The author's debut: a bleaker, gothic mystery of a damaged reporter and a small town.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-girl-on-the-train",
+      "reason": "A lighter, more accessible read with another unreliable narrator.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Another mystery about suburban couples and hidden darkness, with more humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307588364",
+    "https://en.wikipedia.org/wiki/Gone_Girl_(novel)",
+    "https://hardcover.app/books/gone-girl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

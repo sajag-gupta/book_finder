@@ -1,0 +1,45 @@
+{
+  "slug": "the-rosie-project",
+  "title": "The Rosie Project",
+  "author": "Graeme Simsion",
+  "isbn13": "9781611739275",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["romance", "literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "swoony", "hopeful"],
+  "tropes": ["road-trip", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "A socially awkward genetics professor designs a questionnaire to find the perfect wife. Instead he meets a woman who fails every criterion and enlists his help to find her biological father.",
+  "readIf": "you like a literal-minded, hapless hero and a romantic comedy that is clever about its own formulas.",
+  "skipIf": "you are put off by a narrator whose behaviour reads as autistic but is never named, or by neat, light-hearted resolutions.",
+  "pairings": [
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "Another romance built on a scientist's careful plan going gleefully off course.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-kiss-quotient",
+      "reason": "Flips the idea, with a heroine who treats romance as a problem to be practised and solved.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "A more poignant story about a person who finds the rules of social life baffling.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781611739275",
+    "https://en.wikipedia.org/wiki/The_Rosie_Project",
+    "https://hardcover.app/books/the-rosie-project"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

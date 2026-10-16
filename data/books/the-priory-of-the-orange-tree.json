@@ -1,0 +1,45 @@
+{
+  "slug": "the-priory-of-the-orange-tree",
+  "title": "The Priory of the Orange Tree",
+  "author": "Samantha Shannon",
+  "isbn13": "9781408883358",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "hopeful"],
+  "tropes": ["dragons", "found-family", "political-intrigue", "forbidden-love"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "A divided world faces the return of an ancient, fiery enemy, as the east fears dragons and the west worships a hidden queen. The story follows a lady-in-waiting, a dragon-rider in training, a mage and a queen who must keep a secret.",
+  "readIf": "you want a vast, standalone epic with dragons, queer love and a mostly female cast.",
+  "skipIf": "you want a short or fast read, since it is very long and takes time to bring its threads together.",
+  "pairings": [
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Another enormous, immersive fantasy built on layered history and many viewpoints.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "A shorter, racier dragon story if you want the same creatures with more romance and less politics.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "A grimmer epic of dynasties and war with a similarly big cast.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781408883358",
+    "https://en.wikipedia.org/wiki/The_Priory_of_the_Orange_Tree",
+    "https://hardcover.app/books/the-priory-of-the-orange-tree"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

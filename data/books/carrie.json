@@ -1,0 +1,44 @@
+{
+  "slug": "carrie",
+  "title": "Carrie",
+  "author": "Stephen King",
+  "isbn13": "9780450050879",
+  "firstPublished": 1974,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "heartbreaking", "tense"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["bullying", "abuse", "religious-extremism", "violence", "death"],
+  "summary": "A shy teenage girl, raised by a zealously religious mother, discovers she has telekinetic powers just as her classmates plan a cruel prank. The story is told partly through news reports and later accounts.",
+  "readIf": "you want a short, sharp horror novel about cruelty, isolation and what happens when the bullied fight back.",
+  "skipIf": "you find school bullying or religious abuse hard to read about.",
+  "pairings": [
+    {
+      "slug": "matilda",
+      "reason": "A far lighter story of a girl with strange powers and unkind adults, written for younger readers.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-exorcist",
+      "reason": "Another story that combines a girl, faith and supernatural force, in a more intense form.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "speak",
+      "reason": "A realistic, quiet take on being ostracised in high school.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780450050879",
+    "https://en.wikipedia.org/wiki/Carrie_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

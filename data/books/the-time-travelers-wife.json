@@ -1,0 +1,44 @@
+{
+  "slug": "the-time-travelers-wife",
+  "title": "The Time Traveler's Wife",
+  "author": "Audrey Niffenegger",
+  "isbn13": "9781665154567",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["romance", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "heartbreaking", "thoughtful"],
+  "tropes": ["time-travel", "star-crossed-lovers"],
+  "warnings": ["death", "grief", "miscarriage", "sexual-content"],
+  "summary": "A librarian with a genetic condition is flung unpredictably through time, appearing at different points in the life of the woman he will marry. The couple has to build a marriage in which he is often absent.",
+  "readIf": "you like love stories with a speculative twist and are happy to be emotionally wrung out.",
+  "skipIf": "you dislike non-linear timelines, or find it uncomfortable that he visits his future wife when she is a child.",
+  "pairings": [
+    {
+      "slug": "outlander",
+      "reason": "Another time-crossing romance, with more adventure and history and a similar commitment to a single great love.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "one-last-stop",
+      "reason": "A lighter, queer romance with a time-slip twist, with a warm ensemble of friends.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "me-before-you",
+      "reason": "Another tearjerking love story where time with someone is limited and every choice matters.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781665154567",
+    "https://en.wikipedia.org/wiki/The_Time_Traveler's_Wife"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

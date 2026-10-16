@@ -1,0 +1,45 @@
+{
+  "slug": "the-name-of-the-rose",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "isbn13": "9780156001311",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["mystery", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mysterious", "dark", "thoughtful"],
+  "tropes": ["detective", "whodunit"],
+  "warnings": ["violence", "death", "religious-extremism", "torture", "sexual-content"],
+  "summary": "In 1327, a Franciscan friar and his young assistant visit a wealthy Italian abbey to prepare for a theological meeting, and find themselves investigating a series of deaths tied to a forbidden library.",
+  "readIf": "you want a dense, bookish medieval mystery that is as much about ideas as about the murders.",
+  "skipIf": "you want a quick read, since it contains long stretches of theology and untranslated Latin.",
+  "pairings": [
+    {
+      "slug": "the-shadow-of-the-wind",
+      "reason": "Another mystery woven around books and hidden libraries, but warmer and easier going.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A learned, atmospheric literary mystery about brilliant people and a death among them.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "wolf-hall",
+      "reason": "Dense, intelligent historical fiction about power and belief, told with a distinctive voice.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780156001311",
+    "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
+    "https://hardcover.app/books/the-name-of-the-rose"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

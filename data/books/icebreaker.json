@@ -1,0 +1,41 @@
+{
+  "slug": "icebreaker",
+  "title": "Icebreaker",
+  "author": "Hannah Grace",
+  "isbn13": "9781398525689",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful"],
+  "tropes": ["sports", "enemies-to-lovers", "slow-burn"],
+  "warnings": ["sexual-content", "bullying"],
+  "summary": "A college figure skater and a hockey captain are forced to share ice time when their rinks close for repairs. Their early irritation gives way to something more as practice sessions and rivalry blur together.",
+  "readIf": "you want a steamy campus sports romance with a mix of banter, slow tension and support from teammates.",
+  "skipIf": "you are tired of hockey romances or want something outside the college setting.",
+  "pairings": [
+    {
+      "slug": "the-deal",
+      "reason": "Another hockey romance on a college campus, a bit more fast and gritty in tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Similar high-heat rivals-to-lovers mood with a strong supporting cast and plenty of humour.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "The same delight in two stubborn people sparring before giving in.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

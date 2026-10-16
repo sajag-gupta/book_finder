@@ -1,0 +1,45 @@
+{
+  "slug": "the-pillars-of-the-earth",
+  "title": "The Pillars of the Earth",
+  "author": "Ken Follett",
+  "isbn13": "9781417671687",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "adventurous"],
+  "tropes": ["family-saga", "political-intrigue", "revenge"],
+  "warnings": ["violence", "sexual-assault", "death", "war"],
+  "summary": "In twelfth-century England, a master builder dreams of constructing a great cathedral at Kingsbridge, while civil war, scheming churchmen and local lords threaten his plans and the people around him.",
+  "readIf": "you like long, absorbing historical sagas with clear heroes and villains.",
+  "skipIf": "you want subtle moral shading, or want to avoid scenes of sexual violence.",
+  "pairings": [
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Medieval-style power struggles with a cast of schemers, but in a fantasy world.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "wolf-hall",
+      "reason": "A more literary look at political power in an earlier English era.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "Another medieval story built around a monastery and the secrets of the Church.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417671687",
+    "https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth",
+    "https://hardcover.app/books/the-pillars-of-the-earth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

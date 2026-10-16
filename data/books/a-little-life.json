@@ -1,0 +1,47 @@
+{
+  "slug": "a-little-life",
+  "title": "A Little Life",
+  "author": "Hanya Yanagihara",
+  "isbn13": "9781447294825",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["heartbreaking", "dark", "thoughtful"],
+  "tropes": ["found-family"],
+  "warnings": [
+    "child-sexual-abuse",
+    "sexual-assault",
+    "self-harm",
+    "suicide",
+    "abuse",
+    "mental-illness"
+  ],
+  "summary": "Four friends move to New York after college and build careers over several decades. The novel gradually narrows to one of them, Jude, whose past he refuses to discuss.",
+  "readIf": "you want a long, immersive, devastating novel about friendship and trauma, and are prepared for it.",
+  "skipIf": "you are sensitive to graphic abuse and self-harm; it is relentless and very distressing.",
+  "pairings": [
+    {
+      "slug": "the-goldfinch",
+      "reason": "A long, absorbing novel of a damaged man and his friendships, with a lighter touch.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "tomorrow-and-tomorrow-and-tomorrow",
+      "reason": "Another novel about deep friendship across decades, warmer and more playful.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781447294825",
+    "https://en.wikipedia.org/wiki/A_Little_Life",
+    "https://hardcover.app/books/a-little-life"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

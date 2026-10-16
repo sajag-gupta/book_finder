@@ -1,0 +1,45 @@
+{
+  "slug": "scythe",
+  "title": "Scythe",
+  "author": "Neal Shusterman",
+  "isbn13": "9781543643626",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "thoughtful"],
+  "tropes": ["dystopian-regime", "morally-grey", "artificial-intelligence"],
+  "warnings": ["death", "violence"],
+  "summary": "In a world where death has been conquered, scythes are the only people allowed to end lives, to keep the population in check. Two teenagers are chosen as apprentices and find out the job is neither noble nor simple.",
+  "readIf": "you like young-adult stories that take a hard moral question seriously and keep the twists coming.",
+  "skipIf": "you want a lighthearted read, because the central job of the book is to kill people thoughtfully.",
+  "pairings": [
+    {
+      "slug": "the-giver",
+      "reason": "A shorter, quieter story of a society where hard choices have been hidden from the public.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another young-adult story in which teenagers are forced to take part in killing for a bigger system.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "brave-new-world",
+      "reason": "The classic about a comfortable, engineered world where the price of peace is concealed.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781543643626",
+    "https://en.wikipedia.org/wiki/Scythe_(novel)",
+    "https://hardcover.app/books/scythe"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

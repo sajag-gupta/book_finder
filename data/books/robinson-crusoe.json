@@ -1,0 +1,45 @@
+{
+  "slug": "robinson-crusoe",
+  "title": "Robinson Crusoe",
+  "author": "Daniel Defoe",
+  "isbn13": "9781981618675",
+  "firstPublished": 1719,
+  "series": null,
+  "genres": ["adventure", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["adventurous", "thoughtful"],
+  "tropes": ["survival"],
+  "warnings": ["slavery", "racism", "violence"],
+  "summary": "A young Englishman defies his father to go to sea and is eventually shipwrecked alone on a remote island. He spends decades there making tools, growing food and thinking about his own life.",
+  "readIf": "you like survival stories centred on practical detail, planning and solitude.",
+  "skipIf": "you want fast action or modern attitudes; it is an early novel with colonial and slave-trading views.",
+  "pairings": [
+    {
+      "slug": "hatchet",
+      "reason": "A modern, much shorter survival story about a boy alone in the wilderness, with similar focus on resourcefulness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "life-of-pi",
+      "reason": "Another castaway story, but one in which survival turns into something philosophical and strange.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "Asks what happens when people are stranded on an island, with a far bleaker answer.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781981618675",
+    "https://en.wikipedia.org/wiki/Robinson_Crusoe",
+    "https://hardcover.app/books/robinson-crusoe"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

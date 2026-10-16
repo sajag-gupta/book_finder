@@ -1,0 +1,40 @@
+{
+  "slug": "big-little-lies",
+  "title": "Big Little Lies",
+  "author": "Liane Moriarty",
+  "isbn13": "9780399587207",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["literary", "mystery"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["witty", "tense", "dark"],
+  "tropes": ["whodunit", "small-town", "twist-ending"],
+  "warnings": ["domestic-violence", "sexual-assault", "bullying", "death"],
+  "summary": "Three mothers at a seaside Australian school become tangled in playground feuds, secrets and a rumour that spirals. The story is told through gossip and witness interviews that lead up to a death at a school party.",
+  "readIf": "you like sharp, funny suburban drama with a serious undercurrent and a mystery to keep you reading.",
+  "skipIf": "you want to avoid domestic violence and sexual assault, which are central to the later part.",
+  "pairings": [
+    {
+      "slug": "little-fires-everywhere",
+      "reason": "Another novel about mothers, secrets and the cracks beneath a polished, comfortable suburb.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-couple-next-door",
+      "reason": "A more straightforward and chilling suburban thriller built on a disappearance and what neighbours hide.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399587207",
+    "https://en.wikipedia.org/wiki/Big_Little_Lies_(TV_series)",
+    "https://hardcover.app/books/big-little-lies-fa096575-fda9-43e0-b225-7f9acea2d96c"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

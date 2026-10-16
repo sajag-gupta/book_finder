@@ -1,0 +1,45 @@
+{
+  "slug": "starship-troopers",
+  "title": "Starship Troopers",
+  "author": "Robert A. Heinlein",
+  "isbn13": "9780425055069",
+  "firstPublished": 1959,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "thoughtful", "adventurous"],
+  "tropes": ["war-story", "coming-of-age"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "A young man joins the Mobile Infantry in a future where only veterans can vote, and takes part in a war against insect-like aliens. The book follows his training, his battles and his ideas about duty.",
+  "readIf": "you want a lean military science-fiction classic and enjoy arguing with a book's politics.",
+  "skipIf": "you dislike long lectures on civic philosophy in the middle of a war story.",
+  "pairings": [
+    {
+      "slug": "the-forever-war",
+      "reason": "A famous reply to this book, which sees the same kind of war as exhausting and pointless.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "old-mans-war",
+      "reason": "A modern, funnier descendant with a similar soldier's-eye view of fighting aliens.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "enders-game",
+      "reason": "Another training-and-war story, with more emphasis on strategy and a much younger hero.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425055069",
+    "https://en.wikipedia.org/wiki/Starship_Troopers",
+    "https://hardcover.app/books/starship-troopers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

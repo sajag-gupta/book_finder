@@ -1,0 +1,45 @@
+{
+  "slug": "me-before-you",
+  "title": "Me Before You",
+  "author": "Jojo Moyes",
+  "isbn13": "9780241397916",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "funny"],
+  "tropes": ["grumpy-sunshine"],
+  "warnings": ["suicide", "death", "grief", "sexual-assault"],
+  "summary": "Louisa, a cheerful, out-of-work young woman, takes a job caring for Will, a once-adventurous man left paralysed after an accident. He is bitter and withdrawn, and she gradually sees what he has planned.",
+  "readIf": "you want a funny, warm romance that is meant to make you cry.",
+  "skipIf": "you want a happy ending, or an assisted-death storyline may upset you.",
+  "pairings": [
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "Another romance where illness shapes the love story, with a younger voice.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another warm, funny book about a grumpy man who is drawn back toward life by someone unexpected.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "it-ends-with-us",
+      "reason": "A popular romance that also takes on a hard subject with a heroine making painful choices.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 12,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241397916",
+    "https://en.wikipedia.org/wiki/Me_Before_You",
+    "https://hardcover.app/books/me-before-you"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

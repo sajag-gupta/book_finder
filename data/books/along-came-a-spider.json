@@ -1,0 +1,40 @@
+{
+  "slug": "along-came-a-spider",
+  "title": "Along Came a Spider",
+  "author": "James Patterson",
+  "isbn13": "9781306755047",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["detective"],
+  "warnings": ["kidnapping", "violence", "death"],
+  "summary": "A Washington, D.C. detective who is also a psychologist is drawn into the case of two children snatched from an exclusive school. The kidnapper is careful, clever and appears to enjoy the game.",
+  "readIf": "you like very short chapters and a quick, twisty chase between a cop and a villain.",
+  "skipIf": "you want slow, well-drawn characters or to avoid stories about kidnapped children.",
+  "pairings": [
+    {
+      "slug": "the-bone-collector",
+      "reason": "Another thriller built around a clever killer and a brilliant, unlikely detective.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "A more psychological, better-written look at a detective chasing a disturbed mind.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781306755047",
+    "https://en.wikipedia.org/wiki/Along_Came_a_Spider_(novel)",
+    "https://hardcover.app/books/along-came-a-spider"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

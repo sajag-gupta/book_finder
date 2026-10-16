@@ -1,0 +1,45 @@
+{
+  "slug": "the-forever-war",
+  "title": "The Forever War",
+  "author": "Joe Haldeman",
+  "isbn13": "9781399607780",
+  "firstPublished": 1974,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "melancholic", "thoughtful"],
+  "tropes": ["war-story"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "A physics student is drafted into a centuries-long interstellar war against an alien enemy. Because of relativity, each trip home puts him decades further from the world he knew, and there is nowhere left for him to belong.",
+  "readIf": "you want a short, bitter science-fiction novel about the alienation of coming back from war.",
+  "skipIf": "you want upbeat action, since the tone is angry and weary throughout.",
+  "pairings": [
+    {
+      "slug": "starship-troopers",
+      "reason": "The book it was written against, which sees war as noble, so the two make a strong contrast.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "old-mans-war",
+      "reason": "A later and funnier take on the same soldier-through-time idea, with an easier tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "A quirkier, more darkly comic account of a soldier cut off from time and from peace.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781399607780",
+    "https://en.wikipedia.org/wiki/The_Forever_War",
+    "https://hardcover.app/books/the-forever-war"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

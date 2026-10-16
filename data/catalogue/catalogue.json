@@ -1,0 +1,4515 @@
+[
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "year": 1859,
+    "genres": ["historical", "classic"],
+    "soldMillions": 200,
+    "group": "all-time",
+    "isbn13": "9780192817716"
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genres": ["fantasy", "children", "classic"],
+    "soldMillions": 200,
+    "group": "all-time",
+    "isbn13": "9780544699588"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genres": ["literary", "adventure"],
+    "soldMillions": 150,
+    "group": "all-time",
+    "isbn13": "9780007423200"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": 120,
+    "group": "all-time",
+    "isbn13": "9780747545729"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "year": 1939,
+    "genres": ["mystery", "classic"],
+    "soldMillions": 100,
+    "group": "all-time",
+    "isbn13": "9781572704497"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "genres": ["fantasy", "children", "classic"],
+    "soldMillions": 100,
+    "group": "all-time",
+    "isbn13": "9781782011750"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": 80,
+    "group": "all-time",
+    "isbn13": "9780739339787"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "year": 1998,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": 77,
+    "group": "all-time",
+    "isbn13": "9781408898093"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "year": 1951,
+    "genres": ["classic", "literary"],
+    "soldMillions": 65,
+    "group": "all-time",
+    "isbn13": "9781613839560"
+  },
+  {
+    "title": "Sophie's World",
+    "author": "Jostein Gaarder",
+    "year": 1991,
+    "genres": ["young-adult", "literary"],
+    "soldMillions": 60,
+    "group": "all-time",
+    "isbn13": "9780752818672"
+  },
+  {
+    "title": "The Bridges of Madison County",
+    "author": "Robert James Waller",
+    "year": 1992,
+    "genres": ["romance"],
+    "soldMillions": 60,
+    "group": "all-time",
+    "isbn13": "9780759592346"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "genres": ["literary"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9780141032436"
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "year": 1955,
+    "genres": ["classic", "literary"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9781507796238"
+  },
+  {
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "year": 1880,
+    "genres": ["children", "classic"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9780694014538"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "Lucy Maud Montgomery",
+    "year": 1908,
+    "genres": ["children", "classic"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9781798293553"
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "year": 1877,
+    "genres": ["children", "classic"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9781911238171"
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "genres": ["mystery", "historical"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9780156001311"
+  },
+  {
+    "title": "The Eagle Has Landed",
+    "author": "Jack Higgins",
+    "year": 1975,
+    "genres": ["thriller", "historical"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9781405917520"
+  },
+  {
+    "title": "Watership Down",
+    "author": "Richard Adams",
+    "year": 1972,
+    "genres": ["fantasy", "adventure"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9780380395866"
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E. B. White",
+    "year": 1952,
+    "genres": ["children", "classic"],
+    "soldMillions": 50,
+    "group": "all-time",
+    "isbn13": "9780061228742"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genres": ["classic", "literary"],
+    "soldMillions": 40,
+    "group": "all-time",
+    "isbn13": "9780881030525"
+  },
+  {
+    "title": "Flowers in the Attic",
+    "author": "V. C. Andrews",
+    "year": 1979,
+    "genres": ["horror", "literary"],
+    "soldMillions": 40,
+    "group": "all-time",
+    "isbn13": "9780007436828"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "year": 2000,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": 39,
+    "group": "all-time",
+    "isbn13": "9780739443910"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genres": ["historical", "classic"],
+    "soldMillions": 36,
+    "group": "all-time",
+    "isbn13": "9781524881993"
+  },
+  {
+    "title": "The Adventures of Pinocchio",
+    "author": "Carlo Collodi",
+    "year": 1881,
+    "genres": ["fantasy", "children", "classic"],
+    "soldMillions": 35,
+    "group": "all-time",
+    "isbn13": "9781641810555"
+  },
+  {
+    "title": "The Thorn Birds",
+    "author": "Colleen McCullough",
+    "year": 1977,
+    "genres": ["romance", "historical"],
+    "soldMillions": 33,
+    "group": "all-time",
+    "isbn13": "9780060586195"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "genres": ["literary", "historical"],
+    "soldMillions": 31.5,
+    "group": "all-time",
+    "isbn13": "9781417640393"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genres": ["classic", "literary"],
+    "soldMillions": 30,
+    "group": "all-time",
+    "isbn13": "9781442936928"
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "year": 1936,
+    "genres": ["historical", "romance"],
+    "soldMillions": 30,
+    "group": "all-time",
+    "isbn13": "9780025854000"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "year": 1938,
+    "genres": ["mystery", "classic"],
+    "soldMillions": 30,
+    "group": "all-time",
+    "isbn13": "9780061990854"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "year": 2005,
+    "genres": ["thriller", "crime"],
+    "soldMillions": 30,
+    "group": "all-time",
+    "isbn13": "9780307949486"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "year": 2009,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": 30,
+    "group": "all-time",
+    "isbn13": "9780307741905"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": 29,
+    "group": "all-time",
+    "isbn13": "9780702342387"
+  },
+  {
+    "title": "James and the Giant Peach",
+    "author": "Roald Dahl",
+    "year": 1961,
+    "genres": ["children", "fantasy"],
+    "soldMillions": 28,
+    "group": "all-time",
+    "isbn13": "9780140342697"
+  },
+  {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "author": "Lew Wallace",
+    "year": 1880,
+    "genres": ["historical", "classic"],
+    "soldMillions": 26,
+    "group": "all-time",
+    "isbn13": "9781934648216"
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "year": 1908,
+    "genres": ["children", "classic"],
+    "soldMillions": 25,
+    "group": "all-time",
+    "isbn13": "9781093466904"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "year": 2012,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": 23,
+    "group": "all-time",
+    "isbn13": "9780141345710"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "year": 2015,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": 23,
+    "group": "all-time",
+    "isbn13": "9781784161750"
+  },
+  {
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "year": 1969,
+    "genres": ["crime", "thriller"],
+    "soldMillions": 21,
+    "group": "all-time",
+    "isbn13": "9780451157362"
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "year": 2009,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": 21,
+    "group": "all-time",
+    "isbn13": "9781407188911"
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "year": 2010,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9781407157887"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "year": 2012,
+    "genres": ["thriller", "crime"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9780307588364"
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "year": 1958,
+    "genres": ["literary", "historical"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9780679417149"
+  },
+  {
+    "title": "Jaws",
+    "author": "Peter Benchley",
+    "year": 1974,
+    "genres": ["thriller", "horror"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9781417653072"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1885,
+    "genres": ["classic", "adventure"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9781729440711"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genres": ["romance", "classic"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9781546785484"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "year": 1964,
+    "genres": ["children", "fantasy"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "isbn13": "9780001854307"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "year": 1988,
+    "genres": ["children", "fantasy"],
+    "soldMillions": 17,
+    "group": "all-time",
+    "isbn13": "9780606104845"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "genres": ["young-adult", "historical"],
+    "soldMillions": 16,
+    "group": "all-time",
+    "isbn13": "9780385611466"
+  },
+  {
+    "title": "The Neverending Story",
+    "author": "Michael Ende",
+    "year": 1979,
+    "genres": ["fantasy", "children"],
+    "soldMillions": 16,
+    "group": "all-time",
+    "isbn13": "9780140386332"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "year": 2014,
+    "genres": ["historical", "literary"],
+    "soldMillions": 15.3,
+    "group": "all-time",
+    "isbn13": "9780008138301"
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "author": "E. L. James",
+    "year": 2011,
+    "genres": ["romance"],
+    "soldMillions": 15.2,
+    "group": "all-time",
+    "isbn13": "9781101911600"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S. E. Hinton",
+    "year": 1967,
+    "genres": ["young-adult", "classic"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9781484492222"
+  },
+  {
+    "title": "Shōgun",
+    "author": "James Clavell",
+    "year": 1975,
+    "genres": ["historical", "adventure"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9780440178002"
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "year": 1989,
+    "genres": ["historical"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9781417671687"
+  },
+  {
+    "title": "Perfume",
+    "author": "Patrick Süskind",
+    "year": 1985,
+    "genres": ["literary", "horror"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9780141037509"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "year": 1939,
+    "genres": ["classic", "literary"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9780582461536"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "genres": ["mystery", "historical"],
+    "soldMillions": 15,
+    "group": "all-time",
+    "isbn13": "9781399624350"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "genres": ["science-fiction"],
+    "soldMillions": 14,
+    "group": "all-time",
+    "isbn13": "9780739349366"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": 1962,
+    "genres": ["science-fiction", "young-adult"],
+    "soldMillions": 14,
+    "group": "all-time",
+    "isbn13": "9780739331781"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "year": 1952,
+    "genres": ["classic", "literary"],
+    "soldMillions": 13,
+    "group": "all-time",
+    "isbn13": "9780099908401"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "year": 1993,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": 12,
+    "group": "all-time",
+    "isbn13": "9780606069908"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "year": 2012,
+    "genres": ["romance"],
+    "soldMillions": 12,
+    "group": "all-time",
+    "isbn13": "9780241397916"
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "year": 1987,
+    "genres": ["literary", "romance"],
+    "soldMillions": 12,
+    "group": "all-time",
+    "isbn13": "9781417709069"
+  },
+  {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "year": 1947,
+    "genres": ["classic", "literary"],
+    "soldMillions": 12,
+    "group": "all-time",
+    "isbn13": "9781400042555"
+  },
+  {
+    "title": "The Boy in the Striped Pyjamas",
+    "author": "John Boyne",
+    "year": 2006,
+    "genres": ["historical", "young-adult"],
+    "soldMillions": 11,
+    "group": "all-time",
+    "isbn13": "9780385611350"
+  },
+  {
+    "title": "The Exorcist",
+    "author": "William Peter Blatty",
+    "year": 1971,
+    "genres": ["horror"],
+    "soldMillions": 11,
+    "group": "all-time",
+    "isbn13": "9780552156882"
+  },
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "year": 2009,
+    "genres": ["historical", "literary"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9780399155345"
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "year": 1961,
+    "genres": ["classic", "literary"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9780224602679"
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "year": 1942,
+    "genres": ["classic", "literary"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9780679720201"
+  },
+  {
+    "title": "The Lovely Bones",
+    "author": "Alice Sebold",
+    "year": 2002,
+    "genres": ["literary", "mystery"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9781407405988"
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "year": 2001,
+    "genres": ["adventure", "literary"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9781565117808"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "genres": ["dystopian", "science-fiction", "classic"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9781973404439"
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "author": "Helen Fielding",
+    "year": 1996,
+    "genres": ["romance"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9780330375696"
+  },
+  {
+    "title": "My Brilliant Friend",
+    "author": "Elena Ferrante",
+    "year": 2011,
+    "genres": ["literary", "historical"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9781787706026"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "year": 1937,
+    "genres": ["fantasy"],
+    "soldMillions": 100,
+    "group": "all-time",
+    "existing": true,
+    "isbn13": "9780547928227"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genres": ["science-fiction"],
+    "soldMillions": 20,
+    "group": "all-time",
+    "existing": true,
+    "isbn13": "9780441013593"
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "year": 2016,
+    "genres": ["romance"],
+    "soldMillions": 10,
+    "group": "all-time",
+    "isbn13": "9781982143657"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "year": 2015,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781635575569"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "year": 2020,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781984806734"
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "year": 2023,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781649374042"
+  },
+  {
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "year": 2022,
+    "genres": ["cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781250886088"
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "year": 2020,
+    "genres": ["fantasy", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781635575637"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "year": 2021,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9780593135204"
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781250316776"
+  },
+  {
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "year": 2014,
+    "genres": ["science-fiction", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9780804172448"
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "year": 2020,
+    "genres": ["cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781250217288"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9780756404741"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "year": 2017,
+    "genres": ["literary", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "existing": true,
+    "isbn13": "9781501161933"
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "year": 2018,
+    "genres": ["thriller", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781538739723"
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "year": 2014,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781476753188"
+  },
+  {
+    "title": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "year": 2022,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781542025607"
+  },
+  {
+    "title": "Hopeless",
+    "author": "Colleen Hoover",
+    "year": 2012,
+    "genres": ["romance", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781481251884"
+  },
+  {
+    "title": "Regretting You",
+    "author": "Colleen Hoover",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781799719625"
+  },
+  {
+    "title": "November 9",
+    "author": "Colleen Hoover",
+    "year": 2015,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781785412691"
+  },
+  {
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "year": 2022,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593334836"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781432890193"
+  },
+  {
+    "title": "Happy Place",
+    "author": "Emily Henry",
+    "year": 2023,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241995365"
+  },
+  {
+    "title": "Funny Story",
+    "author": "Emily Henry",
+    "year": 2024,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241624142"
+  },
+  {
+    "title": "One Last Stop",
+    "author": "Casey McQuiston",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250803177"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781638082156"
+  },
+  {
+    "title": "Love on the Brain",
+    "author": "Ali Hazelwood",
+    "year": 2022,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593336854"
+  },
+  {
+    "title": "The Deal",
+    "author": "Elle Kennedy",
+    "year": 2015,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781777112141"
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "year": 2016,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781504735865"
+  },
+  {
+    "title": "The Unhoneymooners",
+    "author": "Christina Lauren",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349417592"
+  },
+  {
+    "title": "The Friend Zone",
+    "author": "Abby Jimenez",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349423401"
+  },
+  {
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781960854209"
+  },
+  {
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "year": 2018,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781683248736"
+  },
+  {
+    "title": "Get a Life, Chloe Brown",
+    "author": "Talia Hibbert",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781094025940"
+  },
+  {
+    "title": "It Happened One Summer",
+    "author": "Tessa Bailey",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063413856"
+  },
+  {
+    "title": "The Flatshare",
+    "author": "Beth O'Leary",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250295651"
+  },
+  {
+    "title": "Icebreaker",
+    "author": "Hannah Grace",
+    "year": 2022,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781398525689"
+  },
+  {
+    "title": "The Duke and I",
+    "author": "Julia Quinn",
+    "year": 2000,
+    "genres": ["romance", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780708803318"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "year": 1991,
+    "genres": ["historical", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385302302"
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "year": 1996,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780739437995"
+  },
+  {
+    "title": "A Walk to Remember",
+    "author": "Nicholas Sparks",
+    "year": 1999,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780446920063"
+  },
+  {
+    "title": "Message in a Bottle",
+    "author": "Nicholas Sparks",
+    "year": 1998,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780759517936"
+  },
+  {
+    "title": "Confessions of a Shopaholic",
+    "author": "Sophie Kinsella",
+    "year": 2000,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781419347009"
+  },
+  {
+    "title": "The Summer I Turned Pretty",
+    "author": "Jenny Han",
+    "year": 2009,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141956749"
+  },
+  {
+    "title": "To All the Boys I've Loved Before",
+    "author": "Jenny Han",
+    "year": 2014,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781407149073"
+  },
+  {
+    "title": "Daisy Jones & the Six",
+    "author": "Taylor Jenkins Reid",
+    "year": 2019,
+    "genres": ["literary", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781524798628"
+  },
+  {
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "year": 2021,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781786331533"
+  },
+  {
+    "title": "Carrie Soto Is Back",
+    "author": "Taylor Jenkins Reid",
+    "year": 2022,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593158692"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "year": 2015,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781447283072"
+  },
+  {
+    "title": "The Great Alone",
+    "author": "Kristin Hannah",
+    "year": 2018,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781447286011"
+  },
+  {
+    "title": "The Four Winds",
+    "author": "Kristin Hannah",
+    "year": 2021,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781643588230"
+  },
+  {
+    "title": "From Blood and Ash",
+    "author": "Jennifer L. Armentrout",
+    "year": 2020,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781952457272"
+  },
+  {
+    "title": "A Court of Mist and Fury",
+    "author": "Sarah J. Maas",
+    "year": 2016,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781685085391"
+  },
+  {
+    "title": "A Court of Wings and Ruin",
+    "author": "Sarah J. Maas",
+    "year": 2017,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606410823"
+  },
+  {
+    "title": "A Court of Silver Flames",
+    "author": "Sarah J. Maas",
+    "year": 2021,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781681196282"
+  },
+  {
+    "title": "Throne of Glass",
+    "author": "Sarah J. Maas",
+    "year": 2012,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781526635297"
+  },
+  {
+    "title": "House of Earth and Blood",
+    "author": "Sarah J. Maas",
+    "year": 2020,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781526638922"
+  },
+  {
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "year": 2023,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781649374172"
+  },
+  {
+    "title": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "year": 2025,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349437064"
+  },
+  {
+    "title": "Powerless",
+    "author": "Lauren Roberts",
+    "year": 2023,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781960854841"
+  },
+  {
+    "title": "Gild",
+    "author": "Raven Kennedy",
+    "year": 2021,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781737633808"
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "year": 2018,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316310314"
+  },
+  {
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "year": 2015,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780804179058"
+  },
+  {
+    "title": "Spinning Silver",
+    "author": "Naomi Novik",
+    "year": 2018,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780399180996"
+  },
+  {
+    "title": "A Deadly Education",
+    "author": "Naomi Novik",
+    "year": 2020,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593128503"
+  },
+  {
+    "title": "The Housemaid",
+    "author": "Freida McFadden",
+    "year": 2022,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349132853"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "year": 1954,
+    "genres": ["epic-fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061917813"
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J. R. R. Tolkien",
+    "year": 1954,
+    "genres": ["epic-fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345272591"
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J. R. R. Tolkien",
+    "year": 1955,
+    "genres": ["epic-fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781705047620"
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J. R. R. Tolkien",
+    "year": 1977,
+    "genres": ["epic-fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812423020"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "year": 1999,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780557911813"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "year": 2000,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606415170"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "year": 2003,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781551926438"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "year": 2005,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781644732120"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "year": 2007,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781551929781"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "year": 1950,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780060765446"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "year": 1996,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553593716"
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R. R. Martin",
+    "year": 1998,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780739308707"
+  },
+  {
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "year": 1990,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812500493"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "year": 2006,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765311788"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "year": 2010,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781398703629"
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "year": 2011,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781423389392"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "year": 2006,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575076945"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "year": 2002,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780966621334"
+  },
+  {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "year": 2005,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781467658195"
+  },
+  {
+    "title": "The Golden Compass",
+    "author": "Philip Pullman",
+    "year": 1995,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553535129"
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "year": 1968,
+    "genres": ["fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606266246"
+  },
+  {
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "year": 1995,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553897487"
+  },
+  {
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "year": 2006,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316387330"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "year": 2019,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781408883358"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "year": 2018,
+    "genres": ["fantasy", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781526612519"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "genres": ["historical", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781408821985"
+  },
+  {
+    "title": "The Poppy War",
+    "author": "R. F. Kuang",
+    "year": 2018,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008239824"
+  },
+  {
+    "title": "Babel",
+    "author": "R. F. Kuang",
+    "year": 2022,
+    "genres": ["fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008501815"
+  },
+  {
+    "title": "Bookshops & Bonedust",
+    "author": "Travis Baldree",
+    "year": 2023,
+    "genres": ["cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781035007370"
+  },
+  {
+    "title": "Under the Whispering Door",
+    "author": "TJ Klune",
+    "year": 2021,
+    "genres": ["cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250850997"
+  },
+  {
+    "title": "A Psalm for the Wild-Built",
+    "author": "Becky Chambers",
+    "year": 2021,
+    "genres": ["cozy-fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250236227"
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V. E. Schwab",
+    "year": 2020,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781803364186"
+  },
+  {
+    "title": "A Darker Shade of Magic",
+    "author": "V. E. Schwab",
+    "year": 2015,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765376459"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "year": 2011,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780307744432"
+  },
+  {
+    "title": "The Starless Sea",
+    "author": "Erin Morgenstern",
+    "year": 2019,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781094257013"
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "year": 2004,
+    "genres": ["fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765356154"
+  },
+  {
+    "title": "Good Omens",
+    "author": "Terry Pratchett and Neil Gaiman",
+    "year": 1990,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780613673297"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "year": 2001,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781538462096"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "year": 2002,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780060571528"
+  },
+  {
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "year": 1996,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061964947"
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "year": 2013,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062255662"
+  },
+  {
+    "title": "Stardust",
+    "author": "Neil Gaiman",
+    "year": 1999,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781845764661"
+  },
+  {
+    "title": "The Princess Bride",
+    "author": "William Goldman",
+    "year": 1973,
+    "genres": ["fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345242259"
+  },
+  {
+    "title": "The Bear and the Nightingale",
+    "author": "Katherine Arden",
+    "year": 2017,
+    "genres": ["fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780399593284"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "year": 2015,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781491589250"
+  },
+  {
+    "title": "Shadow and Bone",
+    "author": "Leigh Bardugo",
+    "year": 2012,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780805094596"
+  },
+  {
+    "title": "Ninth House",
+    "author": "Leigh Bardugo",
+    "year": 2019,
+    "genres": ["fantasy", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250785947"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "year": 2018,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781536453560"
+  },
+  {
+    "title": "The Fifth Season",
+    "author": "N. K. Jemisin",
+    "year": 2015,
+    "genres": ["fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316229296"
+  },
+  {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "year": 1983,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451135773"
+  },
+  {
+    "title": "Guards! Guards!",
+    "author": "Terry Pratchett",
+    "year": 1989,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781473230705"
+  },
+  {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "year": 1987,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061367656"
+  },
+  {
+    "title": "Redwall",
+    "author": "Brian Jacques",
+    "year": 1986,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781862303300"
+  },
+  {
+    "title": "The Last Unicorn",
+    "author": "Peter S. Beagle",
+    "year": 1968,
+    "genres": ["fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345015037"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "author": "Diana Wynne Jones",
+    "year": 1986,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007380459"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "year": 1911,
+    "genres": ["fantasy", "children", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781480245426"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "year": 1900,
+    "genres": ["fantasy", "children", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781541326149"
+  },
+  {
+    "title": "Fablehaven",
+    "author": "Brandon Mull",
+    "year": 2006,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780545133630"
+  },
+  {
+    "title": "Kushiel's Dart",
+    "author": "Jacqueline Carey",
+    "year": 2001,
+    "genres": ["epic-fantasy", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781400159499"
+  },
+  {
+    "title": "Tigana",
+    "author": "Guy Gavriel Kay",
+    "year": 1990,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780140130102"
+  },
+  {
+    "title": "The Hundred Thousand Kingdoms",
+    "author": "N. K. Jemisin",
+    "year": 2010,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780748115907"
+  },
+  {
+    "title": "Emily Wilde's Encyclopaedia of Faeries",
+    "author": "Heather Fawcett",
+    "year": 2023,
+    "genres": ["cozy-fantasy", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593500132"
+  },
+  {
+    "title": "Nettle & Bone",
+    "author": "T. Kingfisher",
+    "year": 2022,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250244031"
+  },
+  {
+    "title": "The Ten Thousand Doors of January",
+    "author": "Alix E. Harrow",
+    "year": 2019,
+    "genres": ["fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781549101069"
+  },
+  {
+    "title": "Sabriel",
+    "author": "Garth Nix",
+    "year": 1995,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063040502"
+  },
+  {
+    "title": "The Magicians",
+    "author": "Lev Grossman",
+    "year": 2009,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781410422545"
+  },
+  {
+    "title": "Tress of the Emerald Sea",
+    "author": "Brandon Sanderson",
+    "year": 2023,
+    "genres": ["cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250899651"
+  },
+  {
+    "title": "The Dragonbone Chair",
+    "author": "Tad Williams",
+    "year": 1988,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781101160312"
+  },
+  {
+    "title": "Dragonflight",
+    "author": "Anne McCaffrey",
+    "year": 1968,
+    "genres": ["fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345917478"
+  },
+  {
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "year": 1969,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780441172696"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "year": 2011,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781785033827"
+  },
+  {
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "year": 2011,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780307887436"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "year": 1985,
+    "genres": ["science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780613824224"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007270422"
+  },
+  {
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": 1950,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812439250"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "year": 1949,
+    "genres": ["dystopian", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781500440268"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genres": ["dystopian", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606001663"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "genres": ["classic", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781647986384"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780441012039"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "year": 1992,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593599730"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "year": 1969,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780441007318"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "year": 1989,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575081147"
+  },
+  {
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "year": 2014,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781444758993"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "year": 2008,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765382030"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "year": 1968,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780752864303"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "year": 1969,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780613647885"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "genres": ["classic", "horror", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781435136168"
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "year": 1898,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780850466669"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "year": 1895,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451528551"
+  },
+  {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "year": 1870,
+    "genres": ["adventure", "science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780603062605"
+  },
+  {
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke",
+    "year": 1953,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345315588"
+  },
+  {
+    "title": "Rendezvous with Rama",
+    "author": "Arthur C. Clarke",
+    "year": 1973,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781405073035"
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "year": 1961,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781429537315"
+  },
+  {
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "year": 1959,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425055069"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "genres": ["dystopian", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781984899668"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "genres": ["dystopian", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781436100793"
+  },
+  {
+    "title": "Annihilation",
+    "author": "Jeff VanderMeer",
+    "year": 2014,
+    "genres": ["science-fiction", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780374104092"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "year": 2019,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781984826015"
+  },
+  {
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "year": 2016,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781447297567"
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "year": 2021,
+    "genres": ["science-fiction", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593311295"
+  },
+  {
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "year": 2015,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316452496"
+  },
+  {
+    "title": "A Memory Called Empire",
+    "author": "Arkady Martine",
+    "year": 2019,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250186447"
+  },
+  {
+    "title": "Ancillary Justice",
+    "author": "Ann Leckie",
+    "year": 2013,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316246620"
+  },
+  {
+    "title": "The Long Way to a Small, Angry Planet",
+    "author": "Becky Chambers",
+    "year": 2014,
+    "genres": ["science-fiction", "cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062444134"
+  },
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "year": 2011,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316515986"
+  },
+  {
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "year": 2005,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765309402"
+  },
+  {
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "year": 1970,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345418401"
+  },
+  {
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "year": 1974,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781399607780"
+  },
+  {
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "year": 2002,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781400101375"
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "year": 2011,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062352187"
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "year": 2009,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385737944"
+  },
+  {
+    "title": "Uglies",
+    "author": "Scott Westerfeld",
+    "year": 2005,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781484484449"
+  },
+  {
+    "title": "Scythe",
+    "author": "Neal Shusterman",
+    "year": 2016,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781543643626"
+  },
+  {
+    "title": "Sea of Tranquility",
+    "author": "Emily St. John Mandel",
+    "year": 2022,
+    "genres": ["science-fiction", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529083507"
+  },
+  {
+    "title": "The Ministry for the Future",
+    "author": "Kim Stanley Robinson",
+    "year": 2020,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356508849"
+  },
+  {
+    "title": "Jurassic Park",
+    "author": "Michael Crichton",
+    "year": 1990,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345374912"
+  },
+  {
+    "title": "The Andromeda Strain",
+    "author": "Michael Crichton",
+    "year": 1969,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061703157"
+  },
+  {
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "year": 1985,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099469506"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "year": 1968,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781423315469"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanisław Lem",
+    "year": 1961,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425049884"
+  },
+  {
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "year": 1974,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575079038"
+  },
+  {
+    "title": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "year": 1993,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780704344211"
+  },
+  {
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "year": 1979,
+    "genres": ["science-fiction", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781411476073"
+  },
+  {
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "year": 2017,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765397539"
+  },
+  {
+    "title": "Cloud Cuckoo Land",
+    "author": "Anthony Doerr",
+    "year": 2021,
+    "genres": ["literary", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008478674"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "year": 1934,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780671829117"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "year": 1926,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062073563"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "year": 1937,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780396085737"
+  },
+  {
+    "title": "The ABC Murders",
+    "author": "Agatha Christie",
+    "year": 1936,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062073587"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "year": 1887,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781722475871"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "year": 1902,
+    "genres": ["mystery", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781593420444"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "year": 1988,
+    "genres": ["thriller", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099586579"
+  },
+  {
+    "title": "Red Dragon",
+    "author": "Thomas Harris",
+    "year": 1981,
+    "genres": ["thriller", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780440206156"
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "year": 2020,
+    "genres": ["mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241988268"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "year": 2019,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781409181620"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "year": 2014,
+    "genres": ["literary", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780399587207"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "year": 2006,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781597224581"
+  },
+  {
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "year": 2009,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781101902882"
+  },
+  {
+    "title": "In the Woods",
+    "author": "Tana French",
+    "year": 2007,
+    "genres": ["mystery", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781444758344"
+  },
+  {
+    "title": "The Guest List",
+    "author": "Lucy Foley",
+    "year": 2020,
+    "genres": ["mystery", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062868930"
+  },
+  {
+    "title": "The Hunting Party",
+    "author": "Lucy Foley",
+    "year": 2018,
+    "genres": ["mystery", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062868909"
+  },
+  {
+    "title": "One of Us Is Lying",
+    "author": "Karen M. McManus",
+    "year": 2017,
+    "genres": ["mystery", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593388013"
+  },
+  {
+    "title": "A Good Girl's Guide to Murder",
+    "author": "Holly Jackson",
+    "year": 2019,
+    "genres": ["mystery", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781405293181"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A. J. Finn",
+    "year": 2018,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008234188"
+  },
+  {
+    "title": "The Couple Next Door",
+    "author": "Shari Lapena",
+    "year": 2016,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780735221086"
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "author": "S. J. Watson",
+    "year": 2011,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062131324"
+  },
+  {
+    "title": "The Black Echo",
+    "author": "Michael Connelly",
+    "year": 1992,
+    "genres": ["crime", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781596000971"
+  },
+  {
+    "title": "Killing Floor",
+    "author": "Lee Child",
+    "year": 1997,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781561008063"
+  },
+  {
+    "title": "The Firm",
+    "author": "John Grisham",
+    "year": 1991,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781784756970"
+  },
+  {
+    "title": "A Time to Kill",
+    "author": "John Grisham",
+    "year": 1989,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553745191"
+  },
+  {
+    "title": "The Pelican Brief",
+    "author": "John Grisham",
+    "year": 1992,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780582816978"
+  },
+  {
+    "title": "Along Came a Spider",
+    "author": "James Patterson",
+    "year": 1993,
+    "genres": ["thriller", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781306755047"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "year": 1984,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781101008775"
+  },
+  {
+    "title": "Casino Royale",
+    "author": "Ian Fleming",
+    "year": 1953,
+    "genres": ["thriller", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425081624"
+  },
+  {
+    "title": "The Spy Who Came in from the Cold",
+    "author": "John le Carré",
+    "year": 1963,
+    "genres": ["thriller", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241978955"
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "author": "John le Carré",
+    "year": 1974,
+    "genres": ["thriller", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780340733950"
+  },
+  {
+    "title": "Tell No One",
+    "author": "Harlan Coben",
+    "year": 2001,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781409117025"
+  },
+  {
+    "title": "Still Life",
+    "author": "Louise Penny",
+    "year": 2005,
+    "genres": ["mystery", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780755328895"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "year": 1939,
+    "genres": ["crime", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781597770521"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "year": 1930,
+    "genres": ["crime", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781572703643"
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "author": "Patricia Highsmith",
+    "year": 1955,
+    "genres": ["thriller", "crime", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349006963"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "year": 1992,
+    "genres": ["literary", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780140294583"
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "year": 2013,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781306759083"
+  },
+  {
+    "title": "Shutter Island",
+    "author": "Dennis Lehane",
+    "year": 2003,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061703256"
+  },
+  {
+    "title": "Mystic River",
+    "author": "Dennis Lehane",
+    "year": 2001,
+    "genres": ["crime", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062068408"
+  },
+  {
+    "title": "The Snowman",
+    "author": "Jo Nesbø",
+    "year": 2007,
+    "genres": ["crime", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781409089650"
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "year": 2006,
+    "genres": ["thriller", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780857054043"
+  },
+  {
+    "title": "Then She Was Gone",
+    "author": "Lisa Jewell",
+    "year": 2017,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781780896410"
+  },
+  {
+    "title": "In a Dark, Dark Wood",
+    "author": "Ruth Ware",
+    "year": 2015,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781501112331"
+  },
+  {
+    "title": "Pretty Girls",
+    "author": "Karin Slaughter",
+    "year": 2015,
+    "genres": ["thriller", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099599432"
+  },
+  {
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith",
+    "year": 2013,
+    "genres": ["mystery", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316206853"
+  },
+  {
+    "title": "Postmortem",
+    "author": "Patricia Cornwell",
+    "year": 1990,
+    "genres": ["crime", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780786296064"
+  },
+  {
+    "title": "The Day of the Jackal",
+    "author": "Frederick Forsyth",
+    "year": 1971,
+    "genres": ["thriller", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781407075990"
+  },
+  {
+    "title": "Rosemary's Baby",
+    "author": "Ira Levin",
+    "year": 1967,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781480465763"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "year": 1977,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780450040184"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "year": 1986,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781623300890"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "year": 1974,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780450050879"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "year": 1987,
+    "genres": ["horror", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451169525"
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "year": 1983,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451132376"
+  },
+  {
+    "title": "'Salem's Lot",
+    "author": "Stephen King",
+    "year": 1975,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780671039752"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "year": 1978,
+    "genres": ["horror", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606256155"
+  },
+  {
+    "title": "Cujo",
+    "author": "Stephen King",
+    "year": 1981,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781508216940"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781731487551"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "year": 1959,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141191447"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "year": 2020,
+    "genres": ["horror", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529402674"
+  },
+  {
+    "title": "Bird Box",
+    "author": "Josh Malerman",
+    "year": 2014,
+    "genres": ["horror", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781483004365"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "author": "Anne Rice",
+    "year": 1976,
+    "genres": ["horror", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345298829"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "year": 1898,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781974309313"
+  },
+  {
+    "title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "author": "Robert Louis Stevenson",
+    "year": 1886,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780893753573"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "genres": ["classic", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781537579368"
+  },
+  {
+    "title": "House of Leaves",
+    "author": "Mark Z. Danielewski",
+    "year": 2000,
+    "genres": ["horror", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781862301115"
+  },
+  {
+    "title": "Heart-Shaped Box",
+    "author": "Joe Hill",
+    "year": 2007,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061147937"
+  },
+  {
+    "title": "The Only Good Indians",
+    "author": "Stephen Graham Jones",
+    "year": 2020,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781663624147"
+  },
+  {
+    "title": "We Have Always Lived in the Castle",
+    "author": "Shirley Jackson",
+    "year": 1962,
+    "genres": ["horror", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141193939"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "year": 2005,
+    "genres": ["young-adult", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781904233800"
+  },
+  {
+    "title": "New Moon",
+    "author": "Stephenie Meyer",
+    "year": 2006,
+    "genres": ["young-adult", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316032544"
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "year": 2005,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781484484708"
+  },
+  {
+    "title": "Paper Towns",
+    "author": "John Green",
+    "year": 2008,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525478188"
+  },
+  {
+    "title": "Thirteen Reasons Why",
+    "author": "Jay Asher",
+    "year": 2007,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781536402957"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "year": 1999,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780736649360"
+  },
+  {
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "year": 2013,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250064875"
+  },
+  {
+    "title": "Simon vs. the Homo Sapiens Agenda",
+    "author": "Becky Albertalli",
+    "year": 2015,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062348678"
+  },
+  {
+    "title": "Wonder",
+    "author": "R. J. Palacio",
+    "year": 2012,
+    "genres": ["children", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781949061871"
+  },
+  {
+    "title": "Holes",
+    "author": "Louis Sachar",
+    "year": 1998,
+    "genres": ["children", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780440414803"
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "year": 1986,
+    "genres": ["adventure", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812471267"
+  },
+  {
+    "title": "Speak",
+    "author": "Laurie Halse Anderson",
+    "year": 1999,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141310886"
+  },
+  {
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "year": 2017,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062677099"
+  },
+  {
+    "title": "Legend",
+    "author": "Marie Lu",
+    "year": 2011,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141339412"
+  },
+  {
+    "title": "Matched",
+    "author": "Ally Condie",
+    "year": 2010,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593324813"
+  },
+  {
+    "title": "The Selection",
+    "author": "Kiera Cass",
+    "year": 2012,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781627656276"
+  },
+  {
+    "title": "Cinder",
+    "author": "Marissa Meyer",
+    "year": 2012,
+    "genres": ["science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781432875862"
+  },
+  {
+    "title": "Red Queen",
+    "author": "Victoria Aveyard",
+    "year": 2015,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781484485996"
+  },
+  {
+    "title": "An Ember in the Ashes",
+    "author": "Sabaa Tahir",
+    "year": 2015,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781410488756"
+  },
+  {
+    "title": "They Both Die at the End",
+    "author": "Adam Silvera",
+    "year": 2017,
+    "genres": ["young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781398514751"
+  },
+  {
+    "title": "Aristotle and Dante Discover the Secrets of the Universe",
+    "author": "Benjamin Alire Sáenz",
+    "year": 2012,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781432849276"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "year": 1868,
+    "genres": ["classic", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780140300765"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "year": 1911,
+    "genres": ["children", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781541050822"
+  },
+  {
+    "title": "The Bad Beginning",
+    "author": "Lemony Snicket",
+    "year": 1999,
+    "genres": ["children", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780060755898"
+  },
+  {
+    "title": "Ella Enchanted",
+    "author": "Gail Carson Levine",
+    "year": 1997,
+    "genres": ["children", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007171682"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "year": 1817,
+    "genres": ["classic", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781703938401"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "year": 1811,
+    "genres": ["classic", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781405675963"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "year": 1815,
+    "genres": ["classic", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780395051153"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "genres": ["classic", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781434615701"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "genres": ["classic", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781481964869"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "year": 1861,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780174324584"
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "year": 1838,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781539481997"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "year": 1850,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780307273673"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "year": 1843,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781502809193"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genres": ["classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781987650075"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "year": 1850,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780781230384"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781435131828"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": 1880,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781987955361"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "year": 1878,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781975665807"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genres": ["classic", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451419439"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "year": 1844,
+    "genres": ["classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781467775298"
+  },
+  {
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "year": 1844,
+    "genres": ["classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781648337369"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781434104441"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "year": 1856,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781512405613"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "year": 1899,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780582823044"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "year": 1937,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241952481"
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "year": 1952,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780749317744"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "author": "Ken Kesey",
+    "year": 1962,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451078353"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "year": 1963,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780613291989"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "year": 1987,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099511656"
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "year": 1982,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781453223970"
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "year": 2007,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780743567619"
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "year": 1989,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571322732"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "year": 2005,
+    "genres": ["literary", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571272136"
+  },
+  {
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "year": 2001,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099479130"
+  },
+  {
+    "title": "No Country for Old Men",
+    "author": "Cormac McCarthy",
+    "year": 2005,
+    "genres": ["crime", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780330454278"
+  },
+  {
+    "title": "Blood Meridian",
+    "author": "Cormac McCarthy",
+    "year": 1985,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780330544580"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "year": 2018,
+    "genres": ["literary", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781472158666"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "year": 2020,
+    "genres": ["literary", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780655697077"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "year": 2018,
+    "genres": ["literary", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571334643"
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "year": 2017,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525507505"
+  },
+  {
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "year": 2015,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781447294825"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "year": 1922,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781434604675"
+  },
+  {
+    "title": "Steppenwolf",
+    "author": "Hermann Hesse",
+    "year": 1927,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781324036821"
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "year": 1915,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780594105701"
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "year": 1925,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781645601968"
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "year": 1922,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781840226355"
+  },
+  {
+    "title": "Mrs Dalloway",
+    "author": "Virginia Woolf",
+    "year": 1925,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781954525009"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "year": 1927,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781475352061"
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "year": 2012,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781476738024"
+  },
+  {
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "year": 2019,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781501160837"
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "year": 2017,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525506348"
+  },
+  {
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "year": 2013,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780307397928"
+  },
+  {
+    "title": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "year": 2006,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007272372"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "year": 2002,
+    "genres": ["literary", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781400079278"
+  },
+  {
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "year": 2009,
+    "genres": ["literary", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781446499856"
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "year": 1994,
+    "genres": ["literary", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780679775430"
+  },
+  {
+    "title": "Convenience Store Woman",
+    "author": "Sayaka Murata",
+    "year": 2016,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780802129628"
+  },
+  {
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "year": 2017,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781786691378"
+  },
+  {
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "year": 1989,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780749399573"
+  },
+  {
+    "title": "The Namesake",
+    "author": "Jhumpa Lahiri",
+    "year": 2003,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780618485222"
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "year": 1981,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781283999816"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "year": 1997,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780006551096"
+  },
+  {
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "year": 2004,
+    "genres": ["literary", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780375507250"
+  },
+  {
+    "title": "The Corrections",
+    "author": "Jonathan Franzen",
+    "year": 2001,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780374919221"
+  },
+  {
+    "title": "Lincoln in the Bardo",
+    "author": "George Saunders",
+    "year": 2017,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781408897256"
+  },
+  {
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "year": 2022,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571376490"
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "year": 2022,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781784744649"
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "year": 2022,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385547345"
+  },
+  {
+    "title": "The Covenant of Water",
+    "author": "Abraham Verghese",
+    "year": 2023,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781804710432"
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "author": "Shelby Van Pelt",
+    "year": 2022,
+    "genres": ["literary", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063204164"
+  },
+  {
+    "title": "The Tattooist of Auschwitz",
+    "author": "Heather Morris",
+    "year": 2018,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781785763649"
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "year": 2009,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008749552"
+  },
+  {
+    "title": "The Other Boleyn Girl",
+    "author": "Philippa Gregory",
+    "year": 2001,
+    "genres": ["historical", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781416556534"
+  },
+  {
+    "title": "Memoirs of a Geisha",
+    "author": "Arthur Golden",
+    "year": 1997,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099275992"
+  },
+  {
+    "title": "Sarah's Key",
+    "author": "Tatiana de Rosnay",
+    "year": 2007,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250004345"
+  },
+  {
+    "title": "Lonesome Dove",
+    "author": "Larry McMurtry",
+    "year": 1985,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780671623203"
+  },
+  {
+    "title": "The Red Tent",
+    "author": "Anita Diamant",
+    "year": 1997,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781568958972"
+  },
+  {
+    "title": "The Historian",
+    "author": "Elizabeth Kostova",
+    "year": 2005,
+    "genres": ["historical", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781594830372"
+  },
+  {
+    "title": "Girl with a Pearl Earring",
+    "author": "Tracy Chevalier",
+    "year": 1999,
+    "genres": ["historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781471296321"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "year": 2003,
+    "genres": ["romance", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781665154567"
+  },
+  {
+    "title": "A Gentleman in Moscow",
+    "author": "Amor Towles",
+    "year": 2016,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099558781"
+  },
+  {
+    "title": "The Lincoln Highway",
+    "author": "Amor Towles",
+    "year": 2021,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780735222373"
+  },
+  {
+    "title": "Winnie-the-Pooh",
+    "author": "A. A. Milne",
+    "year": 1926,
+    "genres": ["children", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525461753"
+  },
+  {
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "year": 1982,
+    "genres": ["children", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780590975001"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "genres": ["adventure", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781584725565"
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "year": 1894,
+    "genres": ["adventure", "children", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008514440"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "year": 1719,
+    "genres": ["adventure", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781981618675"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "year": 1726,
+    "genres": ["classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781726319614"
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "year": 1872,
+    "genres": ["adventure", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781534792999"
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "year": 1954,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780399506437"
+  },
+  {
+    "title": "Eclipse",
+    "author": "Stephenie Meyer",
+    "year": 2007,
+    "genres": ["young-adult", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781616050931"
+  },
+  {
+    "title": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "year": 2008,
+    "genres": ["young-adult", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781410413536"
+  },
+  {
+    "title": "Anna and the French Kiss",
+    "author": "Stephanie Perkins",
+    "year": 2010,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780307968500"
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "year": 2013,
+    "genres": ["romance", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781611739275"
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C. S. Lewis",
+    "year": 1951,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780261667945"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C. S. Lewis",
+    "year": 1955,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780898458770"
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "year": 1997,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780965668354"
+  },
+  {
+    "title": "The Amber Spyglass",
+    "author": "Philip Pullman",
+    "year": 2000,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780702311406"
+  },
+  {
+    "title": "The Sword of Shannara",
+    "author": "Terry Brooks",
+    "year": 1977,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780708813447"
+  },
+  {
+    "title": "Magician",
+    "author": "Raymond E. Feist",
+    "year": 1982,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385175807"
+  },
+  {
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "year": 2005,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765381026"
+  },
+  {
+    "title": "The Gunslinger",
+    "author": "Stephen King",
+    "year": 1982,
+    "genres": ["fantasy", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606391627"
+  },
+  {
+    "title": "Dragons of Autumn Twilight",
+    "author": "Margaret Weis and Tracy Hickman",
+    "year": 1984,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781439572412"
+  },
+  {
+    "title": "Pawn of Prophecy",
+    "author": "David Eddings",
+    "year": 1982,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781581167559"
+  },
+  {
+    "title": "The Black Company",
+    "author": "Glen Cook",
+    "year": 1984,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812584387"
+  },
+  {
+    "title": "The Restaurant at the End of the Universe",
+    "author": "Douglas Adams",
+    "year": 1980,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529034530"
+  },
+  {
+    "title": "Wool",
+    "author": "Hugh Howey",
+    "year": 2011,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780358447832"
+  },
+  {
+    "title": "We Are Legion (We Are Bob)",
+    "author": "Dennis E. Taylor",
+    "year": 2016,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781680680584"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "year": 2017,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553448146"
+  },
+  {
+    "title": "Illuminae",
+    "author": "Amie Kaufman and Jay Kristoff",
+    "year": 2015,
+    "genres": ["science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553499131"
+  },
+  {
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "year": 1980,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780752858548"
+  },
+  {
+    "title": "Origin",
+    "author": "Dan Brown",
+    "year": 2017,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593078754"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "year": 2013,
+    "genres": ["thriller", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345806505"
+  },
+  {
+    "title": "Digital Fortress",
+    "author": "Dan Brown",
+    "year": 1998,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593055069"
+  },
+  {
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "year": 2001,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780552149198"
+  },
+  {
+    "title": "The Bone Collector",
+    "author": "Jeffery Deaver",
+    "year": 1997,
+    "genres": ["crime", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451469793"
+  },
+  {
+    "title": "Presumed Innocent",
+    "author": "Scott Turow",
+    "year": 1987,
+    "genres": ["thriller", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780374701093"
+  },
+  {
+    "title": "The Client",
+    "author": "John Grisham",
+    "year": 1993,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553541526"
+  },
+  {
+    "title": "Sphere",
+    "author": "Michael Crichton",
+    "year": 1987,
+    "genres": ["science-fiction", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780394561103"
+  },
+  {
+    "title": "Behind Closed Doors",
+    "author": "B. A. Paris",
+    "year": 2016,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781432840112"
+  },
+  {
+    "title": "The Girl Before",
+    "author": "J. P. Delaney",
+    "year": 2017,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529419405"
+  },
+  {
+    "title": "The Secret Life of Bees",
+    "author": "Sue Monk Kidd",
+    "year": 2002,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780143124320"
+  },
+  {
+    "title": "Water for Elephants",
+    "author": "Sara Gruen",
+    "year": 2006,
+    "genres": ["historical", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780340935460"
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "year": 1998,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780784814000"
+  },
+  {
+    "title": "Cold Mountain",
+    "author": "Charles Frazier",
+    "year": 1997,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780679309451"
+  },
+  {
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "year": 1957,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780143143796"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "year": 1926,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780224035415"
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "year": 1929,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781521308202"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "year": 1940,
+    "genres": ["classic", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780684102399"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "year": 1937,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781983254246"
+  },
+  {
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "year": 1940,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780060830557"
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "year": 1952,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781436104463"
+  },
+  {
+    "title": "Cat's Cradle",
+    "author": "Kurt Vonnegut",
+    "year": 1963,
+    "genres": ["science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781439501375"
+  },
+  {
+    "title": "The Fountainhead",
+    "author": "Ayn Rand",
+    "year": 1943,
+    "genres": ["classic", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781101136621"
+  },
+  {
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "year": 1957,
+    "genres": ["classic", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781804221198"
+  },
+  {
+    "title": "A Prayer for Owen Meany",
+    "author": "John Irving",
+    "year": 1989,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780780794665"
+  },
+  {
+    "title": "The World According to Garp",
+    "author": "John Irving",
+    "year": 1978,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345915597"
+  },
+  {
+    "title": "The Hours",
+    "author": "Michael Cunningham",
+    "year": 1998,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780374172893"
+  },
+  {
+    "title": "Cutting for Stone",
+    "author": "Abraham Verghese",
+    "year": 2009,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780701183776"
+  },
+  {
+    "title": "My Sister's Keeper",
+    "author": "Jodi Picoult",
+    "year": 2004,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781417675982"
+  },
+  {
+    "title": "The Giver of Stars",
+    "author": "Jojo Moyes",
+    "year": 2019,
+    "genres": ["historical", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780718183202"
+  },
+  {
+    "title": "Where'd You Go, Bernadette",
+    "author": "Maria Semple",
+    "year": 2012,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316204279"
+  },
+  {
+    "title": "Olive Kitteridge",
+    "author": "Elizabeth Strout",
+    "year": 2008,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781398532786"
+  },
+  {
+    "title": "The Light Between Oceans",
+    "author": "M. L. Stedman",
+    "year": 2012,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781451681765"
+  }
+]

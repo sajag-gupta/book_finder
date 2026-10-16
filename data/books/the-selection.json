@@ -1,0 +1,40 @@
+{
+  "slug": "the-selection",
+  "title": "The Selection",
+  "author": "Kiera Cass",
+  "isbn13": "9781627656276",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "hopeful", "whimsical"],
+  "tropes": ["royalty", "love-triangle"],
+  "warnings": ["violence"],
+  "summary": "Thirty-five girls from across a divided kingdom are chosen to compete for the hand of the crown prince. America Singer enters only to please her family, and she already has a secret boyfriend back home.",
+  "readIf": "you want a quick, glossy, romantic competition story with dresses, palace rivalry and a love triangle.",
+  "skipIf": "you want sophisticated politics or dislike love triangles.",
+  "pairings": [
+    {
+      "slug": "cinder",
+      "reason": "Another fairy-tale-flavoured YA with a prince, but with more science fiction and plot.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A darker YA that also puts a young woman in a palace full of danger and royal choices.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781627656276",
+    "https://en.wikipedia.org/wiki/The_Selection",
+    "https://hardcover.app/books/the-selection"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

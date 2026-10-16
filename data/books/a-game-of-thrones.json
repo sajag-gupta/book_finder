@@ -1,0 +1,45 @@
+{
+  "slug": "a-game-of-thrones",
+  "title": "A Game of Thrones",
+  "author": "George R. R. Martin",
+  "isbn13": "9780553593716",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "dark", "epic"],
+  "tropes": ["political-intrigue", "family-saga", "war-story", "morally-grey"],
+  "warnings": ["violence", "death", "sexual-assault", "sexual-content", "child-abuse", "incest"],
+  "summary": "When the king asks his old friend Ned Stark to serve as his chief adviser, a northern lord is pulled to the capital. Elsewhere, an exiled princess is married off across the sea, and something stirs beyond the great Wall of ice.",
+  "readIf": "you want a sprawling, unpredictable, politically sharp fantasy where nobody is safe.",
+  "skipIf": "you want hope, tidy heroes or to avoid graphic violence and harsh treatment of women and children.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "A grimmer, wittier fantasy with morally compromised characters and bloody politics.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "Another large-scale epic with many viewpoints, but more optimistic and led by women.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "reason": "The classic that this series reacts against, with a more straightforward moral world.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553593716",
+    "https://en.wikipedia.org/wiki/A_Game_of_Thrones",
+    "https://hardcover.app/books/a-game-of-thrones-the-story-continues-the-complete-box-set-of-all-7-books-by-martin-george-r-r-author-jul-12-2012-paperback"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

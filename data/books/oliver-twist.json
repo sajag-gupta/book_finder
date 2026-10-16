@@ -1,0 +1,45 @@
+{
+  "slug": "oliver-twist",
+  "title": "Oliver Twist",
+  "author": "Charles Dickens",
+  "isbn13": "9781539481997",
+  "firstPublished": 1838,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "hopeful", "heartbreaking"],
+  "tropes": ["rags-to-riches"],
+  "warnings": ["child-abuse", "violence", "death", "domestic-violence", "prejudice"],
+  "summary": "An orphan born in a workhouse runs away to London and falls in with a gang of child pickpockets led by Fagin. Meanwhile, hints appear that his origins may be more important than anyone realises.",
+  "readIf": "you want Dickens at his most dramatic, with vivid villains and a strong social conscience.",
+  "skipIf": "you would struggle with its antisemitic stereotype of Fagin or with scenes of abuse.",
+  "pairings": [
+    {
+      "slug": "great-expectations",
+      "reason": "Another Dickens orphan story, more mature, with a subtler and more complex hero.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "les-miserables",
+      "reason": "A bigger, French tale of poverty, crime and compassion.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-christmas-carol",
+      "reason": "A far shorter Dickens tale that makes a similar plea for kindness toward the poor.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781539481997",
+    "https://en.wikipedia.org/wiki/Oliver_Twist",
+    "https://hardcover.app/books/oliver-twist-play-1838"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

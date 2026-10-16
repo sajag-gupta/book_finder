@@ -1,0 +1,45 @@
+{
+  "slug": "the-three-musketeers",
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "isbn13": "9781648337369",
+  "firstPublished": 1844,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "witty", "epic"],
+  "tropes": ["found-family", "political-intrigue", "royalty"],
+  "warnings": ["violence", "death"],
+  "summary": "Young d'Artagnan travels to Paris to join the king's musketeers and makes friends with Athos, Porthos and Aramis. They soon find themselves in a plot involving the queen's honour and the powerful Cardinal Richelieu.",
+  "readIf": "you want a swashbuckling, funny and fast-moving adventure about loyalty and friendship.",
+  "skipIf": "you dislike historical liberties or want modern characters and attitudes.",
+  "pairings": [
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "The author's other masterpiece, which has a more focused plot and a darker, more patient hero.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "A comic fairy tale with the same love of swordplay, friendship and daring rescues.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "treasure-island",
+      "reason": "A shorter, classic adventure with just as much energy and a memorable cast of rogues.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781648337369",
+    "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+    "https://hardcover.app/books/the-three-musketeers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

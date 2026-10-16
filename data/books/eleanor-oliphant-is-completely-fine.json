@@ -1,0 +1,45 @@
+{
+  "slug": "eleanor-oliphant-is-completely-fine",
+  "title": "Eleanor Oliphant Is Completely Fine",
+  "author": "Gail Honeyman",
+  "isbn13": "9780525506348",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "funny", "hopeful"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": ["abuse", "mental-illness", "addiction"],
+  "summary": "An office worker in Glasgow lives by strict routines, speaks with blunt precision and sees nobody outside work. A small act of kindness from a colleague begins to pull her out of that tightly controlled life.",
+  "readIf": "you like narrators who are funny without meaning to be, and recovery stories that take their time.",
+  "skipIf": "you want to avoid a story built around childhood trauma and loneliness, even though it ends warmly.",
+  "pairings": [
+    {
+      "slug": "convenience-store-woman",
+      "reason": "Another short, deadpan novel about a woman who does not fit social expectations and handles it in her own way.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Pairs the same prickly outer shell with a soft, aching inside, and a similarly gradual rescue by neighbours.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-rosie-project",
+      "reason": "A much lighter romantic comedy with a hero who is also a literal, rule-driven outsider.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525506348",
+    "https://en.wikipedia.org/wiki/Eleanor_Oliphant_Is_Completely_Fine",
+    "https://hardcover.app/books/eleanor-oliphant-is-completely-fine"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

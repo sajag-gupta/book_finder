@@ -1,0 +1,44 @@
+{
+  "slug": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "isbn13": "9781481964869",
+  "firstPublished": 1847,
+  "series": null,
+  "genres": ["classic", "romance"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "haunting", "melancholic"],
+  "tropes": ["star-crossed-lovers", "revenge", "forbidden-love"],
+  "warnings": ["abuse", "violence", "death"],
+  "summary": "A visitor to a remote Yorkshire farmhouse hears the history of the Earnshaw family, and the foundling Heathcliff, whose bond with Catherine and need for revenge damage two households across generations.",
+  "readIf": "you want a stormy, intense classic where love and cruelty are tangled together.",
+  "skipIf": "you want sympathetic characters or a satisfying romance, because few are kind.",
+  "pairings": [
+    {
+      "slug": "jane-eyre",
+      "reason": "The more hopeful Brontë novel with a heroine who keeps her own moral sense.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "A later gothic about a house, obsession and a dead woman's hold on the living.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-great-gatsby",
+      "reason": "Another story of a man shaped by thwarted love who builds a life around his obsession.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781481964869",
+    "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "matched",
+  "title": "Matched",
+  "author": "Ally Condie",
+  "isbn13": "9780593324813",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "thoughtful", "hopeful"],
+  "tropes": ["dystopian-regime", "love-triangle", "forbidden-love"],
+  "warnings": [],
+  "summary": "In a controlled society where officials choose your partner, job and even the age you die, Cassia is delighted to be matched with her best friend. Then another boy's face briefly appears on the screen, and she begins to question the system.",
+  "readIf": "you like a soft, romantic dystopia that is more about choice and poetry than action.",
+  "skipIf": "you want high-stakes action or a tightly plotted resistance story.",
+  "pairings": [
+    {
+      "slug": "the-giver",
+      "reason": "The classic short novel about a controlled, comfortable society that hides something terrible.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "uglies",
+      "reason": "Another YA dystopia about being told who to be, with a more adventurous plot.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-selection",
+      "reason": "A glossier, more romantic competition in a divided future society.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593324813",
+    "https://en.wikipedia.org/wiki/Matched_(book)",
+    "https://hardcover.app/books/matched"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

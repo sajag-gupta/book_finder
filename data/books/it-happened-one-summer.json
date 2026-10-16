@@ -1,0 +1,44 @@
+{
+  "slug": "it-happened-one-summer",
+  "title": "It Happened One Summer",
+  "author": "Tessa Bailey",
+  "isbn13": "9780063413856",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "funny", "comforting"],
+  "tropes": ["grumpy-sunshine", "forced-proximity", "small-town"],
+  "warnings": ["sexual-content"],
+  "summary": "A spoiled Los Angeles socialite is sent to a small fishing town after a scandal, where she has to work at a dockside bar run by a surly local. The city girl and the gruff bar owner clash, then slowly stop pretending to dislike each other.",
+  "readIf": "you want a steamy, small-town, grumpy-and-sunshine story with a lot of banter.",
+  "skipIf": "you prefer slow, quiet romances over big flirty heat and comic misadventures.",
+  "pairings": [
+    {
+      "slug": "the-hating-game",
+      "reason": "Shares the quick, sparring dialogue and a hero who looks cold but is not.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-spanish-love-deception",
+      "reason": "Another romance with a stern, secretly warm hero who falls hard for the person he seems to resist.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-unhoneymooners",
+      "reason": "A lighter, sunnier rom-com that keeps the bickering and gives it a beach setting.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063413856",
+    "https://hardcover.app/books/it-happened-one-summer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "isbn13": "9781442936928",
+  "firstPublished": 1925,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["melancholic", "haunting", "nostalgic"],
+  "tropes": ["second-chance", "rags-to-riches"],
+  "warnings": ["death", "infidelity"],
+  "summary": "In the summer of 1922, Nick Carraway rents a house next to a mysterious millionaire on Long Island who throws lavish parties. He learns Gatsby's whole fortune is aimed at winning back a woman he loved years ago.",
+  "readIf": "you want a short, beautifully written novel about longing, money and illusion.",
+  "skipIf": "you need likeable characters, since almost everyone here is shallow or careless.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another story told by an outsider drawn into a glamorous circle that ends badly.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "daisy-jones-and-the-six",
+      "reason": "A modern, easier read about charismatic people, excess and what it costs.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A quiet, restrained novel about regret and a life built around an idea that doesn't hold.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 30,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781442936928",
+    "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+    "https://hardcover.app/books/the-great-gatsby"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

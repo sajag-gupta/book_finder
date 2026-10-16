@@ -1,0 +1,44 @@
+{
+  "slug": "twilight",
+  "title": "Twilight",
+  "author": "Stephenie Meyer",
+  "isbn13": "9781904233800",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["young-adult", "romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "nostalgic", "tense"],
+  "tropes": ["vampires", "forbidden-love", "small-town"],
+  "warnings": ["violence", "death"],
+  "summary": "Seventeen-year-old Bella moves to the rainy town of Forks, Washington, and becomes fascinated by a mysterious, distant classmate. She learns his family has a dangerous secret.",
+  "readIf": "you want an intense, all-consuming teen romance with a supernatural twist.",
+  "skipIf": "you want complex, grounded characters or dislike slow, brooding romance.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A later, more adult romance in the same vein of a human girl drawn into a dangerous magical world.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "anna-and-the-french-kiss",
+      "reason": "A lighter, funnier teen romance with similar slow-burn longing.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "A very different vampire novel that is far more serious and melancholy.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781904233800",
+    "https://en.wikipedia.org/wiki/Twilight_(Meyer_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

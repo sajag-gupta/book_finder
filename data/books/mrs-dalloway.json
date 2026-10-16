@@ -1,0 +1,45 @@
+{
+  "slug": "mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "author": "Virginia Woolf",
+  "isbn13": "9781954525009",
+  "firstPublished": 1925,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic"],
+  "tropes": [],
+  "warnings": ["suicide", "mental-illness", "war"],
+  "summary": "A London hostess spends a June day in 1923 preparing for an evening party and remembering the choices that shaped her life. Elsewhere in the city a shell-shocked veteran is coming apart.",
+  "readIf": "you like quiet, lyrical novels where a single day carries a whole lifetime of regret and feeling.",
+  "skipIf": "you want events, dialogue-driven scenes or a plot that moves from chapter to chapter.",
+  "pairings": [
+    {
+      "slug": "the-hours",
+      "reason": "A direct tribute built around this novel, braiding three women's days together across the twentieth century.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Another delicate portrait of a person looking back at a restrained life and what went unsaid in it.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "olive-kitteridge",
+      "reason": "Shares the focus on ordinary lives and inner weather, but in sharper, more modern short stories.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781954525009",
+    "https://en.wikipedia.org/wiki/Mrs_Dalloway",
+    "https://hardcover.app/books/mrs-dalloway"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

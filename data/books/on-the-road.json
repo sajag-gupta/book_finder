@@ -1,0 +1,44 @@
+{
+  "slug": "on-the-road",
+  "title": "On the Road",
+  "author": "Jack Kerouac",
+  "isbn13": "9780143143796",
+  "firstPublished": 1957,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "nostalgic"],
+  "tropes": ["road-trip"],
+  "warnings": ["addiction", "infidelity"],
+  "summary": "A young writer in post-war New York hits the road with his wild, magnetic friend. They crisscross America in borrowed cars and buses, chasing jazz, women and a feeling they cannot name.",
+  "readIf": "you want a restless, breathless, jazz-inflected road novel that captures a particular era of youth.",
+  "skipIf": "you want responsibility or plot, as the men use and discard many of those around them.",
+  "pairings": [
+    {
+      "slug": "the-lincoln-highway",
+      "reason": "A warmer, more tightly plotted road novel about a different group of young men in the same decade.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-catcher-in-the-rye",
+      "reason": "Another classic of a restless young narrator who rejects the settled life, with a more bitter voice.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-sun-also-rises",
+      "reason": "Also follows a circle of drifting friends who drink their way across places in search of meaning.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780143143796",
+    "https://en.wikipedia.org/wiki/On_the_Road"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

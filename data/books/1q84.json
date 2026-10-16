@@ -1,0 +1,45 @@
+{
+  "slug": "1q84",
+  "title": "1Q84",
+  "author": "Haruki Murakami",
+  "isbn13": "9781446499856",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["literary", "fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "mysterious", "haunting"],
+  "tropes": ["cult", "dual-timeline", "star-crossed-lovers"],
+  "warnings": ["violence", "sexual-content", "abuse", "child-abuse", "sexual-assault"],
+  "summary": "In Tokyo in 1984, a fitness instructor with a secret life and a maths teacher who moonlights as a ghostwriter each slip into a world that is subtly different from the one they knew. Their paths, tied by a childhood bond, start to converge.",
+  "readIf": "you want a huge, hypnotic novel that blends romance, a cult thriller and the supernatural.",
+  "skipIf": "you want a brisk read or are uneasy with graphic sexual violence and abuse of girls.",
+  "pairings": [
+    {
+      "slug": "kafka-on-the-shore",
+      "reason": "A shorter Murakami novel with a similar eerie atmosphere and parallel storylines that eventually meet.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-wind-up-bird-chronicle",
+      "reason": "Equally sprawling and surreal, with a more bewildered, everyman hero.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "The title is a nod to Orwell's novel, and both stories involve a powerful hidden force reshaping reality.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781446499856",
+    "https://en.wikipedia.org/wiki/1Q84",
+    "https://hardcover.app/books/1q84"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

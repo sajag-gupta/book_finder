@@ -1,0 +1,45 @@
+{
+  "slug": "sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "isbn13": "9781405675963",
+  "firstPublished": 1811,
+  "series": null,
+  "genres": ["classic", "romance"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["witty", "swoony", "thoughtful"],
+  "tropes": ["love-triangle"],
+  "warnings": [],
+  "summary": "When their father dies, the Dashwood sisters are left with little money and move to a modest cottage in Devon. Sensible Elinor and passionate Marianne each face love in very different ways.",
+  "readIf": "you like Austen's social comedy and a story about two sisters with opposite temperaments.",
+  "skipIf": "you want a swift plot, since the pace is deliberate.",
+  "pairings": [
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "The more famous Austen sister story, with a livelier heroine and a more celebrated romance.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "emma",
+      "reason": "Austen at her funniest, with a matchmaking heroine who learns the hard way.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "little-women",
+      "reason": "Another classic about sisters with different personalities who face love and money worries.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405675963",
+    "https://en.wikipedia.org/wiki/Sense_and_Sensibility",
+    "https://hardcover.app/books/sense-and-sensibility"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

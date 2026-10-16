@@ -1,0 +1,45 @@
+{
+  "slug": "the-hating-game",
+  "title": "The Hating Game",
+  "author": "Sally Thorne",
+  "isbn13": "9781504735865",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "swoony", "witty"],
+  "tropes": ["enemies-to-lovers", "workplace-romance", "forced-proximity"],
+  "warnings": ["sexual-content"],
+  "summary": "Two assistants at a merged publishing house sit facing each other and have turned their mutual dislike into a daily game of petty point-scoring. When a promotion puts them in direct competition, the rivalry gets sharper and more personal.",
+  "readIf": "you love office rivalries, quick banter and a hero who is a lot softer than he first appears.",
+  "skipIf": "you want a deeper, slower emotional story, as this one stays light and quick on its feet.",
+  "pairings": [
+    {
+      "slug": "the-love-hypothesis",
+      "reason": "Shares the quarrelling-colleagues energy and keeps the tone just as warm and humorous.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "book-lovers",
+      "reason": "Another workplace-adjacent rivalry romance in publishing, with a bit more emotional depth underneath.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Also a rivals-to-lovers story full of banter, with a larger and more glamorous setting.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781504735865",
+    "https://en.wikipedia.org/wiki/The_Hating_Game",
+    "https://hardcover.app/books/the-hating-game"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

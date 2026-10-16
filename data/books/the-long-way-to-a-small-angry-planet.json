@@ -1,0 +1,45 @@
+{
+  "slug": "the-long-way-to-a-small-angry-planet",
+  "title": "The Long Way to a Small, Angry Planet",
+  "author": "Becky Chambers",
+  "isbn13": "9780062444134",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["science-fiction", "cozy-fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["cozy", "hopeful", "comforting"],
+  "tropes": ["found-family"],
+  "warnings": ["violence"],
+  "summary": "A young woman with a secret past joins the crew of a patched-up ship that builds tunnels through space. On a long trip to a distant planet she gets to know the unusual crew, who become her family.",
+  "readIf": "you want a gentle, character-first space story about friendship and kindness.",
+  "skipIf": "you want a tight plot or high stakes, because the story is episodic and often relaxed.",
+  "pairings": [
+    {
+      "slug": "a-psalm-for-the-wild-built",
+      "reason": "The same author's shorter, quieter and equally warm story about caring and connection.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Another ship full of misfits drifting through space, with much sillier humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "A cosy fantasy about outsiders making a family, with the same big-hearted feel.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062444134",
+    "https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small%2C_Angry_Planet",
+    "https://hardcover.app/books/the-long-way-to-a-small-angry-planet"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "ninth-house",
+  "title": "Ninth House",
+  "author": "Leigh Bardugo",
+  "isbn13": "9781250785947",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["fantasy", "horror"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["dark", "mysterious", "tense"],
+  "tropes": ["secret-society", "detective", "dual-timeline", "morally-grey"],
+  "warnings": ["sexual-assault", "violence", "addiction", "death", "gore"],
+  "summary": "A young woman with a history of trauma is offered a place at Yale on the condition that she monitors the university's secret societies, whose rituals involve real, dangerous magic. When a girl is found dead, she has to work out what happened.",
+  "readIf": "you want a grim, adult dark-academia fantasy with a gripping mystery and a fiercely damaged heroine.",
+  "skipIf": "you are sensitive to sexual violence and drug abuse, which are both depicted frankly.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "A classic of the elite-campus murder mystery, similarly moody and morally rotten, without the magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "Same author's younger, more caper-driven fantasy for a quicker, less brutal read.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "house-of-earth-and-blood",
+      "reason": "Another dark fantasy where a haunted woman investigates a killing that points toward powerful people.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250785947",
+    "https://en.wikipedia.org/wiki/Ninth_House",
+    "https://hardcover.app/books/ninth-house-2019"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

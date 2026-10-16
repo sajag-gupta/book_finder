@@ -1,0 +1,45 @@
+{
+  "slug": "a-psalm-for-the-wild-built",
+  "title": "A Psalm for the Wild-Built",
+  "author": "Becky Chambers",
+  "isbn13": "9781250236227",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["cozy-fantasy", "science-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["comforting", "thoughtful", "hopeful"],
+  "tropes": ["road-trip", "unlikely-friendship", "artificial-intelligence"],
+  "warnings": [],
+  "summary": "A tea monk who is tired of his job leaves the city to travel the countryside and finds a robot that has come out of the wilderness for the first time in generations. The two embark on a gentle trip while the robot asks what people actually need.",
+  "readIf": "you want a short, calming read about purpose, rest and an unexpected friendship.",
+  "skipIf": "you want plot and conflict, since very little happens and the book is meant to be soothing.",
+  "pairings": [
+    {
+      "slug": "legends-and-lattes",
+      "reason": "Another cosy, low-conflict story about a person changing their life by slowing down.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-long-way-to-a-small-angry-planet",
+      "reason": "Same author, a warmer ensemble space road-trip with more characters and more adventure.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "Another gentle story about a robot's view of humans, though quieter and more melancholic.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250236227",
+    "https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built",
+    "https://hardcover.app/books/a-psalm-for-the-wild-built"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

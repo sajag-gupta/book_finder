@@ -1,0 +1,40 @@
+{
+  "slug": "parable-of-the-sower",
+  "title": "Parable of the Sower",
+  "author": "Octavia E. Butler",
+  "isbn13": "9780704344211",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "haunting", "hopeful"],
+  "tropes": ["post-apocalyptic", "survival", "road-trip", "coming-of-age"],
+  "warnings": ["violence", "death", "sexual-assault", "addiction"],
+  "summary": "In a near-future California falling apart from drought and inequality, a teenage girl with an unusual sensitivity to others' pain lives behind her community's walls. When they fail, she heads north and starts to shape a new belief.",
+  "readIf": "you want a gripping, thoughtful survival story that feels uncomfortably close to real life.",
+  "skipIf": "you want to avoid graphic violence and sexual assault, which appear on the road north.",
+  "pairings": [
+    {
+      "slug": "the-road",
+      "reason": "A starker, shorter story of surviving the ruined world after collapse, with less politics and more dread.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-ministry-for-the-future",
+      "reason": "A more hopeful and global look at the same climate-strained near future.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780704344211",
+    "https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)",
+    "https://hardcover.app/books/parable-of-the-sower"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

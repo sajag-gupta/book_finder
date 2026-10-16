@@ -1,0 +1,45 @@
+{
+  "slug": "half-of-a-yellow-sun",
+  "title": "Half of a Yellow Sun",
+  "author": "Chimamanda Ngozi Adichie",
+  "isbn13": "9780007272372",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "haunting", "thoughtful"],
+  "tropes": ["war-story", "family-saga"],
+  "warnings": ["war", "violence", "death", "sexual-assault", "infidelity"],
+  "summary": "Set in Nigeria in the 1960s, the story follows a houseboy, two sisters and an English writer as the Biafran secession turns their comfortable lives into a fight for survival.",
+  "readIf": "you want a human-scale story of a historical war, told through characters you will not forget.",
+  "skipIf": "you are not ready for scenes of famine, massacre and sexual violence.",
+  "pairings": [
+    {
+      "slug": "things-fall-apart",
+      "reason": "A foundational Nigerian novel set earlier, showing a society before and during colonial disruption.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "Another novel that follows ordinary people through a country torn by conflict, with devastating emotional force.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poisonwood-bible",
+      "reason": "Offers a different view of Africa during political upheaval, told through a family of outsiders.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007272372",
+    "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun",
+    "https://hardcover.app/books/half-of-a-yellow-sun"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

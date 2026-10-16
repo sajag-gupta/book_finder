@@ -1,0 +1,45 @@
+{
+  "slug": "atonement",
+  "title": "Atonement",
+  "author": "Ian McEwan",
+  "isbn13": "9780099479130",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["heartbreaking", "haunting", "melancholic"],
+  "tropes": ["war-story", "star-crossed-lovers"],
+  "warnings": ["war", "death", "sexual-assault", "grief"],
+  "summary": "On a hot day in 1935, thirteen-year-old Briony misreads a scene between her sister and a family friend and makes an accusation that changes three lives. The story follows the consequences through the Second World War.",
+  "readIf": "you want a beautifully written, emotionally devastating story about guilt and the stories we tell.",
+  "skipIf": "you dislike slow openings or war scenes in the middle section.",
+  "pairings": [
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Another English novel about regret, class and a life shaped by something left unsaid.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "A more accessible wartime story about the power of words and the cost of conflict.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-farewell-to-arms",
+      "reason": "A war and love story told in plain, spare prose with a similarly tragic arc.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780099479130",
+    "https://en.wikipedia.org/wiki/Atonement_(novel)",
+    "https://hardcover.app/books/atonement"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

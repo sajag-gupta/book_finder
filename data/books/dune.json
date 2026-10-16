@@ -32,5 +32,7 @@
   ],
   "status": "reviewed",
   "reviewedBy": "Sajag Gupta",
-  "reviewedOn": "2026-10-16"
+  "reviewedOn": "2026-10-16",
+  "soldMillions": 20,
+  "tier": "all-time"
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "divergent",
+  "title": "Divergent",
+  "author": "Veronica Roth",
+  "isbn13": "9780062352187",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["dystopian-regime", "coming-of-age", "hidden-identity"],
+  "warnings": ["violence", "death", "bullying"],
+  "summary": "In a future Chicago where society is split into factions based on virtues, a sixteen-year-old must choose where she belongs. She picks the daring faction and discovers that her own mind is a danger to the system.",
+  "readIf": "you like fast, action-filled young-adult dystopias with a tough training section and a slow-burning romance.",
+  "skipIf": "you want a deeply original world, since the faction idea works better as a hook than as a believable society.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The model for this kind of story, with a more tightly drawn heroine and higher stakes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-maze-runner",
+      "reason": "Another quick, puzzle-driven young-adult dystopia about teens in a harsh controlled setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A shorter, gentler and more reflective look at a controlled society.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062352187",
+    "https://en.wikipedia.org/wiki/Divergent_(novel)",
+    "https://hardcover.app/books/divergent"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

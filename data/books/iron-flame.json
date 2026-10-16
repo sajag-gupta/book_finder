@@ -1,0 +1,45 @@
+{
+  "slug": "iron-flame",
+  "title": "Iron Flame",
+  "author": "Rebecca Yarros",
+  "isbn13": "9781649374172",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "swoony", "dark"],
+  "tropes": ["dragons", "magic-school", "enemies-to-lovers", "secret-society"],
+  "warnings": ["violence", "death", "torture", "sexual-content", "war"],
+  "summary": "The second year at a brutal dragon-rider war college begins with new rules, secrets and an enemy within the ranks. The heroine must stay alive while uncovering what her leaders have hidden, with far more at stake than a graduation.",
+  "readIf": "you loved the first book and want more dragons, danger and a longer, more twisted plot.",
+  "skipIf": "you haven't read Fourth Wing, as this picks up directly and spoils much of it.",
+  "pairings": [
+    {
+      "slug": "fourth-wing",
+      "reason": "The first book, if you want to start at the beginning of the same story.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "onyx-storm",
+      "reason": "The next installment, which widens the scope considerably.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "eragon",
+      "reason": "An older, gentler dragon-rider adventure for a different take on the same bond.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781649374172",
+    "https://en.wikipedia.org/wiki/Iron_Flame",
+    "https://hardcover.app/books/iron-flame"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

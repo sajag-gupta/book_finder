@@ -1,0 +1,45 @@
+{
+  "slug": "mort",
+  "title": "Mort",
+  "author": "Terry Pratchett",
+  "isbn13": "9780061367656",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "thoughtful"],
+  "tropes": ["coming-of-age", "gods-and-myth", "royalty"],
+  "warnings": ["death"],
+  "summary": "A gangly farm boy named Mort, too awkward for farm work, is taken on as apprentice by Death himself. When he is trusted with the scythe for the first time, he makes a choice that threatens the shape of reality.",
+  "readIf": "you want a funny, kind-hearted fantasy that uses death as a character and a surprise source of warmth.",
+  "skipIf": "you want serious reflection on mortality, as it is a light comedy first.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Another comedy about supernatural beings who care more for humanity than they admit.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "A very different, much sadder book that also gives Death a voice and a surprising tenderness.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "guards-guards",
+      "reason": "Another Discworld novel, with a bigger cast and a mystery-style plot.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061367656",
+    "https://en.wikipedia.org/wiki/Mort",
+    "https://hardcover.app/books/mort"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

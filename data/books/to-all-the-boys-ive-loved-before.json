@@ -1,0 +1,45 @@
+{
+  "slug": "to-all-the-boys-ive-loved-before",
+  "title": "To All the Boys I've Loved Before",
+  "author": "Jenny Han",
+  "isbn13": "9781407149073",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "funny", "comforting"],
+  "tropes": ["fake-dating", "coming-of-age", "friends-to-lovers"],
+  "warnings": ["grief"],
+  "summary": "A shy teenager keeps her old crush letters in a hatbox, until someone mails them all. To avoid facing one recipient, she pretends to date another boy, who has his own reasons to play along.",
+  "readIf": "you want a warm, funny, low-stakes teenage romance with a close family and a believable shy heroine.",
+  "skipIf": "you want something with real edge, as this is gentle and sweet throughout.",
+  "pairings": [
+    {
+      "slug": "the-summer-i-turned-pretty",
+      "reason": "Same author and another summery teenage romance, but dreamier and sadder.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "simon-vs-the-homo-sapiens-agenda",
+      "reason": "Another warm, funny teen story built around an accidental exposure of secret feelings.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "anna-and-the-french-kiss",
+      "reason": "A cosy young-adult romance with a bigger sense of place and travel.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407149073",
+    "https://en.wikipedia.org/wiki/To_All_the_Boys_I've_Loved_Before",
+    "https://hardcover.app/books/to-all-the-boys-ive-loved-before"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
