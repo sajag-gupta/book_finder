@@ -81,6 +81,17 @@ function seriesBlock(book, ctx) {
   return `<section class="panel" aria-labelledby="series-h"><h2 id="series-h">Reading order: ${esc(series.name)}</h2><ul class="series">${items}</ul></section>`;
 }
 
+const STATUS_OPTIONS = [
+  ['want', 'Want to read'],
+  ['reading', 'Currently reading'],
+  ['read', 'Read'],
+  ['paused', 'Paused'],
+  ['dnf', 'Did not finish'],
+]
+  .map(([value, label]) => `<option value="${value}">${label}</option>`)
+  .join('');
+const STAR = `<span class="star" data-fill="none"><span class="star__base">${icon('star', { size: 28 })}</span><span class="star__fill">${icon('star', { size: 28 })}</span></span>`;
+
 const factsRow = (label, value) => `<div><dt>${esc(label)}</dt><dd>${value}</dd></div>`;
 
 export function bookPage(ctx, book) {
@@ -154,12 +165,33 @@ ${notice}
       <ul class="tags" aria-label="Moods">${moodLinks}</ul>
       ${tropeLinks ? `<ul class="tags" aria-label="Tropes">${tropeLinks}</ul>` : ''}
     </section>
-    <section class="panel" aria-labelledby="cw-h"><h2 id="cw-h">Content warnings</h2>
-      ${warnings.length ? `<ul class="tags">${warnings.map((w) => `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`).join('')}</ul>` : '<p>None noted yet.</p>'}
+    <section class="panel" aria-labelledby="cw-h" data-cw><h2 id="cw-h">Content warnings</h2>
+      <div data-cw-body>${warnings.length ? `<ul class="tags">${warnings.map((w) => `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`).join('')}</ul>` : '<p>None noted yet.</p>'}</div>
+      <div class="cw__controls">
+        <button type="button" class="btn btn--ghost btn--small" data-cw-toggle aria-expanded="true" hidden>Hide content warnings</button>
+        <label class="check" hidden><input type="checkbox" data-cw-pref><span>Hide them until I ask</span></label>
+      </div>
     </section>
     ${seriesBlock(book, ctx)}
   </div>
   <div class="book__side">
+    <section class="panel shelfpanel" aria-labelledby="shelf-h" data-shelf-panel data-slug="${esc(book.slug)}" hidden>
+      <h2 id="shelf-h">Your shelf</h2>
+      <div class="shelfpanel__row">
+        <label for="status-${esc(book.slug)}">Status</label>
+        <select id="status-${esc(book.slug)}" data-status><option value="">Not on my shelf</option>${STATUS_OPTIONS}</select>
+      </div>
+      <div class="shelfpanel__row" data-date-row hidden>
+        <label for="read-${esc(book.slug)}">Date read</label>
+        <input id="read-${esc(book.slug)}" type="date" data-read-date>
+      </div>
+      <div class="shelfpanel__row">
+        <span id="rating-label">Your rating</span>
+        <div class="stars" role="slider" tabindex="0" aria-labelledby="rating-label" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0" aria-valuetext="Not rated" data-stars>${STAR.repeat(5)}</div>
+        <button type="button" class="linkbtn" data-clear-rating hidden>Clear</button>
+      </div>
+      <p class="muted small">Saved in this browser only. <a href="/shelf/">Open my shelf</a></p>
+    </section>
     ${offersTable(book, ctx)}
     <section class="panel share" aria-labelledby="share-h"><h2 id="share-h">Share this pick</h2>
       <img class="share-preview" src="/share/${esc(book.slug)}.png" alt="Share card for ${esc(book.title)}" width="270" height="338" loading="lazy">
@@ -187,7 +219,7 @@ ${more.length ? `<section class="section" aria-labelledby="more-h"><div class="s
     description: `${book.summary} Compare print, ebook, audiobook, used and library options.`,
     image: `/share/${book.slug}-og.png`,
     body,
-    scripts: ['share'],
+    scripts: ['share', 'book'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Book',

@@ -1,47 +1,33 @@
 // Site-wide progressive enhancement. Every page works without this script: it adds the saved shelf,
 // search suggestions, newsletter sign-up feedback, and hides covers that failed to load.
-
-const SHELF_KEY = 'bf:shelf';
+import { createStore } from './shelf-store.js';
 
 // ---------- Saved shelf (stored in this browser only) ----------
-const readShelf = () => {
-  try {
-    const value = JSON.parse(localStorage.getItem(SHELF_KEY));
-    return Array.isArray(value) ? value : [];
-  } catch {
-    return [];
-  }
-};
-const writeShelf = (slugs) => {
-  try {
-    localStorage.setItem(SHELF_KEY, JSON.stringify(slugs));
-  } catch {
-    // Storage is blocked (private mode): the button simply does nothing.
-  }
-};
+const store = createStore();
 
 function syncShelf() {
-  const shelf = new Set(readShelf());
+  const shelf = store.all();
   for (const button of document.querySelectorAll('[data-save]')) {
-    button.setAttribute('aria-pressed', String(shelf.has(button.dataset.save)));
+    button.setAttribute('aria-pressed', String(button.dataset.save in shelf));
   }
+  const count = Object.keys(shelf).length;
   for (const badge of document.querySelectorAll('[data-shelf-count]')) {
-    badge.textContent = String(shelf.size);
-    badge.hidden = shelf.size === 0;
+    badge.textContent = String(count);
+    badge.hidden = count === 0;
   }
 }
 
+// The bookmark on a card adds a book as "want to read" or takes it off the shelf.
 document.addEventListener('click', (event) => {
   const button = event.target.closest('[data-save]');
   if (!button) return;
-  const shelf = new Set(readShelf());
   const slug = button.dataset.save;
-  if (shelf.has(slug)) shelf.delete(slug);
-  else shelf.add(slug);
-  writeShelf([...shelf]);
+  if (store.get(slug)) store.remove(slug);
+  else store.set(slug, { status: 'want' });
   syncShelf();
   document.dispatchEvent(new CustomEvent('shelf:change'));
 });
+document.addEventListener('shelf:change', syncShelf);
 syncShelf();
 
 // ---------- Covers: drop images that failed so the generated cover shows ----------
