@@ -1,0 +1,44 @@
+{
+  "slug": "house-of-flame-and-shadow",
+  "title": "House of Flame and Shadow",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781408884447",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "tense"],
+  "tropes": ["found-family", "gods-and-myth"],
+  "warnings": ["violence", "death", "sexual-content", "grief"],
+  "summary": "The third book in the Crescent City series. The heroine faces the aftermath of the previous books and a new, vast problem that stretches across worlds.",
+  "readIf": "you want to see Crescent City continue and have finished the first two books.",
+  "skipIf": "you want a standalone or have not read the earlier Crescent City novels.",
+  "pairings": [
+    {
+      "slug": "a-court-of-silver-flames",
+      "reason": "Another later series book that digs deeper into trauma and an unusual romance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "kingdom-of-ash",
+      "reason": "The author’s other grand finale, with a similarly huge scale and a lot of fighting.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A single-volume epic with queens and dragons for those who want a complete story.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781408884447",
+    "https://hardcover.app/books/house-of-flame-and-shadow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

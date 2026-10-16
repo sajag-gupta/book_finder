@@ -1,0 +1,44 @@
+{
+  "slug": "two-twisted-crowns",
+  "title": "Two Twisted Crowns",
+  "author": "Rachel Gillig",
+  "isbn13": "9780316312882",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "swoony"],
+  "tropes": ["quest", "morally-grey"],
+  "warnings": ["violence", "death"],
+  "summary": "The concluding book of the Shepherd King duology. After the events of the first novel, the heroine and her allies face new truths about their kingdom as the stakes rise.",
+  "readIf": "you want a conclusion to a dark romantasy duology.",
+  "skipIf": "you have not read One Dark Window, since this book gives away its plot.",
+  "pairings": [
+    {
+      "slug": "one-dark-window",
+      "reason": "The first book, which you need to read first.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another dark court-intrigue fantasy with a sharp and ambitious heroine.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "spinning-silver",
+      "reason": "A fairy-tale fantasy with dark edges and well-built women characters.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316312882",
+    "https://hardcover.app/books/two-twisted-crowns"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

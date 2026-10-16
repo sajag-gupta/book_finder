@@ -1,0 +1,41 @@
+{
+  "slug": "reckless",
+  "title": "Reckless",
+  "author": "Lauren Roberts",
+  "isbn13": "9781398540675",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["swoony", "tense", "adventurous"],
+  "tropes": ["enemies-to-lovers", "royalty", "hidden-identity"],
+  "warnings": ["violence", "death"],
+  "summary": "The second book of the Powerless series. In a kingdom where those with powers rule over everyone else, a young woman who has no power but a lot of nerve is drawn further into court politics and danger.",
+  "readIf": "you want to continue a quick YA romantasy with trials, banter and a slow love story.",
+  "skipIf": "you have not read Powerless, which sets up the entire situation.",
+  "pairings": [
+    {
+      "slug": "powerless",
+      "reason": "The first book, which you need to read before this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A young-adult fantasy of a hidden heroine and a royal court filled with people who have unusual powers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "Another young-adult fantasy of brutal trials and a spy among the ruling class.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781398540675", "https://hardcover.app/books/reckless"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

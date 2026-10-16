@@ -1,0 +1,45 @@
+{
+  "slug": "the-maid",
+  "title": "The Maid",
+  "author": "Nita Prose",
+  "isbn13": "9780008435721",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mysterious", "cozy", "hopeful"],
+  "tropes": ["whodunit", "unlikely-friendship"],
+  "warnings": ["death"],
+  "summary": "Molly Gray loves her work as a hotel maid and its rules and routines. Then she finds a guest dead in his suite and becomes the main suspect in a case she barely understands.",
+  "readIf": "you like cosy-leaning mysteries with a distinctive, kind narrator.",
+  "skipIf": "you want a gritty, procedural investigation, because the tone here is light and fairly gentle.",
+  "pairings": [
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "Another warm, funny mystery in which unlikely people end up solving a crime.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another story of a socially isolated woman whose odd outlook turns out to be a strength.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "A tender novel about a lonely person slowly letting others in.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008435721",
+    "https://en.wikipedia.org/wiki/The_Maid_(novel)",
+    "https://hardcover.app/books/the-maid"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

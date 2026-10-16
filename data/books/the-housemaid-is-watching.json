@@ -1,0 +1,44 @@
+{
+  "slug": "the-housemaid-is-watching",
+  "title": "The Housemaid Is Watching",
+  "author": "Freida McFadden",
+  "isbn13": "9781464229381",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["twist-ending"],
+  "warnings": ["violence", "manipulation"],
+  "summary": "The third Housemaid book. Millie tries for a quieter life in a new neighbourhood, but her instincts pick up that something about the people nearby is not right.",
+  "readIf": "you want another compulsive installment with short chapters and sharp reveals.",
+  "skipIf": "you have not read the earlier books and want to avoid spoilers for them.",
+  "pairings": [
+    {
+      "slug": "the-girl-on-the-train",
+      "reason": "Another thriller about a woman whose watching of other people draws her into danger, with a reliable twist.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-woman-in-the-window",
+      "reason": "Shares the premise of an observer who may be the only one who sees what is going on next door.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "A darker, more literary domestic thriller with a more devastating mind behind the twists.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781464229381",
+    "https://hardcover.app/books/the-housemaid-is-watching"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

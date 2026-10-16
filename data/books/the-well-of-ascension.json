@@ -1,0 +1,44 @@
+{
+  "slug": "the-well-of-ascension",
+  "title": "The Well of Ascension",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780575097759",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "thoughtful", "tense"],
+  "tropes": ["political-intrigue", "morally-grey"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The second Mistborn book. After the upheaval of the first novel, the people who now hold the capital must govern and defend it against several armies, while the strange magic around them keeps changing.",
+  "readIf": "you like fantasy with a detailed magic system and a hard look at what it means to rule.",
+  "skipIf": "you have not read Mistborn: The Final Empire, or you want a faster action-first sequel.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Shares the crew-of-schemers charm and clever plotting, but is more playful and less about statecraft.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "A slower, older epic about a kingdom under pressure and the people who must govern it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "elantris",
+      "reason": "More Sanderson, in a standalone world with another inventive magic system and a political crisis.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575097759",
+    "https://hardcover.app/books/the-well-of-ascension"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

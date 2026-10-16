@@ -1,0 +1,44 @@
+{
+  "slug": "lightlark",
+  "title": "Lightlark",
+  "author": "Alex Aster",
+  "isbn13": "9781419760860",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "swoony", "mysterious"],
+  "tropes": ["enemies-to-lovers", "love-triangle", "royalty"],
+  "warnings": ["violence", "death", "manipulation"],
+  "summary": "A young ruler travels to a hidden island for a deadly tournament that happens once every hundred years. She has to survive its games, where rival rulers hold secrets, and may have a way of breaking an old curse.",
+  "readIf": "you want a fast, YA-friendly romantasy with a tournament and a lot of mysteries.",
+  "skipIf": "you want deep worldbuilding or a rich prose style, as the book moves fast.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another story where a young woman is forced into a lethal contest against people with their own agendas.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Shares the court-style cruelty and a heroine who must be clever to survive.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "powerless",
+      "reason": "A fast young-adult romantasy with a trials setting and a prince on the other side.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781419760860",
+    "https://hardcover.app/books/lightlark"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

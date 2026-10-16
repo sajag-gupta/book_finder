@@ -1,0 +1,45 @@
+{
+  "slug": "all-your-perfects",
+  "title": "All Your Perfects",
+  "author": "Colleen Hoover",
+  "isbn13": "9781508264460",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "melancholic"],
+  "tropes": ["dual-timeline", "second-chance"],
+  "warnings": ["grief", "mental-illness"],
+  "summary": "A married couple's relationship is breaking down under pressure. The story alternates between their early love and the strained present, asking whether what they had can be recovered.",
+  "readIf": "you want a raw, emotional marriage story that moves between past and present.",
+  "skipIf": "you want a happy-go-lucky romance, because this is sad and heavily focused on pain between partners.",
+  "pairings": [
+    {
+      "slug": "it-ends-with-us",
+      "reason": "The most famous of the author’s heavier books, also about love that is painful and complicated.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-notebook",
+      "reason": "A softer, more sentimental love story that also moves between past and present.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "me-before-you",
+      "reason": "Another heartbreaking romance for readers who like a good cry.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781508264460",
+    "https://en.wikipedia.org/wiki/All_Your_Perfects",
+    "https://hardcover.app/books/all-your-perfects"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

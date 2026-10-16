@@ -1,0 +1,44 @@
+{
+  "slug": "empire-of-storms",
+  "title": "Empire of Storms",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781639731039",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "tense"],
+  "tropes": ["war-story", "chosen-one"],
+  "warnings": ["violence", "death", "war", "sexual-content"],
+  "summary": "Book five of Throne of Glass. With a great war closing in, a queen and her allies sail abroad to look for help while the darkness grows at home.",
+  "readIf": "you want an expansive, high-stakes installment full of battles and alliances.",
+  "skipIf": "you have not read the previous books, or want a quieter fantasy.",
+  "pairings": [
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "Another fantasy where a gathering of allies faces a final war against ancient evil.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A huge-scale fantasy with a heavy focus on war and the characters who carry it.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A lighter young-adult fantasy of rebellion against a ruling class with unusual powers.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781639731039",
+    "https://hardcover.app/books/empire-of-storms"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-butchers-masquerade",
+  "title": "The Butcher's Masquerade",
+  "author": "Matt Dinniman",
+  "isbn13": "9780241829820",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "tense", "dark"],
+  "tropes": ["survival", "found-family"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "The fifth Dungeon Crawler Carl book. Still trapped in the game, the crawlers face a new, more dangerous stage in which the show's audience and sponsors have their own plans for them.",
+  "readIf": "you have followed Carl and Donut this far and want the series to keep escalating.",
+  "skipIf": "you want a gentle read or have not started the series.",
+  "pairings": [
+    {
+      "slug": "neuromancer",
+      "reason": "A grittier, more stylised vision of technology and power run amok, for readers who like the series for its world rather than the jokes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Another very long series where each book expands the cast and the scale, with a serious, epic tone.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "old-mans-war",
+      "reason": "Military science fiction with a wry voice, where an ordinary person is thrown into a hostile, alien-filled universe.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241829820",
+    "https://hardcover.app/books/the-butchers-masquerade"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

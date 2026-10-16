@@ -1,0 +1,44 @@
+{
+  "slug": "queen-of-shadows",
+  "title": "Queen of Shadows",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781484492321",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "dark"],
+  "tropes": ["revenge", "rebellion"],
+  "warnings": ["violence", "death", "sexual-assault", "torture"],
+  "summary": "The fourth Throne of Glass book. A hunted heroine returns to the capital of the empire that destroyed her family, intending to take it back, while old friends and enemies close in.",
+  "readIf": "you want a big return-and-revenge fantasy once the series has been established.",
+  "skipIf": "you want a light story or are bothered by mentions of sexual violence and cruelty.",
+  "pairings": [
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "The classic revenge saga in which a wronged person returns in disguise to settle old scores.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "Another young-adult fantasy ensemble that mixes sharp action with emotional cost.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "If you liked the violence and want an adult, cynical alternative.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484492321",
+    "https://hardcover.app/books/queen-of-shadows"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

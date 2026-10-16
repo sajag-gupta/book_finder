@@ -1,0 +1,45 @@
+{
+  "slug": "the-girl-who-drank-the-moon",
+  "title": "The Girl Who Drank the Moon",
+  "author": "Kelly Barnhill",
+  "isbn13": "9781338167016",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "hopeful", "comforting"],
+  "tropes": ["witches", "found-family", "fairy-tale-retelling"],
+  "warnings": ["grief"],
+  "summary": "A kind witch accidentally feeds moonlight to a baby left in the forest, filling her with magic. The child grows up in an unusual household, while the town that gave her up believes that a witch demands a yearly sacrifice.",
+  "readIf": "you like warm, imaginative fantasy for all ages, with a fairy-tale shape and a big heart.",
+  "skipIf": "you want fast action or a darker fantasy, because this one is slow, gentle and strongly focused on love.",
+  "pairings": [
+    {
+      "slug": "howls-moving-castle",
+      "reason": "Another warm, funny fantasy about an unusual household and a young woman learning about magic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bear-and-the-nightingale",
+      "reason": "A darker, more atmospheric fairy-tale with a similar feeling of old magic.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-last-unicorn",
+      "reason": "Another lyrical, bittersweet fairy tale about belonging and wonder.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781338167016",
+    "https://en.wikipedia.org/wiki/The_Girl_Who_Drank_the_Moon",
+    "https://hardcover.app/books/the-girl-who-drank-the-moon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

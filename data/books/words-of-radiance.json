@@ -1,0 +1,45 @@
+{
+  "slug": "words-of-radiance",
+  "title": "Words of Radiance",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780575097421",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "adventurous", "tense"],
+  "tropes": ["war-story", "quest"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The second Stormlight Archive novel. A war on a broken, storm-swept plain and the fates of a soldier, a scholar and a warlord are told in alternating, deeply interior chapters.",
+  "readIf": "you want a huge, immersive fantasy where character arcs and worldbuilding are equally important.",
+  "skipIf": "you have not read The Way of Kings, or you have little patience for 1,000-page books.",
+  "pairings": [
+    {
+      "slug": "the-wise-mans-fear",
+      "reason": "Also a long, immersive middle chapter in a larger saga, with a heavy emphasis on craft and magic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A standalone epic of similar scale, with dragons, queens and an intricate multi-country world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-clash-of-kings",
+      "reason": "A sequel of comparable heft in which a vast cast, factions and a war structure the story.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575097421",
+    "https://en.wikipedia.org/wiki/Words_of_Radiance",
+    "https://hardcover.app/books/words-of-radiance"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

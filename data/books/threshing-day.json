@@ -1,0 +1,44 @@
+{
+  "slug": "threshing-day",
+  "title": "Threshing Day",
+  "author": "Rebecca Yarros",
+  "isbn13": "9781682818084",
+  "firstPublished": 2026,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["adventurous", "tense", "swoony"],
+  "tropes": ["dragons"],
+  "warnings": ["violence"],
+  "summary": "A short companion novella set in the world of Fourth Wing, where cadets at a brutal war college try to bond with dragons. It adds a small, self-contained story to an existing series.",
+  "readIf": "you love the Empyrean series and want a quick extra visit to its dragon-riding world.",
+  "skipIf": "you have not read Fourth Wing, because this is written for existing fans.",
+  "pairings": [
+    {
+      "slug": "fourth-wing",
+      "reason": "The novel that introduced this dragon-rider war college and the characters the novella assumes you know.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eragon",
+      "reason": "An older, more earnest dragon-and-rider story with the same wonder at a bond between a person and a dragon.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-deadly-education",
+      "reason": "Another school where students may not survive, with a cynical narrator and a rule-bound magic system.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781682818084",
+    "https://hardcover.app/books/threshing-day"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

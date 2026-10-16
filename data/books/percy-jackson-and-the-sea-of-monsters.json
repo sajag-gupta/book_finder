@@ -1,0 +1,41 @@
+{
+  "slug": "percy-jackson-and-the-sea-of-monsters",
+  "title": "Percy Jackson and the Sea of Monsters",
+  "author": "Rick Riordan",
+  "isbn13": "9780786856862",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "funny", "epic"],
+  "tropes": ["quest", "gods-and-myth", "found-family"],
+  "warnings": [],
+  "summary": "The second Percy Jackson book. When the magic that protects a summer camp for young demigods begins to fail, Percy and his friends set out across the sea on a quest that has dangers from Greek myth around every corner.",
+  "readIf": "you like quick, funny adventure with Greek mythology and an easy-to-love hero.",
+  "skipIf": "you have not read The Lightning Thief, since this one builds on its characters and events.",
+  "pairings": [
+    {
+      "slug": "the-lightning-thief",
+      "reason": "The first book, where Percy discovers who he is and meets the characters again here.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fablehaven",
+      "reason": "Another middle-grade adventure with a magical place full of creatures and a family secret.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets",
+      "reason": "The second book in another popular series, with a similar mix of mystery, school and monsters.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

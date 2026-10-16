@@ -1,0 +1,45 @@
+{
+  "slug": "sunrise-on-the-reaping",
+  "title": "Sunrise on the Reaping",
+  "author": "Suzanne Collins",
+  "isbn13": "9780702340581",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "heartbreaking"],
+  "tropes": ["survival", "dystopian-regime"],
+  "warnings": ["violence", "death", "child-death"],
+  "summary": "A prequel to The Hunger Games set decades earlier, following a teenage Haymitch Abernathy as he is forced into the Games' second Quarter Quell. It shows how the Capitol's grip took shape.",
+  "readIf": "you want a bleaker, character-focused return to Panem with the Games as the main event.",
+  "skipIf": "you want a hopeful read, because the story is grim and its outcome is already shadowed by the original trilogy.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The original story that this prequel feeds into, and the obvious place to start if you have not read it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A quieter, more philosophical dystopia about a society that hides cruelty behind order.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "scythe",
+      "reason": "Another young-adult dystopia in which teenagers are caught up in lethal, state-run systems.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780702340581",
+    "https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping",
+    "https://hardcover.app/books/sunrise-on-the-reaping"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

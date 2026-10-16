@@ -1,0 +1,44 @@
+{
+  "slug": "serpent-and-dove",
+  "title": "Serpent & Dove",
+  "author": "Shelby Mahurin",
+  "isbn13": "9781982688622",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "adventurous", "dark"],
+  "tropes": ["enemies-to-lovers", "marriage-of-convenience", "witches", "hidden-identity"],
+  "warnings": ["violence", "death", "religious-extremism", "sexual-content"],
+  "summary": "A young witch on the run and a witch-hunting soldier are forced into marriage in a city where magic is punished by death. She keeps her true nature hidden while their uneasy bond grows.",
+  "readIf": "you like enemies-to-lovers stories with high stakes, fairy-tale touches and witty banter.",
+  "skipIf": "you want romance without religious persecution or violence, because both are central.",
+  "pairings": [
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another young-adult fantasy where a heroine must survive among powerful people who loathe her kind.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A fantasy romance that also begins with a forced union, a hunt and a fairy-tale base.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "shadow-and-bone",
+      "reason": "Another young-adult fantasy with a hidden heroine and a dark love interest.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781982688622",
+    "https://hardcover.app/books/serpent-dove"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-ministry-of-time",
+  "title": "The Ministry of Time",
+  "author": "Kaliane Bradley",
+  "isbn13": "9781668045169",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["science-fiction", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["witty", "thoughtful", "swoony"],
+  "tropes": ["time-travel", "forced-proximity", "slow-burn"],
+  "warnings": [],
+  "summary": "A civil servant in near-future Britain is given the job of housing and guiding an Arctic explorer from the nineteenth century who has been brought forward in time. The two find themselves growing close as a government secret emerges.",
+  "readIf": "you like smart, funny time-travel stories that blend romance, spy fiction and social comedy.",
+  "skipIf": "you want a fast-paced plot or a very straightforward love story.",
+  "pairings": [
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "Another love story where time travel reshapes what a couple can have together.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "jonathan-strange-and-mr-norrell",
+      "reason": "Another British novel that blends period detail with a speculative premise and dry wit.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "A slim, odd and thoughtful novel with a similarly quiet narrator and a mystery behind it.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781668045169",
+    "https://en.wikipedia.org/wiki/The_Ministry_of_Time",
+    "https://hardcover.app/books/the-ministry-of-time"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

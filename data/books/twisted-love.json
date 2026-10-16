@@ -1,0 +1,45 @@
+{
+  "slug": "twisted-love",
+  "title": "Twisted Love",
+  "author": "Ana Huang",
+  "isbn13": "9780349447575",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "tense"],
+  "tropes": ["forced-proximity", "forbidden-love"],
+  "warnings": ["sexual-content", "stalking"],
+  "summary": "A young woman is thrown into close contact with her brother’s intimidating friend, a controlled and wealthy man who says he does not do relationships. As they spend time together, the attraction wins out.",
+  "readIf": "you like billionaire-style contemporary romance with a cold hero and a lot of heat.",
+  "skipIf": "you dislike possessive male leads or want a low-spice, character-driven romance.",
+  "pairings": [
+    {
+      "slug": "the-deal",
+      "reason": "Another contemporary romance built on two people who spend time together and cross a line.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "it-happened-one-summer",
+      "reason": "A rom-com with more humour in the dynamic between a hero and a heroine from different worlds.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "fifty-shades-of-grey",
+      "reason": "A more famous billionaire romance with a similar blend of power imbalance and passion.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349447575",
+    "https://en.wikipedia.org/wiki/Twisted_Love_(disambiguation)",
+    "https://hardcover.app/books/twisted-love"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

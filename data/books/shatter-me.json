@@ -1,0 +1,45 @@
+{
+  "slug": "shatter-me",
+  "title": "Shatter Me",
+  "author": "Tahereh Mafi",
+  "isbn13": "9780603580659",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "swoony", "tense"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["violence", "abuse", "mental-illness"],
+  "summary": "A girl whose touch hurts anyone she contacts has been kept locked away for years. When a new cellmate arrives, she is pulled into a rebellion against the regime that controls her world.",
+  "readIf": "you like a lyrical, intense young-adult dystopia with strong romance and superpowers.",
+  "skipIf": "you want a restrained prose style, as the narration is extremely metaphor-heavy and emotional.",
+  "pairings": [
+    {
+      "slug": "divergent",
+      "reason": "Another young-adult dystopia with an unusual heroine who is drawn into resistance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A tighter, more plot-driven story of a girl pushed to rebel against a cruel state.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "legend",
+      "reason": "A quick-moving dystopian romance with similarly high stakes.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780603580659",
+    "https://en.wikipedia.org/wiki/Shatter_Me",
+    "https://hardcover.app/books/shatter-me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

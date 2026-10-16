@@ -1,0 +1,44 @@
+{
+  "slug": "haunting-adeline",
+  "title": "Haunting Adeline",
+  "author": "H. D. Carlton",
+  "isbn13": "9781957635002",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance", "thriller"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["dark", "tense", "swoony"],
+  "tropes": ["morally-grey", "revenge"],
+  "warnings": ["stalking", "sexual-assault", "violence", "sexual-content", "manipulation", "abuse"],
+  "summary": "A woman who inherits her grandmother’s house finds she is being followed by a man who is both threatening and strangely protective. The dark romance that follows plays with obsession and a criminal underworld.",
+  "readIf": "you want an extreme dark romance and are comfortable with intense, non-consensual themes.",
+  "skipIf": "you want a gentle or realistic love story, because this one deals in stalking and graphic violence.",
+  "pairings": [
+    {
+      "slug": "verity",
+      "reason": "A mainstream thriller-romance with a twist that also explores obsession and manipulation.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "sharp-objects",
+      "reason": "A disturbing and literary thriller about a damaged woman and violence.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "reason": "A thriller with a dark underbelly and a protagonist intent on justice.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781957635002",
+    "https://hardcover.app/books/haunting-adeline"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

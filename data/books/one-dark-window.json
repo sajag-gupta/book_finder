@@ -1,0 +1,45 @@
+{
+  "slug": "one-dark-window",
+  "title": "One Dark Window",
+  "author": "Rachel Gillig",
+  "isbn13": "9780316312486",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "mysterious", "swoony"],
+  "tropes": ["quest", "forced-proximity", "magic-school"],
+  "warnings": ["violence", "death"],
+  "summary": "A young woman shares her mind with a monster known as the Nightmare, which helps and threatens her in equal measure. She sets out with a dangerous captain to find the cards that might save their blighted kingdom.",
+  "readIf": "you want dark, fairy-tale fantasy romance with moody atmosphere and a magic system built on cards.",
+  "skipIf": "you want a bright or cosy fantasy, as this one is shadowy and often grim.",
+  "pairings": [
+    {
+      "slug": "uprooted",
+      "reason": "Another dark fairy-tale fantasy about a magical corruption and a heroine learning her power.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bear-and-the-nightingale",
+      "reason": "A moody folklore-based fantasy with a haunting atmosphere and a young woman at its core.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "Another dark fantasy romance with a fairy-tale base and a deadly threat to the land.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316312486",
+    "https://en.wikipedia.org/wiki/One_Dark_Window",
+    "https://hardcover.app/books/one-dark-window"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

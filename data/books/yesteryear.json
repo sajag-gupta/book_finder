@@ -1,0 +1,45 @@
+{
+  "slug": "yesteryear",
+  "title": "Yesteryear",
+  "author": "Caro Claire Burke",
+  "isbn13": "9780008742775",
+  "firstPublished": 2026,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "thoughtful", "tense"],
+  "tropes": ["unreliable-narrator"],
+  "warnings": [],
+  "summary": "A literary novel about the curated, picture-perfect version of rural domestic life that gets sold online, and what it costs the woman who lives it.",
+  "readIf": "you like sharp, contemporary fiction that looks critically at image, marriage and performance.",
+  "skipIf": "you want a light read or a story with a clear, comforting resolution.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "Also about a marriage whose polished surface hides something sharp and unsettling.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "A classic look at control over women and the roles they are made to play.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Takes a glossy domestic setting and cracks it open with wit and a hidden menace.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008742775",
+    "https://en.wikipedia.org/wiki/Yesteryear",
+    "https://hardcover.app/books/yesteryear-2026"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

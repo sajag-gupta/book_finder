@@ -1,0 +1,44 @@
+{
+  "slug": "kingdom-of-ash",
+  "title": "Kingdom of Ash",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781978659070",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "dark", "heartbreaking"],
+  "tropes": ["war-story", "chosen-one"],
+  "warnings": ["violence", "death", "war", "torture", "sexual-assault"],
+  "summary": "The final book of Throne of Glass. The long war reaches its decisive stage as the heroine and her allies fight to end a threat that has hung over their world for years.",
+  "readIf": "you want to finish the series with a very long, satisfying showdown.",
+  "skipIf": "you are new to the series or find extended war and cruelty hard to read.",
+  "pairings": [
+    {
+      "slug": "a-court-of-wings-and-ruin",
+      "reason": "The author’s other series finale to its biggest war, with a similar mix of romance and battle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mockingjay",
+      "reason": "A shorter, grimmer finale in which a long fight for freedom is costly.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-silmarillion",
+      "reason": "For readers who like mythic, large-scale fantasy history and want something far weightier.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781978659070",
+    "https://hardcover.app/books/kingdom-of-ash"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "house-of-sky-and-breath",
+  "title": "House of Sky and Breath",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781639732876",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "dark"],
+  "tropes": ["found-family", "political-intrigue", "fae"],
+  "warnings": ["violence", "death", "sexual-content", "grief"],
+  "summary": "The second Crescent City novel. In a modern city ruled by shape-shifters, angels and other beings, its heroine and her allies face new threats, with larger secrets about their world coming into view.",
+  "readIf": "you want an urban fantasy romance that mixes mystery, quips and huge reveals.",
+  "skipIf": "you have not read House of Earth and Blood, since the story builds directly on it.",
+  "pairings": [
+    {
+      "slug": "house-of-earth-and-blood",
+      "reason": "The first Crescent City book, which sets up the world and the pair at the centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-court-of-mist-and-fury",
+      "reason": "Another sequel in which the romance and a huge world of politics deepen.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-darker-shade-of-magic",
+      "reason": "A smaller, snappier fantasy that also sets magical cities side by side.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781639732876",
+    "https://hardcover.app/books/house-of-sky-and-breath"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

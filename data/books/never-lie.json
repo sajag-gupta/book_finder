@@ -1,0 +1,44 @@
+{
+  "slug": "never-lie",
+  "title": "Never Lie",
+  "author": "Freida McFadden",
+  "isbn13": "9781420513981",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["locked-room", "twist-ending"],
+  "warnings": ["violence", "manipulation", "death"],
+  "summary": "A newly married couple seeks shelter from a snowstorm and finds themselves in the isolated home of a psychiatrist who has vanished. Recordings of her sessions suggest a long list of secrets.",
+  "readIf": "you want a standalone, one-sitting thriller with a snowed-in setting and lots of reversals.",
+  "skipIf": "you want a slow-burn mystery or dislike books that lean on shock twists.",
+  "pairings": [
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The classic isolated-location mystery, with strangers trapped together and a threat they cannot escape.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "before-i-go-to-sleep",
+      "reason": "Another psychological thriller built on a woman who cannot trust what she knows.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silent-patient",
+      "reason": "Also centres on a psychotherapist and a secret that only unravels at the very end.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781420513981",
+    "https://hardcover.app/books/never-lie"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

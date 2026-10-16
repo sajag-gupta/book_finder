@@ -1,0 +1,45 @@
+{
+  "slug": "the-inheritance-games",
+  "title": "The Inheritance Games",
+  "author": "Jennifer Lynn Barnes",
+  "isbn13": "9780241476178",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["mystery", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["mysterious", "tense", "adventurous"],
+  "tropes": ["secret-society", "love-triangle", "twist-ending"],
+  "warnings": ["death"],
+  "summary": "A teenager who is barely scraping by learns that a billionaire she has never met has left her nearly his whole fortune. To claim it she must move into his mansion, full of puzzles, with the family he disinherited.",
+  "readIf": "you want a twisty, puzzle-box young-adult mystery with banter and a bit of romance.",
+  "skipIf": "you want realistic, slow-burn detection, since the plot depends on grand, improbable puzzles.",
+  "pairings": [
+    {
+      "slug": "one-of-us-is-lying",
+      "reason": "Another quick young-adult mystery with secrets, suspects and a lot of teen drama.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-good-girls-guide-to-murder",
+      "reason": "A teenage detective story with more tangible stakes and a darker core.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "An adult, much darker take on privileged young people tangled up in a death.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241476178",
+    "https://en.wikipedia.org/wiki/The_Inheritance_Games",
+    "https://hardcover.app/books/the-inheritance-games-2019"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

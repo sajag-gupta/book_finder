@@ -1,0 +1,44 @@
+{
+  "slug": "maybe-someday",
+  "title": "Maybe Someday",
+  "author": "Colleen Hoover",
+  "isbn13": "9781471135521",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "hopeful"],
+  "tropes": ["forbidden-love", "slow-burn"],
+  "warnings": ["infidelity", "cheating", "sexual-content"],
+  "summary": "After a betrayal costs her both her boyfriend and her home, a young woman is drawn to her neighbour, a gifted guitarist who needs a lyricist. As they write songs together, their bond grows despite obstacles.",
+  "readIf": "you like music-centred romance and an emotionally honest love story with a slow build.",
+  "skipIf": "you dislike stories that centre on cheating or a relationship that begins while others are involved.",
+  "pairings": [
+    {
+      "slug": "norwegian-wood",
+      "reason": "A quieter literary novel in which music and love are tangled with loss.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "daisy-jones-and-the-six",
+      "reason": "Another music story where creative partnership and love blur together, told on a bigger canvas.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A couple connects through shared music and a slow-growing trust.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781471135521",
+    "https://hardcover.app/books/maybe-someday"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

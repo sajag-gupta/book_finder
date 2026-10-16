@@ -1,0 +1,44 @@
+{
+  "slug": "the-gate-of-the-feral-gods",
+  "title": "The Gate of the Feral Gods",
+  "author": "Matt Dinniman",
+  "isbn13": "9780241829912",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "tense", "adventurous"],
+  "tropes": ["survival", "found-family"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "Book four in the series about a deadly alien game show staged inside the ruins of Earth. The stakes and the cast keep growing as the survivors face harsher floors and powerful, scheming game sponsors.",
+  "readIf": "you want another installment of heavy-hitting dungeon action with a surprisingly big heart.",
+  "skipIf": "you are new to the series, since the story and in-jokes depend on the earlier books.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "Both pit characters against a vicious, hierarchical system with big set-piece battles and betrayals.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "Shares the engineering-style problem-solving and an odd, loveable team dynamic, though far gentler.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "Another long fantasy series of grim humour and hard-bitten soldiers who stick together.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241829912",
+    "https://hardcover.app/books/the-gate-of-the-feral-gods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

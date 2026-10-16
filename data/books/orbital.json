@@ -1,0 +1,45 @@
+{
+  "slug": "orbital",
+  "title": "Orbital",
+  "author": "Samantha Harvey",
+  "isbn13": "9781529922936",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["literary", "science-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "hopeful", "haunting"],
+  "tropes": [],
+  "warnings": ["grief"],
+  "summary": "Six astronauts and cosmonauts aboard the International Space Station circle the Earth sixteen times in a single day. The book watches them, and the planet below, in lyrical detail.",
+  "readIf": "you want a short, meditative novel with beautiful descriptions and little conventional plot.",
+  "skipIf": "you want a plot-driven space story, because this is closer to a prose poem.",
+  "pairings": [
+    {
+      "slug": "the-martian",
+      "reason": "Also set in space, but a witty, practical survival story with a clear plot.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "Another gentle, observant novel that looks at the world through an unusual perspective.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "sea-of-tranquility",
+      "reason": "A short, quiet science-fiction novel about time, memory and a sense of wonder.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529922936",
+    "https://en.wikipedia.org/wiki/Orbital_(novel)",
+    "https://hardcover.app/books/orbital-2023"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

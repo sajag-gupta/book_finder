@@ -1,0 +1,44 @@
+{
+  "slug": "divine-rivals",
+  "title": "Divine Rivals",
+  "author": "Rebecca Ross",
+  "isbn13": "9780008600662",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["romantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "hopeful"],
+  "tropes": ["enemies-to-lovers", "epistolary", "war-story", "gods-and-myth"],
+  "warnings": ["war", "death", "grief"],
+  "summary": "Two rival young journalists compete for a column at a newspaper while the gods are at war. In secret, one of them starts exchanging letters with a stranger through an enchanted typewriter.",
+  "readIf": "you like letters, slow-burn romance and a gentle historical-fantasy atmosphere.",
+  "skipIf": "you want fast-paced action or spice, since the focus is on emotion, letters and the cost of war.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "Another story about hope, writing and love in a world at war.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "Shares the romance between two rivals in a beautifully imagined magical setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "anne-of-green-gables",
+      "reason": "An older story of a bright, ambitious girl with a love of words and a rival who becomes something more.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008600662",
+    "https://hardcover.app/books/divine-rivals"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
