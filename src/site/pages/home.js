@@ -1,6 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
+import { IMPACT_TAG } from '../impact.js';
 import { cardGrid, moodChip, searchForm, sectionHead, signupForm } from '../components.js';
 
 const STEPS = [
@@ -92,6 +93,7 @@ ${
     title: `${site.name}: find your next read by mood`,
     description:
       'Pick a book by how you want to feel, then see every way to borrow, buy or listen to it, with the cheapest option marked.',
+    head: IMPACT_TAG,
     body: hero + trust + sections + band,
     structuredData: {
       '@context': 'https://schema.org',

@@ -31,7 +31,10 @@ builds, which are marked `noindex` and disallowed in `robots.txt`. A book can on
 with two sources, a reviewer and a date; the validator enforces this.
 
 **Privacy.** The click log stores store, ISBN, whether it was an affiliate link, the referring host
-and country. No IP address, no user agent, no cookies.
+and country. No IP address, no user agent, no cookies. One exception: the home page carries Impact's
+tracking tag (`src/site/impact.js`) to verify the site for their affiliate programs. It is a third
+party script that can set cookies, is allowed in the CSP by hash plus Impact's hosts only, and is
+disclosed on the affiliate disclosure page. Remove it if you leave Impact.
 
 **No scraping.** Facts come from open sources (Open Library, Hardcover, Google Books as a cross-check)
 under their published limits. Prices come only from approved affiliate feeds.
