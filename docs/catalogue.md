@@ -1,10 +1,10 @@
-# The 500-book catalogue
+# The catalogue (about 550 books)
 
 How the catalogue was built, what the quality levels mean, and how to extend it.
 
 ## Scope
 
-500 novels across romance and romantasy, fantasy, science fiction, thriller, mystery, crime, horror,
+About 550 novels across romance and romantasy, fantasy, science fiction, thriller, mystery, crime, horror,
 historical, young adult, literary fiction, classics and children's classics. Non-fiction and
 self-help are out of scope for now: the mood, trope and content-warning tags are built for stories.
 
@@ -32,6 +32,13 @@ figure an estimate. Modern books have no sourced sales number, so they are never
 5. **Fact check** (`npm run review -- --mark-checked`): see below.
 6. **Human review** (`npm run review -- --approve ...`): upgrades a book to `reviewed`.
 
+## Trending additions
+
+`npm run trending` lists what readers are currently reading on Hardcover (last 30 days) that the
+catalogue lacks. The first run added about 50 titles (Dungeon Crawler Carl and sequels, more Sarah J.
+Maas and Colleen Hoover, Pierce Brown, Brandon Sanderson, current romantasy and thrillers) through
+the same pipeline. Re-run it now and then to keep the catalogue current.
+
 ## Status levels
 
 | Status     | Meaning                                                                                                                        | Published?       |
@@ -45,8 +52,8 @@ marked `reviewed` on someone's behalf.
 
 ## Held-back books
 
-Nine books are not published yet because a second independent source did not confirm them:
-Babel, Behind Closed Doors, Icebreaker, Pretty Girls, The Girl Before, The Secret Life of Bees, The Unhoneymooners, Twenty Thousand Leagues Under the Sea, Ulysses.
+11 books are not published yet because a second independent source did not confirm them:
+Babel, Behind Closed Doors, Icebreaker, Percy Jackson and the Sea of Monsters, Pretty Girls, The Girl Before, The Secret Life of Bees, The Unhoneymooners, There Is No Antimemetics Division, Twenty Thousand Leagues Under the Sea, Ulysses.
 Either Open Library's work-level year is wrong for the book and neither Wikipedia nor Hardcover
 states ours, or neither could be matched to the exact book. The records are believed correct, but
 "checked" has to mean verified, so a person should confirm each and then run

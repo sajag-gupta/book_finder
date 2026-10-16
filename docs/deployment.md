@@ -27,6 +27,13 @@ The steps below are kept for recreating the setup in another Cloudflare account.
 
 Pushing to `main` then validates, tests, builds, applies D1 migrations and publishes.
 
+## Nightly refresh
+
+[deploy.yml](../.github/workflows/deploy.yml) also runs every night at 03:23 UTC. It refreshes
+`data/trending.json` from Hardcover (secret `HARDCOVER_TOKEN`), rebuilds and redeploys, so the
+"Trending now" shelf stays current without a commit. If the API is down, the committed snapshot is
+used.
+
 ## Newsletter sign-up
 
 The footer and home-page forms post to `/api/subscribe`

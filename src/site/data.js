@@ -32,6 +32,9 @@ export function loadData(root) {
     books: readDir(join(data, 'books')).map(({ name, value }) => ({ ...value, _file: name })),
     schema: readJson(join(data, 'schema', 'book.schema.json')),
     offers: loadOffers(join(data, 'offers')),
+    trending: existsSync(join(data, 'trending.json'))
+      ? readJson(join(data, 'trending.json'))
+      : null,
     issues: existsSync(join(data, 'newsletter'))
       ? readDir(join(data, 'newsletter')).map(({ name, value }) => ({ ...value, _file: name }))
       : [],
