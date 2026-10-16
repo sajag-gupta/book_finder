@@ -1,0 +1,45 @@
+{
+  "slug": "the-corrections",
+  "title": "The Corrections",
+  "author": "Jonathan Franzen",
+  "isbn13": "9780374919221",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["witty", "melancholic", "thoughtful"],
+  "tropes": ["family-saga", "satire"],
+  "warnings": ["mental-illness", "infidelity"],
+  "summary": "An ageing couple in the American Midwest hope to gather their three grown children for one last Christmas at home. Each child is dealing with a private mess, and the father's health is failing.",
+  "readIf": "you like long, sharp family comedies that find the tragedy in everyday disappointments.",
+  "skipIf": "you want sympathetic characters, since almost everyone here is difficult.",
+  "pairings": [
+    {
+      "slug": "the-world-according-to-garp",
+      "reason": "Another big, comic and tragic American family novel with a streak of satire.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "little-fires-everywhere",
+      "reason": "A tighter, more accessible look at suburban families and their buried tensions.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "demon-copperhead",
+      "reason": "Offers a very different American family portrait, working-class and far more heart-on-sleeve.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780374919221",
+    "https://en.wikipedia.org/wiki/The_Corrections",
+    "https://hardcover.app/books/the-corrections"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

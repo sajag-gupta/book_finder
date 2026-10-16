@@ -1,0 +1,45 @@
+{
+  "slug": "cloud-cuckoo-land",
+  "title": "Cloud Cuckoo Land",
+  "author": "Anthony Doerr",
+  "isbn13": "9780008478674",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["literary", "science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["hopeful", "thoughtful", "whimsical"],
+  "tropes": ["dual-timeline", "book-within-a-book"],
+  "warnings": ["war", "death"],
+  "summary": "Stories set in fifteenth-century Constantinople, a present-day Idaho library and a future spaceship are linked by an ancient Greek tale of a shepherd who wants to reach a city in the clouds. Each hinges on a book.",
+  "readIf": "you like big, interwoven historical and speculative stories that celebrate libraries and reading.",
+  "skipIf": "you dislike jumping between many timelines, because it takes a while for the threads to meet.",
+  "pairings": [
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "reason": "The same author's earlier, very tender novel of intertwined lives during war.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cloud-atlas",
+      "reason": "Another book of linked stories across different eras, with sharper formal games.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-starless-sea",
+      "reason": "A more dreamlike and fantastical celebration of stories and the places that keep them.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008478674",
+    "https://en.wikipedia.org/wiki/Cloud_Cuckoo_Land_(novel)",
+    "https://hardcover.app/books/cloud-cuckoo-land"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

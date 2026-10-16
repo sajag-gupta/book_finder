@@ -1,0 +1,44 @@
+{
+  "slug": "a-court-of-silver-flames",
+  "title": "A Court of Silver Flames",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781681196282",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "hopeful", "dark"],
+  "tropes": ["enemies-to-lovers", "slow-burn", "found-family", "fae"],
+  "warnings": ["sexual-content", "violence", "mental-illness"],
+  "summary": "After the war, a battered young woman in the series' Night Court tries to find a sense of purpose through training. She is paired with a grim, aloof warrior, and the book follows both of them as they confront old damage.",
+  "readIf": "you want a steamy, character-focused entry that follows trauma, training and a slow-building romance.",
+  "skipIf": "you want the high-stakes plot of the earlier books, or are bothered by very explicit scenes.",
+  "pairings": [
+    {
+      "slug": "a-court-of-wings-and-ruin",
+      "reason": "The book that comes before it, with more political drama and the larger war storyline.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "Another romantasy with a training setting, a hard-edged hero and a lot of physical danger.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "house-of-earth-and-blood",
+      "reason": "The same author in a modern-meets-fantasy world with a wounded heroine and a slow-burn romance.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781681196282",
+    "https://hardcover.app/books/a-court-of-silver-flames"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

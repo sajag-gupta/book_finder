@@ -1,0 +1,45 @@
+{
+  "slug": "the-black-echo",
+  "title": "The Black Echo",
+  "author": "Michael Connelly",
+  "isbn13": "9781596000971",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "thoughtful"],
+  "tropes": ["detective"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A Los Angeles homicide detective with a Vietnam past is called to a body found in a drainage pipe, apparently another drug overdose. He recognises the dead man from the tunnels of the war, and a larger case opens up.",
+  "readIf": "you like gritty, grounded police stories with a stubborn detective who refuses to let a case go.",
+  "skipIf": "you want fast action throughout, because this is a careful procedural first and a thriller second.",
+  "pairings": [
+    {
+      "slug": "the-big-sleep",
+      "reason": "The classic Los Angeles private-eye novel that this modern detective ultimately descends from.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "killing-floor",
+      "reason": "A brisker, more physical thriller with a loner hero and a corrupt small-town case.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A calmer, more character-driven detective story with a haunted lead.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781596000971",
+    "https://en.wikipedia.org/wiki/The_Black_Echo",
+    "https://hardcover.app/books/the-black-echo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

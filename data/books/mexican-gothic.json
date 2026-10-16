@@ -1,0 +1,45 @@
+{
+  "slug": "mexican-gothic",
+  "title": "Mexican Gothic",
+  "author": "Silvia Moreno-Garcia",
+  "isbn13": "9781529402674",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["horror", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["spooky", "dark", "haunting"],
+  "tropes": ["haunted-house"],
+  "warnings": ["violence", "death", "manipulation", "racism"],
+  "summary": "In 1950, a Mexico City socialite travels to a remote mountain house after her newly married cousin sends an alarming letter. The decaying mansion and its strange family are not what they first appear.",
+  "readIf": "you like gothic horror with a sharp, stylish heroine and an unsettling old house.",
+  "skipIf": "you dislike body horror or a slow reveal of what is wrong.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "The classic haunted-house story that this one draws on, quieter and more ambiguous.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "A gothic about a young woman in an unwelcoming family estate, with the mystery of a former wife.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-historian",
+      "reason": "Another atmospheric novel that mixes old family secrets with something unnatural.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529402674",
+    "https://en.wikipedia.org/wiki/Mexican_Gothic",
+    "https://hardcover.app/books/mexican-gothic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-midnight-library",
+  "title": "The Midnight Library",
+  "author": "Matt Haig",
+  "isbn13": "9780655697077",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["literary", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["hopeful", "thoughtful", "comforting"],
+  "tropes": ["second-chance"],
+  "warnings": ["suicide", "mental-illness", "grief"],
+  "summary": "After a night of despair, Nora Seed finds herself in a library between life and death. Each book on its shelves is a different life she might have had, and she can try them one by one.",
+  "readIf": "you want a warm, easy-to-read story about regret, choices and finding a reason to stay.",
+  "skipIf": "you are sensitive to stories that begin with a suicide attempt, or want a rigorous take on parallel worlds.",
+  "pairings": [
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another warm novel about a man or woman on the edge who finds reasons to continue.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-invisible-life-of-addie-larue",
+      "reason": "A darker, more romantic fantasy about what it means to live many lives and be remembered.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "anxious-people",
+      "reason": "A comic, tender novel that finds hope among people who feel they are failing.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780655697077",
+    "https://en.wikipedia.org/wiki/The_Midnight_Library",
+    "https://hardcover.app/books/the-midnight-library"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

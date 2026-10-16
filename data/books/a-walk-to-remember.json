@@ -1,0 +1,45 @@
+{
+  "slug": "a-walk-to-remember",
+  "title": "A Walk to Remember",
+  "author": "Nicholas Sparks",
+  "isbn13": "9780446920063",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "hopeful", "nostalgic"],
+  "tropes": ["star-crossed-lovers", "coming-of-age", "unlikely-friendship"],
+  "warnings": ["terminal-illness", "death", "grief", "bullying"],
+  "summary": "In a small North Carolina town, a popular senior is made to join the drama club and tutor the minister's quiet, serious daughter. Over a school year he finds that she is nothing like the girl he assumed, and that her life is fragile.",
+  "readIf": "you want a short, tearful teenage love story with faith and kindness at its centre.",
+  "skipIf": "you want a plot with surprises, or you would rather avoid a story that heads toward loss.",
+  "pairings": [
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "Another teenage love story shaped by illness, sharper and funnier but just as emotional.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-notebook",
+      "reason": "Same author and mood, a warmer and more nostalgic tear-jerker about an older couple.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A quieter teenage romance between two outsiders that is more bittersweet than tragic.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780446920063",
+    "https://en.wikipedia.org/wiki/A_Walk_to_Remember",
+    "https://hardcover.app/books/a-walk-to-remember-1999"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

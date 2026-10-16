@@ -1,0 +1,45 @@
+{
+  "slug": "tress-of-the-emerald-sea",
+  "title": "Tress of the Emerald Sea",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781250899651",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["cozy-fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "hopeful", "cozy"],
+  "tropes": ["quest", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "A teenage girl from a tiny island sails across a sea of dangerous spores to rescue the boy she loves from a powerful sorceress. She signs on to a pirate crew and learns that she can be braver than she believes.",
+  "readIf": "you want a funny, warm, storybook adventure with a kind heroine and a wry narrator.",
+  "skipIf": "you want Sanderson's long, intricate epics, since this is a lighter, more whimsical standalone.",
+  "pairings": [
+    {
+      "slug": "the-princess-bride",
+      "reason": "The same mix of fairy-tale adventure, comic narration and sincere romance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "stardust",
+      "reason": "A grown-up fairy tale about a quest across a magical border for the sake of love.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Set in the same wider universe but a vast, serious epic, for readers who want to go deeper.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250899651",
+    "https://en.wikipedia.org/wiki/Tress_of_the_Emerald_Sea",
+    "https://hardcover.app/books/tress-of-the-emerald-sea"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "anna-and-the-french-kiss",
+  "title": "Anna and the French Kiss",
+  "author": "Stephanie Perkins",
+  "isbn13": "9780307968500",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful"],
+  "tropes": ["friends-to-lovers", "slow-burn", "coming-of-age"],
+  "warnings": ["grief"],
+  "summary": "A reluctant American teenager is sent to a boarding school in Paris for her last year of high school. She falls hard for a charming, taken classmate who has become her closest friend.",
+  "readIf": "you want a sweet, tension-filled teen romance set in a vividly imagined Paris.",
+  "skipIf": "you dislike the push and pull of unresolved feelings and a long wait for the pair to get together.",
+  "pairings": [
+    {
+      "slug": "to-all-the-boys-ive-loved-before",
+      "reason": "Another charming, warm young adult romance with a likeable and self-doubting heroine.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A more bittersweet teen love story that deals with harder family circumstances.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "A grown-up friends-to-lovers story that follows a similar yearning built over many shared trips.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307968500",
+    "https://en.wikipedia.org/wiki/Anna_and_the_French_Kiss",
+    "https://hardcover.app/books/anna-and-the-french-kiss"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

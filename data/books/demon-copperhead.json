@@ -1,0 +1,45 @@
+{
+  "slug": "demon-copperhead",
+  "title": "Demon Copperhead",
+  "author": "Barbara Kingsolver",
+  "isbn13": "9780571376490",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "hopeful", "witty"],
+  "tropes": ["coming-of-age", "survival"],
+  "warnings": ["addiction", "abuse", "domestic-violence", "death", "grief"],
+  "summary": "A boy born in a trailer in Appalachian Virginia tells his own story. Foster homes, football, drugs and a failing community shape his rough road to adulthood.",
+  "readIf": "you like a big, bruised, funny narrator and want to read about the opioid crisis from the inside.",
+  "skipIf": "you cannot face a book where children are neglected and mistreated, or a long run of hard luck.",
+  "pairings": [
+    {
+      "slug": "david-copperfield",
+      "reason": "The Dickens novel this one is openly modelled on, so you can enjoy spotting how each event is reborn.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "Another American novel of poverty and dignity, with a similarly strong sense of anger on the characters' behalf.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "where-the-crawdads-sing",
+      "reason": "Also follows a neglected child who grows up on the margins, though with a gentler and more romantic touch.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571376490",
+    "https://en.wikipedia.org/wiki/Demon_Copperhead",
+    "https://hardcover.app/books/demon-copperhead"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

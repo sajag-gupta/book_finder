@@ -1,0 +1,45 @@
+{
+  "slug": "children-of-blood-and-bone",
+  "title": "Children of Blood and Bone",
+  "author": "Tomi Adeyemi",
+  "isbn13": "9781536453560",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense", "inspiring"],
+  "tropes": ["quest", "rebellion", "chosen-one", "royalty"],
+  "warnings": ["violence", "death", "prejudice", "torture"],
+  "summary": "In a West African-inspired kingdom, magic was wiped out by a brutal king, and those with the potential to wield it are persecuted. A young woman whose mother was killed races to bring magic back with the help of a runaway princess and her brother.",
+  "readIf": "you want an energetic, high-stakes young-adult fantasy about oppression and rebellion.",
+  "skipIf": "you want a gentle story, as the book has a lot of fight scenes and shifting points of view.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another story where a young person's anger at an unjust regime turns into a movement.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A fast, brutal story of rebellion against a rigid caste system, for an older audience.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "Another young-adult fantasy of resistance under an oppressive empire, with alternating narrators.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781536453560",
+    "https://en.wikipedia.org/wiki/Children_of_Blood_and_Bone",
+    "https://hardcover.app/books/children-of-blood-and-bone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

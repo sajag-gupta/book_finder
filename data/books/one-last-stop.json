@@ -1,0 +1,45 @@
+{
+  "slug": "one-last-stop",
+  "title": "One Last Stop",
+  "author": "Casey McQuiston",
+  "isbn13": "9781250803177",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "whimsical", "hopeful"],
+  "tropes": ["time-travel", "found-family", "slow-burn"],
+  "warnings": ["homophobia"],
+  "summary": "August, a jaded new New Yorker, keeps seeing the same charming woman on the Q train and soon finds that Jane is out of her own time, stuck on that line since the 1970s. She sets out to free her.",
+  "readIf": "you want a sweet queer romance with a magical hook and a close-knit found family.",
+  "skipIf": "you dislike time-travel logic that stays loose or want heavy plot over relationships.",
+  "pairings": [
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Another warm, funny queer romance by the same author with a big-hearted cast.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "Another love story shaped by time, with a more bittersweet tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "Another gentle, queer-friendly story about finding family and belonging.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250803177",
+    "https://en.wikipedia.org/wiki/One_Last_Stop",
+    "https://hardcover.app/books/one-last-stop"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

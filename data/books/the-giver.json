@@ -1,0 +1,45 @@
+{
+  "slug": "the-giver",
+  "title": "The Giver",
+  "author": "Lois Lowry",
+  "isbn13": "9780606069908",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "haunting", "hopeful"],
+  "tropes": ["dystopian-regime", "coming-of-age", "rebellion"],
+  "warnings": ["death", "child-death"],
+  "summary": "In a seemingly perfect community where everything is controlled, twelve-year-old Jonas is chosen to carry the society's memories of the past from an old man, and begins to see what has been given up.",
+  "readIf": "you want a short, thought-provoking dystopia that works well for younger or newer readers.",
+  "skipIf": "you want detailed worldbuilding or an action-heavy ending; the story is quiet and ambiguous.",
+  "pairings": [
+    {
+      "slug": "fahrenheit-451",
+      "reason": "Another short dystopia that questions what society gives up for comfort and safety.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "never-let-me-go",
+      "reason": "A quiet, devastating novel about a strange, closed society and the lives inside it.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A faster, more violent young adult dystopia with similar questions about control.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 12,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606069908",
+    "https://en.wikipedia.org/wiki/The_Giver",
+    "https://hardcover.app/books/the-giver"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

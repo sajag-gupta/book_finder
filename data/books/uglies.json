@@ -1,0 +1,40 @@
+{
+  "slug": "uglies",
+  "title": "Uglies",
+  "author": "Scott Westerfeld",
+  "isbn13": "9781484484449",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "thoughtful", "tense"],
+  "tropes": ["dystopian-regime", "rebellion", "coming-of-age"],
+  "warnings": ["manipulation"],
+  "summary": "In a future where everyone is given a perfect new face at sixteen, a girl counting the days until her operation is pushed to betray her best friend's escape. She is sent after a hidden community that rejects the surgery.",
+  "readIf": "you like easy, quick young-adult dystopias that ask what beauty standards do to people.",
+  "skipIf": "you want a layered or subtle story, since the message is clear and the world fairly light.",
+  "pairings": [
+    {
+      "slug": "the-giver",
+      "reason": "A quieter, older young-adult dystopia about a society that smooths away pain at a hidden cost.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "scythe",
+      "reason": "A darker, more morally complicated young-adult story set in a perfect-looking future.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484484449",
+    "https://en.wikipedia.org/wiki/Uglies",
+    "https://hardcover.app/books/uglies"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

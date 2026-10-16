@@ -1,0 +1,45 @@
+{
+  "slug": "the-subtle-knife",
+  "title": "The Subtle Knife",
+  "author": "Philip Pullman",
+  "isbn13": "9780965668354",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "mysterious"],
+  "tropes": ["portal-fantasy", "quest"],
+  "warnings": ["violence", "death"],
+  "summary": "A boy hiding from the law in our world crosses into a strange abandoned city, where he meets Lyra. Together they come to guard a blade that can cut openings between worlds.",
+  "readIf": "you have read The Golden Compass and want the story to widen into other universes.",
+  "skipIf": "you want to start the series here; it assumes everything from the first book.",
+  "pairings": [
+    {
+      "slug": "the-amber-spyglass",
+      "reason": "The finale, which carries these ideas to a much grander and emotional conclusion.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "Another thoughtful fantasy about power, balance and the cost of using magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lightning-thief",
+      "reason": "A much lighter and funnier fantasy with an equally quick pace and young heroes.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780965668354",
+    "https://en.wikipedia.org/wiki/The_Subtle_Knife",
+    "https://hardcover.app/books/the-subtle-knife"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

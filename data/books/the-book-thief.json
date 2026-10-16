@@ -1,0 +1,45 @@
+{
+  "slug": "the-book-thief",
+  "title": "The Book Thief",
+  "author": "Markus Zusak",
+  "isbn13": "9780385611466",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["young-adult", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "hopeful", "haunting"],
+  "tropes": ["war-story", "found-family", "coming-of-age"],
+  "warnings": ["war", "death", "genocide", "grief", "child-death"],
+  "summary": "Narrated by Death, this novel follows Liesel, a girl placed with foster parents in Nazi Germany, who steals books and learns to read as her family hides a Jewish man in the basement.",
+  "readIf": "you want a moving, unusual Second World War story built around the love of books.",
+  "skipIf": "you can't take a narrator who foreshadows deaths, or a sad ending.",
+  "pairings": [
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "reason": "Another war story about a child's life in occupied Europe, written in short, lyrical chapters.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-boy-in-the-striped-pyjamas",
+      "reason": "A shorter, simpler story of children in wartime Germany, with a harsher ending.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-nightingale",
+      "reason": "Another emotional Second World War novel, centred on sisters in France.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 16,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385611466",
+    "https://en.wikipedia.org/wiki/The_Book_Thief",
+    "https://hardcover.app/books/the-book-thief"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

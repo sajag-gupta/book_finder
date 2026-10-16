@@ -1,0 +1,44 @@
+{
+  "slug": "dragons-of-autumn-twilight",
+  "title": "Dragons of Autumn Twilight",
+  "author": "Margaret Weis and Tracy Hickman",
+  "isbn13": "9781439572412",
+  "firstPublished": 1984,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "nostalgic", "epic"],
+  "tropes": ["quest", "dragons", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "A group of old friends reunites in a tavern after years apart and finds that the old gods are said to be gone, but dragons are back. They set out to find proof and are soon pursued.",
+  "readIf": "you like a classic party-of-adventurers fantasy with a fun, varied cast and lots of banter.",
+  "skipIf": "you want literary prose; the style is straightforward and the villains are quite plain.",
+  "pairings": [
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "reason": "The model for a fellowship on a road, with more depth in its history and landscape.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A lighter, shorter quest with a similar cosy, adventurous spirit.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "eragon",
+      "reason": "Another dragon-flavoured fantasy for readers who want a young-adult take on quests and bonds.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781439572412",
+    "https://en.wikipedia.org/wiki/Dragons_of_Autumn_Twilight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "wolf-hall",
+  "title": "Wolf Hall",
+  "author": "Hilary Mantel",
+  "isbn13": "9780008749552",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "tense", "dark"],
+  "tropes": ["political-intrigue", "rags-to-riches", "royalty"],
+  "warnings": ["violence", "death"],
+  "summary": "Thomas Cromwell, a blacksmith's son, rises through the court of Henry VIII as the king tries to put aside one wife for another. The story is told in a close present tense, from inside Cromwell's watchful head.",
+  "readIf": "you like dense, intelligent historical fiction where power moves quietly across a table.",
+  "skipIf": "you want clear pronouns and a fast plot; it asks you to keep up with a large cast.",
+  "pairings": [
+    {
+      "slug": "the-other-boleyn-girl",
+      "reason": "Tells much the same court story from the Boleyn sisters' side, in a more romantic and fast-paced style.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-pillars-of-the-earth",
+      "reason": "A big, absorbing historical novel about ambition and the powerful, set in an earlier England.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "Another intellectual historical novel that mixes politics, religion and puzzles.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008749552",
+    "https://en.wikipedia.org/wiki/Wolf_Hall",
+    "https://hardcover.app/books/wolf-hall"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

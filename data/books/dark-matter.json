@@ -1,0 +1,40 @@
+{
+  "slug": "dark-matter",
+  "title": "Dark Matter",
+  "author": "Blake Crouch",
+  "isbn13": "9781447297567",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mind-bending", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["violence", "kidnapping", "death"],
+  "summary": "A Chicago physics professor is taken at gunpoint one evening and wakes up in a life that is eerily different from his own. He must find a way back to his wife and son through a maze of alternate versions of himself.",
+  "readIf": "you want a page-turner with parallel worlds, a ticking clock and a love story at its heart.",
+  "skipIf": "you want detailed, rigorous science, as the story favours speed and twists over exact explanation.",
+  "pairings": [
+    {
+      "slug": "recursion",
+      "reason": "The same author, with a similar mix of a science idea and a race against time.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A softer take on what a different life might have looked like, with more reflection and less danger.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781447297567",
+    "https://en.wikipedia.org/wiki/Dark_Matter_(Crouch_novel)",
+    "https://hardcover.app/books/dark-matter"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

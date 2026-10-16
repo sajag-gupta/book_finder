@@ -1,0 +1,45 @@
+{
+  "slug": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "isbn13": "9781987955361",
+  "firstPublished": 1880,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "dark", "epic"],
+  "tropes": ["family-saga"],
+  "warnings": ["death", "violence", "child-abuse"],
+  "summary": "Three very different brothers, a sensualist, an intellectual and a novice monk, are tied to their bullying father. When he is murdered, one of them is put on trial and the novel wrestles with faith and doubt.",
+  "readIf": "you want a monumental novel of ideas that is also a family drama and a murder mystery.",
+  "skipIf": "you want short or light reading, because it asks a lot of your time and attention.",
+  "pairings": [
+    {
+      "slug": "crime-and-punishment",
+      "reason": "A tighter, more focused novel by the same author, built around one man's mind.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "east-of-eden",
+      "reason": "Another sweeping family novel built on a story of brothers and the question of free will.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "war-and-peace",
+      "reason": "Another giant Russian novel, with a broader view of society and history.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781987955361",
+    "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+    "https://hardcover.app/books/the-brothers-karamazov"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

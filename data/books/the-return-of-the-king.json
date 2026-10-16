@@ -1,0 +1,44 @@
+{
+  "slug": "the-return-of-the-king",
+  "title": "The Return of the King",
+  "author": "J. R. R. Tolkien",
+  "isbn13": "9781705047620",
+  "firstPublished": 1955,
+  "series": null,
+  "genres": ["epic-fantasy", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "hopeful"],
+  "tropes": ["quest", "war-story", "redemption", "royalty"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The final volume of the trilogy follows the great battle for the free peoples' last stronghold while two hobbits push on toward the Mountain of Fire. A good deal of the book is devoted to what comes after.",
+  "readIf": "you want a grand, emotional conclusion and a long, quiet farewell to the world.",
+  "skipIf": "you haven't read the first two parts, or you dislike lengthy endings and appendices.",
+  "pairings": [
+    {
+      "slug": "the-two-towers",
+      "reason": "The previous volume, if you want to rejoin the story where it darkens.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-silmarillion",
+      "reason": "The deep, mythic history behind the whole world for readers who want more of its origins.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "harry-potter-and-the-deathly-hallows",
+      "reason": "Another long-awaited final installment where a quest, a war and personal sacrifice come together.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781705047620",
+    "https://en.wikipedia.org/wiki/The_Return_of_the_King"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

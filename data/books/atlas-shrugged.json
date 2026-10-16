@@ -1,0 +1,45 @@
+{
+  "slug": "atlas-shrugged",
+  "title": "Atlas Shrugged",
+  "author": "Ayn Rand",
+  "isbn13": "9781804221198",
+  "firstPublished": 1957,
+  "series": null,
+  "genres": ["classic", "dystopian"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "tense", "epic"],
+  "tropes": ["dystopian-regime"],
+  "warnings": ["death"],
+  "summary": "As government rules choke American industry, the country's most capable producers begin vanishing one by one. A railroad executive fights to keep her family's company running while trying to understand why.",
+  "readIf": "you want a huge, argumentative novel that mixes industry, romance and mystery in the service of one philosophy.",
+  "skipIf": "you dislike long speeches and one-sided characters, since the book is over a thousand pages.",
+  "pairings": [
+    {
+      "slug": "the-fountainhead",
+      "reason": "The author's earlier novel and the more focused, character-driven account of her ideas.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "A short, classic dystopia about state power from the opposite political direction.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "animal-farm",
+      "reason": "A brief, sharp fable that makes its political point much faster and from a very different outlook.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781804221198",
+    "https://en.wikipedia.org/wiki/Atlas_Shrugged",
+    "https://hardcover.app/books/atlas-shrugged"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

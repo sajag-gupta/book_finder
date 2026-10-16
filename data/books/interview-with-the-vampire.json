@@ -1,0 +1,44 @@
+{
+  "slug": "interview-with-the-vampire",
+  "title": "Interview with the Vampire",
+  "author": "Anne Rice",
+  "isbn13": "9780345298829",
+  "firstPublished": 1976,
+  "series": null,
+  "genres": ["horror", "fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "melancholic", "haunting"],
+  "tropes": ["vampires", "morally-grey"],
+  "warnings": ["death", "violence", "grief"],
+  "summary": "In a San Francisco room, a vampire tells a young reporter the story of his life. He describes being turned in eighteenth-century Louisiana, and the troubled bond with his maker and a child he helped create.",
+  "readIf": "you like lush, melancholy gothic fiction that treats immortality as a burden.",
+  "skipIf": "you want a fast plot, because this is mostly mood and conversation.",
+  "pairings": [
+    {
+      "slug": "dracula",
+      "reason": "The original that this book reinvents, with the monster as a source of fear rather than sorrow.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "salems-lot",
+      "reason": "A more traditional, frightening vampire story set in a small town.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-picture-of-dorian-gray",
+      "reason": "Another elegant story about beauty, hunger and a long life lived without conscience.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345298829",
+    "https://en.wikipedia.org/wiki/Interview_with_the_Vampire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

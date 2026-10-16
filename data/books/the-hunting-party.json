@@ -1,0 +1,44 @@
+{
+  "slug": "the-hunting-party",
+  "title": "The Hunting Party",
+  "author": "Lucy Foley",
+  "isbn13": "9780062868909",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["mystery", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["whodunit", "locked-room", "forced-proximity"],
+  "warnings": ["death"],
+  "summary": "A group of old university friends gathers at a remote Scottish lodge to see in the New Year. A blizzard cuts them off, and by morning one of them is dead and the rest are suspects.",
+  "readIf": "you like a snowed-in whodunit with a group of friends whose past is turning ugly.",
+  "skipIf": "you dislike unlikeable characters, because almost everyone here is a bit awful.",
+  "pairings": [
+    {
+      "slug": "the-guest-list",
+      "reason": "The author's other country-house thriller, with another storm and another party gone wrong.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The classic that started the isolated-group-and-killer structure, still the sharpest of them all.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "in-a-dark-dark-wood",
+      "reason": "A shorter story of a remote house, a group of old friends and an unfolding crime.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062868909",
+    "https://hardcover.app/books/the-hunting-party"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

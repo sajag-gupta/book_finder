@@ -19,8 +19,10 @@ import { format } from 'prettier';
 import { loadData } from '../src/site/data.js';
 import {
   applyApproval,
+  applyChecked,
   compareFacts,
   hasFailures,
+  pickHardcover,
   pickWikiPage,
   sourceUrls,
 } from '../src/review/checks.js';
@@ -34,11 +36,24 @@ if (!OL_CONTACT) {
 const headers = { 'User-Agent': `BookFinder/0.1 (${OL_CONTACT})` };
 
 function parseArgs(argv) {
-  const args = { slugs: [], approve: false, reviewer: '', acceptWarnings: false };
+  const args = {
+    slugs: [],
+    approve: false,
+    markChecked: false,
+    reviewer: '',
+    acceptWarnings: false,
+  };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--approve') args.approve = true;
-    else if (a === '--accept-warnings') args.acceptWarnings = true;
+    else if (a === '--mark-checked') args.markChecked = true;
+    else if (a === '--shard') {
+      // "--shard 2/4": handle every 4th draft starting at the 2nd, so several processes can share
+      // the work while each stays under Open Library's request limit.
+      const [index, count] = (argv[++i] ?? '').split('/').map(Number);
+      if (!(index >= 1 && index <= count)) throw new Error('--shard needs i/n, for example 2/4');
+      args.shard = { index: index - 1, count };
+    } else if (a === '--accept-warnings') args.acceptWarnings = true;
     else if (a === '--reviewer') args.reviewer = argv[++i] ?? '';
     else if (a.startsWith('--')) throw new Error(`Unknown option ${a}`);
     else args.slugs.push(a);
@@ -47,9 +62,18 @@ function parseArgs(argv) {
 }
 
 const getJson = async (url) => {
-  const response = await fetch(url, { headers });
-  await sleep(350); // stay well inside Open Library's 3 requests/second
-  return response.ok ? response.json() : null;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const response = await fetch(url, { headers });
+      await sleep(350); // stay well inside Open Library's 3 requests/second
+      if (response.ok) return await response.json();
+      if (response.status !== 429 && response.status < 500) return null;
+    } catch {
+      // network hiccup: retry
+    }
+    await sleep(1500 * (attempt + 1));
+  }
+  return null;
 };
 const enc = encodeURIComponent;
 
@@ -83,7 +107,35 @@ async function fetchPublicData(book) {
     extract: page.extract,
     url: `https://en.wikipedia.org/wiki/${enc(page.title.replace(/ /g, '_')).replace(/%28/g, '(').replace(/%29/g, ')')}`,
   };
-  return { edition, work, wiki };
+  return { edition, work, wiki, hc: await fetchHardcover(book) };
+}
+
+/** Hardcover is a third, independent book database. Skipped quietly when no token is set. */
+async function fetchHardcover(book) {
+  const token = process.env.HARDCOVER_TOKEN;
+  if (!token) return undefined;
+  try {
+    const response = await fetch('https://api.hardcover.app/v1/graphql', {
+      method: 'POST',
+      headers: {
+        Authorization: /^bearer /i.test(token) ? token : `Bearer ${token}`,
+        'Content-Type': 'application/json',
+        'User-Agent': headers['User-Agent'],
+      },
+      body: JSON.stringify({
+        query: `{ search(query: ${JSON.stringify(`${book.title} ${book.author}`)}, query_type: "Book", per_page: 5, page: 1) { results } }`,
+      }),
+    });
+    await sleep(700); // Hardcover's API is rate limited to about 60 requests a minute
+    if (!response.ok) return undefined;
+    const hits = (await response.json())?.data?.search?.results?.hits ?? [];
+    return pickHardcover(
+      book,
+      hits.map((h) => h.document),
+    );
+  } catch {
+    return undefined;
+  }
 }
 
 const ICON = { ok: 'PASS', warn: 'WARN', fail: 'FAIL' };
@@ -132,7 +184,7 @@ async function writeBook(book) {
 
 const args = parseArgs(process.argv.slice(2));
 const all = loadData(root).books;
-const targets = args.slugs.length
+const selected = args.slugs.length
   ? args.slugs.map(
       (slug) =>
         all.find((b) => b.slug === slug) ??
@@ -141,6 +193,9 @@ const targets = args.slugs.length
         })(),
     )
   : all.filter((b) => b.status === 'draft');
+const targets = args.shard
+  ? selected.filter((_, i) => i % args.shard.count === args.shard.index)
+  : selected;
 
 if (args.approve && (!args.slugs.length || !args.reviewer.trim())) {
   console.error(
@@ -157,6 +212,7 @@ const report = [
 ];
 let blocked = 0;
 let approved = 0;
+let checked = 0;
 for (const book of targets) {
   const found = await fetchPublicData(book);
   const findings = compareFacts(book, found);
@@ -188,11 +244,25 @@ for (const book of targets) {
       blocked++;
       console.log(`        NOT approved: ${error.message}`);
     }
+  } else if (args.markChecked) {
+    // Automated tier: facts verified against two sources, text not read by a person. Books that
+    // fail (or lack a second source) simply stay drafts and are left out of production builds.
+    try {
+      const date = new Date().toISOString().slice(0, 10);
+      await writeBook(applyChecked(book, { sources, date, findings }));
+      checked++;
+    } catch (error) {
+      blocked++;
+      console.log(`        stays draft: ${error.message}`);
+    }
   }
 }
 
-mkdirSync(join(root, '.review'), { recursive: true });
-writeFileSync(join(root, '.review', 'report.md'), report.join('\n'));
-console.log(`\nReport: .review/report.md`);
+if (!args.markChecked) {
+  mkdirSync(join(root, '.review'), { recursive: true });
+  writeFileSync(join(root, '.review', 'report.md'), report.join('\n'));
+  console.log(`\nReport: .review/report.md`);
+}
 if (args.approve) console.log(`${approved} approved, ${blocked} not approved.`);
-process.exit(blocked ? 1 : 0);
+if (args.markChecked) console.log(`${checked} marked checked, ${blocked} left as draft.`);
+process.exit(blocked && args.approve ? 1 : 0);

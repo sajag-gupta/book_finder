@@ -1,0 +1,40 @@
+{
+  "slug": "red-dragon",
+  "title": "Red Dragon",
+  "author": "Thomas Harris",
+  "isbn13": "9780440206156",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["thriller", "horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["serial-killer", "detective"],
+  "warnings": ["violence", "gore", "death", "child-death"],
+  "summary": "A retired FBI profiler is pulled back to hunt a killer who strikes at each full moon and targets whole families. He turns to the imprisoned Hannibal Lecter for help, which comes at a price.",
+  "readIf": "you like psychological crime novels that put you inside both the hunter's and the killer's mind.",
+  "skipIf": "you are sensitive to depictions of families being murdered, which are central to the plot.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "The follow-up that made Lecter famous, with a sharper, more focused tone and a younger investigator.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-snowman",
+      "reason": "A cold, atmospheric Scandinavian hunt for a killer with a signature, a little bleaker still.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780440206156",
+    "https://en.wikipedia.org/wiki/Red_Dragon_(2002_film)",
+    "https://hardcover.app/books/red-dragon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

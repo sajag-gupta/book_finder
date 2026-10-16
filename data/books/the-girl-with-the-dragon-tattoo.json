@@ -1,0 +1,44 @@
+{
+  "slug": "the-girl-with-the-dragon-tattoo",
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "isbn13": "9780307949486",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["thriller", "crime"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["detective", "serial-killer", "whodunit"],
+  "warnings": ["sexual-assault", "violence", "torture", "abuse", "death"],
+  "summary": "A disgraced journalist is hired to look into the decades-old disappearance of a girl from a wealthy Swedish family, and teams up with a prickly, brilliant hacker named Lisbeth Salander.",
+  "readIf": "you like a cold, atmospheric Scandinavian mystery with a standout heroine.",
+  "skipIf": "you can't read graphic scenes of sexual violence.",
+  "pairings": [
+    {
+      "slug": "the-girl-who-played-with-fire",
+      "reason": "The direct sequel, where Lisbeth's own past takes centre stage.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A long, classic-feeling detective story with less brutality and a sharp pair of leads.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "sharp-objects",
+      "reason": "Another dark, bleak mystery of small-town secrets, with a damaged protagonist.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 30,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307949486",
+    "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

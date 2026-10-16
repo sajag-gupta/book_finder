@@ -1,0 +1,45 @@
+{
+  "slug": "little-women",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "isbn13": "9780140300765",
+  "firstPublished": 1868,
+  "series": null,
+  "genres": ["classic", "young-adult"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["cozy", "nostalgic", "comforting"],
+  "tropes": ["coming-of-age", "family-saga"],
+  "warnings": ["death", "grief", "terminal-illness"],
+  "summary": "Four sisters grow up in New England while their father is away at war and money is tight. Jo, the bookish and fiery second sister, dreams of becoming a writer.",
+  "readIf": "you want a warm, old-fashioned family story that you can curl up with.",
+  "skipIf": "you dislike sentimental or moralising passages, which this book has in places.",
+  "pairings": [
+    {
+      "slug": "anne-of-green-gables",
+      "reason": "Another classic about a spirited, imaginative girl growing up and finding her voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "A witty classic about sisters, marriage and money, with a sharper edge.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-garden",
+      "reason": "A comforting classic about children growing stronger in a home that is slowly healing.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140300765",
+    "https://en.wikipedia.org/wiki/Little_Women",
+    "https://hardcover.app/books/little-women"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

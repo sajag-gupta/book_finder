@@ -1,0 +1,45 @@
+{
+  "slug": "the-magicians",
+  "title": "The Magicians",
+  "author": "Lev Grossman",
+  "isbn13": "9781410422545",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "witty", "melancholic"],
+  "tropes": ["magic-school", "portal-fantasy", "coming-of-age"],
+  "warnings": ["addiction", "mental-illness", "sexual-content", "violence", "death"],
+  "summary": "A clever, unhappy Brooklyn teenager is admitted to a secret college of magic and discovers that his childhood favourite fantasy books describe a real world. Magic does not turn out to be a cure for being miserable.",
+  "readIf": "you grew up on Narnia and Hogwarts and want a sharp, cynical, adult take on what comes next.",
+  "skipIf": "you want warm, wish-fulfilment magic, since the lead is often unlikeable and the tone turns bleak.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "reason": "The cosy, wide-eyed version of the magic school this book deliberately pokes at.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A close circle of brilliant, self-absorbed students whose private world slowly turns toxic.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "The original wardrobe-to-another-world story that Fillory is a knowing echo of.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781410422545",
+    "https://en.wikipedia.org/wiki/The_Magicians_(Grossman_novel)",
+    "https://hardcover.app/books/the-magicians"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

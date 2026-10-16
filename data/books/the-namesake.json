@@ -1,0 +1,45 @@
+{
+  "slug": "the-namesake",
+  "title": "The Namesake",
+  "author": "Jhumpa Lahiri",
+  "isbn13": "9780618485222",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "melancholic", "nostalgic"],
+  "tropes": ["coming-of-age", "family-saga"],
+  "warnings": ["death", "grief", "infidelity"],
+  "summary": "A Bengali couple move to Massachusetts, and their son grows up with an unusual name he does not like. His long effort to decide who he is takes him between two cultures.",
+  "readIf": "you like gentle, observant family novels about identity and the weight of what parents pass on.",
+  "skipIf": "you want much plot, since the story is a slow, quiet accumulation of ordinary moments.",
+  "pairings": [
+    {
+      "slug": "americanah",
+      "reason": "Looks at similar questions of belonging from a more outspoken, funnier angle.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-joy-luck-club",
+      "reason": "Another look at immigrant parents and their American children, told in multiple voices.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "Shares the same restrained, careful prose and attention to how families and class shape young adults.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780618485222",
+    "https://en.wikipedia.org/wiki/The_Namesake_(novel)",
+    "https://hardcover.app/books/the-namesake"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

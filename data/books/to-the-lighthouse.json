@@ -1,0 +1,45 @@
+{
+  "slug": "to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "isbn13": "9781475352061",
+  "firstPublished": 1927,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic", "nostalgic"],
+  "tropes": ["family-saga"],
+  "warnings": ["death", "war"],
+  "summary": "A family and their guests spend a summer holiday in a house by the sea, where a small trip to a lighthouse is promised and then put off. A decade later, changed by loss, some of them return.",
+  "readIf": "you want a short, beautifully written study of family, memory and how time quietly rearranges people.",
+  "skipIf": "you want chapters of action or dialogue, since much of it unfolds inside people's heads.",
+  "pairings": [
+    {
+      "slug": "mrs-dalloway",
+      "reason": "The same author's more accessible novel, with a similar fluid voice and a London setting instead of the sea.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Reflective and elegiac, with a similar sense of lives measured by what was never said aloud.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hours",
+      "reason": "Continues the thread of Woolf-style interior writing in a modern, more structured novel.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781475352061",
+    "https://en.wikipedia.org/wiki/To_the_Lighthouse",
+    "https://hardcover.app/books/to-the-lighthouse"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

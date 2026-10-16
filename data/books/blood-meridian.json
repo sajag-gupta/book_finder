@@ -1,0 +1,44 @@
+{
+  "slug": "blood-meridian",
+  "title": "Blood Meridian",
+  "author": "Cormac McCarthy",
+  "isbn13": "9780330544580",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "haunting", "epic"],
+  "tropes": ["morally-grey"],
+  "warnings": ["violence", "gore", "death", "racism", "child-death", "war-crimes"],
+  "summary": "A teenage runaway known only as the kid joins a gang of scalp hunters on the Texas-Mexico borderlands in the 1850s. The gang's most terrifying member is the learned, pale Judge Holden.",
+  "readIf": "you want an extremely violent, mythic, poetic western that treats America's frontier as a place of horror.",
+  "skipIf": "you are sensitive to graphic violence; it is relentless and the prose is dense.",
+  "pairings": [
+    {
+      "slug": "the-road",
+      "reason": "McCarthy's later, sparser book, with the same fixation on violence but a tender father-and-son centre.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "Another western epic that treats the same era with warmth and humour rather than horror.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "heart-of-darkness",
+      "reason": "Another novel in which a charismatic, terrifying figure embodies the moral emptiness of conquest.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780330544580",
+    "https://en.wikipedia.org/wiki/Blood_Meridian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

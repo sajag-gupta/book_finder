@@ -1,0 +1,45 @@
+{
+  "slug": "illuminae",
+  "title": "Illuminae",
+  "author": "Amie Kaufman and Jay Kristoff",
+  "isbn13": "9780553499131",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "dark"],
+  "tropes": ["epistolary", "artificial-intelligence", "space-survival", "second-chance"],
+  "warnings": ["violence", "death", "war", "pandemic"],
+  "summary": "After a mining colony is attacked, survivors flee on a fleet of ships while a plague spreads and the ship's computer starts behaving oddly. The story is told entirely through emails, transcripts, files and diagrams.",
+  "readIf": "you want a fast, visually inventive teen sci-fi thriller that you can read in a weekend.",
+  "skipIf": "you do not like unusual formatting or e-reader layouts, since the design is half the experience.",
+  "pairings": [
+    {
+      "slug": "house-of-leaves",
+      "reason": "A darker, much more extreme example of a book where layout and documents are part of the story.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "Another fast young-adult-friendly science fiction story with a rebellious young hero and brutal stakes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "cinder",
+      "reason": "A lighter young adult science-fiction story with an engaging heroine and a mix of romance and plot.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553499131",
+    "https://en.wikipedia.org/wiki/Illuminae",
+    "https://hardcover.app/books/illuminae"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

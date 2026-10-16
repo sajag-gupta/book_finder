@@ -1,0 +1,45 @@
+{
+  "slug": "the-big-sleep",
+  "title": "The Big Sleep",
+  "author": "Raymond Chandler",
+  "isbn13": "9781597770521",
+  "firstPublished": 1939,
+  "series": null,
+  "genres": ["crime", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "witty", "mysterious"],
+  "tropes": ["detective", "morally-grey"],
+  "warnings": ["violence", "death"],
+  "summary": "A wealthy, ailing general hires private detective Philip Marlowe to deal with a blackmailer. The job leads to his two reckless daughters, a murdered man and a web of Los Angeles crooks.",
+  "readIf": "you want the classic hard-boiled detective novel, with wisecracks and a tangled plot.",
+  "skipIf": "you want a tidy plot, because even fans admit the story is hard to follow and dated in its attitudes.",
+  "pairings": [
+    {
+      "slug": "the-maltese-falcon",
+      "reason": "The other great American detective classic, with a sharper, colder lead and a famous object to chase.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-black-echo",
+      "reason": "A later Los Angeles detective novel that carries the tradition into a more realistic setting.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "altered-carbon",
+      "reason": "A futuristic noir that borrows the cynical detective and takes it into violent science fiction.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781597770521",
+    "https://en.wikipedia.org/wiki/The_Big_Sleep",
+    "https://hardcover.app/books/the-big-sleep"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

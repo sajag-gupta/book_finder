@@ -1,0 +1,45 @@
+{
+  "slug": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "author": "Lucy Maud Montgomery",
+  "isbn13": "9781798293553",
+  "firstPublished": 1908,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["comforting", "whimsical", "nostalgic"],
+  "tropes": ["found-family", "coming-of-age", "small-town"],
+  "warnings": ["death", "grief"],
+  "summary": "An elderly brother and sister on Prince Edward Island ask for a boy to help on the farm and get a talkative, imaginative red-haired orphan girl instead. Anne wins her way into their lives and the village.",
+  "readIf": "you like a cosy, funny, big-hearted story about an imaginative girl growing up.",
+  "skipIf": "you want fast pacing or high stakes; it's gentle and episodic.",
+  "pairings": [
+    {
+      "slug": "little-women",
+      "reason": "Another much-loved coming-of-age classic centred on a spirited, writerly girl.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-garden",
+      "reason": "A shorter story of a child changed by a new place and the people in it.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "heidi",
+      "reason": "Another orphan placed with an unlikely guardian and loving the landscape around her.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781798293553",
+    "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+    "https://hardcover.app/books/anne-of-green-gables"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "all-systems-red",
+  "title": "All Systems Red",
+  "author": "Martha Wells",
+  "isbn13": "9780765397539",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "tense"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "A security android has hacked its own control module and secretly spends its time watching serials while pretending to obey. When a survey mission it guards is attacked, it has to decide how much it cares.",
+  "readIf": "you want a short, sardonic space story with a narrator who would rather be left alone.",
+  "skipIf": "you want a complete, self-contained epic, since it is a novella and the larger story continues in sequels.",
+  "pairings": [
+    {
+      "slug": "a-psalm-for-the-wild-built",
+      "reason": "Another short, humane story about a robot and a person learning to understand one another.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "i-robot",
+      "reason": "The classic robot stories that this kind of reluctant machine hero grew out of.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "Another sarcastic narrator in a dangerous situation with lots of competence and humour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765397539",
+    "https://en.wikipedia.org/wiki/All_Systems_Red",
+    "https://hardcover.app/books/all-systems-red"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

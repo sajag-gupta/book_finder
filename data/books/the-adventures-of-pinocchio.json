@@ -1,0 +1,45 @@
+{
+  "slug": "the-adventures-of-pinocchio",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "isbn13": "9781641810555",
+  "firstPublished": 1881,
+  "series": null,
+  "genres": ["fantasy", "children", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "adventurous"],
+  "tropes": ["coming-of-age", "redemption"],
+  "warnings": [],
+  "summary": "A wooden puppet carved by a poor carpenter comes to life and promptly ignores every piece of advice he is given. He lurches from one scrape to the next, learning the cost of lying and laziness.",
+  "readIf": "you want to meet the original, odder and more moralistic story behind the famous film.",
+  "skipIf": "you expect the gentle Disney version; the original is episodic and sometimes harsh.",
+  "pairings": [
+    {
+      "slug": "the-neverending-story",
+      "reason": "Another fantastical tale of a child hero who learns and grows through strange adventures.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "peter-pan",
+      "reason": "A classic about a child who refuses to grow up, with the same mix of play and menace.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another episodic children's classic full of eccentric encounters.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 35,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781641810555",
+    "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio",
+    "https://hardcover.app/books/the-adventures-of-pinocchio"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

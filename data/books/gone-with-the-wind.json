@@ -1,0 +1,44 @@
+{
+  "slug": "gone-with-the-wind",
+  "title": "Gone with the Wind",
+  "author": "Margaret Mitchell",
+  "isbn13": "9780025854000",
+  "firstPublished": 1936,
+  "series": null,
+  "genres": ["historical", "romance"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "dark"],
+  "tropes": ["love-triangle", "war-story", "family-saga"],
+  "warnings": ["war", "racism", "slavery", "violence", "death"],
+  "summary": "Headstrong Scarlett O'Hara survives the American Civil War and its aftermath in Georgia, determined to save her family's plantation at any cost, while chasing the wrong man and brushing off the right one.",
+  "readIf": "you want a huge, immersive historical epic with a fierce, flawed heroine.",
+  "skipIf": "you won't read a romanticised, sympathetic portrait of the Old South and its treatment of slavery.",
+  "pairings": [
+    {
+      "slug": "the-thorn-birds",
+      "reason": "Another sprawling romantic saga driven by a stubborn woman and a love that won't resolve.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cold-mountain",
+      "reason": "A different, more literary view of the Civil War, focused on the cost of the journey home.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-help",
+      "reason": "Gives a more modern, critical take on Southern society and race.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 30,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780025854000",
+    "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

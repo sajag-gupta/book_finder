@@ -1,0 +1,45 @@
+{
+  "slug": "the-metamorphosis",
+  "title": "The Metamorphosis",
+  "author": "Franz Kafka",
+  "isbn13": "9780594105701",
+  "firstPublished": 1915,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "mind-bending", "melancholic"],
+  "tropes": [],
+  "warnings": ["death"],
+  "summary": "Travelling salesman Gregor Samsa wakes to find he has turned into a giant insect. The story follows how his family and employer react as he becomes more isolated.",
+  "readIf": "you want a very short, strange classic that you can read in one sitting and think about for a long time.",
+  "skipIf": "you want an explanation, because the book never gives one.",
+  "pairings": [
+    {
+      "slug": "the-trial",
+      "reason": "Another Kafka story of a man caught in a system he cannot understand.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-stranger",
+      "reason": "Another short, cool novel about an outsider and society's cold reaction to him.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "kafka-on-the-shore",
+      "reason": "A warmer, stranger and more modern novel that owes something to Kafka.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780594105701",
+    "https://en.wikipedia.org/wiki/The_Metamorphosis",
+    "https://hardcover.app/books/the-metamorphosis"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

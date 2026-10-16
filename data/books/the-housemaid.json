@@ -1,0 +1,45 @@
+{
+  "slug": "the-housemaid",
+  "title": "The Housemaid",
+  "author": "Freida McFadden",
+  "isbn13": "9780349132853",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["unreliable-narrator", "twist-ending", "hidden-identity"],
+  "warnings": ["abuse", "domestic-violence", "manipulation", "violence", "sexual-content"],
+  "summary": "A woman desperate for work takes a live-in job cleaning for a wealthy family in a perfect house. Things quickly feel wrong, as the wife behaves unpredictably and the husband appears kind, but she is not telling the full story either.",
+  "readIf": "you want a quick, twisty, addictive thriller with a narrator you will second-guess.",
+  "skipIf": "you want realistic characters or dislike thrillers that rely on sharp reversals.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "A more intricate and literary thriller built on the same distrust of who is telling the truth.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-girl-on-the-train",
+      "reason": "Another fast, twisty read narrated by a troubled woman who is not entirely reliable.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "A more character-driven look at what hides behind polished domestic lives.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349132853",
+    "https://en.wikipedia.org/wiki/The_Housemaid_(2025_film)",
+    "https://hardcover.app/books/the-housemaid"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

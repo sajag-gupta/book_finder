@@ -1,0 +1,45 @@
+{
+  "slug": "red-rising",
+  "title": "Red Rising",
+  "author": "Pierce Brown",
+  "isbn13": "9781444758993",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "adventurous"],
+  "tropes": ["rebellion", "revenge", "hidden-identity", "dystopian-regime"],
+  "warnings": ["violence", "death", "gore", "war"],
+  "summary": "A young miner on Mars believes his labour is building a future for humanity, then learns that his caste is being lied to. He is surgically remade as one of the ruling elite and sent to infiltrate their brutal training school.",
+  "readIf": "you like violent, high-stakes stories of rebellion and want a hero who has to become what he hates.",
+  "skipIf": "you are sensitive to graphic violence, because the school section is relentlessly brutal.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "A cleaner, shorter story of an oppressed young person forced into a deadly arena.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "enders-game",
+      "reason": "Also about a gifted young recruit and a school that trains leaders with harsh methods.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "An even bleaker military school story, in a fantasy world, where the cost of power keeps rising.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781444758993",
+    "https://en.wikipedia.org/wiki/Red_Rising",
+    "https://hardcover.app/books/red-rising"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

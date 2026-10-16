@@ -1,0 +1,45 @@
+{
+  "slug": "speak",
+  "title": "Speak",
+  "author": "Laurie Halse Anderson",
+  "isbn13": "9780141310886",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "hopeful", "thoughtful"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["sexual-assault", "bullying", "mental-illness"],
+  "summary": "Melinda starts high school as an outcast after calling the police at a summer party. She barely speaks, and finds a way to express herself through the art class she is assigned.",
+  "readIf": "you want a short, honest novel about trauma and recovery with real emotional impact.",
+  "skipIf": "you are sensitive to stories involving sexual assault.",
+  "pairings": [
+    {
+      "slug": "thirteen-reasons-why",
+      "reason": "Another young adult novel about school and an assault, with a bleaker outlook.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-bell-jar",
+      "reason": "An adult classic about a young woman's withdrawal and breakdown, told with sharp observation.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "A teen story where friendship and writing become part of healing.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141310886",
+    "https://en.wikipedia.org/wiki/Speak_(Anderson_novel)",
+    "https://hardcover.app/books/speak"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

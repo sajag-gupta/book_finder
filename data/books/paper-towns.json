@@ -1,0 +1,45 @@
+{
+  "slug": "paper-towns",
+  "title": "Paper Towns",
+  "author": "John Green",
+  "isbn13": "9780525478188",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["hopeful", "nostalgic", "mysterious"],
+  "tropes": ["road-trip", "coming-of-age"],
+  "warnings": [],
+  "summary": "After the girl next door takes him on an all-night spree of revenge pranks, Quentin wakes to find she has vanished. He and his friends follow her clues in the days before graduation.",
+  "readIf": "you like a funny, thoughtful teen mystery that is really about how we imagine other people.",
+  "skipIf": "you want an easy romance, because the story deliberately avoids a tidy one.",
+  "pairings": [
+    {
+      "slug": "looking-for-alaska",
+      "reason": "Another novel about a restless boy and the girl he cannot read, with more emotional weight.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A more grounded teen romance with real people instead of dreamed-up ones.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "The author's best-known book, with more humour and more heartbreak.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525478188",
+    "https://en.wikipedia.org/wiki/Paper_Towns",
+    "https://hardcover.app/books/paper-towns"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

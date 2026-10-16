@@ -1,0 +1,44 @@
+{
+  "slug": "from-blood-and-ash",
+  "title": "From Blood and Ash",
+  "author": "Jennifer L. Armentrout",
+  "isbn13": "9781952457272",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "tense", "dark"],
+  "tropes": ["enemies-to-lovers", "slow-burn", "hidden-identity", "chosen-one"],
+  "warnings": ["violence", "sexual-content", "death", "torture"],
+  "summary": "A young woman known as the Maiden has been kept veiled, guarded and prepared since childhood for a sacred role she never chose. When a mysterious, dangerous guard is assigned to her, she begins to question everything she has been told.",
+  "readIf": "you want a steamy, plot-heavy romantasy with secrets, banter and a slow reveal of the world.",
+  "skipIf": "you dislike cliffhangers, or want a self-contained story, as it sets up a long series.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A close match for the mood: a heroine, a powerful male lead and a world that slowly opens up.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "Another page-turning romantasy with a lot of heat, danger and a clear love interest.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "A sharper, more political fantasy with a rival love story and less explicit content.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781952457272",
+    "https://hardcover.app/books/from-blood-and-ash"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

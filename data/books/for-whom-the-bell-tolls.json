@@ -1,0 +1,45 @@
+{
+  "slug": "for-whom-the-bell-tolls",
+  "title": "For Whom the Bell Tolls",
+  "author": "Ernest Hemingway",
+  "isbn13": "9780684102399",
+  "firstPublished": 1940,
+  "series": null,
+  "genres": ["classic", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "heartbreaking", "epic"],
+  "tropes": ["war-story", "star-crossed-lovers"],
+  "warnings": ["war", "violence", "death", "sexual-assault"],
+  "summary": "An American explosives expert fighting with Spanish guerrillas in 1937 is sent to blow up a bridge in the mountains. Over three days he joins a band of fighters and falls in love with a young woman there.",
+  "readIf": "you want a compressed, intense war novel with a clear mission and a ticking clock.",
+  "skipIf": "you dislike long, interior stretches of talk and philosophising, or graphic memories of political violence.",
+  "pairings": [
+    {
+      "slug": "a-farewell-to-arms",
+      "reason": "A shorter and more romantic war novel from the same author, less about politics and more about private loss.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "cold-mountain",
+      "reason": "Another war novel that slowly pulls apart romantic ideas about soldiers and loyalty.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "A very different, satirical view of war, in which the absurdity is the horror.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780684102399",
+    "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls",
+    "https://hardcover.app/books/for-whom-the-bell-tolls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

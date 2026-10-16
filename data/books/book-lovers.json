@@ -1,0 +1,45 @@
+{
+  "slug": "book-lovers",
+  "title": "Book Lovers",
+  "author": "Emily Henry",
+  "isbn13": "9780593334836",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "swoony", "witty", "cozy"],
+  "tropes": ["enemies-to-lovers", "small-town", "workplace-romance", "forced-proximity"],
+  "warnings": [],
+  "summary": "Nora, a sharp literary agent in New York, is dragged on a sisters' trip to a small North Carolina town, where she keeps running into Charlie, a book editor she once clashed with in the city.",
+  "readIf": "you want a clever, bookish romance that plays with the usual small-town romance tropes.",
+  "skipIf": "you'd rather have a heroine who doesn't push everyone away or a conflict-free story.",
+  "pairings": [
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "Another Emily Henry romance with banter, travel and a long friendship turning into more.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "Another workplace-rivals romance with sharp dialogue.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "beach-read",
+      "reason": "Another novel about writers whose attraction helps and hinders their work.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593334836",
+    "https://en.wikipedia.org/wiki/Book_Lovers",
+    "https://hardcover.app/books/book-lovers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-stand",
+  "title": "The Stand",
+  "author": "Stephen King",
+  "isbn13": "9780606256155",
+  "firstPublished": 1978,
+  "series": null,
+  "genres": ["horror", "dystopian"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "dark", "tense"],
+  "tropes": ["post-apocalyptic", "survival", "quest"],
+  "warnings": ["pandemic", "death", "violence", "grief"],
+  "summary": "A military-engineered flu wipes out most of humanity. The survivors begin to dream of two figures, an elderly woman in Nebraska and a dark man in Las Vegas, and slowly gather on one side or the other.",
+  "readIf": "you want a sprawling, character-heavy apocalypse novel that mixes everyday survival with a battle of good and evil.",
+  "skipIf": "you want a short book or find a pandemic setting difficult to read about.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "A calmer, literary post-pandemic story that cares about what survives of art and community.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-road",
+      "reason": "A bleak, stripped-down vision of the collapse of civilisation.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "wool",
+      "reason": "Another survival story about a community in a sealed, post-collapse world.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606256155",
+    "https://en.wikipedia.org/wiki/The_Stand",
+    "https://hardcover.app/books/the-stand"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

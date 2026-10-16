@@ -1,0 +1,45 @@
+{
+  "slug": "fablehaven",
+  "title": "Fablehaven",
+  "author": "Brandon Mull",
+  "isbn13": "9780545133630",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "whimsical", "mysterious"],
+  "tropes": ["portal-fantasy", "monster", "found-family", "secret-society"],
+  "warnings": ["violence"],
+  "summary": "Two siblings sent to stay at their grandparents' remote estate find that it is a hidden preserve for magical creatures. When they break the rules, the gentle fairies and sprites turn out to hold back darker things.",
+  "readIf": "you want a fun, quick middle-grade fantasy full of fairies, trolls, demons and secrets.",
+  "skipIf": "you want sophisticated prose or darker stakes, as it is plainly written for younger readers.",
+  "pairings": [
+    {
+      "slug": "the-lightning-thief",
+      "reason": "Another fast, fun kids' fantasy where a hidden magical world turns out to be real.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "reason": "A more famous story of children finding a hidden world with rules and a growing threat.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "coraline",
+      "reason": "A shorter, creepier book if you like children's fantasy with something unsettling beneath the surface.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780545133630",
+    "https://en.wikipedia.org/wiki/Fablehaven",
+    "https://hardcover.app/books/fablehaven-2006"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

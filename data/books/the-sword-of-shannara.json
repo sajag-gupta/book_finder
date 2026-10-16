@@ -1,0 +1,45 @@
+{
+  "slug": "the-sword-of-shannara",
+  "title": "The Sword of Shannara",
+  "author": "Terry Brooks",
+  "isbn13": "9780708813447",
+  "firstPublished": 1977,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic"],
+  "tropes": ["quest", "chosen-one"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A half-elf youth living a quiet life in a peaceful valley learns that he alone can wield a magic sword against a dark lord. A druid sends him on a long, dangerous journey with a small band of companions.",
+  "readIf": "you like old-school quest fantasy with a farm-boy hero, a wizard guide and a monster-filled road.",
+  "skipIf": "you want fresh ideas; it closely follows the pattern of The Lord of the Rings.",
+  "pairings": [
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "reason": "The book that Shannara is closely modelled on, with a deeper sense of history and language.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "Another farm-boy-to-hero epic with a long road, though it grows into a far larger series.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "pawn-of-prophecy",
+      "reason": "A lighter and chattier quest with a similar young hero and found companions.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780708813447",
+    "https://en.wikipedia.org/wiki/The_Sword_of_Shannara",
+    "https://hardcover.app/books/the-sword-of-shannara"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

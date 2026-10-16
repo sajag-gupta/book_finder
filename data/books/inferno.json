@@ -1,0 +1,44 @@
+{
+  "slug": "inferno",
+  "title": "Inferno",
+  "author": "Dan Brown",
+  "isbn13": "9780345806505",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "adventurous"],
+  "tropes": ["amnesia", "secret-society", "quest"],
+  "warnings": ["pandemic", "violence", "death"],
+  "summary": "Robert Langdon wakes in a Florence hospital with a head wound and no memory of the last two days. He and a young doctor flee assassins and follow clues taken from Dante's Inferno.",
+  "readIf": "you like Langdon's puzzle-chases and are happy to see Italian art, history and a doomsday plot mixed together.",
+  "skipIf": "you are tired of twists that depend on being kept in the dark, or dislike stories about overpopulation fears.",
+  "pairings": [
+    {
+      "slug": "the-da-vinci-code",
+      "reason": "The original, in which the same hero follows art-history clues in Paris with a similar rhythm.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "angels-and-demons",
+      "reason": "Another Langdon thriller set across Rome, with a ticking clock and a clever structure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bourne-identity",
+      "reason": "A more serious spy novel that also begins with a hero who cannot remember his past.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345806505",
+    "https://en.wikipedia.org/wiki/Inferno_(Brown_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "a-christmas-carol",
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "isbn13": "9781502809193",
+  "firstPublished": 1843,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["hopeful", "cozy", "nostalgic"],
+  "tropes": ["redemption"],
+  "warnings": [],
+  "summary": "Miserly Ebenezer Scrooge is visited on Christmas Eve by the ghost of his dead business partner and three spirits. Each shows him a different part of his life and what may lie ahead.",
+  "readIf": "you want a short, warm, atmospheric classic to read around the holidays.",
+  "skipIf": "you dislike sentiment or a clearly stated moral.",
+  "pairings": [
+    {
+      "slug": "oliver-twist",
+      "reason": "A longer, darker Dickens novel with a similar concern for the poor and neglected.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "Another cosy, old-fashioned classic with a strong sense of home and hospitality.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781502809193",
+    "https://en.wikipedia.org/wiki/A_Christmas_Carol",
+    "https://hardcover.app/books/a-christmas-carol"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "we-have-always-lived-in-the-castle",
+  "title": "We Have Always Lived in the Castle",
+  "author": "Shirley Jackson",
+  "isbn13": "9780141193939",
+  "firstPublished": 1962,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["spooky", "haunting", "mysterious"],
+  "tropes": ["unreliable-narrator", "small-town"],
+  "warnings": ["death", "bullying"],
+  "summary": "Eighteen-year-old Merricat lives with her sister and ailing uncle in a large house outside a village that shuns them, since poison killed the rest of the family years ago. A visiting cousin disturbs their routine.",
+  "readIf": "you want a short, strange, beautifully written gothic with a narrator you cannot quite trust.",
+  "skipIf": "you want a conventional plot or a clear moral.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "The author's other classic, which shares its sense of a woman and a house bound together.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "Another novel where a house and a family's reputation shape everyone's behaviour.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-turn-of-the-screw",
+      "reason": "A short, ambiguous classic with an unsettling narrator.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141193939",
+    "https://en.wikipedia.org/wiki/We_Have_Always_Lived_in_the_Castle",
+    "https://hardcover.app/books/we-have-always-lived-in-the-castle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

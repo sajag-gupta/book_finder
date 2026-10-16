@@ -1,0 +1,45 @@
+{
+  "slug": "the-historian",
+  "title": "The Historian",
+  "author": "Elizabeth Kostova",
+  "isbn13": "9781594830372",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["historical", "horror"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["spooky", "mysterious", "haunting"],
+  "tropes": ["vampires", "dual-timeline", "epistolary", "quest"],
+  "warnings": ["violence", "death"],
+  "summary": "A teenage girl finds an old book and a bundle of letters in her father's library, and learns he has been hunting Dracula's tomb for decades. She follows his trail across Europe and into the past.",
+  "readIf": "you like scholarly, atmospheric chase stories through old libraries and ruined monasteries.",
+  "skipIf": "you want constant scares; the book prefers slow dread and travel description.",
+  "pairings": [
+    {
+      "slug": "dracula",
+      "reason": "The original that this novel is built from, told also through letters, diaries and documents.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-shadow-of-the-wind",
+      "reason": "Another bookish mystery that follows old documents and secrets through shadowy historic cities.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "Equally scholarly and steeped in the Middle Ages, with a murder mystery at the centre.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781594830372",
+    "https://en.wikipedia.org/wiki/The_Historian",
+    "https://hardcover.app/books/the-historian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

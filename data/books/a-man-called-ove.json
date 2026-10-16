@@ -1,0 +1,45 @@
+{
+  "slug": "a-man-called-ove",
+  "title": "A Man Called Ove",
+  "author": "Fredrik Backman",
+  "isbn13": "9781476738024",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["comforting", "funny", "heartbreaking"],
+  "tropes": ["grumpy-sunshine", "unlikely-friendship", "found-family"],
+  "warnings": ["suicide", "grief", "death"],
+  "summary": "A rigid, rule-obsessed widower wants nothing more than to be left alone, but a lively new family next door keeps interrupting his plans. Their persistence slowly draws out the man behind the scowl.",
+  "readIf": "you like a grumpy hero with a soft centre, and you do not mind crying on public transport.",
+  "skipIf": "you want to avoid stories that treat grief and suicidal thoughts seriously, even when they are wrapped in humour.",
+  "pairings": [
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another prickly loner whose hard shell hides pain, and whose life is gently opened up by unexpected kindness.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "anxious-people",
+      "reason": "Same author, same blend of comedy and tenderness, built around a farcical hostage situation instead of a neighbourhood.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "remarkably-bright-creatures",
+      "reason": "A lonely older person finds connection in an unlikely creature, with the same warm, quietly sad tone.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781476738024",
+    "https://en.wikipedia.org/wiki/A_Man_Called_Ove_(film)",
+    "https://hardcover.app/books/a-man-called-ove"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

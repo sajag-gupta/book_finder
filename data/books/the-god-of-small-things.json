@@ -1,0 +1,45 @@
+{
+  "slug": "the-god-of-small-things",
+  "title": "The God of Small Things",
+  "author": "Arundhati Roy",
+  "isbn13": "9780006551096",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "heartbreaking", "melancholic"],
+  "tropes": ["forbidden-love", "family-saga", "dual-timeline"],
+  "warnings": ["child-sexual-abuse", "child-death", "prejudice", "violence"],
+  "summary": "In Kerala, a pair of twins grows up in a family riven by caste, class and old resentments. A visit from a cousin in 1969 sets in motion events that will mark them for life.",
+  "readIf": "you like richly worded novels that circle around a tragedy and make the small details feel enormous.",
+  "skipIf": "you want a linear plot, or you cannot read about the abuse and death of children.",
+  "pairings": [
+    {
+      "slug": "midnights-children",
+      "reason": "A sprawling, playful Indian novel that makes an interesting contrast with this one's tight, sorrowful focus.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "Equally affecting novel about lives crushed by rigid social rules, though in plainer prose.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "beloved",
+      "reason": "Another poetic novel about trauma that keeps returning to the event at its centre.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780006551096",
+    "https://en.wikipedia.org/wiki/The_God_of_Small_Things",
+    "https://hardcover.app/books/the-god-of-small-things"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

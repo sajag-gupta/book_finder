@@ -1,0 +1,45 @@
+{
+  "slug": "crime-and-punishment",
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "isbn13": "9781435131828",
+  "firstPublished": 1866,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["dark", "tense", "thoughtful"],
+  "tropes": ["redemption"],
+  "warnings": ["violence", "death", "mental-illness"],
+  "summary": "Raskolnikov, a poor former student in St Petersburg, convinces himself that killing a pawnbroker is justified. The book follows his guilt, fever and cat-and-mouse conversations with an investigator.",
+  "readIf": "you want a psychological crime story that is deep, urgent and philosophical.",
+  "skipIf": "you want a quick detective plot, since the crime is committed early and the rest is inner struggle.",
+  "pairings": [
+    {
+      "slug": "the-brothers-karamazov",
+      "reason": "The same author's biggest novel, about faith, guilt and a family wrecked by a murder.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-stranger",
+      "reason": "A very short, cold novel about a man who kills and does not fit society's expectations of remorse.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A modern story of intellectuals who convince themselves a murder can be justified.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781435131828",
+    "https://en.wikipedia.org/wiki/Crime_and_Punishment",
+    "https://hardcover.app/books/crime-and-punishment"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

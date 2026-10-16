@@ -1,0 +1,45 @@
+{
+  "slug": "prince-caspian",
+  "title": "Prince Caspian",
+  "author": "C. S. Lewis",
+  "isbn13": "9780261667945",
+  "firstPublished": 1951,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["adventurous", "nostalgic", "hopeful"],
+  "tropes": ["portal-fantasy", "talking-animals", "rebellion", "royalty"],
+  "warnings": ["war"],
+  "summary": "The four Pevensie children are pulled back to Narnia, where centuries have passed and the old creatures are hiding. They join a young prince who is fighting to take his rightful throne from his uncle.",
+  "readIf": "you like gentle, classic fantasy where the magic arrives on the side of the underdog.",
+  "skipIf": "you want fresh, surprising worlds; this is a return trip and leans on the first book.",
+  "pairings": [
+    {
+      "slug": "redwall",
+      "reason": "Another cosy adventure about brave talking animals who defend a place they love against a conqueror.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A comfortable older classic that mixes plain heroes with a sprawling magic quest.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A more philosophical, daring children's fantasy that treats Narnia's themes very differently.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780261667945",
+    "https://en.wikipedia.org/wiki/Prince_Caspian",
+    "https://hardcover.app/books/prince-caspian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

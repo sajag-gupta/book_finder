@@ -1,0 +1,40 @@
+{
+  "slug": "holes",
+  "title": "Holes",
+  "author": "Louis Sachar",
+  "isbn13": "9780440414803",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["children", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "whimsical", "mysterious"],
+  "tropes": ["unlikely-friendship", "dual-timeline", "survival"],
+  "warnings": ["death", "racism"],
+  "summary": "Stanley Yelnats is sent to Camp Green Lake, a dry lakebed in Texas where boys dig a hole every day. As he digs, three storylines from different eras slowly connect, along with a family curse.",
+  "readIf": "you enjoy a clever, funny story that quietly ties together past and present.",
+  "skipIf": "you want a lot of depth in characters or emotional tangle, because it is short and plot-driven.",
+  "pairings": [
+    {
+      "slug": "hatchet",
+      "reason": "Another short, fast, outdoors survival story for young readers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lightning-thief",
+      "reason": "A funnier, more fantastical adventure about a boy who finds out the world is bigger than he knew.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780440414803",
+    "https://en.wikipedia.org/wiki/Holes_(novel)",
+    "https://hardcover.app/books/holes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "frankenstein",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "isbn13": "9781435136168",
+  "firstPublished": 1818,
+  "series": null,
+  "genres": ["classic", "horror", "science-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "haunting", "melancholic"],
+  "tropes": ["monster", "epistolary", "revenge"],
+  "warnings": ["death", "grief", "violence", "child-death"],
+  "summary": "A young scientist brings a living being to life from stolen parts, then abandons it in horror. The creature, shaped by loneliness and rejection, begins to pursue its maker.",
+  "readIf": "you like gothic tales that ask who the real monster is, and want the original rather than the film.",
+  "skipIf": "you want a pacy horror story, because the novel is reflective, wordy and full of long speeches.",
+  "pairings": [
+    {
+      "slug": "strange-case-of-dr-jekyll-and-mr-hyde",
+      "reason": "Another short Victorian tale of a scientist whose experiment turns on him.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "never-let-me-go",
+      "reason": "A quieter modern story that asks what we owe to beings that people have made for their own use.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "A more modern gothic with body horror and a strong sense of decaying family secrets.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781435136168",
+    "https://en.wikipedia.org/wiki/Frankenstein",
+    "https://hardcover.app/books/frankenstein"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "november-9",
+  "title": "November 9",
+  "author": "Colleen Hoover",
+  "isbn13": "9781785412691",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "hopeful", "heartbreaking"],
+  "tropes": ["second-chance"],
+  "warnings": ["death"],
+  "summary": "On the day before she plans to leave for New York, Fallon meets Ben, an aspiring novelist. They agree to meet on the same date every year, and he'll write a story based on their lives.",
+  "readIf": "you like a romance with a gimmick of yearly meet-ups, a slow reveal and a sweet ending.",
+  "skipIf": "you dislike love stories built on heavy coincidence or big reveals.",
+  "pairings": [
+    {
+      "slug": "the-notebook",
+      "reason": "Another romance focused on a single couple and a love that persists over time.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "beach-read",
+      "reason": "A funnier, lighter romance about two writers learning from each other.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "A bigger, stranger love story about meeting again and again across time.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781785412691",
+    "https://hardcover.app/books/november-9"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

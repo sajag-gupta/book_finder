@@ -1,0 +1,40 @@
+{
+  "slug": "2001-a-space-odyssey",
+  "title": "2001: A Space Odyssey",
+  "author": "Arthur C. Clarke",
+  "isbn13": "9781423315469",
+  "firstPublished": 1968,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mind-bending", "mysterious", "thoughtful"],
+  "tropes": ["artificial-intelligence", "first-contact"],
+  "warnings": ["death"],
+  "summary": "A mysterious black slab guides early humans toward intelligence, and millions of years later another one is found on the Moon. A spaceship travels toward Saturn with an advanced computer in charge, and something goes wrong.",
+  "readIf": "you want a clear, cosmic version of one of science fiction's most famous stories.",
+  "skipIf": "you want a lot of character, since the book values scale and wonder over personality.",
+  "pairings": [
+    {
+      "slug": "childhoods-end",
+      "reason": "The author's other grand vision of humanity's next step, quieter and more elegiac.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "solaris",
+      "reason": "A more unsettling story of an encounter with an intelligence that cannot be understood.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781423315469",
+    "https://en.wikipedia.org/wiki/2001%3A_A_Space_Odyssey_(novel)",
+    "https://hardcover.app/books/2001"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

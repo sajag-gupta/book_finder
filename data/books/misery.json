@@ -1,0 +1,45 @@
+{
+  "slug": "misery",
+  "title": "Misery",
+  "author": "Stephen King",
+  "isbn13": "9780451169525",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["horror", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["book-within-a-book"],
+  "warnings": ["violence", "torture", "addiction", "kidnapping", "mental-illness"],
+  "summary": "Novelist Paul Sheldon is pulled from a car wreck by his self-described number-one fan, who nurses him in her remote house. When she reads his latest manuscript, she makes him rewrite it.",
+  "readIf": "you want a tight, two-person thriller about obsession and trapped creativity.",
+  "skipIf": "you are uncomfortable with graphic physical cruelty or captivity stories.",
+  "pairings": [
+    {
+      "slug": "the-shining",
+      "reason": "More King with a writer, an isolated place and a mind coming apart, in a more supernatural form.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "behind-closed-doors",
+      "reason": "Another thriller built around a captor who seems charming from the outside.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-woman-in-the-window",
+      "reason": "A confined-protagonist suspense novel with an unreliable view of what is real.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451169525",
+    "https://en.wikipedia.org/wiki/Misery_(novel)",
+    "https://hardcover.app/books/misery"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

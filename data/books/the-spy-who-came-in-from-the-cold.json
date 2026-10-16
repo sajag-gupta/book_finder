@@ -1,0 +1,40 @@
+{
+  "slug": "the-spy-who-came-in-from-the-cold",
+  "title": "The Spy Who Came in from the Cold",
+  "author": "John le Carré",
+  "isbn13": "9780241978955",
+  "firstPublished": 1963,
+  "series": null,
+  "genres": ["thriller", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "tense", "dark"],
+  "tropes": ["spy", "morally-grey"],
+  "warnings": ["death", "violence", "manipulation"],
+  "summary": "A weary British agent is given one last assignment, to pose as a defector and sow doubt about a dangerous East German intelligence officer. The plan is more complicated, and less honest, than he has been told.",
+  "readIf": "you want a bleak, brilliantly constructed spy story where nobody's motives are clean.",
+  "skipIf": "you want glamour or action, since the book is quiet, grey and morally exhausting.",
+  "pairings": [
+    {
+      "slug": "tinker-tailor-soldier-spy",
+      "reason": "The author's most famous mole hunt, with the same disenchanted tone and a much larger cast.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "casino-royale",
+      "reason": "The glamorous alternative from the same period, for a contrast with the cynicism here.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241978955",
+    "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold",
+    "https://hardcover.app/books/the-spy-who-came-in-from-the-cold"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "the-shining",
+  "title": "The Shining",
+  "author": "Stephen King",
+  "isbn13": "9780450040184",
+  "firstPublished": 1977,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["spooky", "tense", "haunting"],
+  "tropes": ["haunted-house"],
+  "warnings": [
+    "violence",
+    "death",
+    "addiction",
+    "child-abuse",
+    "domestic-violence",
+    "mental-illness"
+  ],
+  "summary": "A struggling writer takes a winter caretaker job at an isolated Colorado hotel, bringing his wife and young son. As the snow closes in, the hotel works on the father, and the boy's strange gift draws its attention.",
+  "readIf": "you like slow-building, claustrophobic horror about a family and a house that does not want them to leave.",
+  "skipIf": "you are sensitive to alcoholism and family violence, or have only seen the film and expect the same story.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "The refined, quiet classic of haunted-house fiction that this book builds on.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "house-of-leaves",
+      "reason": "A far stranger, more experimental take on a house that behaves impossibly.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "misery",
+      "reason": "Also King, also isolation and a writer in danger, but with a human threat.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780450040184",
+    "https://en.wikipedia.org/wiki/The_Shining_(novel)",
+    "https://hardcover.app/books/the-shining"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

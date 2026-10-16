@@ -1,0 +1,44 @@
+{
+  "slug": "the-two-towers",
+  "title": "The Two Towers",
+  "author": "J. R. R. Tolkien",
+  "isbn13": "9780345272591",
+  "firstPublished": 1954,
+  "series": null,
+  "genres": ["epic-fantasy", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "tense", "melancholic"],
+  "tropes": ["quest", "war-story", "found-family"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "With the Fellowship broken, the story follows two threads. One group is drawn into a kingdom's war against a corrupted wizard, while the two hobbits with the Ring head toward Mordor with an unreliable guide.",
+  "readIf": "you have read the first book and want the middle volume, with its big battle and steadily darkening road.",
+  "skipIf": "you haven't read the first volume, because it begins in the middle of the story.",
+  "pairings": [
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "The final volume, which brings both threads to their conclusion.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "A darker, more political epic with armies and shifting alliances for a harsher palate.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A newer epic fantasy with a massive world, war and an enduring quest.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345272591",
+    "https://en.wikipedia.org/wiki/The_Two_Towers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

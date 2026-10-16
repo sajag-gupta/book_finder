@@ -1,0 +1,44 @@
+{
+  "slug": "the-couple-next-door",
+  "title": "The Couple Next Door",
+  "author": "Shari Lapena",
+  "isbn13": "9780735221086",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["twist-ending"],
+  "warnings": ["kidnapping", "mental-illness", "infidelity"],
+  "summary": "A couple goes to a dinner party next door and leaves their baby asleep at home with a monitor. When they come back, she is gone, and the police suspect the parents.",
+  "readIf": "you want a fast thriller that keeps shifting your suspicions and ends on a sting.",
+  "skipIf": "you find stories involving a missing baby too upsetting, since it is the whole premise.",
+  "pairings": [
+    {
+      "slug": "behind-closed-doors",
+      "reason": "Another quick, domestic thriller where a perfect-looking couple is hiding something.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "A richer and wittier look at secrets behind respectable neighbourhood doors.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "The more ambitious and cynical model for domestic thrillers about what couples hide.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780735221086",
+    "https://hardcover.app/books/the-couple-next-door"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

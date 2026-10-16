@@ -1,0 +1,45 @@
+{
+  "slug": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "isbn13": "9780192817716",
+  "firstPublished": 1859,
+  "series": null,
+  "genres": ["historical", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["epic", "heartbreaking"],
+  "tropes": ["mistaken-identity", "redemption", "war-story"],
+  "warnings": ["violence", "death"],
+  "summary": "Set between London and Paris in the years leading up to and through the French Revolution, this novel follows a wrongly accused man, the woman he loves, and a worn-out lawyer who looks strikingly like him.",
+  "readIf": "you want a classic with a famous opening, a sweeping historical backdrop and a final act that lands hard.",
+  "skipIf": "you dislike Victorian prose, long sentences or a slow first half before the plot tightens.",
+  "pairings": [
+    {
+      "slug": "les-miserables",
+      "reason": "Another large-hearted tale of revolutionary France where mercy and sacrifice matter as much as the politics.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "Also set in a turbulent France, with a faster, more plot-driven pace and plenty of satisfying reversals.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "wolf-hall",
+      "reason": "Shows another world coming apart through political upheaval, told in a more modern, sharp-edged voice.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 200,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780192817716",
+    "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities",
+    "https://hardcover.app/books/a-tale-of-two-cities"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

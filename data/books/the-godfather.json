@@ -1,0 +1,45 @@
+{
+  "slug": "the-godfather",
+  "title": "The Godfather",
+  "author": "Mario Puzo",
+  "isbn13": "9780451157362",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "epic"],
+  "tropes": ["family-saga", "morally-grey", "revenge"],
+  "warnings": ["violence", "death"],
+  "summary": "Vito Corleone is the head of a powerful New York crime family, and when an attack on him sets off a gang war, his youngest son Michael, who wanted no part of the business, is pulled into it.",
+  "readIf": "you want a richly detailed crime saga about loyalty, family and power.",
+  "skipIf": "you'd rather not read a long, violent story with dated attitudes toward women.",
+  "pairings": [
+    {
+      "slug": "no-country-for-old-men",
+      "reason": "A leaner, bleaker crime story about violence and fate, with a very spare style.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "A different kind of revenge epic, with elaborate plans and a more romantic spirit.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "Another big American saga about loyalty among tough men, with more warmth.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 21,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451157362",
+    "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
+    "https://hardcover.app/books/the-godfather"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

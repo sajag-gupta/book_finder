@@ -1,0 +1,45 @@
+{
+  "slug": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "isbn13": "9781537579368",
+  "firstPublished": 1890,
+  "series": null,
+  "genres": ["classic", "horror"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "witty", "haunting"],
+  "tropes": ["morally-grey"],
+  "warnings": ["death", "suicide", "violence", "manipulation"],
+  "summary": "A beautiful young man wishes he could stay young while his portrait ages. Under the influence of the witty Lord Henry, he pursues pleasure with no concern for consequence.",
+  "readIf": "you like sparkling epigrams and a gothic story about vanity and corruption.",
+  "skipIf": "you dislike long, talky passages or morally unredeemed characters.",
+  "pairings": [
+    {
+      "slug": "strange-case-of-dr-jekyll-and-mr-hyde",
+      "reason": "Another short Victorian tale about respectability hiding a darker nature.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A modern novel in which an elite, charming circle slides into moral ruin.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "frankenstein",
+      "reason": "A classic about the cost of tampering with nature, with a more sympathetic creation.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781537579368",
+    "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray",
+    "https://hardcover.app/books/the-picture-of-dorian-gray"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

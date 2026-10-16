@@ -1,0 +1,40 @@
+{
+  "slug": "stranger-in-a-strange-land",
+  "title": "Stranger in a Strange Land",
+  "author": "Robert A. Heinlein",
+  "isbn13": "9781429537315",
+  "firstPublished": 1961,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "mind-bending", "witty"],
+  "tropes": ["satire"],
+  "warnings": ["sexual-content", "violence", "death"],
+  "summary": "A man raised by Martians returns to Earth as a young adult, with strange powers and no sense of human customs. As he learns our world, his questions start to shake up religion, sex and politics.",
+  "readIf": "you like provocative, talky science fiction from the sixties that pokes at social rules.",
+  "skipIf": "you want a tight plot or modern views, as some attitudes about gender have aged badly.",
+  "pairings": [
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "Another outsider-on-a-strange-world novel about culture, gender and understanding, written more carefully.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "cats-cradle",
+      "reason": "A shorter, wittier satire on religion and science that works in a similar spirit.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781429537315",
+    "https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land",
+    "https://hardcover.app/books/stranger-in-a-strange-land"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-maze-runner",
+  "title": "The Maze Runner",
+  "author": "James Dashner",
+  "isbn13": "9780385737944",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "mysterious", "dark"],
+  "tropes": ["amnesia", "survival"],
+  "warnings": ["violence", "death"],
+  "summary": "A teenage boy wakes up in a lift with no memory and arrives in a glade filled with other boys, surrounded by a huge shifting maze. Every day the runners search it for a way out, and every night it is lethal.",
+  "readIf": "you want a fast, mystery-driven survival story with plenty of cliffhangers.",
+  "skipIf": "you want fully explained answers, because the questions pile up faster than they are resolved.",
+  "pairings": [
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "The older, harsher classic about boys building their own rules when adults are not there.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A stronger, more emotional story of young people trapped in a deadly game.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "wool",
+      "reason": "A thoughtful adult mystery about people confined in a sealed world who start to question it.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385737944",
+    "https://en.wikipedia.org/wiki/The_Maze_Runner",
+    "https://hardcover.app/books/the-maze-runner"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

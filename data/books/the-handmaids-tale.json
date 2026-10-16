@@ -1,0 +1,45 @@
+{
+  "slug": "the-handmaids-tale",
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "isbn13": "9781984899668",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["dystopian", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "haunting", "tense"],
+  "tropes": ["dystopian-regime"],
+  "warnings": ["sexual-assault", "abuse", "religious-extremism", "violence", "death"],
+  "summary": "In a future theocracy where fertile women are assigned to elite households as breeders, one Handmaid recalls her old life while she carries out her role. Small acts of defiance are dangerous.",
+  "readIf": "you want a chilling, intimate dystopia that feels frighteningly plausible.",
+  "skipIf": "you want comfort reading, because the book's depiction of control over women's bodies is disturbing and its ending is unresolved.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "The older model of the state-run nightmare, focused on language and surveillance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "Another thoughtful dystopian novel by a woman about survival and belief when society breaks down.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A short, young-adult look at a seemingly calm society with a terrible secret.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781984899668",
+    "https://en.wikipedia.org/wiki/The_Handmaid's_Tale",
+    "https://hardcover.app/books/the-handmaid-s-tale-1985"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

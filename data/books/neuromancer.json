@@ -1,0 +1,44 @@
+{
+  "slug": "neuromancer",
+  "title": "Neuromancer",
+  "author": "William Gibson",
+  "isbn13": "9780441012039",
+  "firstPublished": 1984,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "tense", "mind-bending"],
+  "tropes": ["heist", "artificial-intelligence"],
+  "warnings": ["addiction", "violence", "death"],
+  "summary": "A burned-out computer hacker, barred from the digital world by a vengeful injury, is recruited by a mysterious employer for one last intrusion job. It leads from grimy Japanese streets to orbital space and deep inside cyberspace.",
+  "readIf": "you want the original cyberpunk, full of neon, street slang and a cool, jagged mood.",
+  "skipIf": "you want clear explanations, as the prose is dense, stylised and happy to leave you slightly lost.",
+  "pairings": [
+    {
+      "slug": "snow-crash",
+      "reason": "A louder, funnier and more satirical cyberpunk with a similar sense of a corporate-run future.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "altered-carbon",
+      "reason": "A newer, more violent noir mystery set in a far-future world of hacked bodies.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "do-androids-dream-of-electric-sheep",
+      "reason": "An older, moodier story that shaped much of the same dark-city future.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780441012039",
+    "https://en.wikipedia.org/wiki/Neuromancer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

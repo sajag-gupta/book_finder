@@ -1,0 +1,45 @@
+{
+  "slug": "the-lost-symbol",
+  "title": "The Lost Symbol",
+  "author": "Dan Brown",
+  "isbn13": "9780307741905",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "adventurous"],
+  "tropes": ["secret-society", "twist-ending"],
+  "warnings": ["violence", "death", "kidnapping"],
+  "summary": "Robert Langdon is called to Washington, D.C., by an old mentor, only to find a grisly object left in the Capitol and his friend kidnapped. The trail runs through Masonic symbols and hidden places in the capital.",
+  "readIf": "you want another Langdon puzzle-chase, set in Washington instead of Europe.",
+  "skipIf": "you want the sharper pace of the first books; this one leans on big ideas.",
+  "pairings": [
+    {
+      "slug": "the-da-vinci-code",
+      "reason": "The series' best-known book, with a tighter chase and more famous art.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "origin",
+      "reason": "Another Langdon adventure that mixes a murder with a big question about humanity.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-historian",
+      "reason": "A slower, more atmospheric book about hunting secrets through old libraries and cities.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 30,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307741905",
+    "https://en.wikipedia.org/wiki/The_Lost_Symbol",
+    "https://hardcover.app/books/the-lost-symbol"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

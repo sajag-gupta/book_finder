@@ -1,0 +1,45 @@
+{
+  "slug": "the-sun-also-rises",
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "isbn13": "9780224035415",
+  "firstPublished": 1926,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["melancholic", "nostalgic"],
+  "tropes": ["love-triangle"],
+  "warnings": ["addiction", "prejudice", "animal-death"],
+  "summary": "A circle of American and British expatriates drift from Paris cafes to the bull-running fiesta in Pamplona. The narrator is in love with a woman who will not settle with him, and the tension rises among the men around her.",
+  "readIf": "you like spare, understated prose about people who drink to avoid saying what they mean.",
+  "skipIf": "you want sympathetic characters; the period's casual antisemitism is also hard to read.",
+  "pairings": [
+    {
+      "slug": "the-great-gatsby",
+      "reason": "Another short novel about a careless, glamorous generation and the emptiness underneath.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-farewell-to-arms",
+      "reason": "The same author's more emotional war novel with a more traditional love story.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "on-the-road",
+      "reason": "A later, more exuberant story of friends moving from place to place looking for something real.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780224035415",
+    "https://en.wikipedia.org/wiki/The_Sun_Also_Rises",
+    "https://hardcover.app/books/the-sun-also-rises"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

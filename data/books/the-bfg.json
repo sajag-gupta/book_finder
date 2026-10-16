@@ -1,0 +1,45 @@
+{
+  "slug": "the-bfg",
+  "title": "The BFG",
+  "author": "Roald Dahl",
+  "isbn13": "9780590975001",
+  "firstPublished": 1982,
+  "series": null,
+  "genres": ["children", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "funny", "cozy"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": [],
+  "summary": "A young orphan is carried off in the night by a giant who turns out to be kind. Together they set out to stop larger, nastier giants who prey on children.",
+  "readIf": "you like silly invented words, dream-catching and a friendship between a small girl and a huge, bumbling giant.",
+  "skipIf": "you want a story without any mild peril or a lot of gross-out humour.",
+  "pairings": [
+    {
+      "slug": "matilda",
+      "reason": "Another Dahl story in which a small, sharp child outwits the grown-ups around her.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "james-and-the-giant-peach",
+      "reason": "Shares the same cheerful absurdity and an orphaned hero who finds odd, loyal companions.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-neverending-story",
+      "reason": "A longer and more serious tale of imagination, for readers ready to go further into fantasy.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780590975001",
+    "https://en.wikipedia.org/wiki/The_BFG",
+    "https://hardcover.app/books/the-bfg"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

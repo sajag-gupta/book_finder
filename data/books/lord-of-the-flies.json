@@ -1,0 +1,45 @@
+{
+  "slug": "lord-of-the-flies",
+  "title": "Lord of the Flies",
+  "author": "William Golding",
+  "isbn13": "9780399506437",
+  "firstPublished": 1954,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["survival"],
+  "warnings": ["violence", "death", "child-death", "bullying"],
+  "summary": "A group of British schoolboys is stranded on an uninhabited island after a plane crash. Without adults, they try to organise themselves, and the effort turns into rivalry and fear.",
+  "readIf": "you like short, chilling parables about how fast order can fall apart.",
+  "skipIf": "you want hope or tenderness; it is a bleak story about children hurting each other.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Also puts young people in a lethal contest, with a stronger sense of heroism and a bigger plot.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-road",
+      "reason": "Another stark, short novel about humanity pushed to its limit, with a quieter and more tender centre.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A much gentler survival story about a boy alone, showing nature as a challenge instead of a mirror for evil.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399506437",
+    "https://en.wikipedia.org/wiki/Lord_of_the_Flies",
+    "https://hardcover.app/books/lord-of-the-flies"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "the-firm",
+  "title": "The Firm",
+  "author": "John Grisham",
+  "isbn13": "9781784756970",
+  "firstPublished": 1991,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["secret-society"],
+  "warnings": ["violence", "death", "infidelity"],
+  "summary": "A brilliant young law graduate from a poor background joins a small Memphis firm that lavishes him with perks. He slowly realises that its clients and its partners are not what they appear, and he cannot walk away.",
+  "readIf": "you want a very readable legal thriller about getting in over your head.",
+  "skipIf": "you want fresh style or surprising characters, since this book is about plot momentum.",
+  "pairings": [
+    {
+      "slug": "the-pelican-brief",
+      "reason": "Another quick Grisham conspiracy with a smart, lone protagonist on the run from powerful people.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "presumed-innocent",
+      "reason": "A more literary and morally complicated legal thriller that digs deeper into guilt and marriage.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784756970",
+    "https://en.wikipedia.org/wiki/The_Firm_(novel)",
+    "https://hardcover.app/books/the-firm"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

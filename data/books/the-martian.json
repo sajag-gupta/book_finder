@@ -1,0 +1,44 @@
+{
+  "slug": "the-martian",
+  "title": "The Martian",
+  "author": "Andy Weir",
+  "isbn13": "9781785033827",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "tense", "inspiring"],
+  "tropes": ["survival", "space-survival"],
+  "warnings": [],
+  "summary": "An astronaut is left behind on Mars when his crew believes he is dead and has to evacuate. With almost no supplies, he must grow food, fix machinery and find a way to signal home.",
+  "readIf": "you like problem-solving stories where a chatty hero science-hacks his way out of impossible spots.",
+  "skipIf": "you want deep character drama, because the book is mostly engineering challenges and jokes.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "The same author, with the same funny, science-led voice, plus a bigger mystery and a surprise friendship.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A much quieter survival story about one person alone, with the same satisfaction in each small win.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "we-are-legion-we-are-bob",
+      "reason": "Another sarcastic, nerdy narrator doing space problem-solving, with a lighter and weirder premise.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781785033827",
+    "https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

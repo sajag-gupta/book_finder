@@ -1,0 +1,45 @@
+{
+  "slug": "the-color-purple",
+  "title": "The Color Purple",
+  "author": "Alice Walker",
+  "isbn13": "9781453223970",
+  "firstPublished": 1982,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "hopeful", "inspiring"],
+  "tropes": ["epistolary"],
+  "warnings": ["abuse", "sexual-assault", "child-sexual-abuse", "domestic-violence", "racism"],
+  "summary": "Celie, a poor Black girl in rural Georgia, writes letters to God about her life of abuse and hard work. Over decades, the women she meets help her to find her own voice, and eventually her sister Nettie's letters begin to reach her.",
+  "readIf": "you want a moving, voice-driven novel about survival, sisterhood and self-worth.",
+  "skipIf": "you would struggle with the early scenes of rape and domestic violence.",
+  "pairings": [
+    {
+      "slug": "beloved",
+      "reason": "A more haunting, difficult novel about Black women, memory and trauma.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "their-eyes-were-watching-god",
+      "reason": "An earlier classic about a Black woman in the South finding independence and her own voice.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-help",
+      "reason": "A more commercial, easier novel about Black women and their stories in the Jim Crow South.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781453223970",
+    "https://en.wikipedia.org/wiki/The_Color_Purple",
+    "https://hardcover.app/books/the-color-purple"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

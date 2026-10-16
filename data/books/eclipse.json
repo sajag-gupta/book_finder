@@ -1,0 +1,45 @@
+{
+  "slug": "eclipse",
+  "title": "Eclipse",
+  "author": "Stephenie Meyer",
+  "isbn13": "9781616050931",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["young-adult", "romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["swoony", "tense", "adventurous"],
+  "tropes": ["love-triangle", "vampires", "forbidden-love"],
+  "warnings": ["violence", "death"],
+  "summary": "Bella is torn between the vampire she loves and the werewolf who loves her, while a series of killings in Seattle points to a vengeful vampire building an army. The young are forced to ally against it.",
+  "readIf": "you want the most plot-heavy and angsty chapter of the Twilight saga.",
+  "skipIf": "you have not read the earlier books or are tired of love triangles and intense, slightly controlling romance.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A later romance that offers a similar rush of forbidden attraction and a dangerous hero, with an adult edge.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-selection",
+      "reason": "A lighter young adult romance with a love triangle at the core and no monsters.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "The original brooding literary vampire novel, much more philosophical and melancholy.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781616050931",
+    "https://en.wikipedia.org/wiki/Eclipse_(Meyer_novel)",
+    "https://hardcover.app/books/eclipse"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

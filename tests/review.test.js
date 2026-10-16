@@ -5,6 +5,7 @@ import {
   compareFacts,
   hasFailures,
   lengthBand,
+  pickHardcover,
   pickWikiPage,
   sourceUrls,
 } from '../src/review/checks.js';
@@ -153,4 +154,76 @@ test('approval refuses failures, and warnings unless accepted', () => {
   const warned = compareFacts(book, { ...good, wiki: undefined });
   assert.throws(() => approve({ findings: warned }), /warnings/);
   assert.equal(approve({ findings: warned, acceptWarnings: true }).status, 'reviewed');
+});
+
+test('Open Library listing the author in another script only warns when Hardcover confirms', () => {
+  const hc = { title: 'Dune', slug: 'dune-1965', author_names: ['Frank Herbert'] };
+  const localised = { ...good, work: { ...good.work, author_name: ['フランク・ハーバート'] } };
+  const withHc = compareFacts(book, { ...localised, hc });
+  assert.ok(withHc.some((f) => f.check === 'author' && f.level === 'warn'));
+  assert.ok(!hasFailures(withHc));
+  const withoutHc = compareFacts(book, localised);
+  assert.ok(withoutHc.some((f) => f.check === 'author' && f.level === 'fail'));
+});
+
+test('page counts fall back to Hardcover when Open Library has none', () => {
+  const hc = { title: 'Dune', slug: 'dune-1965', author_names: ['Frank Herbert'], pages: 612 };
+  const findings = compareFacts(book, { ...good, edition: { title: 'Dune' }, hc });
+  assert.ok(findings.some((f) => f.check === 'length' && f.level === 'ok'));
+});
+
+test('sourceUrls includes the Hardcover page when there is one', () => {
+  const hc = { slug: 'dune-1965' };
+  assert.ok(
+    sourceUrls(book, { edition: {}, hc }).includes('https://hardcover.app/books/dune-1965'),
+  );
+});
+
+test('title matching ignores diacritics, punctuation and a leading "The"', () => {
+  const by = (author) => ({ author_name: [author], first_publish_year: 1965 });
+  const shogun = { ...book, title: 'Shōgun', author: 'James Clavell' };
+  const shogunFacts = { ...good, work: by('James Clavell') };
+  assert.ok(!hasFailures(compareFacts(shogun, { ...shogunFacts, edition: { title: 'Shogun' } })));
+  const abc = { ...book, title: 'The ABC Murders', author: 'Agatha Christie' };
+  const abcFacts = { ...good, work: by('Agatha Christie') };
+  assert.ok(
+    !hasFailures(compareFacts(abc, { ...abcFacts, edition: { title: 'A. B. C. Murders' } })),
+  );
+  const wrong = compareFacts(shogun, { ...shogunFacts, edition: { title: 'Dune' } });
+  assert.ok(hasFailures(wrong), 'a different book still fails');
+});
+
+test('author surnames match across diacritics', () => {
+  const lapena = { ...book, title: 'The Couple Next Door', author: 'Shari Lapena' };
+  const work = { author_name: ['Shari Lapeña'], first_publish_year: book.firstPublished };
+  const findings = compareFacts(lapena, {
+    ...good,
+    edition: { title: 'The Couple Next Door' },
+    work,
+  });
+  assert.ok(findings.some((f) => f.check === 'author' && f.level === 'ok'));
+});
+
+test('Hardcover confirming the year turns a bad Open Library year into a warning', () => {
+  const noisy = { ...good, work: { ...good.work, first_publish_year: 1934 }, wiki: undefined };
+  assert.ok(hasFailures(compareFacts(book, noisy)));
+  const hc = { title: 'Dune', slug: 'd', author_names: ['Frank Herbert'], release_year: 1965 };
+  const confirmed = compareFacts(book, { ...noisy, hc });
+  assert.ok(!hasFailures(confirmed));
+  assert.ok(confirmed.some((f) => f.detail.includes('Hardcover confirms 1965')));
+  const wrongYear = compareFacts(book, { ...noisy, hc: { ...hc, release_year: 1999 } });
+  assert.ok(hasFailures(wrongYear), 'a Hardcover year that also disagrees does not rescue it');
+});
+
+test('pickHardcover accepts subtitles after punctuation but not sequels', () => {
+  const dune = { ...book, title: 'Dune', author: 'Frank Herbert' };
+  const docs = (title) => [{ title, slug: 's', author_names: ['Frank Herbert'], users_count: 1 }];
+  assert.ok(pickHardcover(dune, docs('Dune: Deluxe Edition')));
+  assert.ok(pickHardcover(dune, docs('Dune (Dune Chronicles #1)')));
+  assert.equal(pickHardcover(dune, docs('Dune Messiah')), undefined);
+  const babel = { ...book, title: 'Babel', author: 'R. F. Kuang' };
+  const hit = [
+    { title: 'Babel, or the Necessity of Violence', slug: 'b', author_names: ['R.F. Kuang'] },
+  ];
+  assert.ok(pickHardcover(babel, hit));
 });

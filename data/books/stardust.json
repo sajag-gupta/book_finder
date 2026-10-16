@@ -1,0 +1,44 @@
+{
+  "slug": "stardust",
+  "title": "Stardust",
+  "author": "Neil Gaiman",
+  "isbn13": "9781845764661",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["whimsical", "swoony", "adventurous"],
+  "tropes": ["quest", "fairy-tale-retelling", "witches", "fae"],
+  "warnings": ["violence"],
+  "summary": "A young man in an English village that borders the fairy realm promises to bring his beloved a fallen star. When he finds it, the star is a woman, and a witch and a pair of rival princes are also hunting for her.",
+  "readIf": "you want a short, charming fairy tale for grown-ups with a bit of romance and wit.",
+  "skipIf": "you want a darker, more serious fantasy or find the fairy-tale tone too light.",
+  "pairings": [
+    {
+      "slug": "the-princess-bride",
+      "reason": "Another fairy-tale adventure for adults and children that mixes romance with dry, affectionate humour.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "A more elaborate, dreamy fantasy romance with a similar sense of enchantment.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-last-unicorn",
+      "reason": "Another quest-shaped fairy story with a wistful ending and a lyrical style.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781845764661",
+    "https://en.wikipedia.org/wiki/Stardust_(Gaiman_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

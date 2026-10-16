@@ -1,0 +1,45 @@
+{
+  "slug": "peter-pan",
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "isbn13": "9781480245426",
+  "firstPublished": 1911,
+  "series": null,
+  "genres": ["fantasy", "children", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "nostalgic", "adventurous"],
+  "tropes": ["portal-fantasy", "coming-of-age", "found-family"],
+  "warnings": ["violence"],
+  "summary": "The Darling children follow a boy who never grows up out of their London nursery window and fly to Neverland. There, they meet pirates, fairies and lost boys, and have to decide whether to stay or to return home.",
+  "readIf": "you want a bittersweet classic about childhood and growing up, told by a playful narrator.",
+  "skipIf": "you want a modern take, since it contains period attitudes, including a portrayal of the island's native people that reads as outdated.",
+  "pairings": [
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another Victorian-era story of a child's trip to a strange world, with a similar sense of play.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-wonderful-wizard-of-oz",
+      "reason": "Another classic where a child journeys into a magical land and then decides what home is.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-little-prince",
+      "reason": "Another short story with a child hero that is also about the sadness of growing up.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781480245426",
+    "https://en.wikipedia.org/wiki/Peter_Pan",
+    "https://hardcover.app/books/peter-pan"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

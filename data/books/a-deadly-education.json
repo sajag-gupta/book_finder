@@ -1,0 +1,45 @@
+{
+  "slug": "a-deadly-education",
+  "title": "A Deadly Education",
+  "author": "Naomi Novik",
+  "isbn13": "9780593128503",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "witty", "tense"],
+  "tropes": ["magic-school", "enemies-to-lovers", "survival", "chosen-one"],
+  "warnings": ["violence", "death", "gore", "bullying"],
+  "summary": "At a magical school with no teachers and monsters hiding in every corridor, a sarcastic student with a gift for destruction just wants to survive until graduation. Then the most popular boy in school keeps saving her life.",
+  "readIf": "you like a grim, snarky take on the magic school genre with a prickly narrator and clever worldbuilding.",
+  "skipIf": "you want a cosy school story or dislike a narration that heavily explains how the magic works.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "reason": "The cheerful opposite: a magic school with real danger but also warmth and wonder.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-magicians",
+      "reason": "Another bleak, adult-leaning take on magical education where talent has a real cost.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "ninth-house",
+      "reason": "Another school-adjacent fantasy that is dark, violent and driven by a wary heroine.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593128503",
+    "https://en.wikipedia.org/wiki/A_Deadly_Education",
+    "https://hardcover.app/books/a-deadly-education"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

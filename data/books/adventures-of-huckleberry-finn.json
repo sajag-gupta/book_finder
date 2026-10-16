@@ -1,0 +1,44 @@
+{
+  "slug": "adventures-of-huckleberry-finn",
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "isbn13": "9781729440711",
+  "firstPublished": 1885,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "funny", "thoughtful"],
+  "tropes": ["road-trip", "unlikely-friendship", "coming-of-age"],
+  "warnings": ["racism", "slavery", "violence", "abuse"],
+  "summary": "Huck fakes his own death to escape his violent father and rafts down the Mississippi with Jim, an enslaved man fleeing to freedom. They run into con men, feuding families and other hazards on the way.",
+  "readIf": "you want a funny, dangerous, voice-driven classic of American literature about friendship and conscience.",
+  "skipIf": "frequent racist language, even used satirically, will keep you from enjoying it.",
+  "pairings": [
+    {
+      "slug": "treasure-island",
+      "reason": "Another boy's adventure with a charming rogue, set on the water.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "Another American classic about a child's growing moral awareness in a racist society.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "A far larger American journey with the same sense of landscape and rough humour.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781729440711",
+    "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

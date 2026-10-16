@@ -1,0 +1,41 @@
+{
+  "slug": "babel",
+  "title": "Babel",
+  "author": "R. F. Kuang",
+  "isbn13": "9780008501815",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["fantasy", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "tense", "dark"],
+  "tropes": ["magic-school", "secret-society", "rebellion", "coming-of-age"],
+  "warnings": ["racism", "violence", "death", "prejudice", "grief"],
+  "summary": "A boy brought from Canton to Victorian England is trained in languages at Oxford's Royal Institute of Translation, where silver and the meanings lost between words power the empire's magic. He comes to question whom his gifts really serve.",
+  "readIf": "you like a dark-academia fantasy that is interested in language, colonialism and difficult choices.",
+  "skipIf": "you want a light read or dislike footnotes and essay-like passages in your fiction.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another elite-scholar story with a close group of students, a slowly tightening trap and moral rot.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "jonathan-strange-and-mr-norrell",
+      "reason": "Another alternate-history England where scholarly magic is treated with wry, bookish detail.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "Same author, with a more violent, war-driven plot but the same fury toward imperial power.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

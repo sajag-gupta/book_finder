@@ -1,0 +1,45 @@
+{
+  "slug": "rendezvous-with-rama",
+  "title": "Rendezvous with Rama",
+  "author": "Arthur C. Clarke",
+  "isbn13": "9781405073035",
+  "firstPublished": 1973,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mysterious", "thoughtful", "adventurous"],
+  "tropes": ["first-contact"],
+  "warnings": [],
+  "summary": "A huge cylindrical object enters the solar system and a single human crew has just enough time to board it. They explore its vast interior, which seems built by someone who has no interest in them.",
+  "readIf": "you love the thrill of exploring a giant, unexplained alien object.",
+  "skipIf": "you want answers, characters with strong personalities or an alien who appears and talks.",
+  "pairings": [
+    {
+      "slug": "childhoods-end",
+      "reason": "The same author's more philosophical vision of humanity meeting forces far greater than itself.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "Another expedition into a baffling, unexplained zone, with a much more disturbing mood.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "A very different tone, but shares the pleasure of clever people solving practical problems in space.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405073035",
+    "https://en.wikipedia.org/wiki/Rendezvous_with_Rama",
+    "https://hardcover.app/books/rendezvous-with-rama"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

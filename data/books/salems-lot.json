@@ -1,0 +1,45 @@
+{
+  "slug": "salems-lot",
+  "title": "'Salem's Lot",
+  "author": "Stephen King",
+  "isbn13": "9780671039752",
+  "firstPublished": 1975,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["spooky", "dark", "nostalgic"],
+  "tropes": ["vampires", "small-town", "monster"],
+  "warnings": ["violence", "death", "child-death", "gore"],
+  "summary": "A writer returns to his Maine hometown just as a mysterious pair of antiques dealers move into the old house on the hill. As residents begin to change, a few people realise what is happening.",
+  "readIf": "you like small-town horror with a cast of ordinary people and a traditional vampire threat.",
+  "skipIf": "you want a modern, glamorous take on vampires.",
+  "pairings": [
+    {
+      "slug": "dracula",
+      "reason": "The original vampire novel that this book directly echoes and updates.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "A very different, melancholy and intimate take on vampires.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "it",
+      "reason": "Another King story about a town with a hidden evil, with a stronger focus on friendship.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780671039752",
+    "https://en.wikipedia.org/wiki/'Salem's_Lot",
+    "https://hardcover.app/books/salems-lot"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

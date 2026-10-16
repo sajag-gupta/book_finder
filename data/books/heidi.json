@@ -1,0 +1,45 @@
+{
+  "slug": "heidi",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "isbn13": "9780694014538",
+  "firstPublished": 1880,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["comforting", "cozy", "hopeful"],
+  "tropes": ["coming-of-age", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "After being orphaned, a young girl is sent to live with her gruff grandfather on a Swiss mountain, where she grows to love the alpine life. Later she is taken to a city and longs to return.",
+  "readIf": "you want a warm, nostalgic read set in lovely mountain scenery.",
+  "skipIf": "you find old-fashioned moralising and religious sentiment tiresome.",
+  "pairings": [
+    {
+      "slug": "anne-of-green-gables",
+      "reason": "Another orphan wins over a stern guardian in a beautifully described setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-garden",
+      "reason": "A child transformed by fresh air and nature, with more mystery.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "little-women",
+      "reason": "A family-centred classic with the same warmth and moral heart, for slightly older readers.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780694014538",
+    "https://en.wikipedia.org/wiki/Heidi",
+    "https://hardcover.app/books/heidi"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

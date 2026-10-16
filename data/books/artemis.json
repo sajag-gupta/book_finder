@@ -1,0 +1,45 @@
+{
+  "slug": "artemis",
+  "title": "Artemis",
+  "author": "Andy Weir",
+  "isbn13": "9780553448146",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "witty", "adventurous"],
+  "tropes": ["heist"],
+  "warnings": ["violence", "death"],
+  "summary": "On the first city on the Moon, a young smuggler takes on a lucrative sabotage job that turns out to be tied to a larger conspiracy. She has to use her wits and knowledge of the city to survive.",
+  "readIf": "you like caper plots with lots of practical science and a brash, sarcastic narrator.",
+  "skipIf": "you want the charm of the author's earlier books; the main voice is more abrasive, and the plot more routine.",
+  "pairings": [
+    {
+      "slug": "the-martian",
+      "reason": "The author's first and more beloved novel, with a lone problem-solver and a brisker, funnier tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "A fantasy heist about a clever criminal crew, with just as much patter and plotting.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "Another lived-in solar-system story that mixes a noir mystery with big conspiracies.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553448146",
+    "https://en.wikipedia.org/wiki/Artemis_(novel)",
+    "https://hardcover.app/books/artemis"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

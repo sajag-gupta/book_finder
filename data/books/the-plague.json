@@ -1,0 +1,45 @@
+{
+  "slug": "the-plague",
+  "title": "The Plague",
+  "author": "Albert Camus",
+  "isbn13": "9781400042555",
+  "firstPublished": 1947,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "dark", "haunting"],
+  "tropes": ["survival", "small-town"],
+  "warnings": ["pandemic", "death", "child-death", "grief"],
+  "summary": "When rats begin dying in the Algerian port city of Oran, an epidemic follows and the town is sealed off. The story follows a doctor and the people around him as they decide how to live while it rages.",
+  "readIf": "you want a thoughtful, calm novel about duty, solidarity and living with a crisis.",
+  "skipIf": "you want a thriller about the disease; this is a philosophical novel with little suspense.",
+  "pairings": [
+    {
+      "slug": "the-stranger",
+      "reason": "Camus's shorter, colder novel about indifference and meaning.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A more hopeful pandemic novel about what people hold on to when the world ends.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-road",
+      "reason": "A far bleaker book about a father and son surviving after a collapse.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 12,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781400042555",
+    "https://en.wikipedia.org/wiki/The_Plague_(novel)",
+    "https://hardcover.app/books/the-plague"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

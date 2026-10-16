@@ -1,0 +1,45 @@
+{
+  "slug": "jurassic-park",
+  "title": "Jurassic Park",
+  "author": "Michael Crichton",
+  "isbn13": "9780345374912",
+  "firstPublished": 1990,
+  "series": null,
+  "genres": ["science-fiction", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["monster", "survival"],
+  "warnings": ["death", "violence", "gore"],
+  "summary": "On a remote island, a billionaire has used genetic engineering to bring dinosaurs back for a theme park. When the security system fails during a weekend visit by a group of experts, things go badly wrong.",
+  "readIf": "you want a lean, science-flavoured creature thriller where everything that can go wrong does.",
+  "skipIf": "you only know the film, because the book is darker, with more science talk and more deaths.",
+  "pairings": [
+    {
+      "slug": "jaws",
+      "reason": "Another classic that makes a single huge predator the centre of a tense, popular thriller.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-andromeda-strain",
+      "reason": "The same author's earlier, more clinical thriller about science getting away from its makers.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "sphere",
+      "reason": "Another team of scientists confronted by something huge and unknown, this time far below the sea.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345374912",
+    "https://en.wikipedia.org/wiki/Jurassic_Park",
+    "https://hardcover.app/books/jurassic-park"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

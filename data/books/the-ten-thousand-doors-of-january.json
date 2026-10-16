@@ -1,0 +1,45 @@
+{
+  "slug": "the-ten-thousand-doors-of-january",
+  "title": "The Ten Thousand Doors of January",
+  "author": "Alix E. Harrow",
+  "isbn13": "9781549101069",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["fantasy", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "adventurous", "hopeful"],
+  "tropes": ["portal-fantasy", "book-within-a-book", "coming-of-age"],
+  "warnings": ["racism", "prejudice"],
+  "summary": "In the early 1900s a girl of mixed heritage is raised as a curiosity in a rich man's mansion. She finds a strange book that tells of doors to other worlds, and begins to wonder what she really is.",
+  "readIf": "you like lyrical portal fantasy that celebrates books, doors and the people who cannot be kept in boxes.",
+  "skipIf": "you want brisk, plot-first fantasy, because the prose is ornate and the pace is gentle.",
+  "pairings": [
+    {
+      "slug": "the-starless-sea",
+      "reason": "Another love letter to stories and hidden worlds, with a similar dreamy, story-inside-a-story feel.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A younger heroine, a guarded home and a path into other worlds, told in a more direct adventure style.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "Equally atmospheric and romantic in its imagery, with a slower, more spellbound mood.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781549101069",
+    "https://en.wikipedia.org/wiki/The_Ten_Thousand_Doors_of_January",
+    "https://hardcover.app/books/the-ten-thousand-doors-of-january"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

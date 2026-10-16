@@ -1,0 +1,45 @@
+{
+  "slug": "klara-and-the-sun",
+  "title": "Klara and the Sun",
+  "author": "Kazuo Ishiguro",
+  "isbn13": "9780593311295",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "thoughtful", "heartbreaking"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "Klara is a solar-powered companion robot who watches the world from a shop window until a sick teenage girl chooses her. As she tries to help her new family, she holds her own odd, devoted beliefs about the Sun.",
+  "readIf": "you like gentle, understated fiction that sees human behaviour through an outsider's eyes.",
+  "skipIf": "you want plot and answers, because the world is only lightly sketched and the story is very quiet.",
+  "pairings": [
+    {
+      "slug": "never-let-me-go",
+      "reason": "Same author and the same hush, with a made-for-purpose narrator and a very quiet sadness.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-psalm-for-the-wild-built",
+      "reason": "A warmer and more hopeful short story about a robot learning what people need.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "i-robot",
+      "reason": "A more clinical, puzzle-based set of stories about machines that care and the humans around them.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593311295",
+    "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+    "https://hardcover.app/books/klara-and-the-sun"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-kite-runner",
+  "title": "The Kite Runner",
+  "author": "Khaled Hosseini",
+  "isbn13": "9781417640393",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "thoughtful", "hopeful"],
+  "tropes": ["redemption", "coming-of-age"],
+  "warnings": ["sexual-assault", "child-sexual-abuse", "violence", "war", "death", "prejudice"],
+  "summary": "Amir grows up in Kabul with his servant's son Hassan as his closest friend, and a betrayal in childhood haunts him. Years later, in California, he is offered a chance to set things right.",
+  "readIf": "you want an emotional, plot-driven novel about guilt, friendship and a country changing around its people.",
+  "skipIf": "you can't read about the assault of a child or about brutal violence.",
+  "pairings": [
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "The author's companion novel about two women in Afghanistan, equally moving and often harder to bear.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "Another novel where a childhood friendship and a historical catastrophe shape a life.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "A family story spanning generations and borders, with a calmer, steadier voice.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 31.5,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417640393",
+    "https://en.wikipedia.org/wiki/The_Kite_Runner",
+    "https://hardcover.app/books/the-kite-runner"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

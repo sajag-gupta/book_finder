@@ -1,0 +1,45 @@
+{
+  "slug": "the-lion-the-witch-and-the-wardrobe",
+  "title": "The Lion, the Witch and the Wardrobe",
+  "author": "C. S. Lewis",
+  "isbn13": "9780060765446",
+  "firstPublished": 1950,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "adventurous", "comforting"],
+  "tropes": ["portal-fantasy", "talking-animals", "chosen-one", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "Four siblings sent away from wartime London find a wardrobe that leads into a snowy land where it is always winter and never Christmas. A talking lion and an ancient prophecy put them at the centre of a struggle against a witch.",
+  "readIf": "you want a short, classic children's adventure with talking animals and a clear good-versus-evil story.",
+  "skipIf": "you want complex characters or find overt allegory and old-fashioned narration irritating.",
+  "pairings": [
+    {
+      "slug": "the-golden-compass",
+      "reason": "A darker, more questioning children's fantasy that is often seen as a reply to this kind of story.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-wonderful-wizard-of-oz",
+      "reason": "Another portal-style classic where a child is swept into a magical land and has to find her way home.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "Another cozy, adventurous classic with a gentle narrator and a clear sense of wonder.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780060765446",
+    "https://en.wikipedia.org/wiki/The_Lion%2C_the_Witch_and_the_Wardrobe",
+    "https://hardcover.app/books/the-lion-the-witch-and-the-wardrobe"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

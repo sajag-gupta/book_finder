@@ -1,0 +1,45 @@
+{
+  "slug": "the-thorn-birds",
+  "title": "The Thorn Birds",
+  "author": "Colleen McCullough",
+  "isbn13": "9780060586195",
+  "firstPublished": 1977,
+  "series": null,
+  "genres": ["romance", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["swoony", "heartbreaking", "epic"],
+  "tropes": ["forbidden-love", "family-saga"],
+  "warnings": ["sexual-content", "death", "grief"],
+  "summary": "Across several decades on a remote Australian sheep station, the Cleary family faces drought, hardship and loss. Daughter Meggie falls in love with a charismatic young priest whose ambition pulls him another way.",
+  "readIf": "you want a lush, emotional family saga with a forbidden love at its centre.",
+  "skipIf": "you dislike melodrama or books where the characters make each other miserable.",
+  "pairings": [
+    {
+      "slug": "gone-with-the-wind",
+      "reason": "Another sweeping, emotional saga about a determined woman and an impossible love.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "outlander",
+      "reason": "A big, romantic historical tale with an equally strong central relationship.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "Another epic of rugged frontier life with great scenery, but more about friendship than love.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 33,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780060586195",
+    "https://en.wikipedia.org/wiki/The_Thorn_Birds",
+    "https://hardcover.app/books/the-thorn-birds"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

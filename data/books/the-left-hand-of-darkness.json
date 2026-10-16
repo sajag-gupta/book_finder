@@ -1,0 +1,45 @@
+{
+  "slug": "the-left-hand-of-darkness",
+  "title": "The Left Hand of Darkness",
+  "author": "Ursula K. Le Guin",
+  "isbn13": "9780441007318",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "melancholic", "haunting"],
+  "tropes": ["unlikely-friendship", "political-intrigue", "survival"],
+  "warnings": [],
+  "summary": "A human envoy arrives on a frozen world to invite its nations to join a wider alliance. He finds a society whose people have no fixed gender, and a political tangle that forces him to trust a local statesman.",
+  "readIf": "you like thoughtful science fiction about identity, friendship and being a stranger.",
+  "skipIf": "you want a lot of action; the plot moves slowly, and the book is mostly about culture and trust.",
+  "pairings": [
+    {
+      "slug": "the-dispossessed",
+      "reason": "Another Le Guin novel about outsiders, politics and ideas, with a sharper debate between two societies.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "ancillary-justice",
+      "reason": "A more modern work that plays with gender and identity within a vast, bureaucratic space empire.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-psalm-for-the-wild-built",
+      "reason": "A short, warm and quiet story about two very different beings learning to understand each other.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780441007318",
+    "https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness",
+    "https://hardcover.app/books/the-left-hand-of-darkness"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

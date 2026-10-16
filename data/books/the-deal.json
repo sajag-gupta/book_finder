@@ -1,0 +1,41 @@
+{
+  "slug": "the-deal",
+  "title": "The Deal",
+  "author": "Elle Kennedy",
+  "isbn13": "9781777112141",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "funny"],
+  "tropes": ["fake-dating", "sports", "friends-to-lovers"],
+  "warnings": ["sexual-content", "sexual-assault", "abuse"],
+  "summary": "A college hockey star agrees to tutor a clever, guarded classmate who needs to make another guy jealous. In return, he gets help passing a class he can't afford to fail, and the arrangement stops being purely practical.",
+  "readIf": "you want a campus hockey romance with heat, banter and a heroine working through something painful.",
+  "skipIf": "you want a purely light read, since it deals directly with an assault in the heroine's past.",
+  "pairings": [
+    {
+      "slug": "icebreaker",
+      "reason": "Another college hockey romance, newer and a little more tender, with a similar mix of heat and humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-spanish-love-deception",
+      "reason": "A fake-relationship romance with a stern, secretly caring hero and a steady slow thaw.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "it-ends-with-us",
+      "reason": "Both treat serious relationship trauma inside a love story, though this one is far heavier and more painful.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781777112141", "https://hardcover.app/books/the-deal"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "hatchet",
+  "title": "Hatchet",
+  "author": "Gary Paulsen",
+  "isbn13": "9780812471267",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["adventure", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "tense", "inspiring"],
+  "tropes": ["survival", "coming-of-age"],
+  "warnings": ["death"],
+  "summary": "Thirteen-year-old Brian is the only passenger on a small plane when the pilot has a heart attack over the Canadian wilderness. After a crash landing in a lake, all he has is a hatchet.",
+  "readIf": "you want a gripping, practical survival story that you can finish in an afternoon.",
+  "skipIf": "you want romance, humour or a big cast of characters.",
+  "pairings": [
+    {
+      "slug": "life-of-pi",
+      "reason": "A longer, more philosophical survival story in which a young person must keep going alone.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "robinson-crusoe",
+      "reason": "The classic survival-on-your-own tale that set the template for this kind of story.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "holes",
+      "reason": "Another short, plot-driven novel about a boy proving himself in a harsh landscape.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812471267",
+    "https://en.wikipedia.org/wiki/Hatchet_(novel)",
+    "https://hardcover.app/books/hatchet"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

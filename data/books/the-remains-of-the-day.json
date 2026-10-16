@@ -1,0 +1,45 @@
+{
+  "slug": "the-remains-of-the-day",
+  "title": "The Remains of the Day",
+  "author": "Kazuo Ishiguro",
+  "isbn13": "9780571322732",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful", "nostalgic"],
+  "tropes": ["unreliable-narrator", "slow-burn"],
+  "warnings": [],
+  "summary": "In 1956, an ageing English butler, Stevens, takes a road trip to visit a former housekeeper. As he travels, he recalls decades of loyal service to Lord Darlington and the things he never said.",
+  "readIf": "you like quiet, beautifully controlled novels where the real story lies in what the narrator avoids.",
+  "skipIf": "you want plot and action, because the drama is subtle and internal.",
+  "pairings": [
+    {
+      "slug": "never-let-me-go",
+      "reason": "Another Ishiguro novel with a restrained narrator who slowly reveals a painful truth.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "atonement",
+      "reason": "A novel about a misjudgement made in the English country-house world and its long aftermath.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-gentleman-in-moscow",
+      "reason": "A warmer, more playful story of a man whose world has shrunk but whose manners stay intact.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571322732",
+    "https://en.wikipedia.org/wiki/The_Remains_of_the_Day",
+    "https://hardcover.app/books/the-remains-of-the-day"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

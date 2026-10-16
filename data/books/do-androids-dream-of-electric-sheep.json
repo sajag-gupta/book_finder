@@ -1,0 +1,45 @@
+{
+  "slug": "do-androids-dream-of-electric-sheep",
+  "title": "Do Androids Dream of Electric Sheep?",
+  "author": "Philip K. Dick",
+  "isbn13": "9780752864303",
+  "firstPublished": 1968,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "thoughtful", "melancholic"],
+  "tropes": ["artificial-intelligence", "post-apocalyptic"],
+  "warnings": ["violence", "death"],
+  "summary": "On a poisoned, half-empty Earth, a bounty hunter is assigned to track down and retire six escaped androids that look and talk like people. The job makes him question what empathy actually is.",
+  "readIf": "you like short, strange science fiction about what makes a person real.",
+  "skipIf": "you want the sleek action of the film it inspired, since the book is quieter, odder and more philosophical.",
+  "pairings": [
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "Another look at the inner life of a made being, told with far more tenderness.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "neuromancer",
+      "reason": "A similarly grimy, neon-lit future with a cynical lead, but with more speed and style.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "i-robot",
+      "reason": "A calmer, puzzle-driven set of stories about the line between machine and person.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780752864303",
+    "https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F",
+    "https://hardcover.app/books/do-androids-dream-of-electric-sheep"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

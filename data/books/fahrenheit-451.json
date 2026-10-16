@@ -1,0 +1,45 @@
+{
+  "slug": "fahrenheit-451",
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "isbn13": "9781973404439",
+  "firstPublished": 1953,
+  "series": null,
+  "genres": ["dystopian", "science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["thoughtful", "tense", "dark"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["suicide", "death", "violence"],
+  "summary": "In a future where houses are fireproof and firemen burn books instead of putting out fires, Guy Montag starts to question his job after a chance meeting with a curious young neighbour.",
+  "readIf": "you want a short, lyrical dystopia about books, screens and attention.",
+  "skipIf": "you want a detailed, realistic future; it is more of a warning than a world.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "The bleaker, more thorough dystopia about control, language and truth.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "brave-new-world",
+      "reason": "Another classic about a society pacified by pleasure and distraction.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "A modern, harsher dystopia about a regime that strips away rights.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781973404439",
+    "https://en.wikipedia.org/wiki/Fahrenheit_451",
+    "https://hardcover.app/books/fahrenheit-451"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

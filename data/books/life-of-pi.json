@@ -1,0 +1,45 @@
+{
+  "slug": "life-of-pi",
+  "title": "Life of Pi",
+  "author": "Yann Martel",
+  "isbn13": "9781565117808",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["adventure", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "adventurous", "inspiring"],
+  "tropes": ["survival", "unreliable-narrator"],
+  "warnings": ["animal-death", "death", "violence", "grief"],
+  "summary": "After a shipwreck, a teenage boy from India is left adrift in the Pacific in a lifeboat with a hyena, a zebra, an orangutan and a Bengal tiger, and must find a way to live alongside the last of them.",
+  "readIf": "you want a survival story that doubles as a story about faith and storytelling.",
+  "skipIf": "you can't read about animals killing each other, or want a conventional ending.",
+  "pairings": [
+    {
+      "slug": "the-old-man-and-the-sea",
+      "reason": "A shorter, quieter tale of one person pushed to the limit on the sea.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hatchet",
+      "reason": "A simpler survival tale for younger readers with the same focus on resourcefulness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-alchemist",
+      "reason": "Another novel where a young man's journey becomes a parable about belief.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781565117808",
+    "https://en.wikipedia.org/wiki/Life_of_Pi",
+    "https://hardcover.app/books/life-of-pi"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

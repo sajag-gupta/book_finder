@@ -1,0 +1,45 @@
+{
+  "slug": "cold-mountain",
+  "title": "Cold Mountain",
+  "author": "Charles Frazier",
+  "isbn13": "9780679309451",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "haunting", "epic"],
+  "tropes": ["war-story", "survival", "star-crossed-lovers"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "A wounded Confederate soldier deserts and begins a long walk home across the Appalachian mountains, driven by memory of a woman he barely knew. At the farm, she is trying to survive alone with a tough drifter's help.",
+  "readIf": "you like slow, lyrical American historical fiction about a journey home from war.",
+  "skipIf": "you want much speed; the prose lingers on landscape, and the lovers spend nearly the whole book apart.",
+  "pairings": [
+    {
+      "slug": "a-farewell-to-arms",
+      "reason": "Another war novel that sets a doomed love story against a deserter's flight.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "gone-with-the-wind",
+      "reason": "Another look at the Civil War South and women left at home, in a far more dramatic and romantic mood.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "A larger and funnier American journey with a similar love of landscape and endurance.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679309451",
+    "https://en.wikipedia.org/wiki/Cold_Mountain_(film)",
+    "https://hardcover.app/books/cold-mountain-1997"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "isbn13": "9781722475871",
+  "firstPublished": 1887,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mysterious", "nostalgic", "tense"],
+  "tropes": ["detective", "revenge"],
+  "warnings": ["death", "violence"],
+  "summary": "Dr Watson, back from war and looking for lodgings, meets an odd chemist called Sherlock Holmes. Together they investigate a dead man in an empty house and a word scrawled in blood on the wall.",
+  "readIf": "you want to meet Holmes and Watson at the start and enjoy a Victorian puzzle with a surprising second half.",
+  "skipIf": "you want a single steady plot, as the second half jumps to a different time and place.",
+  "pairings": [
+    {
+      "slug": "the-hound-of-the-baskervilles",
+      "reason": "The most popular Holmes novel, with a more atmospheric and tightly focused case.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A modern London detective story with a brooding investigator and his younger assistant.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781722475871",
+    "https://en.wikipedia.org/wiki/A_Study_in_Scarlet",
+    "https://hardcover.app/books/a-study-in-scarlet"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

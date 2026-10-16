@@ -1,0 +1,45 @@
+{
+  "slug": "the-lies-of-locke-lamora",
+  "title": "The Lies of Locke Lamora",
+  "author": "Scott Lynch",
+  "isbn13": "9780575076945",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["witty", "tense", "adventurous"],
+  "tropes": ["heist", "found-family", "revenge", "morally-grey"],
+  "warnings": ["violence", "torture", "death", "gore", "child-abuse"],
+  "summary": "A brilliant young thief leads a gang of con artists who rob the nobles of a canal city, until a mysterious figure begins killing the underworld's leaders. Locke's carefully planned cons are swept up in a bigger, bloodier fight.",
+  "readIf": "you want a profane, funny, plotty fantasy with elaborate cons and tight friendships.",
+  "skipIf": "you dislike swearing, graphic violence or a book that cuts back and forth between past and present.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "A somewhat gentler heist fantasy with a crew of skilled young outcasts and a tight plan.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "Another cynical, funny fantasy that revels in unheroic characters and sharp dialogue.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A cleaner, more hopeful take on the thieves-against-the-powerful idea.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575076945",
+    "https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora",
+    "https://hardcover.app/books/the-lies-of-locke-lamora"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

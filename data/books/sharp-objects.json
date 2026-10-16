@@ -1,0 +1,40 @@
+{
+  "slug": "sharp-objects",
+  "title": "Sharp Objects",
+  "author": "Gillian Flynn",
+  "isbn13": "9781597224581",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "haunting", "tense"],
+  "tropes": ["small-town"],
+  "warnings": ["self-harm", "child-death", "abuse", "addiction", "violence"],
+  "summary": "A damaged reporter returns to her stifling Missouri hometown to cover the murders of two young girls. She stays in her mother's house, where old wounds open up.",
+  "readIf": "you like Southern gothic thrillers with a bleak mood and a messy narrator.",
+  "skipIf": "you want to avoid self-harm and violence involving children, which are central to the book.",
+  "pairings": [
+    {
+      "slug": "dark-places",
+      "reason": "The same author's second novel, with another scarred woman revisiting a small-town crime.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "in-the-woods",
+      "reason": "A slower, more literary mystery about a damaged investigator and a case that echoes his past.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781597224581",
+    "https://en.wikipedia.org/wiki/Sharp_Objects",
+    "https://hardcover.app/books/sharp-objects"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

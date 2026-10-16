@@ -1,0 +1,44 @@
+{
+  "slug": "the-friend-zone",
+  "title": "The Friend Zone",
+  "author": "Abby Jimenez",
+  "isbn13": "9780349423401",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "heartbreaking", "swoony"],
+  "tropes": ["friends-to-lovers", "slow-burn"],
+  "warnings": ["sexual-content", "grief", "mental-illness"],
+  "summary": "A woman who has decided she cannot have children falls for her friend's brother, who badly wants a family. Their easy flirting meets some hard questions about what each of them is willing to give up.",
+  "readIf": "you like romances that mix laugh-out-loud humour with some real, honest emotional stakes.",
+  "skipIf": "you want pure fluff, since this one gets serious about health, family and difficult choices.",
+  "pairings": [
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "Another friends-to-lovers story where humour covers some real hurt and unspoken feelings.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "me-before-you",
+      "reason": "Both pair a romance with weighty life decisions, although Me Before You ends up much sadder.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "get-a-life-chloe-brown",
+      "reason": "A funny romance with a heroine dealing frankly with her health and what she wants from life.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349423401",
+    "https://hardcover.app/books/the-friend-zone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

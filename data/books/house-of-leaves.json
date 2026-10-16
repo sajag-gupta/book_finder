@@ -1,0 +1,45 @@
+{
+  "slug": "house-of-leaves",
+  "title": "House of Leaves",
+  "author": "Mark Z. Danielewski",
+  "isbn13": "9781862301115",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["horror", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "spooky", "dark"],
+  "tropes": ["haunted-house", "book-within-a-book", "unreliable-narrator"],
+  "warnings": ["mental-illness", "violence", "death", "sexual-content", "addiction"],
+  "summary": "A tattoo-shop worker finds a dead man's manuscript about a documentary on a house that is larger inside than out. As he reads, the text, the footnotes and his own life start to unravel.",
+  "readIf": "you want an experimental horror novel where the layout, footnotes and typography are part of the story.",
+  "skipIf": "you want a straight narrative, because this is demanding and deliberately disorienting.",
+  "pairings": [
+    {
+      "slug": "piranesi",
+      "reason": "Another story about an impossible building, though warm and beautiful rather than frightening.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "The quiet classic of a house that works on the people inside it.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "Another novel where exploring a place that follows its own rules changes those who enter.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781862301115",
+    "https://en.wikipedia.org/wiki/House_of_Leaves",
+    "https://hardcover.app/books/house-of-leaves"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

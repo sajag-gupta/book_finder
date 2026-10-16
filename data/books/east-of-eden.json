@@ -1,0 +1,45 @@
+{
+  "slug": "east-of-eden",
+  "title": "East of Eden",
+  "author": "John Steinbeck",
+  "isbn13": "9780749317744",
+  "firstPublished": 1952,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "thoughtful", "dark"],
+  "tropes": ["family-saga"],
+  "warnings": ["violence", "death", "suicide", "abuse"],
+  "summary": "Two families, the Trasks and the Hamiltons, build their lives in California's Salinas Valley across several generations. Their story echoes the biblical tale of Cain and Abel and asks whether people can choose who they become.",
+  "readIf": "you want a rich, sprawling family saga that thinks hard about good and evil.",
+  "skipIf": "you want a quick read, since it takes time and has long philosophical passages.",
+  "pairings": [
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "The author's other great American saga, more political and more focused on one family.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-brothers-karamazov",
+      "reason": "Another family novel about brothers, a bad father and the argument about free will.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "A sweeping American epic with a similar love of character and landscape.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780749317744",
+    "https://en.wikipedia.org/wiki/East_of_Eden_(novel)",
+    "https://hardcover.app/books/east-of-eden"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

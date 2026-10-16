@@ -1,0 +1,40 @@
+{
+  "slug": "children-of-time",
+  "title": "Children of Time",
+  "author": "Adrian Tchaikovsky",
+  "isbn13": "9780316452496",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "epic", "tense"],
+  "tropes": ["first-contact"],
+  "warnings": ["death", "war", "violence"],
+  "summary": "The last humans flee a dying Earth in an ark ship in search of a new home, while on a distant planet a different species slowly evolves intelligence. The two stories run in parallel across thousands of years.",
+  "readIf": "you like ambitious science fiction that makes you root for an alien civilisation.",
+  "skipIf": "you are afraid of spiders, since a lot of the book is told from their point of view.",
+  "pairings": [
+    {
+      "slug": "the-three-body-problem",
+      "reason": "Another big, slow-building story about the clash and contact of civilisations.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A friendlier, quicker story that also builds a surprising bond across species.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316452496",
+    "https://en.wikipedia.org/wiki/Children_of_Time_(novel)",
+    "https://hardcover.app/books/children-of-time"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

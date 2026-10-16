@@ -1,0 +1,45 @@
+{
+  "slug": "the-nightingale",
+  "title": "The Nightingale",
+  "author": "Kristin Hannah",
+  "isbn13": "9781447283072",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "inspiring", "tense"],
+  "tropes": ["war-story", "dual-timeline", "rebellion"],
+  "warnings": ["war", "violence", "sexual-assault", "death", "genocide"],
+  "summary": "Two sisters in occupied France take very different paths during the Second World War. One tries to keep her child and home safe under German billeting, while the other joins the resistance and helps airmen escape.",
+  "readIf": "you want an emotional wartime story about women's courage, sisterhood and quiet resistance.",
+  "skipIf": "you want to avoid wartime cruelty, including the occupation and the camps, which appear on the page.",
+  "pairings": [
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "reason": "Another Second World War story set in France, more lyrical and slower-moving.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "Another war novel about ordinary people showing courage, with a distinct and unusual narrator.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-tattooist-of-auschwitz",
+      "reason": "A more harrowing book about survival and love in the camps, for those who want that starker perspective.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781447283072",
+    "https://en.wikipedia.org/wiki/The_Nightingale_(Hannah_novel)",
+    "https://hardcover.app/books/the-nightingale"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

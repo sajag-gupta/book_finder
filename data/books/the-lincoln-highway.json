@@ -1,0 +1,45 @@
+{
+  "slug": "the-lincoln-highway",
+  "title": "The Lincoln Highway",
+  "author": "Amor Towles",
+  "isbn13": "9780735222373",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "hopeful", "nostalgic"],
+  "tropes": ["road-trip", "found-family", "coming-of-age"],
+  "warnings": ["violence", "death"],
+  "summary": "In 1954, an eighteen-year-old comes home from a work farm and plans to drive to California with his little brother. Two friends from the farm turn up with other plans, and the trip heads east to New York.",
+  "readIf": "you like warm, wide-ranging novels with many voices and a strong sense of mid-century America.",
+  "skipIf": "you want a streamlined plot; it jumps between many narrators and detours often.",
+  "pairings": [
+    {
+      "slug": "a-gentleman-in-moscow",
+      "reason": "The same author's tighter, more polished novel set within one hotel.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "adventures-of-huckleberry-finn",
+      "reason": "The classic American journey about boys on the run, which this book openly nods to.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "on-the-road",
+      "reason": "A more restless, freewheeling version of the American road story, with much less structure.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780735222373",
+    "https://en.wikipedia.org/wiki/The_Lincoln_Highway_(novel)",
+    "https://hardcover.app/books/the-lincoln-highway"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

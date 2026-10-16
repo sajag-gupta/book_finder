@@ -1,0 +1,40 @@
+{
+  "slug": "the-woman-in-the-window",
+  "title": "The Woman in the Window",
+  "author": "A. J. Finn",
+  "isbn13": "9780008234188",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["unreliable-narrator", "twist-ending"],
+  "warnings": ["mental-illness", "addiction", "violence", "death"],
+  "summary": "A woman who has not left her New York house in months spends her days drinking wine and watching the neighbours. One evening she believes she sees something terrible happen across the way, and nobody believes her.",
+  "readIf": "you like old-fashioned, voyeuristic suspense in which you cannot trust the narrator.",
+  "skipIf": "you want a story that is sensitive about agoraphobia, since it is used mainly as a plot device.",
+  "pairings": [
+    {
+      "slug": "the-girl-on-the-train",
+      "reason": "Another thriller with a drinking, unreliable woman watching other people's lives and getting pulled in.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silent-patient",
+      "reason": "A newer and shorter thriller with a very similar mix of mental health and a big reveal.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008234188",
+    "https://en.wikipedia.org/wiki/The_Woman_in_the_Window_(2021_film)",
+    "https://hardcover.app/books/the-woman-in-the-window-free-sampler"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

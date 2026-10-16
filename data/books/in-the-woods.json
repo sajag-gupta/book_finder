@@ -1,0 +1,40 @@
+{
+  "slug": "in-the-woods",
+  "title": "In the Woods",
+  "author": "Tana French",
+  "isbn13": "9781444758344",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["mystery", "crime"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "dark", "melancholic"],
+  "tropes": ["detective", "small-town"],
+  "warnings": ["child-death", "death", "violence"],
+  "summary": "A Dublin detective who as a boy was the only child to survive a mysterious disappearance in the woods is assigned a new case. A young girl has been found dead at the same woodland site.",
+  "readIf": "you like slow, atmospheric crime novels with beautiful writing and a flawed narrator.",
+  "skipIf": "you want every question answered, because the book leaves a major thread deliberately unresolved.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another beautifully written story about a close group, a death and a narrator who is not telling everything.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A more traditional, easier detective story that uses a similar investigator pair.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781444758344",
+    "https://en.wikipedia.org/wiki/In_the_Woods",
+    "https://hardcover.app/books/in-the-woods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

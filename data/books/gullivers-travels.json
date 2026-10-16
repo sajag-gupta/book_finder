@@ -1,0 +1,45 @@
+{
+  "slug": "gullivers-travels",
+  "title": "Gulliver's Travels",
+  "author": "Jonathan Swift",
+  "isbn13": "9781726319614",
+  "firstPublished": 1726,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["witty", "whimsical", "adventurous"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "A ship's surgeon makes four voyages to stranger and stranger lands, including one of tiny people and one of giants. Each place holds up a distorted mirror to the manners of Europe.",
+  "readIf": "you like imaginative travel stories with a savage satirical streak underneath.",
+  "skipIf": "you want a simple children's adventure; the later voyages are bitter about human nature.",
+  "pairings": [
+    {
+      "slug": "animal-farm",
+      "reason": "Another short fable that dresses political criticism up as a strange, simple story.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "A modern comic voyage that uses absurd worlds to poke fun at human folly.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "don-quixote",
+      "reason": "An earlier classic of comic travel that also puzzles over where sense ends and madness begins.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781726319614",
+    "https://en.wikipedia.org/wiki/Gulliver's_Travels",
+    "https://hardcover.app/books/gullivers-travels"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-bad-beginning",
+  "title": "The Bad Beginning",
+  "author": "Lemony Snicket",
+  "isbn13": "9780060755898",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["children", "mystery"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "funny", "whimsical"],
+  "tropes": ["hidden-identity"],
+  "warnings": ["death"],
+  "summary": "After their parents die in a fire, the three Baudelaire children are placed with a distant relative, Count Olaf, who wants their fortune. The narrator warns readers throughout that the story will not be a happy one.",
+  "readIf": "you like darkly funny children's books with an arch, bookish narrator.",
+  "skipIf": "you want a cheerful story, because the misfortunes are the whole joke.",
+  "pairings": [
+    {
+      "slug": "matilda",
+      "reason": "Another story of smart children outwitting terrible adults, though with a gentler outcome.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "coraline",
+      "reason": "Another dark, funny children's story that is a little scary in a good way.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "james-and-the-giant-peach",
+      "reason": "An orphan with cruel guardians finds a stranger, kinder family.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780060755898",
+    "https://en.wikipedia.org/wiki/The_Bad_Beginning",
+    "https://hardcover.app/books/the-bad-beginning"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

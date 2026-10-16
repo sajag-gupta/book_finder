@@ -1,0 +1,41 @@
+{
+  "slug": "twenty-thousand-leagues-under-the-sea",
+  "title": "Twenty Thousand Leagues Under the Sea",
+  "author": "Jules Verne",
+  "isbn13": "9780603062605",
+  "firstPublished": 1870,
+  "series": null,
+  "genres": ["adventure", "science-fiction", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["adventurous", "mysterious", "thoughtful"],
+  "tropes": ["monster"],
+  "warnings": ["death", "violence", "animal-death"],
+  "summary": "A French naturalist, his servant and a Canadian harpooner are captured by the enigmatic Captain Nemo and carried around the world in his extraordinary submarine. They see wonders and dangers beneath the waves.",
+  "readIf": "you like old-fashioned voyages of discovery full of undersea marvels and a brooding captain.",
+  "skipIf": "you dislike long catalogues of sea life and technical detail, which take up much of the book.",
+  "pairings": [
+    {
+      "slug": "around-the-world-in-eighty-days",
+      "reason": "The same author's lighter, brisker race around the globe, with a cheerful tone and quick pace.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "moby-dick",
+      "reason": "Another obsessive captain and a sea voyage, though far heavier, stranger and more literary.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "life-of-pi",
+      "reason": "A modern ocean story that mixes wonder, danger and ideas about belief.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

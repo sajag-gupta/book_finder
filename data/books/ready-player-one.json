@@ -1,0 +1,40 @@
+{
+  "slug": "ready-player-one",
+  "title": "Ready Player One",
+  "author": "Ernest Cline",
+  "isbn13": "9780307887436",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "nostalgic", "funny"],
+  "tropes": ["quest", "rags-to-riches"],
+  "warnings": [],
+  "summary": "In a worn-out near future, most people escape into a vast virtual world. When its creator dies and leaves his fortune to whoever solves a hidden puzzle, a poor teenager joins a global hunt built on eighties pop culture.",
+  "readIf": "you want a fast, playful treasure hunt packed with eighties games, films and music.",
+  "skipIf": "you are not into pop-culture references or prefer more nuanced characters than this book offers.",
+  "pairings": [
+    {
+      "slug": "snow-crash",
+      "reason": "A wilder, funnier and denser cyberpunk take on a virtual world that helped shape this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "neuromancer",
+      "reason": "The grittier, moodier ancestor of nearly every virtual-reality story that followed.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307887436",
+    "https://en.wikipedia.org/wiki/Ready_Player_One",
+    "https://hardcover.app/books/ready-player-one"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

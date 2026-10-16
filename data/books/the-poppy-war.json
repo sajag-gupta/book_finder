@@ -1,0 +1,54 @@
+{
+  "slug": "the-poppy-war",
+  "title": "The Poppy War",
+  "author": "R. F. Kuang",
+  "isbn13": "9780008239824",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["magic-school", "war-story", "chosen-one", "gods-and-myth"],
+  "warnings": [
+    "war",
+    "war-crimes",
+    "genocide",
+    "sexual-assault",
+    "violence",
+    "torture",
+    "addiction",
+    "gore"
+  ],
+  "summary": "An orphaned peasant girl studies relentlessly to win a place at the empire's elite military academy. As an invasion looms, she discovers that her unusual power is tied to gods and may be a dangerous weapon.",
+  "readIf": "you want a brutal, ambitious military fantasy inspired by 20th-century Chinese history.",
+  "skipIf": "you are sensitive to graphic depictions of atrocities, as the later half of the book is very harrowing.",
+  "pairings": [
+    {
+      "slug": "babel",
+      "reason": "Same author, another angry, thoughtful book about empire, though less bloody on the page.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "Another grim fantasy that takes war and moral compromise seriously.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-fifth-season",
+      "reason": "Another unsparing, brilliant fantasy about oppression and what survivors do with power.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008239824",
+    "https://en.wikipedia.org/wiki/The_Poppy_War",
+    "https://hardcover.app/books/the-poppy-war"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

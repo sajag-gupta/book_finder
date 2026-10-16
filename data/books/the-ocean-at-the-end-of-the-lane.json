@@ -1,0 +1,45 @@
+{
+  "slug": "the-ocean-at-the-end-of-the-lane",
+  "title": "The Ocean at the End of the Lane",
+  "author": "Neil Gaiman",
+  "isbn13": "9780062255662",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["haunting", "nostalgic", "melancholic"],
+  "tropes": ["coming-of-age", "monster", "unlikely-friendship"],
+  "warnings": ["suicide", "death", "infidelity", "child-abuse"],
+  "summary": "Returning to his childhood home for a funeral, a man wanders down a lane to a farm where an unusual girl once lived. He starts to remember the strange events of the summer he was seven, and what lived beside the duck pond.",
+  "readIf": "you want a short, lyrical dark fairy tale about memory and childhood fear.",
+  "skipIf": "you want a bright story, as it is sad and includes some disturbing moments for a child.",
+  "pairings": [
+    {
+      "slug": "coraline",
+      "reason": "Same author, a more directly spooky and younger story with a plucky protagonist.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "A hushed, odd fantasy with a similar dreamlike feel and very little exposition.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lovely-bones",
+      "reason": "Another story told partly through a child's eyes that treats death and memory gently but frankly.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062255662",
+    "https://en.wikipedia.org/wiki/The_Ocean_at_the_End_of_the_Lane",
+    "https://hardcover.app/books/the-ocean-at-the-end-of-the-lane"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "spinning-silver",
+  "title": "Spinning Silver",
+  "author": "Naomi Novik",
+  "isbn13": "9780399180996",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "tense", "inspiring"],
+  "tropes": ["fairy-tale-retelling", "fae", "political-intrigue"],
+  "warnings": ["prejudice", "abuse", "violence", "death"],
+  "summary": "A moneylender's daughter in a cold, fairy-tale kingdom takes over her family's failing business and becomes known for turning silver into gold. A winter king hears of it and makes her an impossible demand.",
+  "readIf": "you like a smart, slow-building fairy tale with several viewpoints and a quiet, practical heroine.",
+  "skipIf": "you want a quick, single-voice story, since it moves between several narrators.",
+  "pairings": [
+    {
+      "slug": "uprooted",
+      "reason": "Same author and the same rich fairy-tale atmosphere with a more romantic, magical lead.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bear-and-the-nightingale",
+      "reason": "Another wintry, folklore-heavy fantasy with a determined girl standing against old powers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "circe",
+      "reason": "Another retelling in which a woman turns being underestimated into power.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399180996",
+    "https://en.wikipedia.org/wiki/Spinning_Silver",
+    "https://hardcover.app/books/spinning-silver"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

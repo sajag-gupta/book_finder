@@ -1,19 +1,270 @@
 [
-  { "slug": "enemies-to-lovers", "name": "Enemies to lovers" },
-  { "slug": "found-family", "name": "Found family" },
-  { "slug": "slow-burn", "name": "Slow burn" },
-  { "slug": "friends-to-lovers", "name": "Friends to lovers" },
-  { "slug": "grumpy-sunshine", "name": "Grumpy and sunshine" },
-  { "slug": "forced-proximity", "name": "Forced proximity" },
-  { "slug": "marriage-of-convenience", "name": "Marriage of convenience" },
-  { "slug": "second-chance", "name": "Second chance" },
-  { "slug": "fairy-tale-retelling", "name": "Fairy-tale retelling" },
-  { "slug": "chosen-one", "name": "Chosen one" },
-  { "slug": "dragons", "name": "Dragons" },
-  { "slug": "magic-school", "name": "Magic school" },
-  { "slug": "quest", "name": "Quest" },
-  { "slug": "unreliable-narrator", "name": "Unreliable narrator" },
-  { "slug": "space-survival", "name": "Space survival" },
-  { "slug": "post-apocalyptic", "name": "Post-apocalyptic" },
-  { "slug": "unlikely-friendship", "name": "Unlikely friendship" }
+  {
+    "slug": "enemies-to-lovers",
+    "name": "Enemies to lovers"
+  },
+  {
+    "slug": "found-family",
+    "name": "Found family"
+  },
+  {
+    "slug": "slow-burn",
+    "name": "Slow burn"
+  },
+  {
+    "slug": "friends-to-lovers",
+    "name": "Friends to lovers"
+  },
+  {
+    "slug": "grumpy-sunshine",
+    "name": "Grumpy and sunshine"
+  },
+  {
+    "slug": "forced-proximity",
+    "name": "Forced proximity"
+  },
+  {
+    "slug": "marriage-of-convenience",
+    "name": "Marriage of convenience"
+  },
+  {
+    "slug": "second-chance",
+    "name": "Second chance"
+  },
+  {
+    "slug": "fairy-tale-retelling",
+    "name": "Fairy-tale retelling"
+  },
+  {
+    "slug": "chosen-one",
+    "name": "Chosen one"
+  },
+  {
+    "slug": "dragons",
+    "name": "Dragons"
+  },
+  {
+    "slug": "magic-school",
+    "name": "Magic school"
+  },
+  {
+    "slug": "quest",
+    "name": "Quest"
+  },
+  {
+    "slug": "unreliable-narrator",
+    "name": "Unreliable narrator"
+  },
+  {
+    "slug": "space-survival",
+    "name": "Space survival"
+  },
+  {
+    "slug": "post-apocalyptic",
+    "name": "Post-apocalyptic"
+  },
+  {
+    "slug": "unlikely-friendship",
+    "name": "Unlikely friendship"
+  },
+  {
+    "slug": "detective",
+    "name": "Detective"
+  },
+  {
+    "slug": "whodunit",
+    "name": "Whodunit"
+  },
+  {
+    "slug": "heist",
+    "name": "Heist"
+  },
+  {
+    "slug": "locked-room",
+    "name": "Locked room"
+  },
+  {
+    "slug": "twist-ending",
+    "name": "Twist ending"
+  },
+  {
+    "slug": "dual-timeline",
+    "name": "Dual timeline"
+  },
+  {
+    "slug": "coming-of-age",
+    "name": "Coming of age"
+  },
+  {
+    "slug": "survival",
+    "name": "Survival"
+  },
+  {
+    "slug": "love-triangle",
+    "name": "Love triangle"
+  },
+  {
+    "slug": "forbidden-love",
+    "name": "Forbidden love"
+  },
+  {
+    "slug": "star-crossed-lovers",
+    "name": "Star crossed lovers"
+  },
+  {
+    "slug": "morally-grey",
+    "name": "Morally grey"
+  },
+  {
+    "slug": "redemption",
+    "name": "Redemption"
+  },
+  {
+    "slug": "revenge",
+    "name": "Revenge"
+  },
+  {
+    "slug": "war-story",
+    "name": "War story"
+  },
+  {
+    "slug": "road-trip",
+    "name": "Road trip"
+  },
+  {
+    "slug": "time-travel",
+    "name": "Time travel"
+  },
+  {
+    "slug": "artificial-intelligence",
+    "name": "Artificial intelligence"
+  },
+  {
+    "slug": "first-contact",
+    "name": "First contact"
+  },
+  {
+    "slug": "dystopian-regime",
+    "name": "Dystopian regime"
+  },
+  {
+    "slug": "rebellion",
+    "name": "Rebellion"
+  },
+  {
+    "slug": "haunted-house",
+    "name": "Haunted house"
+  },
+  {
+    "slug": "monster",
+    "name": "Monster"
+  },
+  {
+    "slug": "vampires",
+    "name": "Vampires"
+  },
+  {
+    "slug": "witches",
+    "name": "Witches"
+  },
+  {
+    "slug": "fae",
+    "name": "Fae"
+  },
+  {
+    "slug": "gods-and-myth",
+    "name": "Gods and myth"
+  },
+  {
+    "slug": "epistolary",
+    "name": "Epistolary"
+  },
+  {
+    "slug": "satire",
+    "name": "Satire"
+  },
+  {
+    "slug": "family-saga",
+    "name": "Family saga"
+  },
+  {
+    "slug": "small-town",
+    "name": "Small town"
+  },
+  {
+    "slug": "rags-to-riches",
+    "name": "Rags to riches"
+  },
+  {
+    "slug": "mistaken-identity",
+    "name": "Mistaken identity"
+  },
+  {
+    "slug": "royalty",
+    "name": "Royalty"
+  },
+  {
+    "slug": "secret-society",
+    "name": "Secret society"
+  },
+  {
+    "slug": "amnesia",
+    "name": "Amnesia"
+  },
+  {
+    "slug": "political-intrigue",
+    "name": "Political intrigue"
+  },
+  {
+    "slug": "hidden-identity",
+    "name": "Hidden identity"
+  },
+  {
+    "slug": "one-bed",
+    "name": "One bed"
+  },
+  {
+    "slug": "spy",
+    "name": "Spy"
+  },
+  {
+    "slug": "serial-killer",
+    "name": "Serial killer"
+  },
+  {
+    "slug": "cult",
+    "name": "Cult"
+  },
+  {
+    "slug": "book-within-a-book",
+    "name": "Book within a book"
+  },
+  {
+    "slug": "portal-fantasy",
+    "name": "Portal fantasy"
+  },
+  {
+    "slug": "talking-animals",
+    "name": "Talking animals"
+  },
+  {
+    "slug": "academic-rivals",
+    "name": "Academic rivals"
+  },
+  {
+    "slug": "celebrity-romance",
+    "name": "Celebrity romance"
+  },
+  {
+    "slug": "sports",
+    "name": "Sports"
+  },
+  {
+    "slug": "workplace-romance",
+    "name": "Workplace romance"
+  },
+  {
+    "slug": "fake-dating",
+    "name": "Fake dating"
+  }
 ]

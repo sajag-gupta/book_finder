@@ -1,0 +1,45 @@
+{
+  "slug": "convenience-store-woman",
+  "title": "Convenience Store Woman",
+  "author": "Sayaka Murata",
+  "isbn13": "9780802129628",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["witty", "thoughtful", "whimsical"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "A woman in her thirties has worked at the same Tokyo convenience store for eighteen years and is content there. Her family and friends keep pressing her to get married and find a proper career.",
+  "readIf": "you want a short, deadpan novel that quietly questions what a normal life is supposed to be.",
+  "skipIf": "you want a heart-warming makeover story, since the narrator does not change herself to please anyone.",
+  "pairings": [
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another unconventional, literal-minded narrator, but with a more openly emotional recovery arc.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-metamorphosis",
+      "reason": "A darker and older story about a person who no longer fits the role society expects of them.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-rosie-project",
+      "reason": "A lighter, romantic take on a hero who lives by routines and misses social cues.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780802129628",
+    "https://en.wikipedia.org/wiki/Convenience_Store_Woman",
+    "https://hardcover.app/books/convenience-store-woman"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

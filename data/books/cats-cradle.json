@@ -1,0 +1,44 @@
+{
+  "slug": "cats-cradle",
+  "title": "Cat's Cradle",
+  "author": "Kurt Vonnegut",
+  "isbn13": "9781439501375",
+  "firstPublished": 1963,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["witty", "funny", "dark"],
+  "tropes": ["satire"],
+  "warnings": ["death"],
+  "summary": "A writer researching a book about the day the atom bomb was dropped tracks down the scientist's strange family. His quest takes him to a Caribbean island with its own invented religion and a dangerous substance.",
+  "readIf": "you want a short, funny and bleak satire of science, religion and human folly.",
+  "skipIf": "you want a plot-driven novel, since the book is a string of tiny chapters and wry digressions.",
+  "pairings": [
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "The author's best-known novel, which has a similar deadpan tone and an even stronger sense of shock.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Another short, absurd science-fiction comedy about the foolishness of the universe.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "Another satirical American classic in which dark humour is used to say what plain talk cannot.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781439501375",
+    "https://en.wikipedia.org/wiki/Cat's_Cradle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

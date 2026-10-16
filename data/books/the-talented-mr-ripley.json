@@ -1,0 +1,45 @@
+{
+  "slug": "the-talented-mr-ripley",
+  "title": "The Talented Mr. Ripley",
+  "author": "Patricia Highsmith",
+  "isbn13": "9780349006963",
+  "firstPublished": 1955,
+  "series": null,
+  "genres": ["thriller", "crime", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["hidden-identity", "mistaken-identity", "morally-grey"],
+  "warnings": ["violence", "death"],
+  "summary": "A young drifter in New York is sent to Italy to persuade a wealthy man's son to come home. He grows fascinated by the son's easy life, and begins to want it for himself.",
+  "readIf": "you enjoy a charming, amoral protagonist and want to watch a lie grow out of control.",
+  "skipIf": "you need a hero to root for or a clear sense of justice at the end.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "Another story where a pleasant surface hides a calculating mind, with twists that keep you uneasy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "Privileged young people, a crime, and a narrator who wants badly to belong.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "A quieter, older novel about identity, envy and slipping into someone else's place.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349006963",
+    "https://en.wikipedia.org/wiki/The_Talented_Mr._Ripley_(film)",
+    "https://hardcover.app/books/the-talented-mr-ripley"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

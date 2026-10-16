@@ -1,0 +1,45 @@
+{
+  "slug": "animal-farm",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "isbn13": "9781647986384",
+  "firstPublished": 1945,
+  "series": null,
+  "genres": ["classic", "dystopian"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "thoughtful", "witty"],
+  "tropes": ["satire", "rebellion", "talking-animals", "dystopian-regime"],
+  "warnings": ["violence", "animal-death", "death"],
+  "summary": "The animals of a run-down farm drive out their drunken owner and set up their own equal society. Slowly the pigs take charge, and the rules get quietly rewritten.",
+  "readIf": "you want a short, sharp fable about how revolutions can be hijacked.",
+  "skipIf": "you expect a cuddly talking-animal story, because the tone is grim and the ending bleak.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "The same author's longer, fuller picture of what total control looks like.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "Another compact allegory about how fast a fair new order can turn on itself.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "charlottes-web",
+      "reason": "Another farm full of talking animals, but gentle, loving and comforting.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781647986384",
+    "https://en.wikipedia.org/wiki/Animal_Farm",
+    "https://hardcover.app/books/animal-farm"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

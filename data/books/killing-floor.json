@@ -1,0 +1,40 @@
+{
+  "slug": "killing-floor",
+  "title": "Killing Floor",
+  "author": "Lee Child",
+  "isbn13": "9781561008063",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous", "dark"],
+  "tropes": ["detective", "small-town"],
+  "warnings": ["violence", "death"],
+  "summary": "A former military policeman drifting across America is arrested for murder in a quiet Georgia town just after stepping off a bus. He is a stranger with no connection to the victim, which makes him a very good suspect.",
+  "readIf": "you want a fast, muscular thriller with a calm, capable hero.",
+  "skipIf": "you want subtle characters or realistic violence, as the hero is almost superhumanly tough.",
+  "pairings": [
+    {
+      "slug": "the-bourne-identity",
+      "reason": "Another capable loner caught in a conspiracy bigger than he thought, with more spy craft.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "A cooler, more procedural thriller that is gripping because of its precision.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781561008063",
+    "https://en.wikipedia.org/wiki/Killing_Floor_(novel)",
+    "https://hardcover.app/books/killing-floor"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

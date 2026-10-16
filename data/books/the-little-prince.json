@@ -1,0 +1,45 @@
+{
+  "slug": "the-little-prince",
+  "title": "The Little Prince",
+  "author": "Antoine de Saint-Exupéry",
+  "isbn13": "9780544699588",
+  "firstPublished": 1943,
+  "series": null,
+  "genres": ["fantasy", "children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["whimsical", "melancholic", "thoughtful"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": [],
+  "summary": "A pilot stranded in the desert meets a small boy who has travelled from a tiny planet. Through the boy's stories of the strange adults and the one rose he left behind, the book looks at love and what grown-ups forget.",
+  "readIf": "you like short, gentle books that read like fables and reward a second look as an adult.",
+  "skipIf": "you want a firm plot, action or a fully developed fantasy world.",
+  "pairings": [
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another short, dreamlike classic where odd encounters are really a way of poking at how grown-ups think.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "charlottes-web",
+      "reason": "A small, tender story about friendship and loss that works for children and adults alike.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-alchemist",
+      "reason": "Also a slim fable-like book about following what matters most, though more direct about its lessons.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 200,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780544699588",
+    "https://en.wikipedia.org/wiki/The_Little_Prince",
+    "https://hardcover.app/books/the-little-prince"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

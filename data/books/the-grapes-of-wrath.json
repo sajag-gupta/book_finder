@@ -1,0 +1,45 @@
+{
+  "slug": "the-grapes-of-wrath",
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "isbn13": "9780582461536",
+  "firstPublished": 1939,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "thoughtful", "melancholic"],
+  "tropes": ["road-trip", "family-saga", "survival"],
+  "warnings": ["death", "grief", "violence", "prejudice"],
+  "summary": "Driven off their Oklahoma farm during the Dust Bowl, the Joad family packs everything it owns into a truck and heads for California, hoping for work and finding hostility and exploitation instead.",
+  "readIf": "you want a powerful, angry Depression-era novel about ordinary people and solidarity.",
+  "skipIf": "you want a hopeful ending or plot over social commentary.",
+  "pairings": [
+    {
+      "slug": "of-mice-and-men",
+      "reason": "A shorter, tighter Steinbeck story about migrant workers and fragile dreams.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-four-winds",
+      "reason": "A modern novel about the same era and migration, more emotional and plot-driven.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "Another American epic about a long journey, with more humour and warmth.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780582461536",
+    "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+    "https://hardcover.app/books/the-grapes-of-wrath"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-dispossessed",
+  "title": "The Dispossessed",
+  "author": "Ursula K. Le Guin",
+  "isbn13": "9780575079038",
+  "firstPublished": 1974,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "hopeful", "melancholic"],
+  "tropes": ["dual-timeline"],
+  "warnings": [],
+  "summary": "A gifted physicist from a poor, anarchist moon travels to its wealthy, capitalist twin planet to share a breakthrough. Alternating chapters tell of his earlier life at home and of his time as an outsider abroad.",
+  "readIf": "you like novels that weigh two different ways of living and are happy to be patient with ideas.",
+  "skipIf": "you want fast action, as this is a slow, discussion-heavy book.",
+  "pairings": [
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "Another Le Guin story of an outsider trying to understand a foreign society, with a stronger adventure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "A story about building a new community and a new belief, with a much more urgent mood.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-ministry-for-the-future",
+      "reason": "A newer, more practical attempt to imagine how a fairer world could actually come about.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575079038",
+    "https://en.wikipedia.org/wiki/The_Dispossessed",
+    "https://hardcover.app/books/the-dispossessed"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

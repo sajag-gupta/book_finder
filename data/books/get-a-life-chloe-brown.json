@@ -1,0 +1,45 @@
+{
+  "slug": "get-a-life-chloe-brown",
+  "title": "Get a Life, Chloe Brown",
+  "author": "Talia Hibbert",
+  "isbn13": "9781094025940",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful"],
+  "tropes": ["slow-burn", "grumpy-sunshine", "friends-to-lovers"],
+  "warnings": ["sexual-content", "abuse"],
+  "summary": "After a close call, a woman who lives with chronic pain writes a list of things to do to start really living. Her building's handyman, an artist with his own wounds, becomes her unlikely guide through it.",
+  "readIf": "you like witty, tender romance with a prickly heroine, a gentle hero and real attention to chronic illness.",
+  "skipIf": "you want a story that stays entirely on the surface, as past hurts are discussed honestly.",
+  "pairings": [
+    {
+      "slug": "the-kiss-quotient",
+      "reason": "Both are warm contemporary romances with leads who are treated as whole, funny, capable people.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-flatshare",
+      "reason": "Another cosy, character-first romance where old hurts are slowly worked through with kindness.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "emily-wildes-encyclopaedia-of-faeries",
+      "reason": "A prickly, bookish heroine who is thawed by a charming man, set in a more magical world.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781094025940",
+    "https://en.wikipedia.org/wiki/Get_a_Life%2C_Chloe_Brown",
+    "https://hardcover.app/books/get-a-life-chloe-brown"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

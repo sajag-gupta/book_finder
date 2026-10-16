@@ -1,0 +1,44 @@
+{
+  "slug": "we-are-legion-we-are-bob",
+  "title": "We Are Legion (We Are Bob)",
+  "author": "Dennis E. Taylor",
+  "isbn13": "9781680680584",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "thoughtful"],
+  "tropes": ["artificial-intelligence", "space-survival"],
+  "warnings": ["death"],
+  "summary": "A software founder dies and wakes up a century later as a digital copy of his mind, owned by a state that wants to use him as a space probe. He escapes into the stars and starts making copies of himself.",
+  "readIf": "you like geeky, jokey science fiction about exploring space with plenty of practical engineering.",
+  "skipIf": "you want deep characterisation or an emotionally weighty plot; it is an amiable, logistical adventure.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "Equally funny and problem-solving-driven, with a hero doing science alone in space.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "A comparable survive-by-ingenuity story with a wisecracking narrator.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "Another light, funny story about a machine intelligence with a very particular personality.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781680680584",
+    "https://hardcover.app/books/we-are-legion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

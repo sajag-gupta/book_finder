@@ -1,0 +1,45 @@
+{
+  "slug": "olive-kitteridge",
+  "title": "Olive Kitteridge",
+  "author": "Elizabeth Strout",
+  "isbn13": "9781398532786",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic", "haunting"],
+  "tropes": ["small-town"],
+  "warnings": ["suicide", "death", "grief"],
+  "summary": "Thirteen linked stories set in a small Maine town, each touching in some way on a blunt, difficult retired maths teacher. Over time we see her as neighbour, mother and wife, and she becomes more than a sharp tongue.",
+  "readIf": "you like precise, compassionate short fiction about ordinary people and what they hide.",
+  "skipIf": "you want a single plot; it works as a novel in stories, with many shifting perspectives.",
+  "pairings": [
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another prickly older person whose gruffness hides a lot of feeling, though in a funnier and more consoling book.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hours",
+      "reason": "Another subtle exploration of unhappy lives that rewards slow, attentive reading.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Another study of a person looking back at how pride and restraint cost them something important.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781398532786",
+    "https://en.wikipedia.org/wiki/Olive_Kitteridge",
+    "https://hardcover.app/books/olive-kitteridge"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

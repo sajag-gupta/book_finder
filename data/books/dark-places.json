@@ -1,0 +1,45 @@
+{
+  "slug": "dark-places",
+  "title": "Dark Places",
+  "author": "Gillian Flynn",
+  "isbn13": "9781101902882",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["dual-timeline", "detective"],
+  "warnings": ["child-death", "violence", "abuse", "death"],
+  "summary": "As a child, Libby Day survived the night her mother and sisters were killed, and her brother was convicted. Years later, hard up for money, she agrees to look back into the case, and things do not fit.",
+  "readIf": "you like gritty mysteries that jump between the present and the night of the crime.",
+  "skipIf": "you want to avoid the murder of children and a bleak view of rural poverty.",
+  "pairings": [
+    {
+      "slug": "sharp-objects",
+      "reason": "The author's other small-town nightmare, a little shorter and more claustrophobic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "in-the-woods",
+      "reason": "Another unsettling investigation where a childhood trauma shapes the person looking for answers.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "The author's biggest hit, faster and more twisted, with a sharper sense of humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101902882",
+    "https://en.wikipedia.org/wiki/Dark_Places_(Flynn_novel)",
+    "https://hardcover.app/books/dark-places"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

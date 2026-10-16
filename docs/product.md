@@ -56,6 +56,8 @@ apply to Journey by Mediavine (accepts sites from about 1,000 sessions a month).
 
 ## Status
 
-Live: static site, offers table, `/go` redirect with click log, 13 reviewed books, review workflow,
-share cards (PNG per book), weekly email template. Not yet done: price feeds, affiliate approvals,
-automated sending, Release 2 features.
+Live: a 500-book catalogue (bestsellers plus genre staples; see [catalogue.md](catalogue.md)), browse
+with filters, bestseller rankings, genre/mood/trope/author pages, offers table with library first,
+`/go` redirect with click log, saved shelf, newsletter sign-up, share cards, review workflow.
+Not yet done: human review of the `checked` books, price feeds, affiliate approvals, automated
+email sending, Release 2 features.

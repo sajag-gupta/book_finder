@@ -1,0 +1,45 @@
+{
+  "slug": "harry-potter-and-the-prisoner-of-azkaban",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J. K. Rowling",
+  "isbn13": "9780557911813",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "mysterious", "adventurous"],
+  "tropes": ["magic-school", "chosen-one", "time-travel", "found-family"],
+  "warnings": ["death", "violence"],
+  "summary": "In his third year, Harry returns to school as an escaped prisoner supposedly hunting him roams free and eerie guards patrol the grounds. Meanwhile, he learns more about his parents and a past that involves his family.",
+  "readIf": "you want a mystery-flavoured entry with a darker tone and more depth than the first two books.",
+  "skipIf": "you haven't read the earlier books, as it assumes you know who's who and relies on the history.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-goblet-of-fire",
+      "reason": "The next book, which expands the world and raises the stakes further.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-wrinkle-in-time",
+      "reason": "A classic with time-bending ideas and a young hero facing a looming darkness.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "Another children's fantasy that treats young readers as capable of big ideas and real danger.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780557911813",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+    "https://hardcover.app/books/harry-potter-and-the-prisoner-of-azkaban"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

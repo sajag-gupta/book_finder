@@ -1,0 +1,45 @@
+{
+  "slug": "confessions-of-a-shopaholic",
+  "title": "Confessions of a Shopaholic",
+  "author": "Sophie Kinsella",
+  "isbn13": "9781419347009",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "comforting"],
+  "tropes": ["workplace-romance", "mistaken-identity"],
+  "warnings": ["addiction"],
+  "summary": "A young London financial journalist cannot stop buying things she can't afford, while her debts and avoidance pile up. She keeps digging herself out with wilder excuses, even as her career and love life begin to depend on it.",
+  "readIf": "you want a breezy, comic read with a flustered, funny narrator and a very light touch.",
+  "skipIf": "you dislike heroines who make the same mistakes repeatedly, or want realistic stakes about money.",
+  "pairings": [
+    {
+      "slug": "bridget-joness-diary",
+      "reason": "Another comic, self-deprecating British heroine who muddles through work and love.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-unhoneymooners",
+      "reason": "A sunny, comedy-first romance with the same escapist, laugh-out-loud approach.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "whered-you-go-bernadette",
+      "reason": "Another funny story with a chaotic woman at its centre, but with a more satirical, thoughtful turn.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781419347009",
+    "https://en.wikipedia.org/wiki/Confessions_of_a_Shopaholic_(film)",
+    "https://hardcover.app/books/confessions-of-a-shopaholic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

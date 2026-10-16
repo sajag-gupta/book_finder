@@ -1,0 +1,45 @@
+{
+  "slug": "the-night-circus",
+  "title": "The Night Circus",
+  "author": "Erin Morgenstern",
+  "isbn13": "9780307744432",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["whimsical", "swoony", "mysterious"],
+  "tropes": ["star-crossed-lovers", "slow-burn", "secret-society"],
+  "warnings": ["death"],
+  "summary": "A mysterious circus arrives without warning and opens only at night, its black-and-white tents full of impossible wonders. Inside it, two young magicians have been bound since childhood into a contest they do not fully understand.",
+  "readIf": "you want a dreamy, sensory fantasy to wander through, with a gentle love story.",
+  "skipIf": "you want pace or a firm plot, because it drifts through time and favours atmosphere.",
+  "pairings": [
+    {
+      "slug": "the-starless-sea",
+      "reason": "Same author, a more intricate and story-within-story fantasy with a similar fondness for wonder.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "stardust",
+      "reason": "A shorter, lighter fairy tale with some of the same romance and magic.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-invisible-life-of-addie-larue",
+      "reason": "Another lush, melancholy love story with a magical bargain at its heart.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307744432",
+    "https://en.wikipedia.org/wiki/The_Night_Circus",
+    "https://hardcover.app/books/the-night-circus"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

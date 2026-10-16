@@ -1,0 +1,45 @@
+{
+  "slug": "black-beauty",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "isbn13": "9781911238171",
+  "firstPublished": 1877,
+  "series": null,
+  "genres": ["children", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["heartbreaking", "hopeful", "thoughtful"],
+  "tropes": ["talking-animals"],
+  "warnings": ["animal-death", "abuse", "violence"],
+  "summary": "A horse tells his own life story, from a kind country home through a series of owners, some gentle and some cruel. The book was written to encourage kinder treatment of working animals.",
+  "readIf": "you want a classic told by an animal and mind being moved by how animals were treated.",
+  "skipIf": "scenes of animal suffering and overwork are too upsetting.",
+  "pairings": [
+    {
+      "slug": "watership-down",
+      "reason": "An animal story that treats its creatures seriously and does not shy from danger, with a bigger adventure.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "charlottes-web",
+      "reason": "A gentler children's classic about animals, with a lot of tenderness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "An animal classic with the cruelty removed and the comforts kept.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 50,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781911238171",
+    "https://en.wikipedia.org/wiki/Black_Beauty",
+    "https://hardcover.app/books/black-beauty-adapted-storybook-1877"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

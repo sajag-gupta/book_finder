@@ -1,0 +1,45 @@
+{
+  "slug": "catching-fire",
+  "title": "Catching Fire",
+  "author": "Suzanne Collins",
+  "isbn13": "9781407188911",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "adventurous"],
+  "tropes": ["survival", "rebellion", "dystopian-regime"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "After surviving the Games, Katniss and Peeta return home as celebrities, but the Capitol sees their act of defiance as a threat. Unrest spreads through the districts, and a new Games awaits.",
+  "readIf": "you want the second book of a trilogy that raises the stakes and sharpens the politics.",
+  "skipIf": "you haven't read the first book; it won't make sense alone.",
+  "pairings": [
+    {
+      "slug": "red-queen",
+      "reason": "Another young heroine pulled into a deadly power struggle and a world of rebellion.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "A fantasy equivalent about oppression, trials and rebellion, with more romance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "divergent",
+      "reason": "Another dystopian series with a teen heroine and a society that sorts people.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 21,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407188911",
+    "https://en.wikipedia.org/wiki/Catching_Fire",
+    "https://hardcover.app/books/catching-fire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

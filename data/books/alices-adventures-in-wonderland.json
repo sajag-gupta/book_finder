@@ -1,0 +1,45 @@
+{
+  "slug": "alices-adventures-in-wonderland",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "isbn13": "9781782011750",
+  "firstPublished": 1865,
+  "series": null,
+  "genres": ["fantasy", "children", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["whimsical", "mind-bending"],
+  "tropes": ["portal-fantasy", "talking-animals"],
+  "warnings": [],
+  "summary": "A bored girl follows a waistcoated white rabbit down a hole and lands in a world where logic, size and manners keep changing. She meets a string of odd creatures and tries to make sense of their rules.",
+  "readIf": "you enjoy nonsense, wordplay and dream logic, or want the source of countless later references.",
+  "skipIf": "you need a coherent plot or a character arc; this is a string of surreal scenes.",
+  "pairings": [
+    {
+      "slug": "the-wonderful-wizard-of-oz",
+      "reason": "Another classic where a girl is swept away to a strange land and meets odd companions, but with a clearer quest.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "coraline",
+      "reason": "A girl finds a door to a stranger, darker version of home, written with the same sense of unsettling wonder.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-little-prince",
+      "reason": "Short and whimsical too, but gentler and more focused on feeling than on silliness.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 100,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781782011750",
+    "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland",
+    "https://hardcover.app/books/alices-adventures-in-wonderland"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-goldfinch",
+  "title": "The Goldfinch",
+  "author": "Donna Tartt",
+  "isbn13": "9781306759083",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["heartbreaking", "thoughtful", "haunting"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["grief", "addiction", "death", "violence"],
+  "summary": "A thirteen-year-old survives a bombing at an art museum that kills his mother, and leaves with a small Dutch painting. He carries it, and his grief, through a chaotic youth in New York and Las Vegas into adulthood.",
+  "readIf": "you want a big, immersive, Dickens-style novel about loss, art and a boy who grows up too fast.",
+  "skipIf": "you dislike long novels that digress or characters who make poor choices.",
+  "pairings": [
+    {
+      "slug": "a-little-life",
+      "reason": "Another long, absorbing novel about trauma and friendship, though far harsher.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "great-expectations",
+      "reason": "The classic model for an orphaned boy, a mysterious fortune and a life shaped by one early encounter.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "Same author, with a tighter plot and a more menacing atmosphere.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781306759083",
+    "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

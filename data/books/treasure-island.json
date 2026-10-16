@@ -1,0 +1,45 @@
+{
+  "slug": "treasure-island",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "isbn13": "9781584725565",
+  "firstPublished": 1883,
+  "series": null,
+  "genres": ["adventure", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "tense"],
+  "tropes": ["quest", "coming-of-age"],
+  "warnings": ["violence", "death"],
+  "summary": "A boy at an inn finds a dead pirate's map and joins an expedition to find buried treasure. The ship's cook, charming and friendly, is not what he seems.",
+  "readIf": "you want the classic pirate adventure, with a cunning villain you cannot help liking.",
+  "skipIf": "you want much female presence; this is a boys' adventure of its time.",
+  "pairings": [
+    {
+      "slug": "the-hobbit",
+      "reason": "Another treasure hunt that sends an unlikely hero off with a rough crew, in a fantasy setting.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "A larger, more elaborate adventure that also involves hidden treasure and a long game of revenge.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-jungle-book",
+      "reason": "Another short, vivid classic of adventure told with confident, direct storytelling.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781584725565",
+    "https://en.wikipedia.org/wiki/Treasure_Island",
+    "https://hardcover.app/books/treasure-island"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-covenant-of-water",
+  "title": "The Covenant of Water",
+  "author": "Abraham Verghese",
+  "isbn13": "9781804710432",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "thoughtful"],
+  "tropes": ["family-saga"],
+  "warnings": ["death", "grief"],
+  "summary": "Beginning in 1900, a girl in Kerala is married to an older widower and moves into his family estate. Over generations, her descendants are marked by a strange condition in which a family member in each generation drowns.",
+  "readIf": "you want an immersive, unhurried multigenerational novel set among doctors, boats and rivers.",
+  "skipIf": "you want pace and brevity; it is over seven hundred pages and takes its time.",
+  "pairings": [
+    {
+      "slug": "cutting-for-stone",
+      "reason": "The author's earlier novel, with the same love of medicine, family secrets and long arcs of time.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-thousand-splendid-suns",
+      "reason": "Another story of women's resilience across decades, tighter and more tragic.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "reason": "Also set in Kerala, but a compressed, poetic tragedy compared with this book's slow river of events.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781804710432",
+    "https://en.wikipedia.org/wiki/The_Covenant_of_Water",
+    "https://hardcover.app/books/the-covenant-of-water"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

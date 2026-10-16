@@ -1,0 +1,45 @@
+{
+  "slug": "jaws",
+  "title": "Jaws",
+  "author": "Peter Benchley",
+  "isbn13": "9781417653072",
+  "firstPublished": 1974,
+  "series": null,
+  "genres": ["thriller", "horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "adventurous"],
+  "tropes": ["monster", "small-town", "survival"],
+  "warnings": ["death", "violence", "gore", "infidelity"],
+  "summary": "A great white shark begins killing swimmers off a New England resort town, and the police chief wants the beaches closed while the mayor and the businesses push to stay open for the season.",
+  "readIf": "you want a fast, nasty creature thriller with a lot of small-town politics around the shark.",
+  "skipIf": "you expect the film's tone; the book has more subplots and bleaker characters.",
+  "pairings": [
+    {
+      "slug": "jurassic-park",
+      "reason": "Another fast monster thriller where greed and human error cause the disaster.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "moby-dick",
+      "reason": "The great literary ancestor of men and sea creatures locked in a fatal obsession.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-old-man-and-the-sea",
+      "reason": "A short, quiet story of one man and a huge fish, with more heart and less panic.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417653072",
+    "https://en.wikipedia.org/wiki/Jaws_(novel)",
+    "https://hardcover.app/books/jaws"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

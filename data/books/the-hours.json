@@ -1,0 +1,45 @@
+{
+  "slug": "the-hours",
+  "title": "The Hours",
+  "author": "Michael Cunningham",
+  "isbn13": "9780374172893",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic", "haunting"],
+  "tropes": ["dual-timeline"],
+  "warnings": ["suicide", "mental-illness", "death"],
+  "summary": "Three women in three eras share a single day linked to Virginia Woolf's Mrs Dalloway: Woolf herself, a 1950s housewife and a present-day New Yorker planning a party. Their stories begin to echo one another.",
+  "readIf": "you like quiet, beautifully made novels that spend a lot of time inside characters' thoughts.",
+  "skipIf": "you want much plot, or you are looking for an upbeat read.",
+  "pairings": [
+    {
+      "slug": "mrs-dalloway",
+      "reason": "The book it was written in response to; reading it first adds a great deal.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-little-life",
+      "reason": "Another American novel about friendship and the weight of private pain, far longer and harsher.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "olive-kitteridge",
+      "reason": "Another elegant study of ordinary lives, grief and loneliness in plain, compelling prose.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780374172893",
+    "https://en.wikipedia.org/wiki/The_Hours_(novel)",
+    "https://hardcover.app/books/the-hours"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

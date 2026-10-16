@@ -1,0 +1,45 @@
+{
+  "slug": "les-miserables",
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "isbn13": "9780451419439",
+  "firstPublished": 1862,
+  "series": null,
+  "genres": ["classic", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "hopeful"],
+  "tropes": ["redemption", "rebellion"],
+  "warnings": ["death", "violence", "war"],
+  "summary": "Ex-convict Jean Valjean tries to build an honest life in nineteenth-century France while a relentless police inspector pursues him. He becomes protector of a girl named Cosette against the backdrop of revolt in Paris.",
+  "readIf": "you want a vast, emotional story of mercy, justice and sacrifice, and don't mind its long digressions.",
+  "skipIf": "you want a quick read, since the novel includes extended essays on history and architecture.",
+  "pairings": [
+    {
+      "slug": "the-count-of-monte-cristo",
+      "reason": "Another giant French novel about a wronged man and a changed identity, with more adventure and revenge.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-tale-of-two-cities",
+      "reason": "A shorter Dickens novel of sacrifice and revolution in the same era.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "oliver-twist",
+      "reason": "Another novel that spotlights the poor and the criminal with compassion.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451419439",
+    "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables",
+    "https://hardcover.app/books/les-miserables"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

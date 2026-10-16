@@ -1,0 +1,41 @@
+{
+  "slug": "gild",
+  "title": "Gild",
+  "author": "Raven Kennedy",
+  "isbn13": "9781737633808",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "swoony"],
+  "tropes": ["fairy-tale-retelling", "forbidden-love", "royalty", "rebellion"],
+  "warnings": ["abuse", "manipulation", "sexual-assault", "domestic-violence", "violence"],
+  "summary": "A young woman is kept as a king's prized possession, her hair turned to gold and her life confined to a palace. She slowly begins to see how small her world has become and what she might do about it.",
+  "readIf": "you want a dark fairy-tale-inspired romantasy about escaping control, with a brooding atmosphere.",
+  "skipIf": "you want to avoid stories centered on an abusive captor and coercive control.",
+  "pairings": [
+    {
+      "slug": "spinning-silver",
+      "reason": "A richer, more thoughtful retelling with a heroine who bargains her way out of trouble.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another dark romantasy of power and betrayal in a court that treats a young woman as disposable.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "Another retelling-flavored fantasy with a captive heroine and a more romance-first outlook.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781737633808", "https://hardcover.app/books/gild"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

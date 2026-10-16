@@ -1,0 +1,45 @@
+{
+  "slug": "the-great-alone",
+  "title": "The Great Alone",
+  "author": "Kristin Hannah",
+  "isbn13": "9781447286011",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "heartbreaking", "haunting"],
+  "tropes": ["survival", "coming-of-age", "small-town"],
+  "warnings": ["domestic-violence", "abuse", "mental-illness", "death", "violence"],
+  "summary": "In the 1970s, a former prisoner of war moves his wife and thirteen-year-old daughter to a remote Alaskan homestead. As the dark winters close in, the girl watches her father's moods grow more dangerous.",
+  "readIf": "you want a gripping, atmospheric family drama set in wild country with a strong coming-of-age strand.",
+  "skipIf": "you want to avoid stories about domestic abuse, which is central and often painful here.",
+  "pairings": [
+    {
+      "slug": "where-the-crawdads-sing",
+      "reason": "Another girl growing up on the edge of a wild landscape, with nature as a real presence.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-four-winds",
+      "reason": "Same author, with another resilient woman facing hardship and a bleak landscape.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poisonwood-bible",
+      "reason": "Another family driven into unfamiliar territory by a controlling father, with a similar mix of dread and love.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781447286011",
+    "https://en.wikipedia.org/wiki/The_Great_Alone",
+    "https://hardcover.app/books/the-great-alone"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "behind-closed-doors",
+  "title": "Behind Closed Doors",
+  "author": "B. A. Paris",
+  "isbn13": "9781432840112",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": [],
+  "warnings": ["domestic-violence", "abuse", "manipulation"],
+  "summary": "A glamorous couple looks perfect to everyone who meets them, from the immaculate home to the charming husband. The wife, however, is never seen without him, and the book slowly shows why.",
+  "readIf": "you want a one-sitting psychological thriller about control behind a perfect surface.",
+  "skipIf": "you are sensitive to depictions of coercion and abuse, which are the entire point of the plot.",
+  "pairings": [
+    {
+      "slug": "the-girl-before",
+      "reason": "Another claustrophobic thriller about a woman drawn into a controlling relationship with a gorgeous, unsettling man.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "Takes the idea of the perfect marriage and turns it into a much more twisty, cynical game.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-couple-next-door",
+      "reason": "A shorter, quicker domestic thriller where a pleasant surface hides ugly secrets.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

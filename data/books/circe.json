@@ -1,0 +1,44 @@
+{
+  "slug": "circe",
+  "title": "Circe",
+  "author": "Madeline Miller",
+  "isbn13": "9781526612519",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["fantasy", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "thoughtful", "inspiring"],
+  "tropes": ["gods-and-myth", "witches", "redemption", "fairy-tale-retelling"],
+  "warnings": ["sexual-assault", "violence", "death", "abuse"],
+  "summary": "The witch-goddess known from the Odyssey tells her own life: a lonely girl born to a minor god who is exiled to a remote island. There she learns herbs and magic, meets famous figures from Greek myth and becomes powerful.",
+  "readIf": "you want a lyrical, feminist retelling of myth that is patient and richly drawn.",
+  "skipIf": "you want fast plotting, since it unfolds across centuries with a slow, reflective pace.",
+  "pairings": [
+    {
+      "slug": "the-song-of-achilles",
+      "reason": "Same author, another heartfelt Greek myth retelling told with a gentler, more romantic focus.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "Another atmospheric, beautifully written story with magic and a lyrical voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "Another quiet, strange book about a solitary person learning the rules of a mythic place.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781526612519",
+    "https://en.wikipedia.org/wiki/Circe_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

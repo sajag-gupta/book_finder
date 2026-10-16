@@ -1,0 +1,44 @@
+{
+  "slug": "the-hitchhikers-guide-to-the-galaxy",
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "isbn13": "9780739349366",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "Moments before Earth is demolished to make way for a hyperspace bypass, an ordinary Englishman is whisked off into space by his friend, who turns out to be an alien researching a very odd travel guide.",
+  "readIf": "you want a short, absurd comic science fiction romp full of quotable lines.",
+  "skipIf": "you want a firm plot or serious science fiction.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Another British comic fantasy about the end of the world, equally full of jokes.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-colour-of-magic",
+      "reason": "Pratchett's first Discworld book, with the same silly, satirical approach to fantasy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A funnier, more earnest science fiction adventure with real science.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 14,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739349366",
+    "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

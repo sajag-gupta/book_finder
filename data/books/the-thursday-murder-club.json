@@ -1,0 +1,44 @@
+{
+  "slug": "the-thursday-murder-club",
+  "title": "The Thursday Murder Club",
+  "author": "Richard Osman",
+  "isbn13": "9780241988268",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["cozy", "funny", "witty", "comforting"],
+  "tropes": ["whodunit", "detective", "found-family", "unlikely-friendship"],
+  "warnings": ["death", "grief"],
+  "summary": "Four sharp retirees in a comfortable English village meet each week to look into old, unsolved killings. When a real murder happens on their doorstep, they find themselves with a live case.",
+  "readIf": "you like warm, witty mysteries with older heroes and a lot of charm.",
+  "skipIf": "you want a hard-boiled or very suspenseful crime novel, since the tone is gentle and the plot deliberately cosy.",
+  "pairings": [
+    {
+      "slug": "murder-on-the-orient-express",
+      "reason": "The classic that this style of puzzle mystery grew out of, with a polished closed-circle case.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another warm, funny story of older people and the neighbours who gradually pull them back into life.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "still-life",
+      "reason": "A cosy village mystery with a thoughtful investigator and a deep sense of community.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241988268",
+    "https://en.wikipedia.org/wiki/The_Thursday_Murder_Club"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

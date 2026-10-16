@@ -1,0 +1,45 @@
+{
+  "slug": "never-let-me-go",
+  "title": "Never Let Me Go",
+  "author": "Kazuo Ishiguro",
+  "isbn13": "9780571272136",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["literary", "science-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "haunting", "heartbreaking"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["death", "grief"],
+  "summary": "Kathy looks back on her years at Hailsham, an English boarding school, and her friendship with Ruth and Tommy. Bit by bit, she reveals what the students are being raised for.",
+  "readIf": "you like a quiet, haunting novel that builds its emotional force slowly.",
+  "skipIf": "you want to be told everything early, since the book prefers restraint and implication.",
+  "pairings": [
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "Another Ishiguro novel narrated by an innocent observer, about what makes a person human.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A shorter, younger story about a society built on a hidden cruelty.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "Ishiguro's earlier book, another narrator who sees too little too late.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571272136",
+    "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)",
+    "https://hardcover.app/books/never-let-me-go"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

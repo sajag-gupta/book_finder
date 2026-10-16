@@ -1,0 +1,40 @@
+{
+  "slug": "the-ministry-for-the-future",
+  "title": "The Ministry for the Future",
+  "author": "Kim Stanley Robinson",
+  "isbn13": "9780356508849",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "hopeful", "tense"],
+  "tropes": [],
+  "warnings": ["death", "violence"],
+  "summary": "A near-future story begins with a deadly heatwave in India, then follows a new United Nations agency tasked with representing the interests of future generations. It looks at the many ways people try to stop climate disaster.",
+  "readIf": "you want a serious, information-rich look at how the world might actually respond to climate change.",
+  "skipIf": "you want a plot-driven novel, as much of it is made up of essays, reports and short vignettes.",
+  "pairings": [
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "A more personal and frightening story of life in a world already coming apart from climate pressure.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-dispossessed",
+      "reason": "Another thoughtful novel about building a better society, in which ideas and politics drive the story.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356508849",
+    "https://en.wikipedia.org/wiki/The_Ministry_for_the_Future",
+    "https://hardcover.app/books/the-ministry-for-the-future"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

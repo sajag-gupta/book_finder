@@ -1,0 +1,45 @@
+{
+  "slug": "the-three-body-problem",
+  "title": "The Three-Body Problem",
+  "author": "Liu Cixin",
+  "isbn13": "9780765382030",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mind-bending", "thoughtful", "tense"],
+  "tropes": ["first-contact"],
+  "warnings": ["violence", "death", "suicide"],
+  "summary": "In the aftermath of China's Cultural Revolution, an astrophysicist makes a fateful choice. Decades later, scientists begin dying and a researcher is drawn into a strange virtual game about a doomed alien world.",
+  "readIf": "you like hard science fiction with huge ideas and a slowly tightening sense of dread.",
+  "skipIf": "you want warm, character-driven storytelling, since the cast is secondary to the concepts.",
+  "pairings": [
+    {
+      "slug": "contact",
+      "reason": "A more hopeful, human story of what a first signal from space might do to us.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "childhoods-end",
+      "reason": "A classic with a similar awe at humanity's place in the universe, but far shorter and more serene.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "children-of-time",
+      "reason": "Another big, patient story about civilisations and survival over very long stretches of time.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765382030",
+    "https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)",
+    "https://hardcover.app/books/the-three-body-problem"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

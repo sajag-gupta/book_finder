@@ -1,0 +1,45 @@
+{
+  "slug": "reminders-of-him",
+  "title": "Reminders of Him",
+  "author": "Colleen Hoover",
+  "isbn13": "9781542025607",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["heartbreaking", "hopeful", "swoony"],
+  "tropes": ["second-chance", "redemption", "small-town"],
+  "warnings": ["death", "grief"],
+  "summary": "After years in prison for a tragic mistake, Kenna returns to the small town where she grew up, hoping to meet the young daughter she has never known, while a local bar owner with his own ties to the past gets in the way.",
+  "readIf": "you want a moving romance about grief, forgiveness and second chances.",
+  "skipIf": "you don't want a story where the heroine is shunned and the pain is front and centre.",
+  "pairings": [
+    {
+      "slug": "it-ends-with-us",
+      "reason": "Hoover's best-known novel, also built around hard choices and a protagonist finding her footing.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-light-between-oceans",
+      "reason": "Another moving novel about a child, a secret and a moral decision with no easy answer.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "regretting-you",
+      "reason": "Another Hoover family-centred story of grief and betrayal with a hopeful ending.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781542025607",
+    "https://en.wikipedia.org/wiki/Reminders_of_Him",
+    "https://hardcover.app/books/reminders-of-him"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

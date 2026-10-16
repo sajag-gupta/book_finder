@@ -1,0 +1,40 @@
+{
+  "slug": "the-scarlet-letter",
+  "title": "The Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "isbn13": "9780781230384",
+  "firstPublished": 1850,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "melancholic", "thoughtful"],
+  "tropes": ["forbidden-love"],
+  "warnings": ["infidelity"],
+  "summary": "In seventeenth-century Puritan Boston, Hester Prynne is made to wear a scarlet letter A for adultery. She refuses to name her child's father while her long-lost husband arrives in town under a false identity.",
+  "readIf": "you want a short classic about guilt, shame and community judgement.",
+  "skipIf": "you want an easy, fast narrative, since the style is dense and symbolic.",
+  "pairings": [
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "A modern dystopia that picks up the same themes of Puritan control over women's bodies.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "madame-bovary",
+      "reason": "Another classic about a woman punished by society for an affair, though very different in tone.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780781230384",
+    "https://en.wikipedia.org/wiki/The_Scarlet_Letter",
+    "https://hardcover.app/books/the-scarlet-letter"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

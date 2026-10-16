@@ -1,0 +1,45 @@
+{
+  "slug": "ancillary-justice",
+  "title": "Ancillary Justice",
+  "author": "Ann Leckie",
+  "isbn13": "9780316246620",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "tense", "dark"],
+  "tropes": ["artificial-intelligence", "revenge"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The last surviving fragment of a starship's mind now lives in a single human body. She sets out on a quiet, patient quest for revenge on the ruler of the empire that destroyed her.",
+  "readIf": "you like cerebral space opera that plays with identity, language and the structure of an empire.",
+  "skipIf": "you dislike two timelines and a lot of unfamiliar terms in the opening chapters.",
+  "pairings": [
+    {
+      "slug": "a-memory-called-empire",
+      "reason": "Another dense, culturally rich space empire seen by someone caught in its politics.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "The classic that first made readers rethink gender and identity in science fiction.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "A lighter, much shorter story of a constructed mind on a mission, with plenty of humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316246620",
+    "https://en.wikipedia.org/wiki/Ancillary_Justice",
+    "https://hardcover.app/books/ancillary-justice"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

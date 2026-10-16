@@ -4,83 +4,159 @@
     "name": "Cozy",
     "blurb": "Warm, low-stakes and gentle.",
     "color": "sunshine",
-    "featured": true
+    "featured": true,
+    "icon": "coffee"
   },
   {
     "slug": "swoony",
     "name": "Swoony",
     "blurb": "Romance that makes you sigh.",
     "color": "coral",
-    "featured": true
+    "featured": true,
+    "icon": "heart"
   },
   {
     "slug": "adventurous",
     "name": "Adventurous",
     "blurb": "Big journeys and bigger worlds.",
     "color": "violet",
-    "featured": true
+    "featured": true,
+    "icon": "compass"
   },
   {
     "slug": "hopeful",
     "name": "Hopeful",
     "blurb": "Leaves you lighter than it found you.",
     "color": "mint",
-    "featured": true
+    "featured": true,
+    "icon": "sunrise"
   },
   {
     "slug": "tense",
     "name": "Tense",
     "blurb": "Hard to put down.",
     "color": "coral",
-    "featured": true
+    "featured": true,
+    "icon": "zap"
   },
   {
     "slug": "heartbreaking",
     "name": "Heartbreaking",
     "blurb": "Keep tissues nearby.",
     "color": "violet",
-    "featured": true
+    "featured": true,
+    "icon": "heart-crack"
   },
   {
     "slug": "funny",
     "name": "Funny",
     "blurb": "Actually makes you laugh.",
     "color": "sunshine",
-    "featured": true
+    "featured": true,
+    "icon": "laugh"
   },
   {
     "slug": "thoughtful",
     "name": "Thoughtful",
     "blurb": "Ideas that stay with you.",
     "color": "mint",
-    "featured": true
+    "featured": true,
+    "icon": "lightbulb"
   },
   {
     "slug": "comforting",
     "name": "Comforting",
     "blurb": "A hug in book form.",
     "color": "sunshine",
-    "featured": false
+    "featured": false,
+    "icon": "sofa"
   },
   {
     "slug": "whimsical",
     "name": "Whimsical",
     "blurb": "Playful, strange and charming.",
     "color": "violet",
-    "featured": false
+    "featured": false,
+    "icon": "wand-sparkles"
   },
   {
     "slug": "dark",
     "name": "Dark",
     "blurb": "Shadows, danger and grit.",
     "color": "violet",
-    "featured": false
+    "featured": false,
+    "icon": "moon"
   },
   {
     "slug": "haunting",
     "name": "Haunting",
     "blurb": "Lingers long after the last page.",
     "color": "violet",
-    "featured": false
+    "featured": false,
+    "icon": "ghost"
+  },
+  {
+    "slug": "mysterious",
+    "name": "Mysterious",
+    "blurb": "Secrets, clues and a pull to find out.",
+    "color": "violet",
+    "featured": true,
+    "icon": "search"
+  },
+  {
+    "slug": "spooky",
+    "name": "Spooky",
+    "blurb": "Creepy, eerie and best read with the lights on.",
+    "color": "violet",
+    "featured": true,
+    "icon": "skull"
+  },
+  {
+    "slug": "epic",
+    "name": "Epic",
+    "blurb": "Sweeping worlds and huge stakes.",
+    "color": "coral",
+    "featured": true,
+    "icon": "swords"
+  },
+  {
+    "slug": "nostalgic",
+    "name": "Nostalgic",
+    "blurb": "Comfort-food classics and old favourites.",
+    "color": "sunshine",
+    "featured": true,
+    "icon": "radio"
+  },
+  {
+    "slug": "witty",
+    "name": "Witty",
+    "blurb": "Sharp, clever and quotable.",
+    "color": "mint",
+    "featured": false,
+    "icon": "message-circle"
+  },
+  {
+    "slug": "melancholic",
+    "name": "Melancholic",
+    "blurb": "Quietly sad and beautifully so.",
+    "color": "violet",
+    "featured": false,
+    "icon": "cloud-rain"
+  },
+  {
+    "slug": "mind-bending",
+    "name": "Mind-bending",
+    "blurb": "Ideas that rearrange your head.",
+    "color": "mint",
+    "featured": false,
+    "icon": "orbit"
+  },
+  {
+    "slug": "inspiring",
+    "name": "Inspiring",
+    "blurb": "Courage, resilience and second wind.",
+    "color": "mint",
+    "featured": false,
+    "icon": "sparkles"
   }
 ]

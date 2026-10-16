@@ -1,0 +1,45 @@
+{
+  "slug": "tomorrow-and-tomorrow-and-tomorrow",
+  "title": "Tomorrow, and Tomorrow, and Tomorrow",
+  "author": "Gabrielle Zevin",
+  "isbn13": "9781784744649",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "heartbreaking", "nostalgic"],
+  "tropes": [],
+  "warnings": ["death", "grief"],
+  "summary": "Two childhood friends meet again as students and decide to build a video game together. Over three decades, their creative partnership brings fame, money and a lot of strain.",
+  "readIf": "you like novels about friendship, ambition and creative work that care as much about games as about people.",
+  "skipIf": "you want a traditional romance, since the central bond is more tangled and unresolved than that.",
+  "pairings": [
+    {
+      "slug": "ready-player-one",
+      "reason": "Another novel steeped in video games, though much lighter and focused on adventure instead of human cost.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "daisy-jones-and-the-six",
+      "reason": "Follows another creative collaboration that thrives and then frays under pressure and feeling.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A quieter look at two people who repeatedly find and lose each other across years.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784744649",
+    "https://en.wikipedia.org/wiki/Tomorrow_and_tomorrow_and_tomorrow_(disambiguation)",
+    "https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

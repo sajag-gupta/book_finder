@@ -1,0 +1,45 @@
+{
+  "slug": "anxious-people",
+  "title": "Anxious People",
+  "author": "Fredrik Backman",
+  "isbn13": "9781501160837",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "hopeful", "heartbreaking"],
+  "tropes": ["unlikely-friendship", "found-family"],
+  "warnings": ["suicide", "grief", "mental-illness"],
+  "summary": "A desperate would-be bank robber flees into an apartment viewing and ends up holding a group of strangers hostage. As the police ask questions, each person's private worries come out.",
+  "readIf": "you want a comic ensemble story that is secretly about loneliness, parenthood and being kind to strangers.",
+  "skipIf": "you dislike narrators who wander off on tangents or want a tight, strictly plotted mystery.",
+  "pairings": [
+    {
+      "slug": "a-man-called-ove",
+      "reason": "The author's best-known novel, with the same mix of dry jokes and sudden emotional weight.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "Another warm, funny ensemble of mismatched people thrown together around a crime.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "big-little-lies",
+      "reason": "Also reveals a tightly knit community's secrets through an incident, with a sharper, more satirical edge.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781501160837",
+    "https://en.wikipedia.org/wiki/Anxious_People",
+    "https://hardcover.app/books/anxious-people"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

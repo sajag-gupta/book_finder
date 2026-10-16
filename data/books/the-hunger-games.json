@@ -1,0 +1,45 @@
+{
+  "slug": "the-hunger-games",
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "isbn13": "9780702342387",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "hopeful"],
+  "tropes": ["survival", "dystopian-regime", "rebellion", "love-triangle"],
+  "warnings": ["violence", "death", "child-death"],
+  "summary": "In a future nation where each district must send two teenagers to fight to the death on television, sixteen-year-old Katniss volunteers to take her little sister's place.",
+  "readIf": "you want a fast, tense survival story with a resourceful heroine and sharp social commentary.",
+  "skipIf": "children being forced to kill each other is something you want to avoid.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "An adult, far bloodier take on a young person fighting a rigged system.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A quiet, thoughtful dystopia with a young hero, for a slower and more reflective read.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "scythe",
+      "reason": "Another young adult dystopia built around a morally fraught system, with more dark humour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 29,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780702342387",
+    "https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)",
+    "https://hardcover.app/books/the-hunger-games"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

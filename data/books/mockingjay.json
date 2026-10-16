@@ -1,0 +1,45 @@
+{
+  "slug": "mockingjay",
+  "title": "Mockingjay",
+  "author": "Suzanne Collins",
+  "isbn13": "9781407157887",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["dystopian", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "heartbreaking", "tense"],
+  "tropes": ["rebellion", "war-story", "dystopian-regime"],
+  "warnings": ["war", "violence", "death", "torture", "grief", "child-death"],
+  "summary": "Katniss becomes the face of an open rebellion against the Capitol, leading a war that tests every loyalty she has and leaves her to wonder who is really using her.",
+  "readIf": "you've followed the trilogy and want the conclusion, which is bleak and unsentimental about war.",
+  "skipIf": "you want a triumphant ending or a lot of arena action.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "Another story of a rebellion told from the inside, brutal and fast-moving.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-forever-war",
+      "reason": "A cold, honest science fiction look at what war does to soldiers.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "legend",
+      "reason": "Another young adult dystopian with two leads, a fractured regime and a high-pace plot.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407157887",
+    "https://en.wikipedia.org/wiki/Mockingjay",
+    "https://hardcover.app/books/mockingjay"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

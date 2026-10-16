@@ -1,0 +1,45 @@
+{
+  "slug": "i-robot",
+  "title": "I, Robot",
+  "author": "Isaac Asimov",
+  "isbn13": "9780812439250",
+  "firstPublished": 1950,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "mysterious", "nostalgic"],
+  "tropes": ["artificial-intelligence"],
+  "warnings": [],
+  "summary": "A series of linked stories follows a robot psychologist and the engineers who test machines governed by three simple laws. Each case shows how those laws can go wrong in surprising and logical ways.",
+  "readIf": "you like puzzle-box science fiction about how artificial minds might think.",
+  "skipIf": "you want a single flowing novel with deep characters, since the stories are short and idea-driven.",
+  "pairings": [
+    {
+      "slug": "all-systems-red",
+      "reason": "A modern, funnier look at a created mind that has its own opinions about its rules.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "An artificial being seen with great tenderness, for readers who want the human feeling these tales avoid.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "do-androids-dream-of-electric-sheep",
+      "reason": "Asks what separates people from machines in a bleaker, more unsettling way.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812439250",
+    "https://en.wikipedia.org/wiki/I%2C_Robot",
+    "https://hardcover.app/books/i-robot"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-silmarillion",
+  "title": "The Silmarillion",
+  "author": "J. R. R. Tolkien",
+  "isbn13": "9780812423020",
+  "firstPublished": 1977,
+  "series": null,
+  "genres": ["epic-fantasy", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["epic", "melancholic", "thoughtful"],
+  "tropes": ["gods-and-myth", "war-story", "quest", "revenge"],
+  "warnings": ["war", "death", "incest", "violence"],
+  "summary": "A collection of linked legends covering the creation of Tolkien's world, the first wars against its original dark lord, and the fall of the Elves' great kingdoms. It reads more like a mythology than a novel.",
+  "readIf": "you want the ancient history behind Middle-earth and enjoy elevated, myth-like storytelling.",
+  "skipIf": "you want conventional characters and dialogue, as it is dense with names and lacks a single hero.",
+  "pairings": [
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "reason": "The accessible story that shows where all this history leads, with real scenes and characters.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "Another fantasy in a mythic, restrained voice, with creation stories and the weight of names.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "american-gods",
+      "reason": "A very different, modern novel that also lives among gods and myths.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812423020",
+    "https://en.wikipedia.org/wiki/The_Silmarillion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "a-thousand-splendid-suns",
+  "title": "A Thousand Splendid Suns",
+  "author": "Khaled Hosseini",
+  "isbn13": "9780743567619",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "hopeful", "inspiring"],
+  "tropes": ["unlikely-friendship", "war-story"],
+  "warnings": ["domestic-violence", "war", "death", "abuse", "violence"],
+  "summary": "Mariam and Laila, from different generations and backgrounds, find themselves married to the same cruel man in Kabul. As decades of war and changing regimes pass, an unexpected bond forms between them.",
+  "readIf": "you want an emotional, moving novel about women's resilience set against modern Afghan history.",
+  "skipIf": "you want a light read, because it contains harrowing abuse.",
+  "pairings": [
+    {
+      "slug": "the-kite-runner",
+      "reason": "The author's first novel, also set in Afghanistan, but centred on two boys and guilt.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "half-of-a-yellow-sun",
+      "reason": "Another novel that follows people through a country's war and turmoil.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "A multi-generation saga of a family, with similar strength through hardship.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780743567619",
+    "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns",
+    "https://hardcover.app/books/a-thousand-splendid-suns"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-restaurant-at-the-end-of-the-universe",
+  "title": "The Restaurant at the End of the Universe",
+  "author": "Douglas Adams",
+  "isbn13": "9781529034530",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "The second Hitchhiker's book sends its stranded travellers off to a restaurant where diners watch the end of the universe over dinner. It also adds a ruler, a missing planet and a lot of absurd detours.",
+  "readIf": "you have read the first book and want more of the same silly, quotable cosmic comedy.",
+  "skipIf": "you have not read the first book, as the story picks up directly and assumes you know the cast.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Another funny, clever story about the end of the world, written with the same affectionate silliness.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-colour-of-magic",
+      "reason": "A fantasy answer to this book's style, with equally ridiculous creatures and deadpan footnotes.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "we-are-legion-we-are-bob",
+      "reason": "A more modern, lighter-hearted space adventure that mixes science-fiction ideas with jokes.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529034530",
+    "https://en.wikipedia.org/wiki/The_Restaurant_at_the_End_of_the_Universe",
+    "https://hardcover.app/books/the-restaurant-at-the-end-of-the-universe"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

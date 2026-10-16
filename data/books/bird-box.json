@@ -1,0 +1,40 @@
+{
+  "slug": "bird-box",
+  "title": "Bird Box",
+  "author": "Josh Malerman",
+  "isbn13": "9781483004365",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["horror", "thriller"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "dark", "haunting"],
+  "tropes": ["post-apocalyptic", "survival"],
+  "warnings": ["death", "violence", "suicide"],
+  "summary": "Something has appeared that drives people to violence the moment they see it. A mother and two children must make a blindfolded trip down a river, while the story flashes back to how she survived the early days.",
+  "readIf": "you want a very quick, tense read built around one simple, frightening idea.",
+  "skipIf": "you want an explanation of the threat or a lot of character depth.",
+  "pairings": [
+    {
+      "slug": "the-road",
+      "reason": "A far more literary and bleak tale of a parent protecting a child after collapse.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "Another story about humans facing something they cannot understand and may not be able to perceive.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781483004365",
+    "https://en.wikipedia.org/wiki/Bird_Box_(novel)",
+    "https://hardcover.app/books/bird-box"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

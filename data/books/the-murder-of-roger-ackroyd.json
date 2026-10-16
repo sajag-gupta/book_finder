@@ -1,0 +1,40 @@
+{
+  "slug": "the-murder-of-roger-ackroyd",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie",
+  "isbn13": "9780062073563",
+  "firstPublished": 1926,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mysterious", "witty", "tense"],
+  "tropes": ["detective", "whodunit", "twist-ending", "small-town"],
+  "warnings": ["death"],
+  "summary": "A wealthy man is found stabbed in his study in a quiet English village, and Poirot, newly retired next door, is persuaded to investigate. The local doctor narrates the case.",
+  "readIf": "you want one of the most famous and talked-about puzzles in classic crime fiction.",
+  "skipIf": "you have already been told the twist, as the whole book is built around it.",
+  "pairings": [
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "A modern, warmer English-village mystery that likes to play with the same kind of clever misdirection.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hound-of-the-baskervilles",
+      "reason": "Another classic detective story with a strong sense of English place, but moodier and more gothic.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062073563",
+    "https://en.wikipedia.org/wiki/The_Murder_of_Roger_Ackroyd",
+    "https://hardcover.app/books/the-murder-of-roger-ackroyd-agatha-christie-100th-anniversary-collection"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

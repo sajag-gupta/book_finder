@@ -1,0 +1,45 @@
+{
+  "slug": "rosemarys-baby",
+  "title": "Rosemary's Baby",
+  "author": "Ira Levin",
+  "isbn13": "9781480465763",
+  "firstPublished": 1967,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["spooky", "tense", "dark"],
+  "tropes": ["cult"],
+  "warnings": ["manipulation", "sexual-assault"],
+  "summary": "A young couple move into a New York apartment building with overly friendly neighbours. When Rosemary becomes pregnant, she begins to suspect that those around her have plans for the child.",
+  "readIf": "you like paranoid horror where the menace comes from the people closest to you.",
+  "skipIf": "you want a lot of gore or scares, because this is slow-burning dread.",
+  "pairings": [
+    {
+      "slug": "the-exorcist",
+      "reason": "Another 1970s classic that mixes domestic life with a terrifying supernatural threat.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "A modern gothic about a young woman who senses something rotten in a house and family.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-turn-of-the-screw",
+      "reason": "A shorter, ambiguous classic about whether the menace is real.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781480465763",
+    "https://en.wikipedia.org/wiki/Rosemary's_Baby_(novel)",
+    "https://hardcover.app/books/rosemarys-baby"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

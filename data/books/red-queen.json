@@ -1,0 +1,45 @@
+{
+  "slug": "red-queen",
+  "title": "Red Queen",
+  "author": "Victoria Aveyard",
+  "isbn13": "9781484485996",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous", "dark"],
+  "tropes": ["rebellion", "royalty", "love-triangle", "hidden-identity"],
+  "warnings": ["violence", "death", "manipulation"],
+  "summary": "In a world divided by blood colour, Mare is a poor Red who unexpectedly shows powers reserved for the silver-blooded elite. The royals hide her at court as a long-lost noble while she secretly helps a rebellion.",
+  "readIf": "you like YA fantasy with palace intrigue, twists and an anti-hero heroine.",
+  "skipIf": "you dislike love triangles or want a fresh take on a chosen girl.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "A similar story of a poor girl pushed into the spotlight in an unjust, brutal system.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "Another YA about rebellion and survival in a harsh empire with two alternating narrators.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "throne-of-glass",
+      "reason": "A YA fantasy with a dangerous heroine at a royal court.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484485996",
+    "https://en.wikipedia.org/wiki/Red_Queen_(novel)",
+    "https://hardcover.app/books/red-queen-2015"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

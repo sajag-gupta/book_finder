@@ -1,0 +1,45 @@
+{
+  "slug": "bridget-joness-diary",
+  "title": "Bridget Jones's Diary",
+  "author": "Helen Fielding",
+  "isbn13": "9780330375696",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "comforting"],
+  "tropes": ["love-triangle", "enemies-to-lovers"],
+  "warnings": [],
+  "summary": "Thirty-something Bridget Jones keeps a diary of her year, logging calories, cigarettes, glasses of wine and a messy love life that pits her charming, unreliable boss against a stiff family friend.",
+  "readIf": "you want a funny, self-deprecating comfort read that loosely follows Pride and Prejudice.",
+  "skipIf": "you dislike a heroine obsessed with weight and men, as it reflects 1990s attitudes.",
+  "pairings": [
+    {
+      "slug": "pride-and-prejudice",
+      "reason": "The original story it riffs on, wittier and quieter.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "confessions-of-a-shopaholic",
+      "reason": "Another laugh-out-loud chick-lit heroine making a mess of her life.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another funny first-person heroine, with a bigger emotional undercurrent.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780330375696",
+    "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(novel)",
+    "https://hardcover.app/books/bridget-joness-diary"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

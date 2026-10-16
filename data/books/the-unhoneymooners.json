@@ -1,0 +1,41 @@
+{
+  "slug": "the-unhoneymooners",
+  "title": "The Unhoneymooners",
+  "author": "Christina Lauren",
+  "isbn13": "9780349417592",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "swoony", "comforting"],
+  "tropes": ["enemies-to-lovers", "forced-proximity", "fake-dating"],
+  "warnings": ["sexual-content"],
+  "summary": "After food poisoning fells an entire wedding party, the bride's sister and the groom's brother, who loathe each other, end up using the couple's free honeymoon in Hawaii. They have to pretend to be newlyweds to keep it.",
+  "readIf": "you want a sunny, fast rom-com with a pair who bicker constantly and a vacation setting.",
+  "skipIf": "you dislike farcical set-ups or want romance with more realism and emotional heft.",
+  "pairings": [
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "Another holiday-set romance with banter and warmth, though it leans more toward friends-to-lovers longing.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "Shares the delight of two people who claim to hate each other being thrown together.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "confessions-of-a-shopaholic",
+      "reason": "Another very light, laugh-first read if you want something breezy and comic.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

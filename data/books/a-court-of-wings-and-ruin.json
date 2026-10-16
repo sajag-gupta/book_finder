@@ -1,0 +1,44 @@
+{
+  "slug": "a-court-of-wings-and-ruin",
+  "title": "A Court of Wings and Ruin",
+  "author": "Sarah J. Maas",
+  "isbn13": "9780606410823",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "swoony"],
+  "tropes": ["fae", "rebellion", "found-family", "political-intrigue"],
+  "warnings": ["violence", "war", "sexual-content", "death", "torture"],
+  "summary": "The third book follows its heroine as she goes undercover in an enemy court while her allies prepare for a war that is now unavoidable. Loyalties are tested across the continent as the invasion approaches.",
+  "readIf": "you are already invested in the series and want a big, battle-driven installment with a lot of payoff.",
+  "skipIf": "you haven't read the earlier books, since it relies on them heavily.",
+  "pairings": [
+    {
+      "slug": "a-court-of-mist-and-fury",
+      "reason": "The previous book, with a closer, more romantic focus before the war takes over.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A standalone epic with a sweeping war and a number of strong female leads.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "mockingjay",
+      "reason": "Another third volume that turns a young heroine's story into the center of a full-scale war.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606410823",
+    "https://hardcover.app/books/a-court-of-wings-and-ruin"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

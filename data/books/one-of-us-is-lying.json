@@ -1,0 +1,40 @@
+{
+  "slug": "one-of-us-is-lying",
+  "title": "One of Us Is Lying",
+  "author": "Karen M. McManus",
+  "isbn13": "9780593388013",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["mystery", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "witty", "mysterious"],
+  "tropes": ["whodunit"],
+  "warnings": ["death", "bullying"],
+  "summary": "Five students go to detention, but only four leave alive when the school's gossip-app creator collapses and dies. Each of the four had a secret he was about to expose.",
+  "readIf": "you want a quick, twisty teen whodunit with a very bingeable pace.",
+  "skipIf": "you prefer your mysteries more realistic and grown up, since the plot relies on contrivance.",
+  "pairings": [
+    {
+      "slug": "a-good-girls-guide-to-murder",
+      "reason": "Another young-adult mystery with a smart teen sleuth, a small town and a case that refuses to stay closed.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-guest-list",
+      "reason": "A grown-up version of a group of suspects with secrets and a death among them.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593388013",
+    "https://en.wikipedia.org/wiki/One_of_Us_Is_Lying",
+    "https://hardcover.app/books/one-of-us-is-lying"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-maltese-falcon",
+  "title": "The Maltese Falcon",
+  "author": "Dashiell Hammett",
+  "isbn13": "9781572703643",
+  "firstPublished": 1930,
+  "series": null,
+  "genres": ["crime", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "witty", "dark"],
+  "tropes": ["detective", "morally-grey"],
+  "warnings": ["violence", "death"],
+  "summary": "When his partner is shot on a stakeout, San Francisco private eye Sam Spade is drawn into a hunt for a priceless black statuette. Everyone who wants it is lying to him, and he trusts none of them.",
+  "readIf": "you like hard-boiled detective stories with clipped dialogue and nobody quite honest.",
+  "skipIf": "you want a gentle puzzle or a detective with a warm heart.",
+  "pairings": [
+    {
+      "slug": "the-big-sleep",
+      "reason": "Another landmark of 1930s American hard-boiled fiction, with a wisecracking investigator and a plot that tangles fast.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A modern private-detective series with a battered hero and a long, careful investigation, less cynical in tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-spy-who-came-in-from-the-cold",
+      "reason": "Same disillusioned worldview, moved from city streets to Cold War espionage.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781572703643",
+    "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

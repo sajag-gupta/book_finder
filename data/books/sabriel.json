@@ -1,0 +1,45 @@
+{
+  "slug": "sabriel",
+  "title": "Sabriel",
+  "author": "Garth Nix",
+  "isbn13": "9780063040502",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["spooky", "adventurous", "dark"],
+  "tropes": ["quest", "coming-of-age"],
+  "warnings": ["death", "violence"],
+  "summary": "Raised at a boarding school beside a country without magic, a young woman receives her missing father's sword and bells. She must cross into the Old Kingdom, where the dead do not stay dead, to find him.",
+  "readIf": "you like fantasy with real chills, a capable teenage heroine and an unusual take on necromancy.",
+  "skipIf": "you prefer your magic bright and friendly, as the dead and the bells here are properly eerie.",
+  "pairings": [
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "Another classic where magic has rules and costs, told in a calm, spare style.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "coraline",
+      "reason": "A shorter, younger book with the same delicious creepiness around the edge of another world.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "ninth-house",
+      "reason": "Adult, grittier and full of ghosts and secret rites, for readers who want the dark side turned up.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063040502",
+    "https://en.wikipedia.org/wiki/Sabriel",
+    "https://hardcover.app/books/sabriel"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

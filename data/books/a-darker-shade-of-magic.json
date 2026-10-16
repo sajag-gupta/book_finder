@@ -1,0 +1,45 @@
+{
+  "slug": "a-darker-shade-of-magic",
+  "title": "A Darker Shade of Magic",
+  "author": "V. E. Schwab",
+  "isbn13": "9780765376459",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "dark", "mysterious"],
+  "tropes": ["portal-fantasy", "heist", "unlikely-friendship", "royalty"],
+  "warnings": ["violence", "death"],
+  "summary": "There are four Londons in four versions of a world, and only a rare few can travel among them. A magician who smuggles trinkets between them is caught up with a pickpocket who wants to be a pirate, and a dangerous stone.",
+  "readIf": "you want a quick, stylish fantasy with a charming rogue, parallel worlds and a high-energy plot.",
+  "skipIf": "you want deep characterisation or a very gentle read, as it is brisk and fairly bloody.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "Another fast, swaggering fantasy with a clever crew and a plan that goes wrong.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "neverwhere",
+      "reason": "Another fantasy beneath and beside a very different version of London, stranger and more whimsical.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "jonathan-strange-and-mr-norrell",
+      "reason": "A slower, more witty and literary take on English magic.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765376459",
+    "https://en.wikipedia.org/wiki/A_Darker_Shade_of_Magic",
+    "https://hardcover.app/books/a-darker-shade-of-magic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

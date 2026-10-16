@@ -27,10 +27,19 @@ The steps below are kept for recreating the setup in another Cloudflare account.
 
 Pushing to `main` then validates, tests, builds, applies D1 migrations and publishes.
 
+## Newsletter sign-up
+
+The footer and home-page forms post to `/api/subscribe`
+([functions/api/subscribe.js](../functions/api/subscribe.js)), which adds the address to Buttondown
+with `EMAIL_API_KEY`. That key is a **Pages secret** (Pages project → Settings → Variables and
+Secrets, or `wrangler pages secret put EMAIL_API_KEY`), never part of the repo or the build.
+Buttondown sends the double opt-in confirmation. The handler uses a honeypot and a same-origin
+check; add Cloudflare Turnstile if spam appears.
+
 ## Production content
 
-`npm run build` publishes **reviewed** books only. Until at least one book is `reviewed`, the
-production site has no book pages. Review records first (see the [editorial guide](editorial-guide.md)).
+`npm run build` publishes `reviewed` and `checked` books (see [catalogue.md](catalogue.md)).
+Drafts only appear in `npm run build:preview`, which is `noindex`.
 
 ## Affiliate IDs
 

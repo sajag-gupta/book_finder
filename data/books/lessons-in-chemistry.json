@@ -1,0 +1,45 @@
+{
+  "slug": "lessons-in-chemistry",
+  "title": "Lessons in Chemistry",
+  "author": "Bonnie Garmus",
+  "isbn13": "9780385547345",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["witty", "inspiring", "hopeful"],
+  "tropes": ["found-family"],
+  "warnings": ["sexual-assault", "death", "grief"],
+  "summary": "In the early 1960s, a brilliant chemist is pushed out of the laboratory world and ends up hosting a television cooking show. She treats cooking as science and her audience as capable adults.",
+  "readIf": "you want a warm, funny story about stubborn competence, sexism and a very good dog.",
+  "skipIf": "you want a subtle book; the villains are plain and the message is delivered loudly.",
+  "pairings": [
+    {
+      "slug": "remarkably-bright-creatures",
+      "reason": "Another cosy, bittersweet novel with a deeply odd animal sidekick and a lonely, capable heroine.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-gentleman-in-moscow",
+      "reason": "Shares the polite wit and the sense of people building a life with dignity in difficult conditions.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-giver-of-stars",
+      "reason": "Another story of women pushing against narrow expectations in a mid-century setting, and finding each other.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385547345",
+    "https://en.wikipedia.org/wiki/Lessons_in_Chemistry_(novel)",
+    "https://hardcover.app/books/lessons-in-chemistry"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

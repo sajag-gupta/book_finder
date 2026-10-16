@@ -1,0 +1,40 @@
+{
+  "slug": "madame-bovary",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "isbn13": "9781512405613",
+  "firstPublished": 1856,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "dark", "thoughtful"],
+  "tropes": ["small-town"],
+  "warnings": ["infidelity", "suicide", "death"],
+  "summary": "Emma Bovary, married to a kind but dull country doctor, longs for the romance and luxury she has read about. Her affairs and her spending slowly trap her in debt and disillusion.",
+  "readIf": "you appreciate precise, ironic prose and a close study of a woman who wants more than she is given.",
+  "skipIf": "you want likeable characters or a hopeful ending.",
+  "pairings": [
+    {
+      "slug": "anna-karenina",
+      "reason": "A larger Russian novel that also follows a married woman who falls into an affair, with more sympathy.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-great-gatsby",
+      "reason": "Another novel about the damage done by chasing a dream of glamour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781512405613",
+    "https://en.wikipedia.org/wiki/Madame_Bovary",
+    "https://hardcover.app/books/madame-bovary"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-magicians-nephew",
+  "title": "The Magician's Nephew",
+  "author": "C. S. Lewis",
+  "isbn13": "9780898458770",
+  "firstPublished": 1955,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["whimsical", "adventurous", "nostalgic"],
+  "tropes": ["portal-fantasy", "talking-animals", "gods-and-myth"],
+  "warnings": [],
+  "summary": "Two children in Victorian London are tricked into using magic rings that carry them between worlds. Their travels bring them to a dying world and to the moment a new one, Narnia, is sung into being.",
+  "readIf": "you want the origin story of Narnia, full of curious worlds and a sense of wonder.",
+  "skipIf": "you plan to read the series in publication order, as it spoils some mysteries from the others.",
+  "pairings": [
+    {
+      "slug": "the-neverending-story",
+      "reason": "A larger and stranger children's tale about a world held together by imagination.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "alices-adventures-in-wonderland",
+      "reason": "Another classic where a child steps into a world with its own odd rules and dreamlike logic.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-wonderful-wizard-of-oz",
+      "reason": "A comparable early fantasy about children in a magical land, with a lighter and more direct story.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780898458770",
+    "https://en.wikipedia.org/wiki/The_Magician's_Nephew",
+    "https://hardcover.app/books/the-magicians-nephew"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "throne-of-glass",
+  "title": "Throne of Glass",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781526635297",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "tense", "swoony"],
+  "tropes": ["chosen-one", "love-triangle", "magic-school", "political-intrigue"],
+  "warnings": ["violence", "death", "abuse"],
+  "summary": "A teenage assassin is pulled from a prison mine and offered freedom if she wins a tournament as the king's champion. The contest quickly turns into a murder mystery, and the court around her is full of secrets.",
+  "readIf": "you like a young-adult fantasy with a deadly competition, a mystery and a love triangle.",
+  "skipIf": "you want a self-contained story, since this is the start of a long series that grows much bigger.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another young heroine forced into a lethal contest by those in power.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "A sharper, more tightly plotted fantasy with a crew of dangerous young misfits.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "Same author, a more romance-centered fantasy with a heroine in a magical court.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781526635297",
+    "https://en.wikipedia.org/wiki/Throne_of_Glass",
+    "https://hardcover.app/books/throne-of-glass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

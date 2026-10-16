@@ -1,0 +1,44 @@
+{
+  "slug": "harry-potter-and-the-goblet-of-fire",
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "J. K. Rowling",
+  "isbn13": "9780606415170",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "tense", "whimsical"],
+  "tropes": ["magic-school", "chosen-one", "coming-of-age"],
+  "warnings": ["death", "violence", "torture", "bullying"],
+  "summary": "A famous magical tournament between three schools is held at Hogwarts, and Harry is mysteriously entered although he is too young. It turns an already eventful year into one of trials, rivalries and a growing sense of danger.",
+  "readIf": "you want the turning point of the series, where the tone shifts and the world grows much larger.",
+  "skipIf": "you haven't read the earlier books or want to avoid the series' darker direction.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-order-of-the-phoenix",
+      "reason": "The next book, which keeps the darker mood and raises the political stakes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another young person pulled into a dangerous tournament, but with a far bleaker view.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-lightning-thief",
+      "reason": "A lighter, funnier adventure with young heroes and a quest-driven plot.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606415170",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

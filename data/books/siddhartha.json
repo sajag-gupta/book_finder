@@ -1,0 +1,45 @@
+{
+  "slug": "siddhartha",
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "isbn13": "9781434604675",
+  "firstPublished": 1922,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "hopeful", "inspiring"],
+  "tropes": ["quest", "coming-of-age"],
+  "warnings": [],
+  "summary": "A young Brahmin in ancient India leaves home to find enlightenment. He tries asceticism, wealth and love before learning something from a quiet ferryman by the river.",
+  "readIf": "you want a short, calm, reflective book about searching for meaning.",
+  "skipIf": "you want a lot of plot or are put off by spiritual themes.",
+  "pairings": [
+    {
+      "slug": "the-alchemist",
+      "reason": "A lighter, more popular story of a young man searching for his purpose.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-little-prince",
+      "reason": "Another short, gentle book of questions about what really matters.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "steppenwolf",
+      "reason": "The author's later, darker book about a man torn between the spiritual and the animal.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781434604675",
+    "https://en.wikipedia.org/wiki/Siddhartha_(novel)",
+    "https://hardcover.app/books/siddhartha"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

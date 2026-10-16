@@ -1,0 +1,45 @@
+{
+  "slug": "a-clash-of-kings",
+  "title": "A Clash of Kings",
+  "author": "George R. R. Martin",
+  "isbn13": "9780739308707",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "dark", "epic"],
+  "tropes": ["war-story", "political-intrigue", "family-saga", "royalty"],
+  "warnings": ["violence", "death", "war", "torture", "sexual-assault"],
+  "summary": "With the realm splitting under rival claimants, five kings fight for the crown while a boy-king's mother schemes in the capital. The Starks are scattered and an exiled queen tries to raise power in the east.",
+  "readIf": "you finished the first book and want its war-and-intrigue story to widen across more characters.",
+  "skipIf": "you haven't read the first book, as it picks up without any recap.",
+  "pairings": [
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "The first book, if you want to start the series from the beginning.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A gritty fantasy of war told from the soldiers' side, for readers who like that same disillusioned tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "tigana",
+      "reason": "A single-volume epic of politics, loss and revenge with a more lyrical voice.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739308707",
+    "https://en.wikipedia.org/wiki/A_Clash_of_Kings",
+    "https://hardcover.app/books/a-clash-of-kings"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

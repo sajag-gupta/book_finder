@@ -1,0 +1,45 @@
+{
+  "slug": "david-copperfield",
+  "title": "David Copperfield",
+  "author": "Charles Dickens",
+  "isbn13": "9780307273673",
+  "firstPublished": 1850,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["nostalgic", "hopeful", "heartbreaking"],
+  "tropes": ["coming-of-age", "rags-to-riches"],
+  "warnings": ["child-abuse", "death", "grief"],
+  "summary": "David narrates his own life, from an unhappy childhood under a cruel stepfather through hard work in London and the people who shape him, until he becomes a writer. It is told in a warm, comic, often sad voice.",
+  "readIf": "you want a huge, character-filled Dickens novel that feels like spending time with a very long, loving story.",
+  "skipIf": "you want a tight plot, since it is episodic and wanders.",
+  "pairings": [
+    {
+      "slug": "great-expectations",
+      "reason": "A tighter, darker Dickens novel on a similar theme of a boy rising in the world.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "oliver-twist",
+      "reason": "A faster, more melodramatic Dickens orphan story.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "anne-of-green-gables",
+      "reason": "A lighter, more cheerful orphan story with a similar affection for eccentric characters.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307273673",
+    "https://en.wikipedia.org/wiki/David_Copperfield_(1935_film)",
+    "https://hardcover.app/books/david-copperfield"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

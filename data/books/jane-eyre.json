@@ -1,0 +1,45 @@
+{
+  "slug": "jane-eyre",
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "isbn13": "9781434615701",
+  "firstPublished": 1847,
+  "series": null,
+  "genres": ["classic", "romance"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["swoony", "dark", "haunting"],
+  "tropes": ["slow-burn", "coming-of-age"],
+  "warnings": ["abuse", "death"],
+  "summary": "An orphan mistreated by her relatives and at a harsh school becomes a governess at Thornfield Hall. She grows close to its brooding master, Mr Rochester, while odd things happen in the night.",
+  "readIf": "you like gothic romance with a strong-minded, independent heroine.",
+  "skipIf": "you dislike Victorian pacing or long religious and moral passages.",
+  "pairings": [
+    {
+      "slug": "rebecca",
+      "reason": "Another gothic romance about a young woman in a grand, mysterious house and a brooding man.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "wuthering-heights",
+      "reason": "The darker, wilder sister novel, with a love that is closer to obsession.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-secret-garden",
+      "reason": "A gentler tale of an orphan sent to a Yorkshire house with secrets.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781434615701",
+    "https://en.wikipedia.org/wiki/Jane_Eyre",
+    "https://hardcover.app/books/jane-eyre"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

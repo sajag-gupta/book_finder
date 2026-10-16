@@ -1,0 +1,45 @@
+{
+  "slug": "the-neverending-story",
+  "title": "The Neverending Story",
+  "author": "Michael Ende",
+  "isbn13": "9780140386332",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "adventurous", "hopeful"],
+  "tropes": ["quest", "portal-fantasy", "book-within-a-book", "coming-of-age"],
+  "warnings": ["animal-death"],
+  "summary": "A bullied, bookish boy steals a strange book and starts reading about the land of Fantastica, where a young warrior is sent to save a dying empire. The reader finds himself pulled into the story.",
+  "readIf": "you love stories about the power of reading and a fantasy world that is itself made of imagination.",
+  "skipIf": "you want only the first half the film covers; the book's second half is stranger and darker.",
+  "pairings": [
+    {
+      "slug": "the-last-unicorn",
+      "reason": "Another dreamlike fantasy with a mournful, mythic tone.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A bigger and more thoughtful young-reader fantasy that doesn't talk down.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-starless-sea",
+      "reason": "An adult fantasy about stories and books where a reader falls into a hidden world.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 16,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140386332",
+    "https://en.wikipedia.org/wiki/The_Neverending_Story",
+    "https://hardcover.app/books/the-neverending-story-1979"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

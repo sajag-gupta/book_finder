@@ -1,0 +1,45 @@
+{
+  "slug": "postmortem",
+  "title": "Postmortem",
+  "author": "Patricia Cornwell",
+  "isbn13": "9780786296064",
+  "firstPublished": 1990,
+  "series": null,
+  "genres": ["crime", "thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["serial-killer", "detective"],
+  "warnings": ["violence", "death", "sexual-assault"],
+  "summary": "Dr Kay Scarpetta, Richmond's chief medical examiner, is racing against a killer who strikes women in their homes, while also dealing with politics and sexism in her own department.",
+  "readIf": "you like forensic detail and a smart, determined investigator who works from the evidence.",
+  "skipIf": "you dislike clinical descriptions of autopsies and crime scenes.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "Another landmark of the serial-killer thriller from the same era, with a female investigator.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A forensic-led chase with a brilliant investigator and a killer who plays games.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-black-echo",
+      "reason": "A patient, procedural series opener that rewards close attention to evidence.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780786296064",
+    "https://en.wikipedia.org/wiki/Postmortem_(novel)",
+    "https://hardcover.app/books/postmortem"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,8 +1,9 @@
 /**
  * Static site generator. Reads data/ and writes a deployable site to dist/.
  *
- *   node scripts/build.js                   production: reviewed books only
+ *   node scripts/build.js                   production: reviewed and checked books
  *   node scripts/build.js --include-drafts  preview: includes drafts, marked noindex
+ *   node scripts/build.js --skip-share-cards  skip PNG generation for quick local builds
  *
  * SITE_URL sets canonical URLs and the sitemap (defaults to a placeholder).
  */
@@ -17,7 +18,6 @@ import { getSite } from '../src/site/config.js';
 const root = fileURLToPath(new URL('..', import.meta.url));
 const dist = join(root, 'dist');
 const includeDrafts = process.argv.includes('--include-drafts');
-
 const site = getSite({ includeDrafts });
 
 const data = loadData(root);
@@ -35,9 +35,10 @@ function write(file, content) {
   mkdirSync(dirname(target), { recursive: true });
   writeFileSync(target, content);
 }
-function page(path, html) {
+/** Writes a page; `listed: false` keeps it out of the sitemap (private or utility pages). */
+function page(path, html, { listed = true } = {}) {
   write(path.endsWith('/') ? `${path}index.html` : path, html);
-  if (!path.endsWith('.html')) urls.push(path);
+  if (listed && !path.endsWith('.html')) urls.push(path);
 }
 
 rmSync(dist, { recursive: true, force: true });
@@ -45,15 +46,29 @@ cpSync(join(root, 'src', 'assets'), join(dist, 'assets'), { recursive: true });
 cpSync(join(root, 'public'), dist, { recursive: true });
 
 page('/', pages.homePage(ctx));
-page('/books/', pages.booksIndexPage(ctx));
+page('/books/', pages.browsePage(ctx));
+page('/bestsellers/', pages.bestsellersPage(ctx));
+page('/moods/', pages.moodsIndexPage(ctx));
+page('/genres/', pages.genresIndexPage(ctx));
+page('/tropes/', pages.tropesIndexPage(ctx));
 page('/about/how-we-pick/', pages.howWePickPage(ctx));
 page('/about/affiliate-disclosure/', pages.disclosurePage(ctx));
+page('/shelf/', pages.shelfPage(ctx), { listed: false });
+page('/subscribed/', pages.subscribedPage(ctx, true), { listed: false });
+page('/subscribe-error/', pages.subscribedPage(ctx, false), { listed: false });
 page('/404.html', pages.notFoundPage(ctx));
 
 for (const mood of data.moods) {
-  if (ctx.published.some((b) => b.moods.includes(mood.slug))) {
-    page(`/moods/${mood.slug}/`, pages.moodPage(ctx, mood));
-  }
+  if (ctx.byMood.has(mood.slug)) page(`/moods/${mood.slug}/`, pages.moodPage(ctx, mood));
+}
+for (const genre of data.genres) {
+  if (ctx.byGenre.has(genre.slug)) page(`/genres/${genre.slug}/`, pages.genrePage(ctx, genre));
+}
+for (const trope of pages.tropesWithPages(ctx)) {
+  page(`/tropes/${trope.slug}/`, pages.tropePage(ctx, trope));
+}
+for (const slug of pages.authorsWithPages(ctx)) {
+  page(`/authors/${slug}/`, pages.authorPage(ctx, slug));
 }
 for (const book of ctx.published) {
   page(`/books/${book.slug}/`, pages.bookPage(ctx, book));
@@ -61,7 +76,6 @@ for (const book of ctx.published) {
 }
 
 // Share cards: a 4:5 image for posting and a 1.91:1 image for link previews, one pair per book.
-// `--skip-share-cards` speeds up local iteration; the book pages still reference the images.
 if (!process.argv.includes('--skip-share-cards')) {
   const options = { moods: data.moods, siteName: site.name, host: new URL(site.url).host };
   for (const book of ctx.published) {
@@ -70,13 +84,16 @@ if (!process.argv.includes('--skip-share-cards')) {
   }
 }
 
+// Compact index for search suggestions and the saved shelf.
 write(
   'search-index.json',
   JSON.stringify(
     ctx.published.map((b) => ({
-      title: b.title,
-      author: b.author,
-      url: ctx.pairings(b).length ? `/books-like/${b.slug}/` : `/books/${b.slug}/`,
+      s: b.slug,
+      t: b.title,
+      a: b.author,
+      y: b.firstPublished,
+      i: b.isbn13,
     })),
   ),
 );
@@ -90,9 +107,9 @@ write(
   'robots.txt',
   includeDrafts
     ? 'User-agent: *\nDisallow: /\n'
-    : `User-agent: *\nDisallow: /go/\n\nSitemap: ${site.url}/sitemap.xml\n`,
+    : `User-agent: *\nDisallow: /go/\nDisallow: /api/\nDisallow: /shelf/\n\nSitemap: ${site.url}/sitemap.xml\n`,
 );
 
 console.log(
-  `Built ${urls.length} pages, ${ctx.published.length} books${includeDrafts ? ' (preview, drafts included)' : ''} -> dist/`,
+  `Built ${urls.length} listed pages, ${ctx.published.length} books${includeDrafts ? ' (preview, drafts included)' : ''} -> dist/`,
 );

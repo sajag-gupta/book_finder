@@ -1,0 +1,45 @@
+{
+  "slug": "funny-story",
+  "title": "Funny Story",
+  "author": "Emily Henry",
+  "isbn13": "9780241624142",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "cozy", "hopeful"],
+  "tropes": ["forced-proximity", "fake-dating", "small-town"],
+  "warnings": [],
+  "summary": "Daphne is left by her fiance for his best friend and ends up sharing a flat with the best friend's ex. The two new roommates agree to act like a couple online so everyone else keeps their distance.",
+  "readIf": "you want a cosy, funny romance about starting over in a small lakeside town.",
+  "skipIf": "you want something fresh; it follows familiar romance beats.",
+  "pairings": [
+    {
+      "slug": "the-flatshare",
+      "reason": "Another story about two roommates who get to know each other in unusual circumstances.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "book-lovers",
+      "reason": "Another Emily Henry story about a woman rebuilding in a small town.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "A funnier-sadder book about a lonely woman gradually letting people in.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241624142",
+    "https://en.wikipedia.org/wiki/Funny_Story_(novel)",
+    "https://hardcover.app/books/funny-story"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

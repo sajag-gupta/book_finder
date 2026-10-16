@@ -1,0 +1,44 @@
+{
+  "slug": "all-the-light-we-cannot-see",
+  "title": "All the Light We Cannot See",
+  "author": "Anthony Doerr",
+  "isbn13": "9780008138301",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["haunting", "heartbreaking", "hopeful"],
+  "tropes": ["war-story", "dual-timeline"],
+  "warnings": ["war", "death", "violence", "sexual-assault"],
+  "summary": "A blind French girl and a gifted German boy, drawn into the army, live very different Second World War lives in alternating short chapters, and their paths gradually move toward the walled port town of Saint-Malo.",
+  "readIf": "you like lyrical, patient historical fiction told in very short chapters.",
+  "skipIf": "you want a quick-paced war story; the structure and prose are deliberately slow.",
+  "pairings": [
+    {
+      "slug": "the-book-thief",
+      "reason": "Another novel about young people and the small acts of decency they find in Nazi-era Europe.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-nightingale",
+      "reason": "A more plot-driven story of women's resistance in occupied France.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "cloud-cuckoo-land",
+      "reason": "The same author's later, stranger novel linking stories across centuries around a lost book.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": 15.3,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008138301",
+    "https://en.wikipedia.org/wiki/All_the_Light_We_Cannot_See"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

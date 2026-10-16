@@ -1,0 +1,45 @@
+{
+  "slug": "death-on-the-nile",
+  "title": "Death on the Nile",
+  "author": "Agatha Christie",
+  "isbn13": "9780396085737",
+  "firstPublished": 1937,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mysterious", "tense", "witty"],
+  "tropes": ["detective", "whodunit", "love-triangle"],
+  "warnings": ["death", "violence"],
+  "summary": "A glamorous heiress on her honeymoon is shadowed by a jilted ex-friend, and then turns up dead on a Nile steamer full of people with reasons to resent her. Hercule Poirot is on board.",
+  "readIf": "you like glamorous, sun-baked mysteries with a big cast of suspects and sharp character sketches.",
+  "skipIf": "you want a fast pace from the start, because the set-up takes a while before the crime.",
+  "pairings": [
+    {
+      "slug": "the-guest-list",
+      "reason": "A modern mystery with a similar glamorous gathering, hidden grudges and a body.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "Another story of love and resentment around a beautiful woman, with a more brooding and gothic atmosphere.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-good-girls-guide-to-murder",
+      "reason": "A young-adult mystery that mirrors the classic clue-gathering style with a modern teenage detective.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780396085737",
+    "https://en.wikipedia.org/wiki/Death_on_the_Nile",
+    "https://hardcover.app/books/death-on-the-nile"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

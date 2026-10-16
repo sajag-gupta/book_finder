@@ -1,0 +1,44 @@
+{
+  "slug": "harry-potter-and-the-order-of-the-phoenix",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "J. K. Rowling",
+  "isbn13": "9781551926438",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["tense", "dark", "inspiring"],
+  "tropes": ["magic-school", "rebellion", "chosen-one", "found-family"],
+  "warnings": ["death", "violence", "bullying", "grief", "abuse"],
+  "summary": "Few people believe Harry's account of the events of the previous year, and the ministry sends an overbearing official to take control of Hogwarts. Harry and his friends start a secret group to learn the defensive magic nobody will teach them.",
+  "readIf": "you want a long, angry, politically sharp book about not being believed and about organizing to resist.",
+  "skipIf": "you want the lighter tone of the early books, as this is the longest and bleakest of the first five.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-half-blood-prince",
+      "reason": "The next book, which shifts to backstory and a quieter dread.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "mockingjay",
+      "reason": "Another story where young people fight a corrupt authority and pay a heavy price.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A shorter, more reflective take on a young person who sees through a controlling system.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781551926438",
+    "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

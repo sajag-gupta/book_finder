@@ -1,0 +1,44 @@
+{
+  "slug": "no-country-for-old-men",
+  "title": "No Country for Old Men",
+  "author": "Cormac McCarthy",
+  "isbn13": "9780330454278",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["crime", "literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": [],
+  "warnings": ["violence", "death"],
+  "summary": "A hunter in West Texas comes across a failed drug deal and takes a case of money. A relentless killer follows his trail while an ageing sheriff tries to keep up and make sense of it all.",
+  "readIf": "you like a lean, grim crime story with a terrifying antagonist and sparse prose.",
+  "skipIf": "you want a satisfying resolution or a lot of dialogue punctuation, because McCarthy leaves out quotation marks.",
+  "pairings": [
+    {
+      "slug": "blood-meridian",
+      "reason": "The author's earlier, far more brutal and poetic western about violence on the border.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-road",
+      "reason": "Another McCarthy book, bleaker and quieter, that shares the stripped-down style.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-black-echo",
+      "reason": "A more conventional, humane crime novel with a similar sense of weary professionalism.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780330454278",
+    "https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "cinder",
+  "title": "Cinder",
+  "author": "Marissa Meyer",
+  "isbn13": "9781432875862",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["science-fiction", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "whimsical", "hopeful"],
+  "tropes": ["fairy-tale-retelling", "royalty"],
+  "warnings": ["pandemic", "death"],
+  "summary": "In a futuristic New Beijing, Cinder is a cyborg mechanic living with a cruel stepmother while a deadly plague spreads. When her path crosses with Prince Kai, she is pulled into a conflict with the Lunar queen.",
+  "readIf": "you like fairy-tale retellings that swap glass slippers for spaceships and androids.",
+  "skipIf": "you want a standalone, since this is the first of a series that continues.",
+  "pairings": [
+    {
+      "slug": "ella-enchanted",
+      "reason": "A lighter, more traditional take on a familiar Cinderella story, with a cursed heroine.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-selection",
+      "reason": "Another YA story about a girl and a prince, in a more dystopian setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A tenser YA with power struggles and a heroine hiding a secret.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781432875862",
+    "https://en.wikipedia.org/wiki/Cinder_(novel)",
+    "https://hardcover.app/books/cinder"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

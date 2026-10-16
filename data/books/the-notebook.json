@@ -1,0 +1,45 @@
+{
+  "slug": "the-notebook",
+  "title": "The Notebook",
+  "author": "Nicholas Sparks",
+  "isbn13": "9780739437995",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "swoony", "nostalgic"],
+  "tropes": ["star-crossed-lovers", "second-chance", "dual-timeline"],
+  "warnings": ["grief", "mental-illness"],
+  "summary": "In a care home, an elderly man reads aloud from a notebook to a woman who no longer remembers her own life. The story is of a summer romance between a mill worker and a wealthy girl in 1940s North Carolina, and what happened afterwards.",
+  "readIf": "you want a short, sentimental love story that leans into tears and long devotion.",
+  "skipIf": "you dislike sentimentality or want a plot with much tension or complexity.",
+  "pairings": [
+    {
+      "slug": "a-walk-to-remember",
+      "reason": "Same author and the same gentle, tearful tone, but with a younger couple.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "A larger, stranger love story about lifelong devotion through impossible circumstances.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-bridges-of-madison-county",
+      "reason": "Another short, wistful love story about a brief connection that stays with someone for life.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739437995",
+    "https://en.wikipedia.org/wiki/The_Notebook_(novel)",
+    "https://hardcover.app/books/the-notebook"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

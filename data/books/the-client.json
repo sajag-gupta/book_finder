@@ -1,0 +1,45 @@
+{
+  "slug": "the-client",
+  "title": "The Client",
+  "author": "John Grisham",
+  "isbn13": "9780553541526",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": ["violence", "death", "suicide"],
+  "summary": "An eleven-year-old boy sees something he should not have seen and ends up with knowledge that the mob and the FBI both want. He hires a recovering-alcoholic lawyer to protect him.",
+  "readIf": "you want a quick legal thriller anchored by a smart, scrappy kid and his unlikely lawyer.",
+  "skipIf": "you dislike legal procedure or want a more realistic portrait of how child witnesses are treated.",
+  "pairings": [
+    {
+      "slug": "the-firm",
+      "reason": "Another brisk Grisham thriller about a clever young person stuck between criminals and the law.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "A more serious classic about a lawyer and a case seen partly through children's eyes.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "presumed-innocent",
+      "reason": "A slower, more thoughtful courtroom novel for readers who enjoy the legal side more than the chase.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553541526",
+    "https://en.wikipedia.org/wiki/The_Client_(novel)",
+    "https://hardcover.app/books/the-client"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

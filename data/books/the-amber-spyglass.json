@@ -1,0 +1,45 @@
+{
+  "slug": "the-amber-spyglass",
+  "title": "The Amber Spyglass",
+  "author": "Philip Pullman",
+  "isbn13": "9780702311406",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "heartbreaking", "thoughtful"],
+  "tropes": ["portal-fantasy", "quest", "star-crossed-lovers"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The final book of His Dark Materials sends Lyra and Will through the land of the dead and into a war between heaven and earth. Armies, angels and very strange beings take sides.",
+  "readIf": "you want a daring conclusion that tackles big questions about faith, growing up and sacrifice.",
+  "skipIf": "you have not read the earlier two books, or dislike stories that challenge organised religion.",
+  "pairings": [
+    {
+      "slug": "the-magicians",
+      "reason": "Another portal fantasy that gets darker and more adult, and asks what magic costs.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "A calmer, more compact fantasy that grapples with the same idea of balance and death.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-neverending-story",
+      "reason": "Another children's fantasy that grows into a much deeper meditation on imagination and loss.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780702311406",
+    "https://en.wikipedia.org/wiki/The_Amber_Spyglass",
+    "https://hardcover.app/books/the-amber-spyglass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

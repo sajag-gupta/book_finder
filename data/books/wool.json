@@ -1,0 +1,41 @@
+{
+  "slug": "wool",
+  "title": "Wool",
+  "author": "Hugh Howey",
+  "isbn13": "9780358447832",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark", "mysterious"],
+  "tropes": ["dystopian-regime", "post-apocalyptic", "survival", "rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "Thousands of survivors live in an underground silo, forbidden to go outside because the air above is toxic. When the sheriff chooses to leave, a mechanic is pulled into a hunt for what really happened.",
+  "readIf": "you like claustrophobic dystopias with a mystery built into the structure.",
+  "skipIf": "you want a standalone; the series continues, and some questions stay open until later volumes.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "Another story of a closed society built on a lie, with a heroine who pushes against it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A quieter and more reflective take on life after collapse, with a focus on culture and memory.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "fahrenheit-451",
+      "reason": "A short, classic dystopia about a society that hides the truth and a person who starts to question it.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9780358447832", "https://hardcover.app/books/wool"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

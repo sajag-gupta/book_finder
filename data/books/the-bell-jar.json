@@ -1,0 +1,44 @@
+{
+  "slug": "the-bell-jar",
+  "title": "The Bell Jar",
+  "author": "Sylvia Plath",
+  "isbn13": "9780613291989",
+  "firstPublished": 1963,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["melancholic", "dark", "haunting"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["mental-illness", "suicide"],
+  "summary": "Esther Greenwood, a gifted college student on an internship at a New York magazine, begins to feel numb and shut off from everything around her. Her slide into depression leads to a stay in psychiatric care.",
+  "readIf": "you want a sharp, honest and darkly funny novel about depression and the pressure put on young women.",
+  "skipIf": "you are in a fragile place or would find suicide attempts difficult to read.",
+  "pairings": [
+    {
+      "slug": "the-catcher-in-the-rye",
+      "reason": "Another classic of a bright young narrator who feels alienated from the adult world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "speak",
+      "reason": "A younger, more hopeful story of a girl who withdraws and slowly finds her voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "one-flew-over-the-cuckoos-nest",
+      "reason": "A story of psychiatric care from a different angle, more political and rebellious.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780613291989",
+    "https://en.wikipedia.org/wiki/The_Bell_Jar"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

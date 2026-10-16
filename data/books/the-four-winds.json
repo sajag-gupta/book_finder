@@ -1,0 +1,44 @@
+{
+  "slug": "the-four-winds",
+  "title": "The Four Winds",
+  "author": "Kristin Hannah",
+  "isbn13": "9781643588230",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "inspiring", "tense"],
+  "tropes": ["survival", "family-saga", "rags-to-riches"],
+  "warnings": ["death", "prejudice", "grief"],
+  "summary": "In 1930s Texas, drought and dust storms ruin the farms around a woman who has spent her life being told she is plain and unwanted. As the land fails, she makes the hard choice to take her children west to California.",
+  "readIf": "you want a sweeping historical story of a mother's grit and the Great Depression's human cost.",
+  "skipIf": "you want a light read, as hunger, exploitation and loss run through it.",
+  "pairings": [
+    {
+      "slug": "the-grapes-of-wrath",
+      "reason": "The classic novel of the same migration west, harsher and more political in its voice.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-nightingale",
+      "reason": "Same author, with another woman's resilience under pressure, set in wartime France instead.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "lonesome-dove",
+      "reason": "Another epic of people pushing across hard country, with more humour and a bigger cast.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781643588230",
+    "https://hardcover.app/books/the-four-winds"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "my-brilliant-friend",
+  "title": "My Brilliant Friend",
+  "author": "Elena Ferrante",
+  "isbn13": "9781787706026",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "nostalgic", "melancholic"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["violence", "domestic-violence"],
+  "summary": "Growing up in a poor neighbourhood of 1950s Naples, two girls, the cautious narrator Elena and the fierce, brilliant Lila, form a close, rivalrous friendship that pulls them apart and together as they grow.",
+  "readIf": "you want a deeply observed, intimate story of female friendship and ambition.",
+  "skipIf": "you want a quick plot, or a story that resolves in one volume; this starts a series.",
+  "pairings": [
+    {
+      "slug": "little-women",
+      "reason": "Another story about sisterly closeness and ambition, much gentler and more hopeful.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "Another novel that follows people from poverty through shifting decades.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "normal-people",
+      "reason": "A modern, spare novel about the pull between two very different people from the same place.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781787706026",
+    "https://en.wikipedia.org/wiki/My_Brilliant_Friend",
+    "https://hardcover.app/books/my-brilliant-friend-the-graphic-novel-based-on-the-novel-by-elena-ferrante"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

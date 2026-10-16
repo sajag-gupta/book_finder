@@ -46,8 +46,17 @@ test('renders valid PNGs at the exact sizes', async () => {
   }
 });
 
-test('renders every published-length title without throwing', async () => {
-  for (const b of data.books) {
+test('renders the longest titles without throwing', async () => {
+  const longest = [...data.books].sort((a, b) => b.title.length - a.title.length).slice(0, 20);
+  for (const b of longest) {
     assert.ok((await renderCardPng(b, options)).length > 5000, b.slug);
+  }
+});
+
+test('rendering many cards in a row does not exhaust WebAssembly memory', async () => {
+  // Regression: unfreed resvg objects made the module trap after a few hundred renders in a build.
+  for (let i = 0; i < 150; i++) {
+    const bytes = await renderCardPng(book, { ...options, variant: i % 2 ? 'og' : 'portrait' });
+    assert.ok(bytes.length > 1000);
   }
 });

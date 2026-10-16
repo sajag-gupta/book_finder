@@ -1,0 +1,44 @@
+{
+  "slug": "the-gunslinger",
+  "title": "The Gunslinger",
+  "author": "Stephen King",
+  "isbn13": "9780606391627",
+  "firstPublished": 1982,
+  "series": null,
+  "genres": ["fantasy", "horror"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "mysterious", "haunting"],
+  "tropes": ["quest", "revenge"],
+  "warnings": ["violence", "death", "sexual-content"],
+  "summary": "In a barren, half-ruined world, a lone gunman pursues a mysterious man in black across the desert. Along the way he meets a boy and recalls the life that brought him here.",
+  "readIf": "you like strange, stripped-back Westerns that blend fantasy, horror and myth.",
+  "skipIf": "you want a clear, fast story; this opening volume is fragmented and holds back most of its answers.",
+  "pairings": [
+    {
+      "slug": "the-road",
+      "reason": "Another spare, harsh journey across a ruined landscape that leaves readers with more questions than answers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A gritty fantasy with a rough, weary tone and morally mixed heroes.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-stand",
+      "reason": "The author's own epic of the end of the world, set in a world that overlaps this one's themes.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606391627",
+    "https://en.wikipedia.org/wiki/The_Gunslinger_(novella)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

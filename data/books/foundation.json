@@ -1,0 +1,45 @@
+{
+  "slug": "foundation",
+  "title": "Foundation",
+  "author": "Isaac Asimov",
+  "isbn13": "9780007270422",
+  "firstPublished": 1951,
+  "series": null,
+  "genres": ["science-fiction", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "epic", "mysterious"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["war"],
+  "summary": "A mathematician predicts that the vast galactic empire will fall and that a dark age of thirty thousand years will follow. He sets up a hidden colony of scholars at the edge of space to shorten that age to one thousand years.",
+  "readIf": "you like big ideas about history and society, told as a series of clever crises.",
+  "skipIf": "you want a single hero and emotional depth, as the cast changes across decades and mostly talks its way through trouble.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Another grand story about the fall and rebuilding of a galactic empire, with more atmosphere and personal drama.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "i-robot",
+      "reason": "The same author's stories of logic puzzles and ideas, in a smaller and more playful form.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "A modern book of big-scale ideas about civilisations and survival, with more sense of dread.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007270422",
+    "https://en.wikipedia.org/wiki/Foundation_(novel_series)",
+    "https://hardcover.app/books/foundation"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

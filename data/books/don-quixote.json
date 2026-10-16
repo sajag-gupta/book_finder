@@ -1,0 +1,45 @@
+{
+  "slug": "don-quixote",
+  "title": "Don Quixote",
+  "author": "Miguel de Cervantes",
+  "isbn13": "9781434104441",
+  "firstPublished": 1605,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["funny", "whimsical", "thoughtful"],
+  "tropes": ["quest", "unlikely-friendship", "satire"],
+  "warnings": [],
+  "summary": "A retired gentleman reads so many chivalry romances that he decides to become a knight, and sets out with his neighbour Sancho Panza as squire. Windmills, inns and travellers all become battlegrounds in his mind.",
+  "readIf": "you want a funny, humane classic that invented a lot of what novels do today.",
+  "skipIf": "you want a tight plot, because it is long and episodic.",
+  "pairings": [
+    {
+      "slug": "catch-22",
+      "reason": "Another satire in which one stubborn mind refuses to accept the world as others see it.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "A far lighter, shorter comic classic with a similar love of absurd adventure.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "gullivers-travels",
+      "reason": "Another satirical classic of travel and absurdity, with a sharper edge.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781434104441",
+    "https://en.wikipedia.org/wiki/Don_Quixote",
+    "https://hardcover.app/books/don-quixote"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

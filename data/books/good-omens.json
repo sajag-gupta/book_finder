@@ -1,0 +1,45 @@
+{
+  "slug": "good-omens",
+  "title": "Good Omens",
+  "author": "Terry Pratchett and Neil Gaiman",
+  "isbn13": "9780613673297",
+  "firstPublished": 1990,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["unlikely-friendship", "satire", "chosen-one"],
+  "warnings": [],
+  "summary": "An angel and a demon who have grown fond of life on Earth try to stop the Antichrist from starting the end of the world. Unfortunately, the infant got swapped at birth and nobody knows where he is.",
+  "readIf": "you want a very funny, bickering-buddies comedy that pokes at prophecy, religion and bureaucracy.",
+  "skipIf": "you dislike jokes about the apocalypse or British, footnote-style absurd humour.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Another absurd, quotable British comedy that treats cosmic disaster as a farce.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "guards-guards",
+      "reason": "A Discworld book with the same author's humour in a more fantasy-focused story.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "american-gods",
+      "reason": "Same co-author on his own, taking the idea of gods among us in a far more serious direction.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780613673297",
+    "https://en.wikipedia.org/wiki/Good_Omens",
+    "https://hardcover.app/books/good-omens"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

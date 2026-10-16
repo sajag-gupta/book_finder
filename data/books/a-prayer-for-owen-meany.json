@@ -1,0 +1,45 @@
+{
+  "slug": "a-prayer-for-owen-meany",
+  "title": "A Prayer for Owen Meany",
+  "author": "John Irving",
+  "isbn13": "9780780794665",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["funny", "heartbreaking", "thoughtful"],
+  "tropes": ["coming-of-age", "unlikely-friendship"],
+  "warnings": ["death", "child-death", "war", "grief"],
+  "summary": "A man looks back on growing up in a New Hampshire town with his best friend Owen, a tiny boy with a strange voice who believes he is an instrument of God. Their friendship is bound up with a freak accident.",
+  "readIf": "you like big, comic and spiritual novels about friendship, faith and fate.",
+  "skipIf": "you want a light read; it is long, digressive and has a lot to say about Vietnam and politics.",
+  "pairings": [
+    {
+      "slug": "the-world-according-to-garp",
+      "reason": "The author's earlier family saga, equally eccentric but more comic and wild.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-book-thief",
+      "reason": "Another story about an unusual young friendship framed by fate and loss.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "Another narrator reflecting on childhood in a small town and the one person who shaped his sense of right and wrong.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780780794665",
+    "https://en.wikipedia.org/wiki/A_Prayer_for_Owen_Meany",
+    "https://hardcover.app/books/a-prayer-for-owen-meany"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

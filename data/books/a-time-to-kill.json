@@ -1,0 +1,45 @@
+{
+  "slug": "a-time-to-kill",
+  "title": "A Time to Kill",
+  "author": "John Grisham",
+  "isbn13": "9780553745191",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "dark", "heartbreaking"],
+  "tropes": ["small-town"],
+  "warnings": ["sexual-assault", "racism", "violence", "death"],
+  "summary": "In a small Mississippi town, a Black father shoots the two white men who brutally attacked his young daughter. A struggling local lawyer takes the case, in a place that is ready to explode.",
+  "readIf": "you like courtroom drama set in a pressure-cooker small town that wrestles with justice and prejudice.",
+  "skipIf": "you want to avoid a graphic attack on a child and frequent racist language, which are central to the story.",
+  "pairings": [
+    {
+      "slug": "to-kill-a-mockingbird",
+      "reason": "The classic Southern courtroom story of race and justice that this book is in conversation with.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-help",
+      "reason": "Another novel set in the segregated South with a focus on personal courage and uncomfortable history.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "presumed-innocent",
+      "reason": "A more intricate, more thoughtful courtroom novel about guilt and who gets to decide it.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553745191",
+    "https://en.wikipedia.org/wiki/A_Time_to_Kill_(Grisham_novel)",
+    "https://hardcover.app/books/a-time-to-kill"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

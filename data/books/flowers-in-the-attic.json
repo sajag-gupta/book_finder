@@ -1,0 +1,45 @@
+{
+  "slug": "flowers-in-the-attic",
+  "title": "Flowers in the Attic",
+  "author": "V. C. Andrews",
+  "isbn13": "9780007436828",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["horror", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "haunting"],
+  "tropes": ["survival"],
+  "warnings": ["incest", "child-abuse", "abuse", "manipulation", "sexual-content", "death"],
+  "summary": "After their father dies, four children and their mother move into a grand mansion owned by her wealthy, cruel father. The children are hidden away in an upstairs room, supposedly for a short time.",
+  "readIf": "you want a notorious gothic page-turner that is lurid, claustrophobic and hard to put down.",
+  "skipIf": "sustained abuse of children, or incest, is something you cannot read.",
+  "pairings": [
+    {
+      "slug": "we-have-always-lived-in-the-castle",
+      "reason": "Another story of isolated, damaged siblings in a closed house, more subtle and eerie.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "A classic gothic with an oppressive mansion and a controlling older woman.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "sharp-objects",
+      "reason": "A modern dark family story built around cruelty and secrets in a household.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 40,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007436828",
+    "https://en.wikipedia.org/wiki/Flowers_in_the_Attic",
+    "https://hardcover.app/books/flowers-in-the-attic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

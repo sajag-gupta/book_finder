@@ -1,0 +1,45 @@
+{
+  "slug": "the-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "author": "J. D. Salinger",
+  "isbn13": "9781613839560",
+  "firstPublished": 1951,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["mental-illness", "suicide"],
+  "summary": "After being expelled from his prep school, sixteen-year-old Holden Caulfield wanders New York for a few days, telling the story in a restless, sarcastic voice that hides how lost and lonely he feels.",
+  "readIf": "you want a sharp, voice-driven portrait of teenage alienation and don't need much plot.",
+  "skipIf": "you tire quickly of a complaining narrator or a story with no clear destination.",
+  "pairings": [
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "A more modern, warmer version of an awkward, observant teen narrator finding connection.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-bell-jar",
+      "reason": "Another classic first-person account of a young person struggling in a world that feels fake.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "looking-for-alaska",
+      "reason": "A teen narrator, a boarding school and a search for meaning that ends in grief.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": 65,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781613839560",
+    "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+    "https://hardcover.app/books/the-catcher-in-the-rye"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

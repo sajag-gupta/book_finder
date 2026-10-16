@@ -1,0 +1,45 @@
+{
+  "slug": "rebecca",
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "isbn13": "9780061990854",
+  "firstPublished": 1938,
+  "series": null,
+  "genres": ["mystery", "classic"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["haunting", "mysterious", "dark"],
+  "tropes": ["twist-ending"],
+  "warnings": ["death", "manipulation"],
+  "summary": "A shy young woman marries a rich widower and moves to his grand Cornish estate, Manderley, where the memory of his first wife, Rebecca, still fills every room and the housekeeper seems determined to keep it so.",
+  "readIf": "you want slow-building gothic suspense and a house that feels like a character.",
+  "skipIf": "you want a fast pace or a heroine who stands up for herself early.",
+  "pairings": [
+    {
+      "slug": "jane-eyre",
+      "reason": "The classic that Rebecca echoes: a young woman, a brooding master and a house with a secret.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "A modern gothic with a creepy house and an outsider bride, with more horror.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "A subtler, more psychological house story with the same creeping unease.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 30,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061990854",
+    "https://en.wikipedia.org/wiki/Rebecca_(novel)",
+    "https://hardcover.app/books/rebecca"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

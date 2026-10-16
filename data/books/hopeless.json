@@ -1,0 +1,41 @@
+{
+  "slug": "hopeless",
+  "title": "Hopeless",
+  "author": "Colleen Hoover",
+  "isbn13": "9781481251884",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["romance", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "tense"],
+  "tropes": ["twist-ending"],
+  "warnings": ["sexual-content", "child-sexual-abuse", "abuse", "bullying"],
+  "summary": "Sky has been home-schooled and has never had a boyfriend, until she meets Dean Holder at college. He seems to know something about her and gives her a reason to question the life she has led.",
+  "readIf": "you want an intense, emotional new adult romance with a mystery that unfolds slowly.",
+  "skipIf": "stories involving childhood sexual abuse are off the table for you.",
+  "pairings": [
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A tender teen romance that also deals with a difficult home life.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "speak",
+      "reason": "A young adult novel about trauma and silence, more serious and without the romance focus.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "it-ends-with-us",
+      "reason": "Another Hoover novel that mixes a love story with a painful subject.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781481251884", "https://hardcover.app/books/hopeless"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

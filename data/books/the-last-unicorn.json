@@ -1,0 +1,45 @@
+{
+  "slug": "the-last-unicorn",
+  "title": "The Last Unicorn",
+  "author": "Peter S. Beagle",
+  "isbn13": "9780345015037",
+  "firstPublished": 1968,
+  "series": null,
+  "genres": ["fantasy", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "whimsical", "haunting"],
+  "tropes": ["quest", "fairy-tale-retelling", "talking-animals"],
+  "warnings": [],
+  "summary": "A unicorn learns that she may be the last of her kind and leaves her enchanted forest to find the rest. She is joined by a bumbling magician and a sharp-tongued woman on a trip toward the castle of a haunted king and a fearsome creature.",
+  "readIf": "you want a lyrical, bittersweet fairy tale with sly humour and a lot of heart.",
+  "skipIf": "you want an action-driven adventure, as it is meandering, wistful and prefers mood to plot.",
+  "pairings": [
+    {
+      "slug": "stardust",
+      "reason": "A similar adult fairy tale with romance and gentle wit, a bit lighter and more romantic.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-little-prince",
+      "reason": "Another short, wistful story with a poetic tone that is quietly about loss and wonder.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "Another short, classic fantasy that takes its magic seriously and speaks plainly.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345015037",
+    "https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)",
+    "https://hardcover.app/books/the-last-unicorn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

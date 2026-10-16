@@ -1,0 +1,45 @@
+{
+  "slug": "american-gods",
+  "title": "American Gods",
+  "author": "Neil Gaiman",
+  "isbn13": "9781538462096",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mysterious", "dark", "mind-bending"],
+  "tropes": ["gods-and-myth", "road-trip", "secret-society"],
+  "warnings": ["violence", "death", "sexual-content", "grief"],
+  "summary": "A man released from prison after his wife's sudden death takes a job as bodyguard to a charming stranger who knows too much. As they cross the United States, he finds that old gods brought by immigrants are preparing for war with new ones.",
+  "readIf": "you like a strange, atmospheric road trip through folklore and modern America.",
+  "skipIf": "you want a tight, fast plot, as it wanders through many side stories and ends up slow-burning.",
+  "pairings": [
+    {
+      "slug": "neverwhere",
+      "reason": "Same author, a shorter and more whimsical fantasy about a hidden world just beneath a real city.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "A comic take on divine and demonic forces, if you want the same ideas with more laughs.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-song-of-achilles",
+      "reason": "A very different book that also cares deeply about how myth and human love shape each other.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781538462096",
+    "https://en.wikipedia.org/wiki/American_Gods",
+    "https://hardcover.app/books/american-gods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

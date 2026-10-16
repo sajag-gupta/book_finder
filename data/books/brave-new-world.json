@@ -1,0 +1,45 @@
+{
+  "slug": "brave-new-world",
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "isbn13": "9780606001663",
+  "firstPublished": 1932,
+  "series": null,
+  "genres": ["dystopian", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "dark", "mind-bending"],
+  "tropes": ["dystopian-regime", "satire"],
+  "warnings": ["suicide", "sexual-content", "addiction"],
+  "summary": "In a future where people are engineered into castes and kept content with drugs and constant distraction, a discontented man and an outsider from a reservation challenge the order. Their visit forces the world to look at itself.",
+  "readIf": "you like philosophical dystopias that ask whether comfort is worth giving up freedom for.",
+  "skipIf": "you want a fast, character-led plot, since the book is closer to a satirical debate than a thriller.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "The famous counterpart, with control by fear and force instead of pleasure.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "never-let-me-go",
+      "reason": "A quiet, aching story about a society that quietly accepts something terrible.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "scythe",
+      "reason": "A modern young-adult spin on a seemingly perfect world with a hidden moral cost.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606001663",
+    "https://en.wikipedia.org/wiki/Brave_New_World",
+    "https://hardcover.app/books/brave-new-world"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

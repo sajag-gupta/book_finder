@@ -1,0 +1,45 @@
+{
+  "slug": "midnights-children",
+  "title": "Midnight's Children",
+  "author": "Salman Rushdie",
+  "isbn13": "9781283999816",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "whimsical", "thoughtful"],
+  "tropes": ["family-saga", "satire", "political-intrigue"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "A man born at the exact moment of India's independence discovers that he and other children born that hour have magical gifts. His personal story is tied closely to the history of the new nation.",
+  "readIf": "you want an exuberant, digressive novel where magic and history are mixed in one voice.",
+  "skipIf": "you prefer plain narration and a straight chronological line.",
+  "pairings": [
+    {
+      "slug": "one-hundred-years-of-solitude",
+      "reason": "The classic of magical realist family history that this novel is often compared with.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "reason": "Another Indian novel with inventive language, though it is more intimate and much sadder.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "Also ties one family's history to a nation's, in a more conventional and sober style.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781283999816",
+    "https://en.wikipedia.org/wiki/Midnight's_Children",
+    "https://hardcover.app/books/midnights-children"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

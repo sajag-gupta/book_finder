@@ -1,0 +1,45 @@
+{
+  "slug": "angels-and-demons",
+  "title": "Angels & Demons",
+  "author": "Dan Brown",
+  "isbn13": "9780739443910",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "mysterious", "adventurous"],
+  "tropes": ["secret-society", "detective", "twist-ending"],
+  "warnings": ["violence", "death"],
+  "summary": "A Harvard symbologist is summoned to a Swiss laboratory after a scientist's murder, then to Rome, where an old secret society seems to be threatening the Vatican during a conclave. A ticking clock drives every chapter.",
+  "readIf": "you like a hurried, clue-by-clue chase through famous landmarks with a ticking clock.",
+  "skipIf": "you want subtle characters or religion and science handled with nuance.",
+  "pairings": [
+    {
+      "slug": "the-da-vinci-code",
+      "reason": "Langdon's other big case, with a very similar chase-and-puzzle structure and a wider canvas.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lost-symbol",
+      "reason": "Another Langdon thriller that swaps Rome for Washington and Freemasonry.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-day-of-the-jackal",
+      "reason": "A more serious, procedural thriller that also runs on a clock and meticulous planning.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": 39,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739443910",
+    "https://en.wikipedia.org/wiki/Angels_%26_Demons",
+    "https://hardcover.app/books/angels-and-demons"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

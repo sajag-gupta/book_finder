@@ -1,0 +1,40 @@
+{
+  "slug": "casino-royale",
+  "title": "Casino Royale",
+  "author": "Ian Fleming",
+  "isbn13": "9780425081624",
+  "firstPublished": 1953,
+  "series": null,
+  "genres": ["thriller", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "dark", "adventurous"],
+  "tropes": ["spy", "morally-grey"],
+  "warnings": ["torture", "violence", "death"],
+  "summary": "The first James Bond novel sends him to a French casino to bankrupt a Soviet-connected paymaster at the baccarat table. A beautiful colleague is sent to work with him.",
+  "readIf": "you want to see where James Bond began, in a lean, cold and surprisingly brooding story.",
+  "skipIf": "you want the glossy gadgets and humour of the films, or modern attitudes, since the book is a product of the fifties.",
+  "pairings": [
+    {
+      "slug": "the-spy-who-came-in-from-the-cold",
+      "reason": "The unromantic answer to Bond, showing the same world as grubby, morally murky work.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-bourne-identity",
+      "reason": "A more modern spy hero in a faster and more action-driven international chase.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425081624",
+    "https://en.wikipedia.org/wiki/Casino_Royale",
+    "https://hardcover.app/books/casino-royale"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

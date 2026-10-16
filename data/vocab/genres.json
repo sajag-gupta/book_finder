@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "romance",
+    "name": "Romance",
+    "blurb": "Love stories, from slow burns to big gestures.",
+    "color": "coral",
+    "icon": "heart"
+  },
+  {
+    "slug": "romantasy",
+    "name": "Romantasy",
+    "blurb": "Romance with magic, courts and dragons.",
+    "color": "coral",
+    "icon": "flame"
+  },
+  {
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "blurb": "Magic, myth and other worlds.",
+    "color": "violet",
+    "icon": "wand-sparkles"
+  },
+  {
+    "slug": "cozy-fantasy",
+    "name": "Cozy fantasy",
+    "blurb": "Low stakes, warm hearts, great company.",
+    "color": "sunshine",
+    "icon": "coffee"
+  },
+  {
+    "slug": "epic-fantasy",
+    "name": "Epic fantasy",
+    "blurb": "Sweeping sagas and world-changing quests.",
+    "color": "violet",
+    "icon": "castle"
+  },
+  {
+    "slug": "science-fiction",
+    "name": "Science fiction",
+    "blurb": "Space, technology and big what-ifs.",
+    "color": "mint",
+    "icon": "rocket"
+  },
+  {
+    "slug": "dystopian",
+    "name": "Dystopian",
+    "blurb": "Worlds that went wrong, and who fights back.",
+    "color": "violet",
+    "icon": "building-2"
+  },
+  {
+    "slug": "thriller",
+    "name": "Thriller",
+    "blurb": "Pulse-racing page-turners.",
+    "color": "coral",
+    "icon": "siren"
+  },
+  {
+    "slug": "mystery",
+    "name": "Mystery",
+    "blurb": "Puzzles, clues and satisfying reveals.",
+    "color": "mint",
+    "icon": "search"
+  },
+  {
+    "slug": "crime",
+    "name": "Crime",
+    "blurb": "Detectives, gangsters and moral grey.",
+    "color": "coral",
+    "icon": "fingerprint"
+  },
+  {
+    "slug": "horror",
+    "name": "Horror",
+    "blurb": "Dread, ghosts and things in the dark.",
+    "color": "violet",
+    "icon": "ghost"
+  },
+  {
+    "slug": "historical",
+    "name": "Historical",
+    "blurb": "The past, brought close.",
+    "color": "sunshine",
+    "icon": "landmark"
+  },
+  {
+    "slug": "young-adult",
+    "name": "Young adult",
+    "blurb": "Big feelings and firsts, for any age.",
+    "color": "mint",
+    "icon": "backpack"
+  },
+  {
+    "slug": "literary",
+    "name": "Literary",
+    "blurb": "Character-led books that stay with you.",
+    "color": "sunshine",
+    "icon": "book-open"
+  },
+  {
+    "slug": "classic",
+    "name": "Classics",
+    "blurb": "Books that earned their reputation.",
+    "color": "sunshine",
+    "icon": "scroll-text"
+  },
+  {
+    "slug": "adventure",
+    "name": "Adventure",
+    "blurb": "Journeys, danger and far-off places.",
+    "color": "mint",
+    "icon": "compass"
+  },
+  {
+    "slug": "children",
+    "name": "Children's",
+    "blurb": "Read-aloud favourites and first chapter books.",
+    "color": "sunshine",
+    "icon": "blocks"
+  }
+]

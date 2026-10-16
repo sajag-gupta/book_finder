@@ -1,0 +1,45 @@
+{
+  "slug": "sea-of-tranquility",
+  "title": "Sea of Tranquility",
+  "author": "Emily St. John Mandel",
+  "isbn13": "9781529083507",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["science-fiction", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["melancholic", "mind-bending", "hopeful"],
+  "tropes": ["time-travel", "dual-timeline"],
+  "warnings": ["pandemic", "death"],
+  "summary": "A strange moment of sound and light links an exile in 1912, a writer on a book tour in a plague-struck future and a detective on a Moon colony. A single mystery quietly connects them across centuries.",
+  "readIf": "you like short, elegant, thoughtful novels that mix literary writing with a touch of time-travel puzzle.",
+  "skipIf": "you want tight science-fiction mechanics, because the book cares more about mood and connection.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "The same author's best-known book, with a similarly gentle look at what lasts after catastrophe.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-midnight-library",
+      "reason": "A warmer story about regret, possibility and the lives we might have lived.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "cloud-atlas",
+      "reason": "A more intricate, nested set of stories across time that rewards close reading.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529083507",
+    "https://en.wikipedia.org/wiki/Sea_of_Tranquility_(novel)",
+    "https://hardcover.app/books/sea-of-tranquility"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

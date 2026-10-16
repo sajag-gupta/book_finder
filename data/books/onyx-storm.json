@@ -1,0 +1,45 @@
+{
+  "slug": "onyx-storm",
+  "title": "Onyx Storm",
+  "author": "Rebecca Yarros",
+  "isbn13": "9780349437064",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["epic", "tense", "swoony"],
+  "tropes": ["dragons", "quest", "war-story", "enemies-to-lovers"],
+  "warnings": ["violence", "war", "death", "sexual-content", "torture"],
+  "summary": "The third book in the Empyrean series moves beyond the college and sends its riders on a dangerous mission across unfamiliar lands to find allies. The war is coming whether they are ready or not.",
+  "readIf": "you are caught up in the series and want its bigger-scale, quest-driven chapter.",
+  "skipIf": "you haven't read the earlier books or want a finished, standalone story.",
+  "pairings": [
+    {
+      "slug": "iron-flame",
+      "reason": "The second book, which sets up the stakes this one escalates.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A standalone epic with dragons, a large world and several story lines for a more complete read.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-court-of-wings-and-ruin",
+      "reason": "A similar war-and-romance arc where a love story gets caught up in an invasion.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349437064",
+    "https://en.wikipedia.org/wiki/Onyx_Storm",
+    "https://hardcover.app/books/onyx-storm"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

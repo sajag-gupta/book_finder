@@ -1,0 +1,45 @@
+{
+  "slug": "the-haunting-of-hill-house",
+  "title": "The Haunting of Hill House",
+  "author": "Shirley Jackson",
+  "isbn13": "9780141191447",
+  "firstPublished": 1959,
+  "series": null,
+  "genres": ["horror", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["haunting", "spooky", "melancholic"],
+  "tropes": ["haunted-house"],
+  "warnings": ["death", "mental-illness"],
+  "summary": "A doctor interested in the supernatural invites a few guests to stay at a notorious old house. Shy, lonely Eleanor arrives hoping to belong somewhere, and the house takes notice of her.",
+  "readIf": "you like horror that relies on atmosphere, ambiguity and beautiful, precise sentences.",
+  "skipIf": "you want clear explanations and plenty of action.",
+  "pairings": [
+    {
+      "slug": "we-have-always-lived-in-the-castle",
+      "reason": "The same author's other classic, equally uneasy and about another isolated woman.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-turn-of-the-screw",
+      "reason": "An older haunting story that also keeps you unsure what is real.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "A more modern, vividly drawn haunted-house story with a stronger plot.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141191447",
+    "https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House",
+    "https://hardcover.app/books/the-haunting-of-hill-house"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

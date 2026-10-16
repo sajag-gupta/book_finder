@@ -1,0 +1,45 @@
+{
+  "slug": "verity",
+  "title": "Verity",
+  "author": "Colleen Hoover",
+  "isbn13": "9781538739723",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["thriller", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["unreliable-narrator", "twist-ending", "book-within-a-book", "forced-proximity"],
+  "warnings": ["sexual-content", "manipulation", "death", "child-death", "violence"],
+  "summary": "A struggling writer is hired to finish a bestselling author's series after an accident leaves the author unable to work. In the family home, she finds an unpublished autobiography and begins to doubt what's true.",
+  "readIf": "you want a dark, compulsive psychological thriller with a shock or two and plenty of steam.",
+  "skipIf": "you can't read about the death of children or want an unambiguous ending.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "Another thriller where the stories people write about themselves can't be trusted.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-silent-patient",
+      "reason": "Another psychological thriller built on a hidden manuscript-like record and a final twist.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rebecca",
+      "reason": "The classic of a newcomer in a house still ruled by another woman.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781538739723",
+    "https://en.wikipedia.org/wiki/Verity_(film)",
+    "https://hardcover.app/books/verity"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

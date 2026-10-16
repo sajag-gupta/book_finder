@@ -1,0 +1,44 @@
+{
+  "slug": "redwall",
+  "title": "Redwall",
+  "author": "Brian Jacques",
+  "isbn13": "9781862303300",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["fantasy", "children"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["cozy", "adventurous", "nostalgic"],
+  "tropes": ["talking-animals", "quest", "found-family", "war-story"],
+  "warnings": ["violence", "death"],
+  "summary": "The mice of Redwall Abbey live peacefully until an army of rats led by a one-eyed warlord lays siege to it. A young mouse novice must find the lost sword of the abbey's legendary founder, and he is not sure he is brave enough.",
+  "readIf": "you want a classic children's adventure with talking animals, big feasts and a clear battle between good and evil.",
+  "skipIf": "you want nuance in your villains, as they are usually simply wicked, and the battles can be fairly bloody.",
+  "pairings": [
+    {
+      "slug": "watership-down",
+      "reason": "Another story of animals facing real danger, but far more serious and grounded in nature.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-wind-in-the-willows",
+      "reason": "A gentler, quieter tale of animal friends with the same love of food and home.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "Another cosy-but-adventurous story of a small hero who becomes braver than expected.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781862303300",
+    "https://en.wikipedia.org/wiki/Redwall"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-golden-compass",
+  "title": "The Golden Compass",
+  "author": "Philip Pullman",
+  "isbn13": "9780553535129",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "mysterious", "tense"],
+  "tropes": ["quest", "chosen-one", "talking-animals"],
+  "warnings": ["violence", "death", "child-abuse", "kidnapping"],
+  "summary": "In a world where every person has an animal companion that embodies their soul, a feisty girl sets off for the far north to rescue a friend taken by a mysterious organisation. Along the way she meets armoured bears, witches and aeronauts.",
+  "readIf": "you want a vivid, fast children's fantasy with big ideas and a very memorable heroine.",
+  "skipIf": "you want a purely comforting read, as the book includes cruelty to children and questions faith.",
+  "pairings": [
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "The gentler, older cousin in tone, which many readers treat as the opposite worldview.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "reason": "Another children's fantasy that gradually grows into something larger and more serious.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-subtle-knife",
+      "reason": "The next book in the series, which widens the story to other worlds.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553535129",
+    "https://en.wikipedia.org/wiki/The_Golden_Compass_(film)",
+    "https://hardcover.app/books/the-golden-compass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-joy-luck-club",
+  "title": "The Joy Luck Club",
+  "author": "Amy Tan",
+  "isbn13": "9780749399573",
+  "firstPublished": 1989,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "nostalgic", "thoughtful"],
+  "tropes": ["family-saga"],
+  "warnings": ["death", "abuse", "war", "suicide"],
+  "summary": "Four Chinese immigrant mothers who meet weekly to play mahjong, and their American-born daughters, take turns telling the stories that explain their relationships with each other.",
+  "readIf": "you like linked stories about mothers and daughters and the things that get lost between generations.",
+  "skipIf": "you prefer a single narrator and a continuous plot over a rotating cast of voices.",
+  "pairings": [
+    {
+      "slug": "the-namesake",
+      "reason": "Another American novel about immigrant parents and a child who feels caught between two worlds.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "reason": "Shares the focus on women's lives under rigid social expectations in an East Asian setting.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-color-purple",
+      "reason": "Also gives different women space to tell their stories, ending in a similar sense of hard-won warmth.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780749399573",
+    "https://en.wikipedia.org/wiki/The_Joy_Luck_Club_(novel)",
+    "https://hardcover.app/books/the-joy-luck-club"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
