@@ -145,16 +145,27 @@ ${cardGrid(
 }
 
 export function shelfPage(ctx) {
+  const names = Object.fromEntries(ctx.data.genres.map((g) => [g.slug, g.name]));
   return layout({
     site: ctx.site,
     path: '/shelf/',
     title: 'My shelf',
-    description: 'Books you have saved on this device.',
+    description: 'Books you have saved, are reading or have read, kept on this device.',
     noindex: true,
     scripts: ['shelf'],
-    body: `<section class="wrap page">${head({ kicker: 'Saved on this device', title: 'My shelf', lede: 'Your saved books live in this browser only. Nothing is sent to us.', iconName: 'bookmark' })}
+    body: `<section class="wrap page" data-shelf-app>${head({ kicker: 'Saved on this device', title: 'My shelf', lede: 'Track what you want to read, are reading and have read. It lives in this browser only: nothing is sent to us.', iconName: 'bookmark' })}
+<div class="stats panel" data-stats hidden></div>
+<div class="tabs" data-tabs role="group" aria-label="Filter by status"></div>
 <ul class="grid" data-shelf></ul>
-<p class="empty" data-shelf-empty hidden>Nothing saved yet. Tap the bookmark on any book to keep it here.</p>
+<p class="empty" data-shelf-empty hidden>Nothing here yet. Tap the bookmark on any book, or import your shelf below.</p>
+<section class="panel tools" aria-labelledby="tools-h"><h2 id="tools-h">Import and back up</h2>
+  <div class="tools__row"><label class="btn btn--ghost">${icon('upload', { size: 18 })}Import Goodreads or StoryGraph CSV<input class="sr-only" type="file" accept=".csv,text/csv" data-import></label>
+  <button type="button" class="btn btn--ghost" data-export>${icon('download', { size: 18 })}Download backup</button>
+  <label class="btn btn--ghost">${icon('upload', { size: 18 })}Restore backup<input class="sr-only" type="file" accept=".json,application/json" data-restore></label></div>
+  <p class="muted small">Export your library from Goodreads (My Books, Import and export) or StoryGraph (Manage account), then pick the file here. It is read in your browser and never uploaded. Books we do not list are skipped.</p>
+  <p role="status" data-import-msg></p>
+</section>
+<script type="application/json" id="genre-names">${JSON.stringify(names).replace(/</g, '\u003c')}</script>
 <p><a class="btn btn--accent" href="/books/">Browse books</a></p></section>`,
   });
 }

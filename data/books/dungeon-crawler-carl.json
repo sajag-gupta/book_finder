@@ -1,0 +1,45 @@
+{
+  "slug": "dungeon-crawler-carl",
+  "title": "Dungeon Crawler Carl",
+  "author": "Matt Dinniman",
+  "isbn13": "9780593820247",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "dark"],
+  "tropes": ["survival", "unlikely-friendship", "post-apocalyptic"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "Earth is turned into a televised death-game dungeon for an alien audience, and an ordinary man in very little clothing has to climb it level by level. His only companion is his ex-girlfriend's cat, who has opinions.",
+  "readIf": "you want a fast, darkly funny survival romp that treats its game rules like a puzzle to be cracked.",
+  "skipIf": "you dislike graphic violence, crude humour or stories where a game system sets the rules.",
+  "pairings": [
+    {
+      "slug": "ready-player-one",
+      "reason": "Both turn a game-like system into the engine of the plot and reward readers who enjoy rules, loot and clever exploits.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Another comic take on Earth being treated as disposable by indifferent aliens, with a much gentler bite.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "Shares the brutal, escalating competition and the sense of a cruel system watching you, but played completely straight.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593820247",
+    "https://en.wikipedia.org/wiki/Dungeon_Crawler_Carl",
+    "https://hardcover.app/books/dungeon-crawler-carl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

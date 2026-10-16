@@ -1,0 +1,44 @@
+{
+  "slug": "carls-doomsday-scenario",
+  "title": "Carl's Doomsday Scenario",
+  "author": "Matt Dinniman",
+  "isbn13": "9780593820261",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "adventurous", "tense"],
+  "tropes": ["survival", "unlikely-friendship", "post-apocalyptic"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "The second book in a series about a deadly televised dungeon that has swallowed the planet. Carl and his cat push deeper into the levels, where the rules shift and the monsters and the game's producers get nastier.",
+  "readIf": "you finished the first book and want more of the same wisecracking, high-body-count levelling.",
+  "skipIf": "you have not read the first book, because the series builds directly and you will want to start there.",
+  "pairings": [
+    {
+      "slug": "dungeon-crawler-carl",
+      "reason": "The series opener sets up the game, the cat and the stakes this sequel assumes you know.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "Also about one person problem-solving their way through hostile conditions with a sarcastic voice, minus the gore.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "wool",
+      "reason": "Another enclosed, rule-bound survival world, but quiet, bleak and driven by mystery rather than jokes.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593820261",
+    "https://hardcover.app/books/carls-doomsday-scenario"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

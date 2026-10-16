@@ -18,6 +18,7 @@
     "build:preview": "node scripts/build.js --include-drafts",
     "dev": "npm run build:preview && wrangler pages dev dist",
     "validate": "node scripts/validate-data.js",
+    "trending": "node --env-file-if-exists=.env scripts/refresh-trending.js",
     "catalogue:isbns": "node --env-file-if-exists=.env scripts/resolve-isbns.js",
     "catalogue:index": "node scripts/catalogue-index.js",
     "email": "node --env-file-if-exists=.env scripts/email.js",

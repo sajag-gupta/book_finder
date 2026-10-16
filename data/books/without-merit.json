@@ -1,0 +1,44 @@
+{
+  "slug": "without-merit",
+  "title": "Without Merit",
+  "author": "Colleen Hoover",
+  "isbn13": "9781501170621",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["romance", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["melancholic", "funny", "hopeful"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["mental-illness", "grief"],
+  "summary": "Merit Voss lives in a converted church with an eccentric, fractured family, each of whom keeps a secret. She decides it is time to bring the truth out, whatever it costs.",
+  "readIf": "you want a quirky, character-heavy family story with heart and a bit of romance.",
+  "skipIf": "you want a pure love story, because the family drama and its heavy themes take centre stage.",
+  "pairings": [
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "reason": "Another honest, tender story about a young person sorting out family secrets and a messy emotional life.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "eleanor-and-park",
+      "reason": "A young romance that grows out of a difficult home life, with a gentle, bittersweet tone.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "speak",
+      "reason": "Shares the theme of a teenager struggling to say what is true, but is far more sombre.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781501170621",
+    "https://hardcover.app/books/without-merit"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-dungeon-anarchists-cookbook",
+  "title": "The Dungeon Anarchist's Cookbook",
+  "author": "Matt Dinniman",
+  "isbn13": "9780241816240",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "adventurous", "dark"],
+  "tropes": ["survival", "found-family"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "Book three of the Dungeon Crawler Carl series. The deadly game keeps raising its difficulty, and the human survivors have to scheme as much as fight to stay alive and keep their small team together.",
+  "readIf": "you are already hooked on the series and enjoy its mix of sardonic humour and grisly set pieces.",
+  "skipIf": "you want a standalone, because this is deep in an ongoing series and leans on earlier books.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Shares the irreverent, end-of-the-world comedy and an unlikely duo, with far less blood.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A long-running science-fiction series with a found-family crew and escalating stakes, but grounded and serious.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Matches the profane banter and cleverness of its heroes while pulling off schemes under pressure.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241816240",
+    "https://hardcover.app/books/the-dungeon-anarchists-cookbook"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "morning-star",
+  "title": "Morning Star",
+  "author": "Pierce Brown",
+  "isbn13": "9780345539861",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["epic", "tense", "dark"],
+  "tropes": ["rebellion", "war-story"],
+  "warnings": ["violence", "death", "war", "torture"],
+  "summary": "The third book of Red Rising. The rebellion against the caste-based rulers of the solar system moves into its final, costly stage, and the hero's cause faces its hardest tests.",
+  "readIf": "you want a fierce, large-scale conclusion to the first Red Rising trilogy.",
+  "skipIf": "you want a standalone, because this book depends entirely on the previous ones.",
+  "pairings": [
+    {
+      "slug": "mockingjay",
+      "reason": "Another series climax where a rebel leader pays heavily for a war of liberation.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "A very different tone, but the same payoff of a long war reaching its decisive battles.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "For readers who liked the brutality and want a grittier, more cynical view of fighting men.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345539861",
+    "https://en.wikipedia.org/wiki/Morning_Star_(Brown_novel)",
+    "https://hardcover.app/books/morning-star"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

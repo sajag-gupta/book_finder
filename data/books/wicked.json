@@ -1,0 +1,45 @@
+{
+  "slug": "wicked",
+  "title": "Wicked",
+  "author": "Gregory Maguire",
+  "isbn13": "9780606311847",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "thoughtful", "witty"],
+  "tropes": ["witches", "satire", "political-intrigue"],
+  "warnings": ["violence", "death", "prejudice", "sexual-content"],
+  "summary": "A retelling of The Wonderful Wizard of Oz from the viewpoint of the girl who becomes the Wicked Witch of the West. It follows her from a troubled birth through school and a political Oz that is not as happy as it seems.",
+  "readIf": "you like revisionist fantasy that mixes satire, politics and moral questions about who gets called wicked.",
+  "skipIf": "you want a light musical-style story, because the book is much darker and denser than the stage show.",
+  "pairings": [
+    {
+      "slug": "the-wonderful-wizard-of-oz",
+      "reason": "The original story that Wicked reimagines, and a quick read in its own right.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "circe",
+      "reason": "Another retelling that gives a vilified woman a voice and a full inner life.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "jonathan-strange-and-mr-norrell",
+      "reason": "Also a long, wry fantasy novel that treats magic with a satirist’s eye.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606311847",
+    "https://en.wikipedia.org/wiki/Wicked_(Maguire_novel)",
+    "https://hardcover.app/books/wicked"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

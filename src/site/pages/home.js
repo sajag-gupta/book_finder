@@ -55,6 +55,15 @@ export function homePage(ctx) {
   const sections = empty
     ? ''
     : `
+${
+  ctx.trending.length >= 4
+    ? `<section class="wrap section">
+  ${sectionHead({ kicker: 'This month', title: 'Trending now', href: '/books/?sort=newest', linkText: 'See newer books' })}
+  <div class="scroller">${cardGrid(ctx.trending, ctx)}</div>
+  <p class="muted small">Most-read books over the last 30 days, according to <a href="${esc(data.trending.url)}" rel="noopener">Hardcover</a>.</p>
+</section>`
+    : ''
+}
 <section class="wrap section">
   ${sectionHead({ kicker: 'Sold by the million', title: 'Top sellers of all time', href: '/bestsellers/', linkText: 'See the full ranking' })}
   <div class="scroller">${cardGrid(sellers, ctx, { ranked: true })}</div>

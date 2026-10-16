@@ -1,0 +1,44 @@
+{
+  "slug": "king-of-wrath",
+  "title": "King of Wrath",
+  "author": "Ana Huang",
+  "isbn13": "9780349436326",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "tense"],
+  "tropes": [],
+  "warnings": ["sexual-content"],
+  "summary": "Part of the Kings of Sin series of billionaire romances, this book follows Dante Russo and Vivian Lau, who are pulled together despite their very different positions.",
+  "readIf": "you like glossy, high-heat romance with powerful characters.",
+  "skipIf": "you want a low-spice story or a book with a strong plot outside the central couple.",
+  "pairings": [
+    {
+      "slug": "twisted-love",
+      "reason": "The first book in the author’s Twisted series, with a similar mix of wealth, power and desire.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "love-on-the-brain",
+      "reason": "A lighter, geeky romance with similar sparks, but a much more tender and humorous heroine.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-spanish-love-deception",
+      "reason": "A fake-relationship romance with a brooding hero and a lot of slow-building tension.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349436326",
+    "https://hardcover.app/books/king-of-wrath"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

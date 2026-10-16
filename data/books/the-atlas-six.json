@@ -1,0 +1,45 @@
+{
+  "slug": "the-atlas-six",
+  "title": "The Atlas Six",
+  "author": "Olivie Blake",
+  "isbn13": "9781250854551",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "mysterious", "thoughtful"],
+  "tropes": ["secret-society", "academic-rivals", "morally-grey", "magic-school"],
+  "warnings": ["violence", "death", "manipulation", "sexual-content"],
+  "summary": "Six of the most gifted magicians of their generation are recruited by a secret society that guards the lost knowledge of the Library of Alexandria. Only five will be admitted after a year, and all must compete.",
+  "readIf": "you like morally grey casts, dark academia and magic that is as much theory as spell.",
+  "skipIf": "you want warmth or a plot-driven story, since it is a talky, ambiguous setup for sequels.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "The model for dark-academia, with clever students and an insular group whose ideals turn deadly.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-magicians",
+      "reason": "Another story of brilliant people at a magical school and the unhappiness of their ambition.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "jonathan-strange-and-mr-norrell",
+      "reason": "A much larger, more playful treatment of academic magic and rivalry.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250854551",
+    "https://en.wikipedia.org/wiki/The_Atlas_Six",
+    "https://hardcover.app/books/the-atlas-six"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

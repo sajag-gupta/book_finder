@@ -94,6 +94,7 @@ write(
       a: b.author,
       y: b.firstPublished,
       i: b.isbn13,
+      g: b.genres,
     })),
   ),
 );

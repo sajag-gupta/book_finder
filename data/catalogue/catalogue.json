@@ -4511,5 +4511,482 @@
     "soldMillions": null,
     "group": "modern",
     "isbn13": "9781451681765"
+  },
+  {
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "year": 2020,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593820247"
+  },
+  {
+    "title": "Carl's Doomsday Scenario",
+    "author": "Matt Dinniman",
+    "year": 2021,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593820261"
+  },
+  {
+    "title": "The Dungeon Anarchist's Cookbook",
+    "author": "Matt Dinniman",
+    "year": 2021,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241816240"
+  },
+  {
+    "title": "The Gate of the Feral Gods",
+    "author": "Matt Dinniman",
+    "year": 2022,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241829912"
+  },
+  {
+    "title": "The Butcher's Masquerade",
+    "author": "Matt Dinniman",
+    "year": 2023,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241829820"
+  },
+  {
+    "title": "Threshing Day",
+    "author": "Rebecca Yarros",
+    "year": 2026,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781682818084"
+  },
+  {
+    "title": "Yesteryear",
+    "author": "Caro Claire Burke",
+    "year": 2026,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008742775"
+  },
+  {
+    "title": "There Is No Antimemetics Division",
+    "author": "qntm",
+    "year": 2021,
+    "genres": ["science-fiction", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593983768"
+  },
+  {
+    "title": "Golden Son",
+    "author": "Pierce Brown",
+    "year": 2015,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781464042126"
+  },
+  {
+    "title": "Morning Star",
+    "author": "Pierce Brown",
+    "year": 2016,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780345539861"
+  },
+  {
+    "title": "The Well of Ascension",
+    "author": "Brandon Sanderson",
+    "year": 2007,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575097759"
+  },
+  {
+    "title": "The Hero of Ages",
+    "author": "Brandon Sanderson",
+    "year": 2008,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780792776444"
+  },
+  {
+    "title": "Words of Radiance",
+    "author": "Brandon Sanderson",
+    "year": 2014,
+    "genres": ["epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575097421"
+  },
+  {
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "year": 2025,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780702340581"
+  },
+  {
+    "title": "The Housemaid's Secret",
+    "author": "Freida McFadden",
+    "year": 2023,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349132617"
+  },
+  {
+    "title": "The Housemaid Is Watching",
+    "author": "Freida McFadden",
+    "year": 2024,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781464229381"
+  },
+  {
+    "title": "Never Lie",
+    "author": "Freida McFadden",
+    "year": 2022,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781420513981"
+  },
+  {
+    "title": "The Boyfriend",
+    "author": "Freida McFadden",
+    "year": 2024,
+    "genres": ["thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781464231681"
+  },
+  {
+    "title": "Layla",
+    "author": "Colleen Hoover",
+    "year": 2020,
+    "genres": ["romance", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781713532125"
+  },
+  {
+    "title": "Heart Bones",
+    "author": "Colleen Hoover",
+    "year": 2020,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781668021927"
+  },
+  {
+    "title": "Without Merit",
+    "author": "Colleen Hoover",
+    "year": 2017,
+    "genres": ["romance", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781501170621"
+  },
+  {
+    "title": "Confess",
+    "author": "Colleen Hoover",
+    "year": 2015,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781410480101"
+  },
+  {
+    "title": "Slammed",
+    "author": "Colleen Hoover",
+    "year": 2012,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781471125553"
+  },
+  {
+    "title": "Maybe Someday",
+    "author": "Colleen Hoover",
+    "year": 2014,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781471135521"
+  },
+  {
+    "title": "All Your Perfects",
+    "author": "Colleen Hoover",
+    "year": 2018,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781508264460"
+  },
+  {
+    "title": "House of Sky and Breath",
+    "author": "Sarah J. Maas",
+    "year": 2022,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781639732876"
+  },
+  {
+    "title": "House of Flame and Shadow",
+    "author": "Sarah J. Maas",
+    "year": 2024,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781408884447"
+  },
+  {
+    "title": "A Court of Frost and Starlight",
+    "author": "Sarah J. Maas",
+    "year": 2018,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781526617187"
+  },
+  {
+    "title": "Crown of Midnight",
+    "author": "Sarah J. Maas",
+    "year": 2013,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781619630628"
+  },
+  {
+    "title": "Queen of Shadows",
+    "author": "Sarah J. Maas",
+    "year": 2015,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781484492321"
+  },
+  {
+    "title": "Empire of Storms",
+    "author": "Sarah J. Maas",
+    "year": 2016,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781639731039"
+  },
+  {
+    "title": "Kingdom of Ash",
+    "author": "Sarah J. Maas",
+    "year": 2018,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781978659070"
+  },
+  {
+    "title": "One Dark Window",
+    "author": "Rachel Gillig",
+    "year": 2022,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316312486"
+  },
+  {
+    "title": "Two Twisted Crowns",
+    "author": "Rachel Gillig",
+    "year": 2023,
+    "genres": ["romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316312882"
+  },
+  {
+    "title": "The Atlas Six",
+    "author": "Olivie Blake",
+    "year": 2020,
+    "genres": ["fantasy", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250854551"
+  },
+  {
+    "title": "The Ministry of Time",
+    "author": "Kaliane Bradley",
+    "year": 2024,
+    "genres": ["science-fiction", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781668045169"
+  },
+  {
+    "title": "Intermezzo",
+    "author": "Sally Rooney",
+    "year": 2024,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571365494"
+  },
+  {
+    "title": "Orbital",
+    "author": "Samantha Harvey",
+    "year": 2023,
+    "genres": ["literary", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529922936"
+  },
+  {
+    "title": "Great Big Beautiful Life",
+    "author": "Emily Henry",
+    "year": 2025,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241739860"
+  },
+  {
+    "title": "Wicked",
+    "author": "Gregory Maguire",
+    "year": 1995,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606311847"
+  },
+  {
+    "title": "The Maid",
+    "author": "Nita Prose",
+    "year": 2022,
+    "genres": ["mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008435721"
+  },
+  {
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "year": 2020,
+    "genres": ["mystery", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241476178"
+  },
+  {
+    "title": "Divine Rivals",
+    "author": "Rebecca Ross",
+    "year": 2023,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008600662"
+  },
+  {
+    "title": "Shatter Me",
+    "author": "Tahereh Mafi",
+    "year": 2011,
+    "genres": ["dystopian", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780603580659"
+  },
+  {
+    "title": "Serpent & Dove",
+    "author": "Shelby Mahurin",
+    "year": 2019,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781982688622"
+  },
+  {
+    "title": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "year": 2021,
+    "genres": ["romance", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781957635002"
+  },
+  {
+    "title": "Twisted Love",
+    "author": "Ana Huang",
+    "year": 2021,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349447575"
+  },
+  {
+    "title": "King of Wrath",
+    "author": "Ana Huang",
+    "year": 2022,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349436326"
+  },
+  {
+    "title": "Heated Rivalry",
+    "author": "Rachel Reid",
+    "year": 2019,
+    "genres": ["romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781335004048"
+  },
+  {
+    "title": "Lightlark",
+    "author": "Alex Aster",
+    "year": 2022,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781419760860"
+  },
+  {
+    "title": "Reckless",
+    "author": "Lauren Roberts",
+    "year": 2024,
+    "genres": ["romantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781398540675"
+  },
+  {
+    "title": "The Girl Who Drank the Moon",
+    "author": "Kelly Barnhill",
+    "year": 2016,
+    "genres": ["fantasy", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781338167016"
+  },
+  {
+    "title": "Percy Jackson and the Sea of Monsters",
+    "author": "Rick Riordan",
+    "year": 2006,
+    "genres": ["fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780786856862"
   }
 ]

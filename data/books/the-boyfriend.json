@@ -1,0 +1,44 @@
+{
+  "slug": "the-boyfriend",
+  "title": "The Boyfriend",
+  "author": "Freida McFadden",
+  "isbn13": "9781464231681",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark"],
+  "tropes": ["twist-ending"],
+  "warnings": ["manipulation"],
+  "summary": "A psychological thriller about a woman whose new relationship may be hiding something, told in the quick, twisty style the author is known for.",
+  "readIf": "you like short-chaptered psychological thrillers that you can finish in a weekend.",
+  "skipIf": "you want a thriller with deep characterisation or realistic police procedure.",
+  "pairings": [
+    {
+      "slug": "the-girl-before",
+      "reason": "Another thriller where an apparently perfect romantic situation turns out to be dangerously controlled.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "gone-girl",
+      "reason": "The benchmark for relationship thrillers where nobody is quite who they say they are.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "behind-closed-doors",
+      "reason": "A bleaker, more extreme look at a hidden controlling relationship.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781464231681",
+    "https://hardcover.app/books/the-boyfriend-2024"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

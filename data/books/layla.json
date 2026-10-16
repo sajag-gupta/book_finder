@@ -1,0 +1,41 @@
+{
+  "slug": "layla",
+  "title": "Layla",
+  "author": "Colleen Hoover",
+  "isbn13": "9781713532125",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["romance", "horror"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["haunting", "dark", "swoony"],
+  "tropes": [],
+  "warnings": ["violence", "sexual-content"],
+  "summary": "After a violent attack leaves her badly injured, a young woman and her partner try to rebuild their life together. They soon find that something in their home does not want them to.",
+  "readIf": "you want a romance with a supernatural edge and are happy for it to turn unsettling.",
+  "skipIf": "you want a straightforward love story, since this one changes genre partway through and handles violence.",
+  "pairings": [
+    {
+      "slug": "verity",
+      "reason": "The author’s other genre-bending novel, where an intimate relationship is shadowed by something far darker.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "A classic haunting that centres on a fragile mind and a house that seems to know it.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "Another love story where an uncanny element drives the couple’s fate.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781713532125", "https://hardcover.app/books/layla"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

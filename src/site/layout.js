@@ -32,7 +32,7 @@ export function layout({
     ? `<script type="application/ld+json">${jsonLd(structuredData)}</script>`
     : '';
   const scriptTags = ['site', ...scripts]
-    .map((name) => `<script src="/assets/${name}.js" defer></script>`)
+    .map((name) => `<script type="module" src="/assets/${name}.js"></script>`)
     .join('\n');
   return `<!doctype html>
 <html lang="en">

@@ -1,0 +1,45 @@
+{
+  "slug": "golden-son",
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "isbn13": "9781464042126",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["rebellion", "morally-grey", "political-intrigue"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "Book two of Red Rising. A low-born rebel working inside the ruling caste of a colonised solar system is drawn into rivalries and warfare among the elite he has infiltrated.",
+  "readIf": "you loved the first book and want the story to widen into warfare, alliances and betrayals.",
+  "skipIf": "you have not read Red Rising, since this book assumes you know its premise.",
+  "pairings": [
+    {
+      "slug": "enders-game",
+      "reason": "A gifted young person is pushed through brutal, escalating training by a system that treats him as a weapon, much as Darrow is.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Shares the shifting alliances, shocking deaths and ruthless dynastic politics, in a fantasy setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A younger, simpler story of a lower-caste hero pushed to rebel against a cruel ruling class.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781464042126",
+    "https://en.wikipedia.org/wiki/Golden_Son",
+    "https://hardcover.app/books/golden-son"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "heated-rivalry",
+  "title": "Heated Rivalry",
+  "author": "Rachel Reid",
+  "isbn13": "9781335004048",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "tense", "hopeful"],
+  "tropes": ["enemies-to-lovers", "sports"],
+  "warnings": ["sexual-content", "homophobia"],
+  "summary": "Two star players from rival professional hockey teams begin a secret relationship that grows over the years. Both must weigh their love against the fear of how the sport will treat them.",
+  "readIf": "you like sports romance with a long, slow emotional arc and a lot of heat.",
+  "skipIf": "you want a story with a plot outside the central couple, because this one focuses on them.",
+  "pairings": [
+    {
+      "slug": "icebreaker",
+      "reason": "Another hockey romance in which a rivalry on the ice turns into something warmer.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Another story of rivals in the public eye who fall in love and risk everything to keep it.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hating-game",
+      "reason": "A classic rivals-to-lovers romance with bantering colleagues rather than rival athletes.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781335004048",
+    "https://en.wikipedia.org/wiki/Heated_Rivalry",
+    "https://hardcover.app/books/heated-rivalry"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

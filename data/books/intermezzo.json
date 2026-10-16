@@ -1,0 +1,45 @@
+{
+  "slug": "intermezzo",
+  "title": "Intermezzo",
+  "author": "Sally Rooney",
+  "isbn13": "9780571365494",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "thoughtful", "heartbreaking"],
+  "tropes": ["family-saga"],
+  "warnings": ["grief", "death", "sexual-content"],
+  "summary": "Two brothers, a lawyer and a young chess player, are left badly shaken after their father’s death. Each starts a relationship that complicates their feelings, and their strained bond becomes the heart of the story.",
+  "readIf": "you like quiet, interior literary fiction about grief, love and difficult families.",
+  "skipIf": "you want a plot-driven read, because most of it unfolds in conversation and thought.",
+  "pairings": [
+    {
+      "slug": "normal-people",
+      "reason": "The same author’s earlier novel, with the same attentive focus on how people hurt and love each other.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "Another story of grief and connection with a much warmer, more comic tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A restrained, reflective novel about regret, feeling and the things people cannot say.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571365494",
+    "https://en.wikipedia.org/wiki/Intermezzo_(novel)",
+    "https://hardcover.app/books/intermezzo"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

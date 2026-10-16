@@ -1,0 +1,41 @@
+{
+  "slug": "there-is-no-antimemetics-division",
+  "title": "There Is No Antimemetics Division",
+  "author": "qntm",
+  "isbn13": "9780593983768",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mind-bending", "tense", "dark"],
+  "tropes": ["secret-society"],
+  "warnings": ["death", "violence"],
+  "summary": "A hidden organisation fights threats that erase themselves from memory, so nobody can reliably remember them or even that they were fighting them. The book builds a strange, cerebral horror around that single idea.",
+  "readIf": "you like clever concept-driven science fiction with a creeping, cosmic dread.",
+  "skipIf": "you want strong character-driven drama or a conventional plot that holds together on a first skim.",
+  "pairings": [
+    {
+      "slug": "annihilation",
+      "reason": "Both explore something that defies human understanding and slowly undermines the people investigating it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "house-of-leaves",
+      "reason": "Another work that plays with how stories and memory can be destabilised, though far more experimental in form.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "recursion",
+      "reason": "Memory and reality come apart here too, in a faster and more emotional thriller.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

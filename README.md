@@ -4,13 +4,14 @@ A mood-first book finder that also shows, for any book, every place to buy, borr
 in every format, at the best price.
 
 1. **Decide what to read.** Say how you want to feel, or name a book you loved. Get a short list with
-   a plain reason for each pick, written by us. 500 books: the best sellers of all time plus genre
+   a plain reason for each pick, written by us. 550 books: the best sellers of all time plus genre
    staples, filterable by genre, mood, length, pace and content warnings.
 2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook, used and library options
    side by side. Library borrowing is always shown first.
 
-Also: bestseller rankings, genre, mood, trope and author pages, a saved shelf, a weekly email, and
-shareable cards. See [docs/catalogue.md](docs/catalogue.md) for how the catalogue is built and what
+Also: bestseller rankings, a nightly "Trending now" shelf from Hardcover's API, genre, mood, trope and
+author pages, a private reading shelf (statuses, half-star ratings, stats, Goodreads/StoryGraph CSV
+import), content warnings you can hide until you ask, a weekly email, and shareable cards. See [docs/catalogue.md](docs/catalogue.md) for how the catalogue is built and what
 `checked` and `reviewed` mean.
 
 Store buttons are affiliate links where a program exists. See [docs/product.md](docs/product.md) for
@@ -56,6 +57,7 @@ books (about 1,200 pages and 1,000 share cards).
 | `npm run validate`        | Validate every record in `data/` against the schema and vocab                     |
 | `npm run email -- <date>` | Render a weekly issue to HTML and text (see docs/newsletter.md)                   |
 | `npm run review`          | Fact-check drafts; `-- --mark-checked` or `-- --approve <slug> --reviewer "Name"` |
+| `npm run trending`        | Refresh data/trending.json from Hardcover's API (needs HARDCOVER_TOKEN)           |
 | `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books                       |
 | `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)                    |
 

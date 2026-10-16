@@ -1,0 +1,45 @@
+{
+  "slug": "great-big-beautiful-life",
+  "title": "Great Big Beautiful Life",
+  "author": "Emily Henry",
+  "isbn13": "9780241739860",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "witty", "hopeful"],
+  "tropes": ["forced-proximity"],
+  "warnings": [],
+  "summary": "Two writers are asked to tell the story of an elderly woman with a famous name, but only one of them will get the book. They spend time together while working to win her trust.",
+  "readIf": "you like warm, witty contemporary romance with a bittersweet streak.",
+  "skipIf": "you want a very fast romance or a book with spice, as this one focuses on character and emotion.",
+  "pairings": [
+    {
+      "slug": "book-lovers",
+      "reason": "Another Emily Henry story where two ambitious people in publishing circle each other.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "beach-read",
+      "reason": "Also about two writers at odds who are forced to share a project and slowly open up.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-seven-husbands-of-evelyn-hugo",
+      "reason": "A glamorous older woman tells her life story to a younger writer in a more dramatic, sweeping novel.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241739860",
+    "https://en.wikipedia.org/wiki/Great_Big_Beautiful_Life",
+    "https://hardcover.app/books/great-big-beautiful-life"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

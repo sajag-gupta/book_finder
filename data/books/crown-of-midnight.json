@@ -1,0 +1,44 @@
+{
+  "slug": "crown-of-midnight",
+  "title": "Crown of Midnight",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781619630628",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "mysterious"],
+  "tropes": ["chosen-one", "secret-society", "hidden-identity"],
+  "warnings": ["violence", "death"],
+  "summary": "The second Throne of Glass novel. Having won her place as the king's Champion, a young assassin is sent out to eliminate his enemies, while deadly secrets surround her in the glass castle.",
+  "readIf": "you want a fast fantasy that adds mystery and romance to an assassin story.",
+  "skipIf": "you have not read Throne of Glass, since the first book sets up all the people here.",
+  "pairings": [
+    {
+      "slug": "throne-of-glass",
+      "reason": "The first book in the series, where the heroine and her place at court begin.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "shadow-and-bone",
+      "reason": "Another young-adult fantasy built on a young woman with unusual power and a court that wants to use it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "assassins-apprentice",
+      "reason": "A more melancholy tale of a young killer in royal service, written with great emotional depth.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781619630628",
+    "https://hardcover.app/books/crown-of-midnight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

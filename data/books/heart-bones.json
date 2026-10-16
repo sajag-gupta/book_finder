@@ -1,0 +1,44 @@
+{
+  "slug": "heart-bones",
+  "title": "Heart Bones",
+  "author": "Colleen Hoover",
+  "isbn13": "9781668021927",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "melancholic", "hopeful"],
+  "tropes": ["forced-proximity"],
+  "warnings": ["sexual-content"],
+  "summary": "Two people from different worlds are thrown together one summer by their families and drawn to each other despite expectations. Both are carrying private hurts that make letting someone in difficult.",
+  "readIf": "you like emotional contemporary romance with a summer setting and slowly softening walls.",
+  "skipIf": "you want a light rom-com or you are bothered by romances that circle family complications.",
+  "pairings": [
+    {
+      "slug": "the-summer-i-turned-pretty",
+      "reason": "Also a summer of change at a beach house, with a younger and more wistful tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "it-ends-with-us",
+      "reason": "A deeper, harder-hitting romance by the same author about love and the pain that comes with it.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "people-we-meet-on-vacation",
+      "reason": "Another summer-set romance that pays off the years of feeling between two people.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781668021927",
+    "https://hardcover.app/books/heart-bones"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

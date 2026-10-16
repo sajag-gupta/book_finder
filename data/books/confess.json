@@ -1,0 +1,40 @@
+{
+  "slug": "confess",
+  "title": "Confess",
+  "author": "Colleen Hoover",
+  "isbn13": "9781410480101",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "mysterious"],
+  "tropes": ["second-chance"],
+  "warnings": ["sexual-content", "violence"],
+  "summary": "A young woman rebuilding her life walks into an art studio where the paintings are based on anonymous confessions. She and the artist feel an immediate pull while both guard secrets of their own.",
+  "readIf": "you want a twisty, emotional romance where secrets slowly come out.",
+  "skipIf": "you want something gentle, because it has heavy backstory and some painful turns.",
+  "pairings": [
+    {
+      "slug": "verity",
+      "reason": "A more menacing take on secrets inside a love story, by the same author.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "reminders-of-him",
+      "reason": "Another emotional story of a woman trying to rebuild around a painful past.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781410480101",
+    "https://en.wikipedia.org/wiki/Confess_(TV_series)",
+    "https://hardcover.app/books/confess"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

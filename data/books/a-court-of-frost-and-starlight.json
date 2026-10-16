@@ -1,0 +1,44 @@
+{
+  "slug": "a-court-of-frost-and-starlight",
+  "title": "A Court of Frost and Starlight",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781526617187",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["romantasy"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["cozy", "comforting", "swoony"],
+  "tropes": ["found-family"],
+  "warnings": ["grief", "sexual-content"],
+  "summary": "A short novella set in the weeks around a midwinter festival, shortly after a great war. The series' characters rest, rebuild and look after each other.",
+  "readIf": "you want a soft, low-stakes visit with the characters of an existing series.",
+  "skipIf": "you want action or plot, since this one is quiet and aimed at readers already invested in the series.",
+  "pairings": [
+    {
+      "slug": "a-court-of-wings-and-ruin",
+      "reason": "The war-heavy book that comes right before this novella and the story it follows on from.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "legends-and-lattes",
+      "reason": "A cosy fantasy about rest and community, with no romance-heavy politics at all.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "Another warm story about a found family finding a place to belong.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781526617187",
+    "https://hardcover.app/books/a-court-of-frost-and-starlight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

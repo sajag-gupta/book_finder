@@ -1,5 +1,6 @@
 import { slugify } from '../shared/slug.js';
 import { isPublished } from './data.js';
+import { matchTrending } from './trending.js';
 
 const byTitle = (a, b) => a.title.localeCompare(b.title);
 const bySales = (a, b) => (b.soldMillions ?? 0) - (a.soldMillions ?? 0) || byTitle(a, b);
@@ -32,9 +33,12 @@ export function createContext({ data, site }) {
     .filter((b) => b.tier === 'modern' && b.firstPublished >= 2010)
     .sort((a, b) => b.firstPublished - a.firstPublished || byTitle(a, b));
 
+  const trending = matchTrending(data.trending?.entries, published).slice(0, 12);
+
   return {
     data,
     site,
+    trending,
     published,
     bySlug,
     pairings,

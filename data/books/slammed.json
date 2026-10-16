@@ -1,0 +1,44 @@
+{
+  "slug": "slammed",
+  "title": "Slammed",
+  "author": "Colleen Hoover",
+  "isbn13": "9781471125553",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "heartbreaking", "hopeful"],
+  "tropes": ["forbidden-love", "coming-of-age"],
+  "warnings": ["death", "grief"],
+  "summary": "A girl moves to Michigan with her mother and brother after her father's death and falls for the neighbour next door. The two bond over slam poetry, but the closeness comes with complications.",
+  "readIf": "you like a youthful, emotional romance where poetry and grief shape the story.",
+  "skipIf": "you want a spicy or fast-paced romance, since this one is gentle and mostly talk.",
+  "pairings": [
+    {
+      "slug": "hopeless",
+      "reason": "The author’s other early romance, with a harder emotional edge and a stronger sense of buried secrets.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-fault-in-our-stars",
+      "reason": "Another tender love story that mixes loss, wit and teenage-to-young-adult feeling.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "maybe-someday",
+      "reason": "A later novel from the same author that pairs a love story with art, this time music.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781471125553",
+    "https://hardcover.app/books/slammed-2012"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

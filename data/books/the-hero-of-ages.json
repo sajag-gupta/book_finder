@@ -1,0 +1,44 @@
+{
+  "slug": "the-hero-of-ages",
+  "title": "The Hero of Ages",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780792776444",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "mysterious"],
+  "tropes": ["chosen-one", "quest"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The last book of the original Mistborn trilogy. The world is clearly failing, and a small band races to understand what is coming and whether anything can stop it.",
+  "readIf": "you want a big payoff with lots of revelations that reward close attention to the magic.",
+  "skipIf": "you have not read the earlier books, as every plot thread here depends on them.",
+  "pairings": [
+    {
+      "slug": "the-fifth-season",
+      "reason": "Another world facing a slow apocalypse with magic that is deeply tied to it, more raw and unsettling.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "The opening of another long fantasy saga about a world-saving struggle, with a similar sense of approaching darkness.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-last-unicorn",
+      "reason": "A short, lyrical fantasy for a reader who wants a breather after a very large series.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780792776444",
+    "https://hardcover.app/books/the-hero-of-ages"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
