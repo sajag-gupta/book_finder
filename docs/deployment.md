@@ -50,6 +50,12 @@ Drafts only appear in `npm run build:preview`, which is `noindex`.
 
 ## Affiliate IDs
 
+**Awin (Bookshop.org and Libro.fm).** One Awin publisher account covers both. `awin_publisher_id` is the
+account number. `awin_bookshop_mid` (`92005`) and `awin_librofm_mid` (`25361`) are the program IDs:
+fill each in only after Awin shows the program as **Joined**, because links to a program you have
+not joined earn nothing. Until then both stores serve plain links. Apply in the Awin dashboard
+(Advertisers, then Join). Awin's API cannot apply for you.
+
 **Rakuten (Kobo).** Two different IDs exist. `kobo_partner_id` is the short alphanumeric code after
 `id=` in your tracking links (not your numeric account/publisher ID). `kobo_merchant_id` is the
 program's MID and only works once Rakuten approves you for that program: Kobo US is `37217`
