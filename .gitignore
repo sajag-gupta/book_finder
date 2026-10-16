@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# Dependencies and build output
+node_modules/
+dist/
+.wrangler/
+coverage/
+
+# Local tooling (portable Node used on locked-down machines)
+.tools/
+
+# Claude Code local state
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
