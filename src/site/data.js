@@ -2,6 +2,7 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import Ajv from 'ajv';
 import { isValidIsbn13 } from '../shared/isbn.js';
+import { validateIssue } from '../email/issue.js';
 
 const readJson = (path) => JSON.parse(readFileSync(path, 'utf8'));
 const readDir = (dir) =>
@@ -22,6 +23,9 @@ export function loadData(root) {
     books: readDir(join(data, 'books')).map(({ name, value }) => ({ ...value, _file: name })),
     schema: readJson(join(data, 'schema', 'book.schema.json')),
     offers: loadOffers(join(data, 'offers')),
+    issues: existsSync(join(data, 'newsletter'))
+      ? readDir(join(data, 'newsletter')).map(({ name, value }) => ({ ...value, _file: name }))
+      : [],
   };
 }
 
@@ -76,6 +80,16 @@ export function validateData(data) {
       if (!book.reviewedBy || !book.reviewedOn)
         errors.push(`${at}: reviewed books need reviewedBy and reviewedOn`);
     }
+  }
+
+  const reviewed = new Set(data.books.filter((b) => b.status === 'reviewed').map((b) => b.slug));
+  for (const issue of data.issues ?? []) {
+    const { _file, ...record } = issue;
+    for (const problem of validateIssue(record, reviewed)) {
+      errors.push(`newsletter/${_file}: ${problem}`);
+    }
+    if (_file !== `${record.date}.json`)
+      errors.push(`newsletter/${_file}: file name must be <date>.json`);
   }
   return errors;
 }

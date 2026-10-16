@@ -40,15 +40,16 @@ npm run build:preview
 `build:preview` includes draft books and marks every page `noindex`. Serve `dist/` with any static
 server to look at it. `npm run build` is the production build and publishes **reviewed books only**.
 
-| Command                 | What it does                                                         |
-| ----------------------- | -------------------------------------------------------------------- |
-| `npm run check`         | Lint, format check, data validation and tests (what CI runs)         |
-| `npm run build`         | Production build to `dist/` (reviewed books only)                    |
-| `npm run build:preview` | Preview build including drafts, `noindex`                            |
-| `npm run validate`      | Validate every record in `data/` against the schema and vocab        |
-| `npm run review`        | Fact-check drafts; `-- --approve <slug> --reviewer "Name"` publishes |
-| `npm run verify:isbns`  | Cross-check each ISBN against Open Library and Google Books          |
-| `npm run dev`           | Preview build plus `wrangler pages dev` (needs local Wrangler)       |
+| Command                   | What it does                                                         |
+| ------------------------- | -------------------------------------------------------------------- |
+| `npm run check`           | Lint, format check, data validation and tests (what CI runs)         |
+| `npm run build`           | Production build to `dist/` (reviewed books only)                    |
+| `npm run build:preview`   | Preview build including drafts, `noindex`                            |
+| `npm run validate`        | Validate every record in `data/` against the schema and vocab        |
+| `npm run email -- <date>` | Render a weekly issue to HTML and text (see docs/newsletter.md)      |
+| `npm run review`          | Fact-check drafts; `-- --approve <slug> --reviewer "Name"` publishes |
+| `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books          |
+| `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)       |
 
 ## Repository layout
 

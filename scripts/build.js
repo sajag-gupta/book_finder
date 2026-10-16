@@ -11,17 +11,14 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadData, validateData } from '../src/site/data.js';
 import * as pages from '../src/site/pages.js';
+import { renderCardPng } from '../src/share/render.js';
+import { getSite } from '../src/site/config.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const dist = join(root, 'dist');
 const includeDrafts = process.argv.includes('--include-drafts');
 
-const site = {
-  name: 'After the Dragons', // working title: change in one place
-  url: (process.env.SITE_URL || 'https://book-finder.pages.dev').replace(/\/$/, ''),
-  preview: includeDrafts,
-  includeDrafts,
-};
+const site = getSite({ includeDrafts });
 
 const data = loadData(root);
 const errors = validateData(data);
@@ -61,6 +58,16 @@ for (const mood of data.moods) {
 for (const book of ctx.published) {
   page(`/books/${book.slug}/`, pages.bookPage(ctx, book));
   if (ctx.pairings(book).length) page(`/books-like/${book.slug}/`, pages.booksLikePage(ctx, book));
+}
+
+// Share cards: a 4:5 image for posting and a 1.91:1 image for link previews, one pair per book.
+// `--skip-share-cards` speeds up local iteration; the book pages still reference the images.
+if (!process.argv.includes('--skip-share-cards')) {
+  const options = { moods: data.moods, siteName: site.name, host: new URL(site.url).host };
+  for (const book of ctx.published) {
+    write(`share/${book.slug}.png`, await renderCardPng(book, options));
+    write(`share/${book.slug}-og.png`, await renderCardPng(book, { ...options, variant: 'og' }));
+  }
 }
 
 write(

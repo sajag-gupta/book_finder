@@ -13,8 +13,9 @@ coverage/
 # Local tooling (portable Node used on locked-down machines)
 .tools/
 
-# Generated review reports
+# Generated review reports and rendered emails
 .review/
+out/
 
 # Claude Code local state
 .claude/

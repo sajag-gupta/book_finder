@@ -18,6 +18,7 @@
     "build:preview": "node scripts/build.js --include-drafts",
     "dev": "npm run build:preview && wrangler pages dev dist",
     "validate": "node scripts/validate-data.js",
+    "email": "node --env-file-if-exists=.env scripts/email.js",
     "review": "node --env-file-if-exists=.env scripts/review.js",
     "verify:isbns": "node --env-file-if-exists=.env scripts/verify-isbns.js",
     "db:migrate:local": "wrangler d1 migrations apply book-finder --local",
@@ -30,10 +31,14 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@fontsource/fredoka": "^5.3.0",
+    "@fontsource/nunito-sans": "^5.3.0",
+    "@resvg/resvg-wasm": "^2.6.2",
     "ajv": "^8.17.0",
     "eslint": "^10.12.0",
     "globals": "^16.0.0",
     "prettier": "^3.3.0",
+    "satori": "^0.62.0",
     "wrangler": "^4.0.0"
   }
 }

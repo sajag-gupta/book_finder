@@ -1,5 +1,5 @@
 import { esc } from './html.js';
-import { layout, withSearchScript } from './layout.js';
+import { layout, withScript, withSearchScript } from './layout.js';
 import { goPath } from '../shared/links.js';
 import { allStores } from '../shared/registry.js';
 import { FORMAT_ORDER, FORMAT_TITLES, rankOffers } from '../shared/offers.js';
@@ -208,6 +208,10 @@ export function bookPage(ctx, book) {
 ${warnings.length ? `<ul class="tags">${chips(warnings, 'tag tag-warn')}</ul>` : '<p>None noted yet.</p>'}</section>
 ${offersTable(book, ctx)}
 ${seriesBlock(book, ctx)}
+<section aria-labelledby="share-h"><h2 id="share-h">Share this pick</h2>
+<img class="share-preview" src="/share/${esc(book.slug)}.png" alt="Share card for ${esc(book.title)}" width="270" height="338" loading="lazy">
+<p><a class="btn" href="/share/${esc(book.slug)}.png" download="${esc(book.slug)}-share-card.png">Download share card</a>
+<button type="button" class="btn btn-ghost" data-share data-title="${esc(book.title)}" data-url="${esc(ctx.site.url)}/books/${esc(book.slug)}/" hidden>Share link</button></p></section>
 ${
   picks.length
     ? `<section aria-labelledby="like-h"><h2 id="like-h">If you loved ${esc(book.title)}</h2>
@@ -216,21 +220,25 @@ ${
     : ''
 }
 </article>`;
-  return layout({
-    site: ctx.site,
-    path: `/books/${book.slug}/`,
-    title: `${book.title} by ${book.author}: where to buy or borrow`,
-    description: `${book.summary} Compare print, ebook, audiobook, used and library options.`,
-    body,
-    structuredData: {
-      '@context': 'https://schema.org',
-      '@type': 'Book',
-      name: book.title,
-      author: { '@type': 'Person', name: book.author },
-      isbn: book.isbn13,
-      datePublished: String(book.firstPublished),
-    },
-  });
+  return withScript(
+    layout({
+      site: ctx.site,
+      path: `/books/${book.slug}/`,
+      title: `${book.title} by ${book.author}: where to buy or borrow`,
+      description: `${book.summary} Compare print, ebook, audiobook, used and library options.`,
+      image: `/share/${book.slug}-og.png`,
+      body,
+      structuredData: {
+        '@context': 'https://schema.org',
+        '@type': 'Book',
+        name: book.title,
+        author: { '@type': 'Person', name: book.author },
+        isbn: book.isbn13,
+        datePublished: String(book.firstPublished),
+      },
+    }),
+    'share',
+  );
 }
 
 export function howWePickPage(ctx) {
