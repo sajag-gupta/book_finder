@@ -16,8 +16,8 @@
     "label": "Buy new",
     "plain": "https://bookshop.org/book/{isbn13}",
     "affiliate": {
-      "template": "https://bookshop.org/a/{bookshop_id}/{isbn13}",
-      "requires": ["bookshop_id"]
+      "template": "https://www.awin1.com/cread.php?awinmid={awin_bookshop_mid}&awinaffid={awin_publisher_id}&ued={plain_encoded}",
+      "requires": ["awin_publisher_id", "awin_bookshop_mid"]
     },
     "commissionRate": 0.1,
     "cookieDays": 2
@@ -94,7 +94,10 @@
     "kind": "audio",
     "label": "Buy audiobook",
     "plain": "https://libro.fm/search?q={query}",
-    "affiliate": null,
+    "affiliate": {
+      "template": "https://www.awin1.com/cread.php?awinmid={awin_librofm_mid}&awinaffid={awin_publisher_id}&ued={plain_encoded}",
+      "requires": ["awin_publisher_id", "awin_librofm_mid"]
+    },
     "commissionRate": 0.1,
     "cookieDays": 30
   },

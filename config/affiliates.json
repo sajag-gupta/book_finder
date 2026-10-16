@@ -1,10 +1,12 @@
 {
-  "_comment": "Public affiliate IDs. Not secrets. Leave a value empty until the program approves you; stores without all required IDs fall back to a plain, non-affiliate link.",
+  "_comment": "Public affiliate IDs. Not secrets. Leave a value empty until the program approves you; stores without all required IDs fall back to a plain, non-affiliate link. Awin: awin_publisher_id is your account; awin_bookshop_mid (92005) and awin_librofm_mid (25361) are filled in only after Awin approves each program.",
   "bookshop_id": "",
   "amazon_tag": "",
   "kobo_partner_id": "xkYojjhc8Q8",
   "kobo_merchant_id": "",
-  "awin_publisher_id": "",
+  "awin_publisher_id": "3126132",
   "impact_id": "",
-  "cj_id": ""
+  "cj_id": "",
+  "awin_bookshop_mid": "",
+  "awin_librofm_mid": ""
 }
