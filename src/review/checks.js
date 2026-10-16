@@ -10,10 +10,15 @@ export const LENGTH_BANDS = { short: [0, 299], medium: [300, 450], long: [451, I
 
 const norm = (s) =>
   String(s ?? '')
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '') // Shōgun = Shogun, Lapeña = Lapena
     .toLowerCase()
     .replace(/&/g, ' and ')
     .replace(/[^a-z0-9]+/g, ' ')
     .trim();
+
+/** Letters and digits only, minus a leading "the": "A. B. C. Murders" = "The ABC Murders". */
+const compact = (s) => norm(s).replace(/^the /, '').replace(/ /g, '');
 
 const surname = (author) => norm(author).split(' ').filter(Boolean).at(-1) ?? '';
 
@@ -44,18 +49,40 @@ export const pickWikiPage = (book, pages) =>
   );
 
 /**
+ * From Hardcover search hits, pick the record for this book: same title (ignoring a subtitle after
+ * a colon) and the author's surname in the author list. The most-shelved match wins, because
+ * editions and fan reprints share titles.
+ * @param {Array<{title: string, slug: string, author_names?: string[], users_count?: number}>} docs
+ */
+export function pickHardcover(book, docs) {
+  // "Dune: Special Edition" and "Babel, or the Necessity of Violence" are the book "Dune" and
+  // "Babel", but "Dune Messiah" is a different book: a title may only extend past a punctuation mark.
+  const base = (t) => String(t).replace(/\s*\([^)]*\)\s*$/, '');
+  const head = (t) => base(t).split(/[:,]/)[0];
+  const sameTitle = (d) =>
+    compact(base(d.title)) === compact(base(book.title)) ||
+    compact(head(d.title)) === compact(base(book.title));
+  return docs
+    .filter(
+      (d) =>
+        sameTitle(d) && (d.author_names ?? []).some((a) => norm(a).includes(surname(book.author))),
+    )
+    .sort((a, b) => (b.users_count ?? 0) - (a.users_count ?? 0))[0];
+}
+
+/**
  * @param {object} book  A record from data/books
- * @param {{edition?: object, work?: object, wiki?: object}} found  Fetched public data
+ * @param {{edition?: object, work?: object, wiki?: object, hc?: object}} found  Fetched public data
  * @returns {Array<{level: 'ok'|'warn'|'fail', check: string, detail: string}>}
  */
-export function compareFacts(book, { edition, work, wiki }) {
+export function compareFacts(book, { edition, work, wiki, hc }) {
   const out = [];
 
   if (!edition) {
     out.push(finding('fail', 'isbn', `Open Library has no edition for ${book.isbn13}`));
   } else if (
-    !norm(edition.title).includes(norm(book.title)) &&
-    !norm(book.title).includes(norm(edition.title))
+    !compact(edition.title).includes(compact(book.title)) &&
+    !compact(book.title).includes(compact(edition.title))
   ) {
     out.push(finding('fail', 'isbn', `ISBN belongs to "${edition.title}", not "${book.title}"`));
   } else {
@@ -66,13 +93,16 @@ export function compareFacts(book, { edition, work, wiki }) {
     out.push(finding('warn', 'author-year', 'No Open Library work found by title and author'));
   } else {
     const authors = (work.author_name ?? []).map(norm).join(' | ');
+    // Open Library sometimes lists authors in their own script (for example Japanese). When
+    // Hardcover independently confirms the author, that mismatch is a note, not a failure.
     out.push(
       authors.includes(surname(book.author))
         ? finding('ok', 'author', `Author confirmed: ${work.author_name.join(', ')}`)
         : finding(
-            'fail',
+            hc ? 'warn' : 'fail',
             'author',
-            `Open Library lists ${work.author_name?.join(', ') ?? 'no author'}`,
+            `Open Library lists ${work.author_name?.join(', ') ?? 'no author'}` +
+              (hc ? ` (Hardcover confirms ${book.author})` : ''),
           ),
     );
     const diff = Math.abs((work.first_publish_year ?? 0) - book.firstPublished);
@@ -80,6 +110,7 @@ export function compareFacts(book, { edition, work, wiki }) {
     // independent Wikipedia intro confirms our year, the sources disagree: a warning to look at,
     // not a failure.
     const wikiConfirms = Boolean(wiki) && norm(wiki.extract).includes(String(book.firstPublished));
+    const hcConfirms = hc?.release_year === book.firstPublished;
     if (!work.first_publish_year) {
       out.push(finding('warn', 'year', 'Open Library has no first-publication year'));
     } else if (diff === 0) {
@@ -87,16 +118,17 @@ export function compareFacts(book, { edition, work, wiki }) {
     } else {
       out.push(
         finding(
-          diff === 1 || wikiConfirms ? 'warn' : 'fail',
+          diff === 1 || wikiConfirms || hcConfirms ? 'warn' : 'fail',
           'year',
           `Record says ${book.firstPublished}, Open Library says ${work.first_publish_year}` +
-            (wikiConfirms ? ` (Wikipedia confirms ${book.firstPublished})` : ''),
+            (wikiConfirms ? ` (Wikipedia confirms ${book.firstPublished})` : '') +
+            (hcConfirms ? ` (Hardcover confirms ${book.firstPublished})` : ''),
         ),
       );
     }
   }
 
-  const pages = edition?.number_of_pages;
+  const pages = edition?.number_of_pages ?? hc?.pages;
   if (typeof pages === 'number') {
     const band = lengthBand(pages);
     out.push(
@@ -138,17 +170,50 @@ export function compareFacts(book, { edition, work, wiki }) {
           ),
     );
   }
+  if (hc) {
+    out.push(
+      finding('ok', 'hardcover', `Hardcover lists "${hc.title}" by ${hc.author_names.join(', ')}`),
+    );
+  }
   return out;
 }
 
 /** The public pages that back a record; stored in `sources` on approval. */
-export function sourceUrls(book, { edition, wiki }) {
-  return [edition ? `https://openlibrary.org/isbn/${book.isbn13}` : null, wiki?.url ?? null].filter(
-    Boolean,
-  );
+export function sourceUrls(book, { edition, wiki, hc }) {
+  return [
+    edition ? `https://openlibrary.org/isbn/${book.isbn13}` : null,
+    wiki?.url ?? null,
+    hc?.slug ? `https://hardcover.app/books/${hc.slug}` : null,
+  ].filter(Boolean);
 }
 
 export const hasFailures = (findings) => findings.some((f) => f.level === 'fail');
+
+/**
+ * Returns a copy of `book` marked "checked": its facts matched two independent public sources and
+ * nothing failed. A person has not read the text, so this is not "reviewed" and pages say so.
+ * Warnings are allowed (they are listed in the review report), failures and a missing second
+ * source are not.
+ */
+export function applyChecked(book, { sources, date, findings }) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error('date must be YYYY-MM-DD');
+  if (hasFailures(findings)) {
+    throw new Error(
+      findings
+        .filter((f) => f.level === 'fail')
+        .map((f) => f.detail)
+        .join('; '),
+    );
+  }
+  if (sources.length < 2) throw new Error(`only ${sources.length} public source found`);
+  // The second source must independently confirm the book: its Wikipedia article or a matching
+  // Hardcover record (Open Library, the first source, is always present).
+  const confirmed = findings.some(
+    (f) => (f.check === 'wikipedia-title' || f.check === 'hardcover') && f.level === 'ok',
+  );
+  if (!confirmed) throw new Error('neither Wikipedia nor Hardcover confirms this exact book');
+  return { ...book, status: 'checked', sources, checkedOn: date };
+}
 
 /**
  * Returns a copy of `book` marked reviewed. Throws when the evidence is not good enough, so the CLI
