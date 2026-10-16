@@ -15,6 +15,7 @@ export {
   bestsellersPage,
   booksLikePage,
   shelfPage,
+  lookupPage,
   subscribedPage,
   howWePickPage,
   disclosurePage,

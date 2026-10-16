@@ -61,7 +61,12 @@ export function browsePage(ctx) {
     <div class="browse__main">
       <p class="results-count" role="status" data-count>${books.length} books</p>
       <ul class="grid grid--browse" data-results>${books.map((b) => bookCard(b, ctx, { filterable: true })).join('')}</ul>
-      <p class="empty" data-empty hidden>No books match those filters. Try clearing one.</p>
+      <p class="empty" data-empty hidden>None of our hand-picked books match those filters. Try clearing one.</p>
+      <section class="section" data-remote hidden aria-live="polite">
+        <h2>More books matching &ldquo;<span data-remote-q></span>&rdquo;</h2>
+        <p class="muted">From Open Library. We have not written about these yet, but you can still see where to borrow, buy or listen to them.</p>
+        <ul class="grid" data-remote-list></ul>
+      </section>
       <button type="button" class="btn btn--ghost more-btn" data-more hidden>Show more</button>
     </div>
   </div>

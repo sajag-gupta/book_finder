@@ -37,20 +37,37 @@ for (const img of document.querySelectorAll('img[data-cover]')) {
 }
 
 // ---------- Search suggestions ----------
+// Our own books come first from a local index; if few match, Open Library fills the gaps through
+// /api/search, so a reader is never told a book does not exist.
 let indexPromise;
 const loadIndex = () =>
   (indexPromise ??= fetch('/search-index.json')
     .then((r) => (r.ok ? r.json() : []))
     .catch(() => []));
 
+const suggestion = (href, title, byline) => {
+  const li = document.createElement('li');
+  const a = document.createElement('a');
+  a.href = href;
+  const strong = document.createElement('strong');
+  strong.textContent = title;
+  const by = document.createElement('span');
+  by.className = 'muted';
+  by.textContent = byline;
+  a.append(strong, by);
+  li.append(a);
+  return li;
+};
+
 for (const input of document.querySelectorAll('input[data-search]')) {
-  const list = input.closest('form').querySelector('[data-suggest]');
+  const form = input.closest('form');
+  const list = form.querySelector('[data-suggest]');
   let active = -1;
+  let timer;
 
   const close = () => {
     list.hidden = true;
     active = -1;
-    input.removeAttribute('aria-activedescendant');
   };
   const items = () => [...list.querySelectorAll('a')];
   const highlight = (index) => {
@@ -63,33 +80,43 @@ for (const input of document.querySelectorAll('input[data-search]')) {
   input.addEventListener('focus', loadIndex);
   input.addEventListener('input', async () => {
     const query = input.value.trim().toLowerCase();
+    clearTimeout(timer);
     if (query.length < 2) return close();
     const words = query.split(/\s+/);
     const books = await loadIndex();
-    const matches = books
+    const local = books
       .filter((b) => words.every((w) => `${b.t} ${b.a}`.toLowerCase().includes(w)))
       .sort(
         (a, b) =>
           Number(b.t.toLowerCase().startsWith(query)) - Number(a.t.toLowerCase().startsWith(query)),
       )
       .slice(0, 6);
-    list.replaceChildren(
-      ...matches.map((b) => {
-        const li = document.createElement('li');
-        const a = document.createElement('a');
-        a.href = `/books/${b.s}/`;
-        const title = document.createElement('strong');
-        title.textContent = b.t;
-        const by = document.createElement('span');
-        by.className = 'muted';
-        by.textContent = `${b.a}, ${b.y}`;
-        a.append(title, by);
-        li.append(a);
-        return li;
-      }),
-    );
-    list.hidden = matches.length === 0;
+    list.replaceChildren(...local.map((b) => suggestion(`/books/${b.s}/`, b.t, `${b.a}, ${b.y}`)));
+    list.hidden = local.length === 0;
     active = -1;
+
+    if (local.length >= 5 || query.length < 3) return;
+    timer = setTimeout(async () => {
+      try {
+        const response = await fetch(`/api/search?q=${encodeURIComponent(input.value.trim())}`);
+        if (!response.ok || input.value.trim().toLowerCase() !== query) return;
+        const known = new Set(books.map((b) => b.i));
+        const more = (await response.json()).results
+          .filter((r) => !known.has(r.isbn13))
+          .slice(0, 6 - local.length)
+          .map((r) =>
+            suggestion(
+              `/b/?isbn=${r.isbn13}`,
+              r.title,
+              [r.author, r.year].filter(Boolean).join(', '),
+            ),
+          );
+        list.append(...more);
+        list.hidden = list.children.length === 0;
+      } catch {
+        // Offline or Open Library down: the local suggestions stand.
+      }
+    }, 300);
   });
   input.addEventListener('keydown', (event) => {
     if (list.hidden) return;
@@ -102,7 +129,7 @@ for (const input of document.querySelectorAll('input[data-search]')) {
     }
   });
   document.addEventListener('click', (event) => {
-    if (!input.closest('form').contains(event.target)) close();
+    if (!form.contains(event.target)) close();
   });
 }
 

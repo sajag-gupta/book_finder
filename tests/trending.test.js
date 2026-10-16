@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { loadData } from '../src/site/data.js';
 import { createContext } from '../src/site/context.js';
 import { matchTrending } from '../src/site/trending.js';
-import { bookPage, homePage, shelfPage } from '../src/site/pages.js';
+import { bookPage, browsePage, homePage, lookupPage, shelfPage } from '../src/site/pages.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const data = loadData(root);
@@ -78,4 +78,24 @@ test('the shelf page supports import and backup and carries genre names safely',
   const json = html.match(/<script type="application\/json" id="genre-names">(.*?)<\/script>/)[1];
   assert.equal(JSON.parse(json).fantasy, 'Fantasy');
   assert.ok(html.includes('noindex'));
+});
+
+test('the lookup page is a noindex shell with the store list and format titles embedded', () => {
+  const html = lookupPage(fullCtx(null));
+  assert.ok(html.includes('data-lookup') && html.includes('noindex'));
+  assert.ok(html.includes('<script type="module" src="/assets/lookup.js">'));
+  const stores = JSON.parse(html.match(/id="stores">(.*?)<\/script>/)[1]);
+  assert.ok(stores.some((s) => s.id === 'libby' && s.kind === 'library'));
+  assert.ok(
+    stores.every((s) => !('plain' in s) && !('affiliate' in s)),
+    'no URL templates or IDs leak to the page',
+  );
+  const titles = JSON.parse(html.match(/id="format-titles">(.*?)<\/script>/)[1]);
+  assert.equal(titles.library, 'Borrow free');
+});
+
+test('the browse page can show books beyond the catalogue, and tags each card with its ISBN', () => {
+  const html = browsePage(fullCtx(null));
+  assert.ok(html.includes('data-remote') && html.includes('data-remote-list'));
+  assert.match(html, /data-isbn="97[89]\d{10}"/);
 });

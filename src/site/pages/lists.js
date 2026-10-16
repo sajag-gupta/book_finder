@@ -2,6 +2,8 @@ import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
 import { cardGrid, cover, moodChip, sectionHead, signupForm } from '../components.js';
+import { allStores } from '../../shared/registry.js';
+import { FORMAT_ORDER, FORMAT_TITLES } from '../../shared/offers.js';
 
 const head = ({ kicker, title, lede, iconName }) =>
   `<header class="pagehead">${iconName ? `<span class="pagehead__icon">${icon(iconName, { size: 30 })}</span>` : ''}${kicker ? `<p class="kicker">${esc(kicker)}</p>` : ''}<h1>${esc(title)}</h1>${lede ? `<p class="lede">${esc(lede)}</p>` : ''}</header>`;
@@ -167,6 +169,47 @@ export function shelfPage(ctx) {
 </section>
 <script type="application/json" id="genre-names">${JSON.stringify(names).replace(/</g, '\u003c')}</script>
 <p><a class="btn btn--accent" href="/books/">Browse books</a></p></section>`,
+  });
+}
+
+/** One static shell that /api/book fills in for any book outside our catalogue. */
+export function lookupPage(ctx) {
+  const stores = allStores.map((s) => ({
+    id: s.id,
+    name: s.name,
+    kind: s.kind,
+    label: s.label,
+    q: s.plain.includes('{query}'),
+  }));
+  const titles = Object.fromEntries(FORMAT_ORDER.map((kind) => [kind, FORMAT_TITLES[kind]]));
+  const json = (value) => JSON.stringify(value).replace(/</g, '\u003c');
+  return layout({
+    site: ctx.site,
+    path: '/b/',
+    title: 'Book details',
+    description: 'Where to borrow, buy or listen to this book.',
+    noindex: true,
+    scripts: ['lookup'],
+    body: `<article class="wrap book" data-lookup>
+<p class="lede" role="status" data-status>Looking up this book...</p>
+<div data-body hidden>
+  <div class="book__hero">
+    <div class="book__cover" data-cover></div>
+    <div class="book__intro">
+      <p class="kicker">Book details</p>
+      <h1 data-title></h1>
+      <p class="byline" data-author></p>
+      <dl class="facts" data-facts></dl>
+      <ul class="tags" data-subjects aria-label="Subjects"></ul>
+      <p class="muted">We have not written about this book yet. Here is where to get it, library first.</p>
+    </div>
+  </div>
+  <section class="panel offers" aria-labelledby="offers-h"><h2 id="offers-h">Where to get it</h2><div data-offers></div></section>
+  <p><a class="more" href="/books/">Browse our hand-picked books${icon('arrow-right', { size: 16 })}</a></p>
+</div>
+<script type="application/json" id="stores">${json(stores)}</script>
+<script type="application/json" id="format-titles">${json(titles)}</script>
+</article>`,
   });
 }
 
