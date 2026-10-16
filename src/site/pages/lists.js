@@ -252,7 +252,9 @@ export function disclosurePage(ctx) {
     body: `<div class="prose">${head({ kicker: 'About', title: 'Affiliate disclosure' })}
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
 <p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
-<p>Buttons that go to a store without a partner program are plain links.</p></div>`,
+<p>Buttons that go to a store without a partner program are plain links.</p>
+<h2>Tracking</h2>
+<p>Our affiliate partners use tracking to credit a sale to us. The home page loads a tracking script from Impact, one of those networks, which can set cookies. The rest of the site sets no tracking cookies of its own. Your saved shelf stays in your browser and is never sent to us.</p></div>`,
   });
 }
 
