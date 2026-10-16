@@ -34,6 +34,13 @@ Pushing to `main` then validates, tests, builds, applies D1 migrations and publi
 "Trending now" shelf stays current without a commit. If the API is down, the committed snapshot is
 used.
 
+## Search engines
+
+- **Bing, Yandex, Naver:** `npm run indexnow` submits every sitemap URL through the IndexNow
+  protocol. No account is needed: the engines verify the key file in `public/`. Run it after a deploy.
+- **Google:** has no IndexNow. Add the site in Google Search Console (URL prefix property), verify it,
+  and submit `sitemap.xml` under Sitemaps. `robots.txt` also names the sitemap.
+
 ## Newsletter sign-up
 
 The footer and home-page forms post to `/api/subscribe`
