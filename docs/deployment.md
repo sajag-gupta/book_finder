@@ -43,6 +43,12 @@ Drafts only appear in `npm run build:preview`, which is `noindex`.
 
 ## Affiliate IDs
 
+**Rakuten (Kobo).** Two different IDs exist. `kobo_partner_id` is the short alphanumeric code after
+`id=` in your tracking links (not your numeric account/publisher ID). `kobo_merchant_id` is the
+program's MID and only works once Rakuten approves you for that program: Kobo US is `37217`
+(Brazil is `40380`, which only tracks Kobo's Brazilian store). Leave `kobo_merchant_id` empty until
+the US program approves you: the link builder then serves a plain Kobo link instead of a broken one.
+
 Edit [config/affiliates.json](../config/affiliates.json) as programs approve you. Stores with a
 missing ID serve plain links; no code change is needed. Verify each program's real link format after
 approval and adjust `config/stores.json` if it differs.
