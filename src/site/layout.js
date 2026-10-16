@@ -18,7 +18,6 @@ export function layout({
   structuredData,
   image,
   scripts = [],
-  head = '',
   noindex = false,
 }) {
   const social = image
@@ -58,7 +57,6 @@ ${social}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito+Sans:wght@400;600;700&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
 ${ld}
-${head}
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
