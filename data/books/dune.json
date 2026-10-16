@@ -26,8 +26,11 @@
       "moodShift": "similar"
     }
   ],
-  "sources": [],
-  "status": "draft",
-  "reviewedBy": null,
-  "reviewedOn": null
+  "sources": [
+    "https://openlibrary.org/isbn/9780441013593",
+    "https://en.wikipedia.org/wiki/Dune_(novel)"
+  ],
+  "status": "reviewed",
+  "reviewedBy": "Sajag Gupta",
+  "reviewedOn": "2026-10-16"
 }

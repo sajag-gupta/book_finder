@@ -26,8 +26,11 @@
       "moodShift": "darker"
     }
   ],
-  "sources": [],
-  "status": "draft",
-  "reviewedBy": null,
-  "reviewedOn": null
+  "sources": [
+    "https://openlibrary.org/isbn/9780593135204",
+    "https://en.wikipedia.org/wiki/Project_Hail_Mary"
+  ],
+  "status": "reviewed",
+  "reviewedBy": "Sajag Gupta",
+  "reviewedOn": "2026-10-16"
 }

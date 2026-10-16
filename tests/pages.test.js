@@ -66,15 +66,33 @@ test('price feeds keep the store object and mark the lowest price', () => {
   assert.ok(html.includes('/go/abebooks/9780441013593'));
 });
 
+// Synthetic data, so these tests do not depend on which real books have been reviewed.
+const allDrafts = {
+  ...ctx.data,
+  books: ctx.data.books.map((book) => ({ ...book, status: 'draft' })),
+};
+
 test('empty production home page has no dead search box', () => {
-  const prod = createContext({ data: ctx.data, site: { ...site, includeDrafts: false } });
+  const prod = createContext({ data: allDrafts, site: { ...site, includeDrafts: false } });
   const html = homePage(prod);
   assert.ok(!html.includes('id="q"'));
   assert.ok(html.includes('Check back soon'));
 });
 
 test('production hides draft books and anything that points at them', () => {
-  const prod = createContext({ data: ctx.data, site: { ...site, includeDrafts: false } });
+  const prod = createContext({ data: allDrafts, site: { ...site, includeDrafts: false } });
   assert.equal(prod.published.length, 0);
   assert.equal(booksLikePage(prod, dune).includes('/books/the-name-of-the-wind/'), false);
+
+  // One reviewed book: only it is published, and pairings to drafts are dropped.
+  const mixed = {
+    ...allDrafts,
+    books: allDrafts.books.map((b) => (b.slug === 'dune' ? { ...b, status: 'reviewed' } : b)),
+  };
+  const partial = createContext({ data: mixed, site: { ...site, includeDrafts: false } });
+  assert.deepEqual(
+    partial.published.map((b) => b.slug),
+    ['dune'],
+  );
+  assert.equal(partial.pairings(partial.bySlug.get('dune')).length, 0);
 });

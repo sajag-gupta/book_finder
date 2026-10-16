@@ -26,8 +26,11 @@
       "moodShift": "quieter"
     }
   ],
-  "sources": [],
-  "status": "draft",
-  "reviewedBy": null,
-  "reviewedOn": null
+  "sources": [
+    "https://openlibrary.org/isbn/9781250316776",
+    "https://en.wikipedia.org/wiki/Red%2C_White_%26_Royal_Blue"
+  ],
+  "status": "reviewed",
+  "reviewedBy": "Sajag Gupta",
+  "reviewedOn": "2026-10-16"
 }
