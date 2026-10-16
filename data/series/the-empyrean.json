@@ -1,0 +1,11 @@
+{
+  "slug": "the-empyrean",
+  "name": "The Empyrean",
+  "author": "Rebecca Yarros",
+  "status": "ongoing",
+  "books": [
+    { "position": 1, "title": "Fourth Wing" },
+    { "position": 2, "title": "Iron Flame" },
+    { "position": 3, "title": "Onyx Storm" }
+  ]
+}

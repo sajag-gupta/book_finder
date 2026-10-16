@@ -1,0 +1,33 @@
+{
+  "slug": "station-eleven",
+  "title": "Station Eleven",
+  "author": "Emily St. John Mandel",
+  "isbn13": "9780804172448",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["science-fiction", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["haunting", "hopeful", "thoughtful"],
+  "tropes": ["post-apocalyptic"],
+  "warnings": ["pandemic", "death", "violence", "grief"],
+  "summary": "A flu wipes out most of humanity, and a travelling troupe of actors and musicians keeps performing in the ruins. The story moves between the collapse and the years before it, linking a handful of lives.",
+  "readIf": "You want an end-of-the-world story that is more about art and connection than survival tactics.",
+  "skipIf": "A story about a deadly pandemic is too close to home right now.",
+  "pairings": [
+    {
+      "slug": "piranesi",
+      "reason": "A shorter, stranger book with the same dreamlike quality and attention to small details.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A far more upbeat take on humanity facing disaster, with a lot more humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

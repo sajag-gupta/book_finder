@@ -1,0 +1,19 @@
+[
+  { "slug": "enemies-to-lovers", "name": "Enemies to lovers" },
+  { "slug": "found-family", "name": "Found family" },
+  { "slug": "slow-burn", "name": "Slow burn" },
+  { "slug": "friends-to-lovers", "name": "Friends to lovers" },
+  { "slug": "grumpy-sunshine", "name": "Grumpy and sunshine" },
+  { "slug": "forced-proximity", "name": "Forced proximity" },
+  { "slug": "marriage-of-convenience", "name": "Marriage of convenience" },
+  { "slug": "second-chance", "name": "Second chance" },
+  { "slug": "fairy-tale-retelling", "name": "Fairy-tale retelling" },
+  { "slug": "chosen-one", "name": "Chosen one" },
+  { "slug": "dragons", "name": "Dragons" },
+  { "slug": "magic-school", "name": "Magic school" },
+  { "slug": "quest", "name": "Quest" },
+  { "slug": "unreliable-narrator", "name": "Unreliable narrator" },
+  { "slug": "space-survival", "name": "Space survival" },
+  { "slug": "post-apocalyptic", "name": "Post-apocalyptic" },
+  { "slug": "unlikely-friendship", "name": "Unlikely friendship" }
+]

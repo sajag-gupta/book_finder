@@ -1,0 +1,33 @@
+{
+  "slug": "the-name-of-the-wind",
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "isbn13": "9780756404741",
+  "firstPublished": 2007,
+  "series": { "slug": "the-kingkiller-chronicle", "position": 1 },
+  "genres": ["epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["adventurous", "thoughtful", "haunting"],
+  "tropes": ["magic-school", "unreliable-narrator"],
+  "warnings": ["violence", "death", "grief"],
+  "summary": "An innkeeper with a hidden past tells the true story of his life: a gifted boy who loses his family, survives the streets and fights his way into a university of magic.",
+  "readIf": "You love rich prose and a slow, detailed build-up to a legend.",
+  "skipIf": "You need a finished series. The trilogy is still incomplete, and the pace is unhurried.",
+  "pairings": [
+    {
+      "slug": "the-hobbit",
+      "reason": "A shorter, lighter fantasy with a similar storyteller's voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "dune",
+      "reason": "A different kind of epic, heavier on politics and ideas than on a single hero's story.",
+      "moodShift": "darker"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

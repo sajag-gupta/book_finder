@@ -1,0 +1,14 @@
+{
+  "slug": "dune",
+  "name": "Dune (Frank Herbert's original six)",
+  "author": "Frank Herbert",
+  "status": "complete",
+  "books": [
+    { "position": 1, "title": "Dune" },
+    { "position": 2, "title": "Dune Messiah" },
+    { "position": 3, "title": "Children of Dune" },
+    { "position": 4, "title": "God Emperor of Dune" },
+    { "position": 5, "title": "Heretics of Dune" },
+    { "position": 6, "title": "Chapterhouse: Dune" }
+  ]
+}

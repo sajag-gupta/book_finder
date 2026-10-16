@@ -1,0 +1,33 @@
+{
+  "slug": "project-hail-mary",
+  "title": "Project Hail Mary",
+  "author": "Andy Weir",
+  "isbn13": "9780593135204",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["hopeful", "adventurous", "funny", "thoughtful"],
+  "tropes": ["space-survival", "unlikely-friendship"],
+  "warnings": ["death"],
+  "summary": "A man wakes alone on a spaceship with no memory and slowly pieces together that he is humanity's last hope. Solving the problem takes science, nerve and an unexpected friend.",
+  "readIf": "You like problem-solving stories where the science is explained clearly and the tone stays warm.",
+  "skipIf": "You want lyrical prose or deep character study over puzzles.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "Another story about people holding on to hope, with a quiet, literary feel in place of the puzzle-solving.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "dune",
+      "reason": "A much denser science-fiction classic if you want politics and ideas on a grand scale.",
+      "moodShift": "darker"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-seven-husbands-of-evelyn-hugo",
+  "title": "The Seven Husbands of Evelyn Hugo",
+  "author": "Taylor Jenkins Reid",
+  "isbn13": "9781501161933",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["literary", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "swoony", "thoughtful"],
+  "tropes": ["marriage-of-convenience", "second-chance"],
+  "warnings": ["abuse", "homophobia", "death", "grief"],
+  "summary": "A reclusive Hollywood icon finally agrees to tell her life story to an unknown journalist. Each of her marriages reveals a piece of the truth, and why she picked this writer.",
+  "readIf": "You love old-Hollywood glamour and a story that builds toward a big emotional reveal.",
+  "skipIf": "You want a light read, or domestic abuse is a topic you avoid.",
+  "pairings": [
+    {
+      "slug": "beach-read",
+      "reason": "A lighter, funnier take on love, secrets and grief, with a similar emotional core.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Another love story shaped by public scrutiny, with a far more hopeful ending.",
+      "moodShift": "lighter"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

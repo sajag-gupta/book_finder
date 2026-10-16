@@ -1,0 +1,13 @@
+{
+  "slug": "a-court-of-thorns-and-roses",
+  "name": "A Court of Thorns and Roses",
+  "author": "Sarah J. Maas",
+  "status": "ongoing",
+  "books": [
+    { "position": 1, "title": "A Court of Thorns and Roses" },
+    { "position": 2, "title": "A Court of Mist and Fury" },
+    { "position": 3, "title": "A Court of Wings and Ruin" },
+    { "position": 3.1, "title": "A Court of Frost and Starlight", "note": "novella" },
+    { "position": 4, "title": "A Court of Silver Flames" }
+  ]
+}

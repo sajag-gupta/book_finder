@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sajag-gupta/book_finder/data/schema/book.schema.json",
+  "title": "Book record",
+  "description": "One editorial record. Facts come from open sources; every text field is original writing.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "title",
+    "author",
+    "isbn13",
+    "firstPublished",
+    "genres",
+    "pace",
+    "length",
+    "moods",
+    "tropes",
+    "warnings",
+    "summary",
+    "readIf",
+    "skipIf",
+    "status"
+  ],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "author": { "type": "string", "minLength": 1 },
+    "isbn13": { "type": "string", "pattern": "^\\d{13}$" },
+    "firstPublished": { "type": "integer", "minimum": 1400, "maximum": 2100 },
+    "series": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": ["slug", "position"],
+      "properties": {
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "position": { "type": "number", "minimum": 0 }
+      }
+    },
+    "genres": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "romance",
+          "romantasy",
+          "cozy-fantasy",
+          "epic-fantasy",
+          "science-fiction",
+          "literary",
+          "fantasy"
+        ]
+      }
+    },
+    "pace": { "enum": ["slow", "medium", "fast"] },
+    "length": {
+      "enum": ["short", "medium", "long"],
+      "description": "short < 300 pages, medium 300-450, long > 450"
+    },
+    "moods": { "type": "array", "minItems": 1, "items": { "type": "string" }, "uniqueItems": true },
+    "tropes": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "warnings": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "summary": { "type": "string", "minLength": 20, "maxLength": 400 },
+    "readIf": { "type": "string", "minLength": 10, "maxLength": 200 },
+    "skipIf": { "type": "string", "minLength": 10, "maxLength": 200 },
+    "pairings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["slug", "reason", "moodShift"],
+        "properties": {
+          "slug": { "type": "string" },
+          "reason": { "type": "string", "minLength": 20, "maxLength": 300 },
+          "moodShift": { "enum": ["similar", "lighter", "darker", "quieter", "bigger"] }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" },
+      "description": "Public pages used to check the facts. A reviewed record needs at least two."
+    },
+    "status": { "enum": ["draft", "reviewed"] },
+    "reviewedBy": { "type": ["string", "null"] },
+    "reviewedOn": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "legends-and-lattes",
+  "name": "Legends & Lattes",
+  "author": "Travis Baldree",
+  "status": "ongoing",
+  "books": [
+    { "position": 0, "title": "Bookshops & Bonedust", "note": "prequel" },
+    { "position": 1, "title": "Legends & Lattes" }
+  ]
+}

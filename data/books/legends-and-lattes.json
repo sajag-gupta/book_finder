@@ -1,0 +1,33 @@
+{
+  "slug": "legends-and-lattes",
+  "title": "Legends & Lattes",
+  "author": "Travis Baldree",
+  "isbn13": "9781250886088",
+  "firstPublished": 2022,
+  "series": { "slug": "legends-and-lattes", "position": 1 },
+  "genres": ["cozy-fantasy"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["cozy", "comforting", "hopeful", "whimsical"],
+  "tropes": ["found-family", "slow-burn"],
+  "warnings": ["violence"],
+  "summary": "A tired orc mercenary retires from adventuring to open the first coffee shop in a city that has never heard of coffee. The real work is building a place, and a circle of friends, that feels like home.",
+  "readIf": "You are burnt out and want a story where the biggest battle is getting the espresso machine right.",
+  "skipIf": "You need high stakes, a fast plot or a villain to keep you reading.",
+  "pairings": [
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "Same warmth and found-family feeling, with a touch more whimsy and a gentle romance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A classic fantasy of comfort and good company, with a little more adventure on the road.",
+      "moodShift": "bigger"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,13 @@
+[
+  { "slug": "violence", "name": "Violence" },
+  { "slug": "death", "name": "Death" },
+  { "slug": "grief", "name": "Grief" },
+  { "slug": "war", "name": "War" },
+  { "slug": "sexual-content", "name": "Sexual content" },
+  { "slug": "abuse", "name": "Abuse" },
+  { "slug": "manipulation", "name": "Manipulation" },
+  { "slug": "pandemic", "name": "Pandemic" },
+  { "slug": "homophobia", "name": "Homophobia" },
+  { "slug": "infidelity", "name": "Infidelity" },
+  { "slug": "prejudice", "name": "Prejudice" }
+]

@@ -1,0 +1,10 @@
+{
+  "slug": "the-kingkiller-chronicle",
+  "name": "The Kingkiller Chronicle",
+  "author": "Patrick Rothfuss",
+  "status": "ongoing",
+  "books": [
+    { "position": 1, "title": "The Name of the Wind" },
+    { "position": 2, "title": "The Wise Man's Fear" }
+  ]
+}

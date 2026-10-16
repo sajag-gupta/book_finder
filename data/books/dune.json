@@ -1,0 +1,33 @@
+{
+  "slug": "dune",
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "isbn13": "9780441013593",
+  "firstPublished": 1965,
+  "series": { "slug": "dune", "position": 1 },
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["tense", "thoughtful", "adventurous"],
+  "tropes": ["chosen-one"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "A noble family takes control of a desert planet that is the only source of the galaxy's most valuable substance, and is betrayed almost at once. The heir's survival among the planet's people shapes the fate of an empire.",
+  "readIf": "You like big-idea science fiction about power, religion and ecology.",
+  "skipIf": "You want a quick read or a lot of action on every page.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "A much friendlier science-fiction epic with the same sense of huge stakes.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another long, immersive world to get lost in, built around one extraordinary character.",
+      "moodShift": "similar"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
