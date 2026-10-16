@@ -1,0 +1,33 @@
+{
+  "slug": "the-house-in-the-cerulean-sea",
+  "title": "The House in the Cerulean Sea",
+  "author": "TJ Klune",
+  "isbn13": "9781250217288",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["cozy-fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["cozy", "comforting", "hopeful", "funny", "whimsical"],
+  "tropes": ["found-family", "slow-burn", "grumpy-sunshine"],
+  "warnings": ["prejudice"],
+  "summary": "A rule-following caseworker is sent to inspect an island orphanage for magical children and its mysterious caretaker. The visit upends his careful life.",
+  "readIf": "You want a warm, funny story about being accepted as you are.",
+  "skipIf": "You find gentle stories predictable, or want a lot of plot twists.",
+  "pairings": [
+    {
+      "slug": "legends-and-lattes",
+      "reason": "Another low-stakes fantasy where kindness and a good home matter more than any battle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "A love story with the same humour and optimism, set in the real world.",
+      "moodShift": "bigger"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

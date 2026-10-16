@@ -1,0 +1,38 @@
+{
+  "name": "book-finder",
+  "version": "0.1.0",
+  "description": "Mood-first book finder that shows every way to buy, borrow or listen to a book.",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "author": "Sajag Gupta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajag-gupta/book_finder.git"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:preview": "node scripts/build.js --include-drafts",
+    "dev": "npm run build:preview && wrangler pages dev dist",
+    "validate": "node scripts/validate-data.js",
+    "verify:isbns": "node --env-file-if-exists=.env scripts/verify-isbns.js",
+    "db:migrate:local": "wrangler d1 migrations apply book-finder --local",
+    "db:migrate:remote": "wrangler d1 migrations apply book-finder --remote",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "node --test",
+    "check": "npm run lint && npm run format:check && npm run validate && npm test"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "ajv": "^8.17.0",
+    "eslint": "^10.12.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.3.0",
+    "wrangler": "^4.0.0"
+  }
+}

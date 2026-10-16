@@ -1,0 +1,33 @@
+{
+  "slug": "fourth-wing",
+  "title": "Fourth Wing",
+  "author": "Rebecca Yarros",
+  "isbn13": "9781649374042",
+  "firstPublished": 2023,
+  "series": { "slug": "the-empyrean", "position": 1 },
+  "genres": ["romantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "swoony", "adventurous"],
+  "tropes": ["enemies-to-lovers", "dragons", "magic-school", "chosen-one"],
+  "warnings": ["violence", "death", "war", "sexual-content"],
+  "summary": "Violet was raised for a quiet life of books and is instead pushed into a war college where cadets must bond with dragons or die trying. Every rival is a threat, and the most dangerous one is hard to stop thinking about.",
+  "readIf": "You want constant danger, sharp banter and a rivalry that slowly turns into something else.",
+  "skipIf": "You prefer low-stakes reads, or graphic violence and open-door scenes are not for you.",
+  "pairings": [
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "Another fierce heroine pulled into a dangerous world, with a brooding love interest and plenty of romantic tension.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Same hunger to see a gifted outsider survive a harsh academy, with slower pacing and far less romance.",
+      "moodShift": "quieter"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

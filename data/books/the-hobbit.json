@@ -1,0 +1,33 @@
+{
+  "slug": "the-hobbit",
+  "title": "The Hobbit",
+  "author": "J. R. R. Tolkien",
+  "isbn13": "9780547928227",
+  "firstPublished": 1937,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "whimsical", "comforting"],
+  "tropes": ["quest", "dragons", "unlikely-friendship"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "A homebody hobbit is swept into a quest with thirteen dwarves to win back a mountain from a dragon. Along the way he finds courage he never knew he had.",
+  "readIf": "You want a classic adventure with a cosy start and a storyteller's voice.",
+  "skipIf": "You prefer modern pacing or characters with more inner conflict.",
+  "pairings": [
+    {
+      "slug": "legends-and-lattes",
+      "reason": "Takes the comfort of good company in a fantasy world and drops the quest entirely.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "A more grown-up, detailed fantasy for readers ready to go deeper into the genre.",
+      "moodShift": "bigger"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

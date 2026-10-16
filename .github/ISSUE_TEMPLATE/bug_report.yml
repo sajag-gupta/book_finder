@@ -1,0 +1,15 @@
+name: Bug report
+description: Something on the site or in the tooling is broken
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Include the page or command, what you expected, and what you saw.
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Browser, device or Node version

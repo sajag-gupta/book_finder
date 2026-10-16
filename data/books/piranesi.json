@@ -1,0 +1,33 @@
+{
+  "slug": "piranesi",
+  "title": "Piranesi",
+  "author": "Susanna Clarke",
+  "isbn13": "9781635575637",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["whimsical", "haunting", "thoughtful"],
+  "tropes": ["unreliable-narrator"],
+  "warnings": ["death", "manipulation"],
+  "summary": "A man lives in an endless house of marble halls, tides and statues, keeping careful notes on the only world he knows. When signs appear that he is not alone, the notes begin to tell a different story.",
+  "readIf": "You like short, strange books that reward a slow read and a second look.",
+  "skipIf": "You need a fast plot or clear answers laid out early.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "Another quiet, beautifully written novel about memory and what we hold on to.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "More conventional fantasy, but with the same pleasure in a carefully told story.",
+      "moodShift": "bigger"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,9 @@
+name = "book-finder"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "book-finder"
+database_id = "edab33bc-52db-4e0c-a5ea-67f5f333ba6e"
+migrations_dir = "migrations"

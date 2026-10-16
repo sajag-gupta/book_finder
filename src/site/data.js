@@ -1,0 +1,81 @@
+import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
+import Ajv from 'ajv';
+import { isValidIsbn13 } from '../shared/isbn.js';
+
+const readJson = (path) => JSON.parse(readFileSync(path, 'utf8'));
+const readDir = (dir) =>
+  readdirSync(dir)
+    .filter((name) => name.endsWith('.json'))
+    .sort()
+    .map((name) => ({ name, value: readJson(join(dir, name)) }));
+
+/** Loads every editorial file from `root` (the repository root). */
+export function loadData(root) {
+  const data = join(root, 'data');
+  const vocab = (file) => readJson(join(data, 'vocab', file));
+  return {
+    moods: vocab('moods.json'),
+    tropes: vocab('tropes.json'),
+    warnings: vocab('warnings.json'),
+    series: readDir(join(data, 'series')).map(({ value }) => value),
+    books: readDir(join(data, 'books')).map(({ name, value }) => ({ ...value, _file: name })),
+    schema: readJson(join(data, 'schema', 'book.schema.json')),
+    offers: loadOffers(join(data, 'offers')),
+  };
+}
+
+/** Optional price feeds: data/offers/<isbn13>.json = [{store, price, shipping?, currency, checkedAt}] */
+function loadOffers(dir) {
+  if (!existsSync(dir)) return {};
+  return Object.fromEntries(
+    readDir(dir).map(({ name, value }) => [name.replace(/\.json$/, ''), value]),
+  );
+}
+
+/** Returns a list of human-readable problems; empty means the data set is consistent. */
+export function validateData(data) {
+  const errors = [];
+  const ajv = new Ajv({ allErrors: true, strict: false, validateFormats: false });
+  const validate = ajv.compile(data.schema);
+
+  const moods = new Set(data.moods.map((m) => m.slug));
+  const tropes = new Set(data.tropes.map((t) => t.slug));
+  const warnings = new Set(data.warnings.map((w) => w.slug));
+  const series = new Set(data.series.map((s) => s.slug));
+  const slugs = new Set(data.books.map((b) => b.slug));
+  const seenIsbn = new Map();
+
+  for (const book of data.books) {
+    const at = `books/${book._file}`;
+    const { _file, ...record } = book;
+    if (!validate(record)) {
+      for (const e of validate.errors) errors.push(`${at}: ${e.instancePath || '/'} ${e.message}`);
+      continue;
+    }
+    if (`${book.slug}.json` !== _file) errors.push(`${at}: slug must match the file name`);
+    if (!isValidIsbn13(book.isbn13)) errors.push(`${at}: invalid ISBN-13 check digit`);
+    if (seenIsbn.has(book.isbn13))
+      errors.push(`${at}: duplicate ISBN with ${seenIsbn.get(book.isbn13)}`);
+    seenIsbn.set(book.isbn13, book.slug);
+
+    for (const m of book.moods) if (!moods.has(m)) errors.push(`${at}: unknown mood "${m}"`);
+    for (const t of book.tropes) if (!tropes.has(t)) errors.push(`${at}: unknown trope "${t}"`);
+    for (const w of book.warnings)
+      if (!warnings.has(w)) errors.push(`${at}: unknown warning "${w}"`);
+    if (book.series && !series.has(book.series.slug)) {
+      errors.push(`${at}: unknown series "${book.series.slug}"`);
+    }
+    for (const p of book.pairings ?? []) {
+      if (!slugs.has(p.slug)) errors.push(`${at}: pairing points to unknown book "${p.slug}"`);
+      if (p.slug === book.slug) errors.push(`${at}: a book cannot pair with itself`);
+    }
+    if (book.status === 'reviewed') {
+      if ((book.sources ?? []).length < 2)
+        errors.push(`${at}: reviewed books need at least two sources`);
+      if (!book.reviewedBy || !book.reviewedOn)
+        errors.push(`${at}: reviewed books need reviewedBy and reviewedOn`);
+    }
+  }
+  return errors;
+}

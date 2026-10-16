@@ -1,0 +1,33 @@
+{
+  "slug": "beach-read",
+  "title": "Beach Read",
+  "author": "Emily Henry",
+  "isbn13": "9781984806734",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "heartbreaking", "thoughtful"],
+  "tropes": ["enemies-to-lovers", "forced-proximity"],
+  "warnings": ["grief", "death", "infidelity", "sexual-content"],
+  "summary": "A romance writer who has stopped believing in happy endings and a literary novelist with writer's block live next door for a summer. They make a bet to swap genres and end up swapping far more than that.",
+  "readIf": "You want a romance that makes you laugh and then quietly breaks your heart.",
+  "skipIf": "You want a light read with no grief or family hurt in it.",
+  "pairings": [
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "Equally funny and romantic, with a bigger, brighter setting and less sadness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-seven-husbands-of-evelyn-hugo",
+      "reason": "If the emotional weight is what you liked, this one goes deeper into love, loss and secrets.",
+      "moodShift": "darker"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,17 @@
+name: Book correction
+description: Report a wrong detail, tag, content warning or link on a book page
+labels: [data]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Say what the page shows and what it should show. A public source helps.
+    validations:
+      required: true

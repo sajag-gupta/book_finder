@@ -1,0 +1,33 @@
+{
+  "slug": "red-white-and-royal-blue",
+  "title": "Red, White & Royal Blue",
+  "author": "Casey McQuiston",
+  "isbn13": "9781250316776",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "swoony", "hopeful"],
+  "tropes": ["enemies-to-lovers", "slow-burn"],
+  "warnings": ["sexual-content", "homophobia"],
+  "summary": "The son of the US president and a British prince have a public feud, then a staged truce, then something neither can explain away. Their story plays out under the glare of two governments and a lot of tabloid attention.",
+  "readIf": "You want a laugh-out-loud romcom with real feeling underneath.",
+  "skipIf": "You prefer your romance without political backdrop or open-door scenes.",
+  "pairings": [
+    {
+      "slug": "beach-read",
+      "reason": "Another banter-heavy romance about two rivals who see each other too clearly.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-house-in-the-cerulean-sea",
+      "reason": "A tender love story with the same warmth and humour, set in a magical world.",
+      "moodShift": "quieter"
+    }
+  ],
+  "sources": [],
+  "status": "draft",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
