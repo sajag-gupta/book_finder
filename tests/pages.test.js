@@ -65,7 +65,7 @@ test('price feeds keep the store object and mark the lowest price', () => {
     offers: {
       9780441013593: [
         { store: 'bookshop', price: 12.5, currency: 'USD' },
-        { store: 'abebooks', price: 6, currency: 'USD' },
+        { store: 'googleplay', price: 6, currency: 'USD' },
       ],
     },
   };
@@ -73,8 +73,8 @@ test('price feeds keep the store object and mark the lowest price', () => {
   assert.ok(html.includes('$6.00'));
   assert.ok(html.includes('$12.50'));
   assert.equal(html.match(/Lowest price/g).length, 1);
-  assert.ok(html.indexOf('AbeBooks') < html.indexOf('ThriftBooks'), 'priced offer sorts first');
-  assert.ok(html.includes('/go/abebooks/9780441013593'));
+  assert.ok(html.indexOf('Google Play Books') < html.indexOf('Kobo'), 'priced offer sorts first');
+  assert.ok(html.includes('/go/googleplay/9780441013593'));
 });
 
 // Synthetic data, so these tests do not depend on which real books have been reviewed.

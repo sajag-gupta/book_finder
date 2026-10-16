@@ -10,7 +10,7 @@ format, at the best price. Recommendation apps stop at "add to shelf" and retail
 own price. Readers do the second step by hand in several tabs.
 
 **Audience:** readers aged roughly 18 to 40 who find books on BookTok, plus budget readers who borrow,
-buy used or wait for ebook deals.
+borrow or wait for ebook deals.
 
 **Revenue:** affiliate commission first, then ads, then a paid tier (capped near $5 a month by what
 competitors charge).

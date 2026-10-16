@@ -12,7 +12,7 @@ const STEPS = [
   [
     'layers',
     'See every way to get it',
-    'Print, used, ebook and audiobook side by side, with the lowest price marked.',
+    'Print, ebook and audiobook side by side, with the lowest price marked.',
   ],
   [
     'library',
@@ -46,7 +46,7 @@ export function homePage(ctx) {
     : `<section class="wrap trust" aria-label="Why use us"><ul>
     <li>${icon('library', { size: 22 })}<span><strong>Library first</strong> Free borrowing is always the top option</span></li>
     <li>${icon('shield-check', { size: 22 })}<span><strong>Facts checked</strong> Every book verified against two sources</span></li>
-    <li>${icon('layers', { size: 22 })}<span><strong>Every format</strong> Print, used, ebook and audio compared</span></li>
+    <li>${icon('layers', { size: 22 })}<span><strong>Every format</strong> Print, ebook and audio compared</span></li>
   </ul></section>`;
 
   const sellers = ctx.topSellers.slice(0, 12);

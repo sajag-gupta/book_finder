@@ -36,36 +36,6 @@
     "cookieDays": 1
   },
   {
-    "id": "barnesnoble",
-    "name": "Barnes & Noble",
-    "kind": "print",
-    "label": "Buy new",
-    "plain": "https://www.barnesandnoble.com/s/{isbn13}",
-    "affiliate": null,
-    "commissionRate": 0.02,
-    "cookieDays": 1
-  },
-  {
-    "id": "thriftbooks",
-    "name": "ThriftBooks",
-    "kind": "used",
-    "label": "Buy used",
-    "plain": "https://www.thriftbooks.com/browse/?b.search={isbn13}",
-    "affiliate": null,
-    "commissionRate": 0.04,
-    "cookieDays": 7
-  },
-  {
-    "id": "abebooks",
-    "name": "AbeBooks",
-    "kind": "used",
-    "label": "Buy used",
-    "plain": "https://www.abebooks.com/servlet/SearchResults?isbn={isbn13}",
-    "affiliate": null,
-    "commissionRate": 0.05,
-    "cookieDays": 30
-  },
-  {
     "id": "kobo",
     "name": "Kobo",
     "kind": "ebook",

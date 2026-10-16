@@ -33,12 +33,11 @@ export function rankOffers(offers) {
   }));
 }
 
-export const FORMAT_ORDER = ['library', 'print', 'used', 'ebook', 'audio'];
+export const FORMAT_ORDER = ['library', 'print', 'ebook', 'audio'];
 
 export const FORMAT_TITLES = {
   library: 'Borrow free',
   print: 'Print, new',
-  used: 'Print, used',
   ebook: 'Ebook',
   audio: 'Audiobook',
 };
