@@ -14,6 +14,10 @@ const FORMAT_ICONS = {
 };
 const names = (slugs, vocab) => slugs.map((s) => vocab.find((v) => v.slug === s)?.name ?? s);
 
+/** Shortens text to fit a search snippet, cutting at a word and ending with an ellipsis. */
+const clip = (text, max) =>
+  text.length <= max ? text : `${text.slice(0, max - 1).replace(/\s+\S*$/, '')}…`;
+
 function offersTable(book, ctx) {
   const query = `${book.title} ${book.author}`;
   const feed = new Map((ctx.data.offers[book.isbn13] ?? []).map((o) => [o.store, o]));
@@ -164,6 +168,48 @@ export function bookPage(ctx, book) {
     .slice(0, 6);
   const url = `${site.url}/books/${book.slug}/`;
 
+  // Plain-language answers, written from our own record. They are shown on the page and repeated in
+  // FAQPage markup, so readers, search engines and AI assistants all get the same facts.
+  const lower = (text) => text.charAt(0).toLowerCase() + text.slice(1);
+  const asSentence = (text) => (/[.!?]$/.test(text) ? text : `${text}.`);
+  const warningNames = [...warnings];
+  const faq = [
+    [`What is ${book.title} about?`, book.summary],
+    [
+      `Who should read ${book.title}?`,
+      `Read it if ${lower(asSentence(book.readIf))} Skip it if ${lower(asSentence(book.skipIf))}`,
+    ],
+    [
+      `How long and how fast is ${book.title}?`,
+      `It is a ${book.pace}-paced, ${book.length} read${hc?.pages ? ` of about ${hc.pages} pages` : ''}, first published in ${book.firstPublished}.`,
+    ],
+    [
+      `Does ${book.title} have content warnings?`,
+      warningNames.length
+        ? `Content we flag: ${warningNames.join(', ')}.`
+        : 'We have not noted any content warnings for this book yet.',
+    ],
+    [
+      `Can I borrow ${book.title} for free?`,
+      `Often, yes. Check Libby (OverDrive) to see whether your library lends ${book.title}; the borrow button above searches it for you.`,
+    ],
+    ...(picks.length
+      ? [
+          [
+            `What should I read after ${book.title}?`,
+            `Readers who liked it often move on to ${picks
+              .slice(0, 3)
+              .map((p) => ctx.bySlug.get(p.slug).title)
+              .join(', ')}.`,
+          ],
+        ]
+      : []),
+  ];
+  const faqHtml = `<section class="panel faq" aria-labelledby="faq-h"><h2 id="faq-h">Quick answers about ${esc(book.title)}</h2><dl>${faq
+    .map(([q, a]) => `<div><dt>${esc(q)}</dt><dd>${esc(a)}</dd></div>`)
+    .join('')}</dl></section>`;
+  const checked = book.reviewedOn ?? book.checkedOn;
+
   const body = `<article class="wrap book">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a>${icon('chevron-right', { size: 14 })}${primary ? `<a href="/genres/${esc(primary.slug)}/">${esc(primary.name)}</a>${icon('chevron-right', { size: 14 })}` : ''}<span aria-current="page">${esc(book.title)}</span></nav>
 <div class="book__hero">
@@ -175,6 +221,7 @@ export function bookPage(ctx, book) {
     ${sold}
     ${rating}
     <p class="summary">${esc(book.summary)}</p>
+    ${checked ? `<p class="muted small checked">${icon('shield-check', { size: 14 })} Facts last checked ${esc(checked)}</p>` : ''}
     <dl class="facts">
       ${factsRow('First published', esc(book.firstPublished))}
       ${factsRow('Pace', esc(cap(book.pace)))}
@@ -218,6 +265,7 @@ ${notice}
       </div>
     </section>
     ${seriesBlock(book, ctx)}
+    ${faqHtml}
   </div>
   <div class="book__side">
     <section class="panel shelfpanel" aria-labelledby="shelf-h" data-shelf-panel data-slug="${esc(book.slug)}" hidden>
@@ -260,20 +308,51 @@ ${more.length ? `<section class="section" aria-labelledby="more-h"><div class="s
   return layout({
     site,
     path: `/books/${book.slug}/`,
-    title: `${book.title} by ${book.author}: where to buy or borrow`,
-    description: `${book.summary} Compare print, ebook, audiobook and library options.`,
+    title:
+      [
+        `${book.title} by ${book.author}: summary and where to read`,
+        `${book.title} by ${book.author}: where to read`,
+        `${book.title} by ${book.author}`,
+      ].find((t) => t.length <= 60) ?? book.title,
+    description: clip(`${book.summary} Compare library, print, ebook and audiobook options.`, 158),
     image: `/share/${book.slug}-og.png`,
     body,
     scripts: ['share', 'book'],
+    breadcrumbs: [...(primary ? [[primary.name, `/genres/${primary.slug}/`]] : []), [book.title]],
+    crumbsVisible: false,
     structuredData: {
       '@context': 'https://schema.org',
-      '@type': 'Book',
-      name: book.title,
-      author: { '@type': 'Person', name: book.author },
-      isbn: book.isbn13,
-      datePublished: String(book.firstPublished),
-      genre: book.genres.map((g) => ctx.genre(g)?.name ?? g),
-      image: `${site.url}/share/${book.slug}-og.png`,
+      '@graph': [
+        {
+          '@type': 'Book',
+          '@id': `${url}#book`,
+          url,
+          name: book.title,
+          author: { '@type': 'Person', name: book.author },
+          isbn: book.isbn13,
+          inLanguage: 'en',
+          description: book.summary,
+          datePublished: String(book.firstPublished),
+          genre: book.genres.map((g) => ctx.genre(g)?.name ?? g),
+          ...(hc?.pages ? { numberOfPages: hc.pages } : {}),
+          image: `${site.url}/share/${book.slug}-og.png`,
+        },
+        {
+          '@type': 'WebPage',
+          url,
+          name: `${book.title} by ${book.author}`,
+          about: { '@id': `${url}#book` },
+          ...(checked ? { dateModified: checked } : {}),
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: faq.map(([name, text]) => ({
+            '@type': 'Question',
+            name,
+            acceptedAnswer: { '@type': 'Answer', text },
+          })),
+        },
+      ],
     },
   });
 }

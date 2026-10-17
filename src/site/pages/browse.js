@@ -1,7 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
-import { bookCard } from '../components.js';
+import { cardGrid, pageCount, pageHref, pageSlice, pager } from '../components.js';
 
 const LENGTHS = [
   ['short', 'Under 300 pages'],
@@ -27,8 +27,11 @@ const AVOID = [
 const checkbox = (name, value, label, count) =>
   `<label class="check"><input type="checkbox" name="${name}" value="${esc(value)}"><span>${esc(label)}</span>${count === undefined ? '' : `<span class="check__n">${count}</span>`}</label>`;
 
-/** All books with client-side filters. Without JavaScript the full list is still readable. */
-export function browsePage(ctx) {
+/**
+ * All books. The server renders one page of the list (with numbered page links, so every book is
+ * reachable without JavaScript); the script loads the catalogue index for filters, search and sorting.
+ */
+export function browsePage(ctx, pageNum = 1) {
   const { data, site } = ctx;
   const genres = data.genres.filter((g) => ctx.byGenre.has(g.slug));
   const moods = data.moods.filter((m) => ctx.byMood.has(m.slug));
@@ -60,7 +63,8 @@ export function browsePage(ctx) {
     <aside class="browse__side">${filters}</aside>
     <div class="browse__main">
       <p class="results-count" role="status" data-count>${books.length} books</p>
-      <ul class="grid grid--browse" data-results>${books.map((b) => bookCard(b, ctx, { filterable: true })).join('')}</ul>
+      <div data-results-wrap>${cardGrid(pageSlice(books, pageNum), ctx).replace('class="grid"', 'class="grid grid--browse" data-results')}</div>
+      <div data-pager>${pager('/books/', pageNum, pageCount(books.length))}</div>
       <p class="empty" data-empty hidden>None of our hand-picked books match those filters. Try clearing one.</p>
       <section class="section" data-remote hidden aria-live="polite">
         <h2>More books matching &ldquo;<span data-remote-q></span>&rdquo;</h2>
@@ -75,9 +79,10 @@ export function browsePage(ctx) {
 
   return layout({
     site,
-    path: '/books/',
-    title: 'Browse all books',
-    description: `Browse ${books.length} books by genre, mood, length and pace, with content warnings and every way to get them.`,
+    path: pageHref('/books/', pageNum),
+    breadcrumbs: [['Browse all books']],
+    title: pageNum > 1 ? `Browse all books, page ${pageNum}` : 'Browse all books',
+    description: `Browse ${books.length} books by genre, mood, length and pace, with content warnings and every way to get them.${pageNum > 1 ? ` Page ${pageNum} of ${pageCount(books.length)}.` : ''}`,
     body,
     scripts: ['browse'],
   });

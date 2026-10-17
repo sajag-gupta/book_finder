@@ -1,3 +1,4 @@
+import { catalogIndex } from '../src/site/catalog.js';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
@@ -173,8 +174,9 @@ test('reader-reported warnings skip ones we already list and are escaped', () =>
   );
 });
 
-test('browse offers a most-read sort and cards carry reader counts', () => {
-  const html = browsePage(withHc(base));
-  assert.ok(html.includes('<option value="popular">Most read on Hardcover</option>'));
-  assert.ok(html.includes('data-users="8080"'));
+test('browse offers a most-read sort and the catalogue index carries reader counts', () => {
+  const ctx = withHc(base);
+  assert.ok(browsePage(ctx).includes('<option value="popular">Most read on Hardcover</option>'));
+  const piranesi = catalogIndex(ctx).books.find((b) => b.s === 'piranesi');
+  assert.equal(piranesi.users, 8080);
 });

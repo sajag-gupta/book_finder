@@ -28,6 +28,7 @@ export function loadData(root) {
     moods: vocab('moods.json'),
     tropes: vocab('tropes.json'),
     warnings: vocab('warnings.json'),
+    feelings: vocab('feelings.json'),
     series: readDir(join(data, 'series')).map(({ value }) => value),
     books: readDir(join(data, 'books')).map(({ name, value }) => ({ ...value, _file: name })),
     schema: readJson(join(data, 'schema', 'book.schema.json')),
@@ -63,6 +64,12 @@ export function validateData(data) {
   const tropes = new Set(data.tropes.map((t) => t.slug));
   const warnings = new Set(data.warnings.map((w) => w.slug));
   const series = new Set(data.series.map((s) => s.slug));
+  for (const feeling of data.feelings ?? []) {
+    for (const want of feeling.wants) {
+      if (!moods.has(want.mood))
+        errors.push(`vocab/feelings.json: "${feeling.slug}" points to unknown mood "${want.mood}"`);
+    }
+  }
   const slugs = new Set(data.books.map((b) => b.slug));
   const seenIsbn = new Map();
 

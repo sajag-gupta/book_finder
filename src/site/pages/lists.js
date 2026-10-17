@@ -1,14 +1,24 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
-import { cardGrid, cover, moodChip, sectionHead, signupForm } from '../components.js';
+import {
+  cardGrid,
+  cover,
+  moodChip,
+  pageCount,
+  pageHref,
+  pageSlice,
+  pager,
+  sectionHead,
+  signupForm,
+} from '../components.js';
 import { allStores } from '../../shared/registry.js';
 import { FORMAT_ORDER, FORMAT_TITLES } from '../../shared/offers.js';
 
 const head = ({ kicker, title, lede, iconName }) =>
   `<header class="pagehead">${iconName ? `<span class="pagehead__icon">${icon(iconName, { size: 30 })}</span>` : ''}${kicker ? `<p class="kicker">${esc(kicker)}</p>` : ''}<h1>${esc(title)}</h1>${lede ? `<p class="lede">${esc(lede)}</p>` : ''}</header>`;
 
-const page = (ctx, { path, title, description, body, noindex }) =>
+const page = (ctx, { path, title, description, body, noindex, breadcrumbs, structuredData }) =>
   layout({
     site: ctx.site,
     path,
@@ -16,19 +26,54 @@ const page = (ctx, { path, title, description, body, noindex }) =>
     description,
     body: `<section class="wrap page">${body}</section>`,
     noindex,
+    breadcrumbs,
+    structuredData,
   });
 
-export function moodPage(ctx, mood) {
+/** Fields every page of a long list shares: its own URL, a "page N" title and the page links. */
+function paging(base, title, books, pageNum) {
+  const pages = pageCount(books.length);
+  return {
+    pages,
+    path: pageHref(base, pageNum),
+    title: pageNum > 1 ? `${title}, page ${pageNum}` : title,
+    suffix: pageNum > 1 ? ` Page ${pageNum} of ${pages}.` : '',
+    list: pageSlice(books, pageNum),
+    nav: pager(base, pageNum, pages),
+  };
+}
+
+/** ItemList markup for a page that is mainly a list of books. */
+const listData = (ctx, name, books) => ({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name,
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: books.length,
+    itemListElement: books.slice(0, 20).map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${ctx.site.url}/books/${b.slug}/`,
+      name: b.title,
+    })),
+  },
+});
+
+export function moodPage(ctx, mood, pageNum = 1) {
   const books = ctx.byMood.get(mood.slug) ?? [];
+  const pg = paging(`/moods/${mood.slug}/`, `${mood.name} books`, books, pageNum);
   const others = ctx.data.moods
     .filter((m) => m.slug !== mood.slug && ctx.byMood.has(m.slug))
     .slice(0, 8);
   return page(ctx, {
-    path: `/moods/${mood.slug}/`,
-    title: `${mood.name} books`,
-    description: `${mood.blurb} ${books.length} books for when you want something ${mood.name.toLowerCase()}, each with a plain reason.`,
+    path: pg.path,
+    title: pg.title,
+    breadcrumbs: [['Moods', '/moods/'], [pg.title]],
+    structuredData: listData(ctx, pg.title, pg.list),
+    description: `${mood.blurb} ${books.length} books for when you want something ${mood.name.toLowerCase()}, best sellers first.${pg.suffix}`,
     body: `${head({ kicker: `${books.length} books`, title: `${mood.name} books`, lede: mood.blurb, iconName: mood.icon })}
-${cardGrid(books, ctx)}
+${cardGrid(pg.list, ctx)}${pg.nav}
 <section class="section">${sectionHead({ title: 'Try another mood', href: '/moods/', linkText: 'All moods' })}<ul class="chips chips--small">${others.map((m) => `<li>${moodChip(m, { blurb: false })}</li>`).join('')}</ul></section>`,
   });
 }
@@ -37,6 +82,7 @@ export function moodsIndexPage(ctx) {
   const moods = ctx.data.moods.filter((m) => ctx.byMood.has(m.slug));
   return page(ctx, {
     path: '/moods/',
+    breadcrumbs: [['Moods']],
     title: 'Pick a book by mood',
     description: 'How do you want to feel? Choose a mood and get books that deliver it.',
     body: `${head({ kicker: 'Start here', title: 'How do you want to feel?', lede: 'Pick a mood and we will show you the books that deliver it.' })}
@@ -44,15 +90,23 @@ export function moodsIndexPage(ctx) {
   });
 }
 
-export function genrePage(ctx, genre) {
+export function genrePage(ctx, genre, pageNum = 1) {
   const books = ctx.byGenre.get(genre.slug) ?? [];
+  const pg = paging(
+    `/genres/${genre.slug}/`,
+    `Best ${genre.name.toLowerCase()} books`,
+    books,
+    pageNum,
+  );
   return page(ctx, {
-    path: `/genres/${genre.slug}/`,
-    title: `Best ${genre.name.toLowerCase()} books`,
-    description: `${genre.blurb} ${books.length} ${genre.name.toLowerCase()} picks, best sellers first, with content warnings and every way to get them.`,
+    path: pg.path,
+    title: pg.title,
+    breadcrumbs: [['Genres', '/genres/'], [pg.title]],
+    structuredData: listData(ctx, pg.title, pg.list),
+    description: `${genre.blurb} ${books.length} ${genre.name.toLowerCase()} picks, best sellers first.${pg.suffix}`,
     body: `${head({ kicker: `${books.length} books`, title: genre.name, lede: genre.blurb, iconName: genre.icon })}
 <p class="more-line"><a class="more" href="/books/?genre=${esc(genre.slug)}">Filter ${esc(genre.name.toLowerCase())} by mood, length and pace${icon('arrow-right', { size: 16 })}</a></p>
-${cardGrid(books, ctx)}`,
+${cardGrid(pg.list, ctx)}${pg.nav}`,
   });
 }
 
@@ -60,6 +114,7 @@ export function genresIndexPage(ctx) {
   const genres = ctx.data.genres.filter((g) => ctx.byGenre.has(g.slug));
   return page(ctx, {
     path: '/genres/',
+    breadcrumbs: [['Genres']],
     title: 'Browse by genre',
     description: 'From cozy fantasy to crime and classics: browse books by genre.',
     body: `${head({ kicker: 'Browse', title: 'Genres', lede: 'Find your corner of the shelf.' })}
@@ -71,13 +126,16 @@ export function genresIndexPage(ctx) {
 export const tropesWithPages = (ctx) =>
   ctx.data.tropes.filter((t) => (ctx.byTrope.get(t.slug)?.length ?? 0) >= 3);
 
-export function tropePage(ctx, trope) {
+export function tropePage(ctx, trope, pageNum = 1) {
   const books = ctx.byTrope.get(trope.slug) ?? [];
+  const pg = paging(`/tropes/${trope.slug}/`, `${trope.name} books`, books, pageNum);
   return page(ctx, {
-    path: `/tropes/${trope.slug}/`,
-    title: `${trope.name} books`,
-    description: `${books.length} books built around the ${trope.name.toLowerCase()} trope, best sellers first.`,
-    body: `${head({ kicker: 'Trope', title: `${trope.name} books`, lede: `${books.length} books where the ${trope.name.toLowerCase()} trope is a big part of the story.` })}${cardGrid(books, ctx)}`,
+    path: pg.path,
+    title: pg.title,
+    breadcrumbs: [['Tropes', '/tropes/'], [pg.title]],
+    structuredData: listData(ctx, pg.title, pg.list),
+    description: `${books.length} books built around the ${trope.name.toLowerCase()} trope, best sellers first.${pg.suffix}`,
+    body: `${head({ kicker: 'Trope', title: `${trope.name} books`, lede: `${books.length} books where the ${trope.name.toLowerCase()} trope is a big part of the story.` })}${cardGrid(pg.list, ctx)}${pg.nav}`,
   });
 }
 
@@ -87,6 +145,7 @@ export function tropesIndexPage(ctx) {
   );
   return page(ctx, {
     path: '/tropes/',
+    breadcrumbs: [['Tropes']],
     title: 'Browse by trope',
     description:
       'Enemies to lovers, found family, slow burn and more: find books by the tropes you love.',
@@ -95,14 +154,23 @@ export function tropesIndexPage(ctx) {
   });
 }
 
-export function authorPage(ctx, slug) {
+export function authorPage(ctx, slug, pageNum = 1) {
   const books = ctx.byAuthor.get(slug) ?? [];
   const name = books[0].author;
+  const pg = paging(`/authors/${slug}/`, `${name} books`, books, pageNum);
   return page(ctx, {
-    path: `/authors/${slug}/`,
-    title: `${name} books`,
-    description: `${books.length} books by ${name}, with moods, content warnings and every way to get them.`,
-    body: `${head({ kicker: 'Author', title: name, lede: `${books.length} books on this site.` })}${cardGrid(books, ctx)}`,
+    path: pg.path,
+    title: pg.title,
+    breadcrumbs: [[pg.title]],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        { '@type': 'Person', name, url: `${ctx.site.url}/authors/${slug}/` },
+        listData(ctx, pg.title, pg.list),
+      ],
+    },
+    description: `${books.length} books by ${name}, with moods, content warnings and every way to get them.${pg.suffix}`,
+    body: `${head({ kicker: 'Author', title: name, lede: `${books.length} books on this site.` })}${cardGrid(pg.list, ctx)}${pg.nav}`,
   });
 }
 

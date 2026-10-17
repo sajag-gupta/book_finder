@@ -16,15 +16,25 @@ export function hue(key) {
 }
 
 /** A cover: generated typographic cover underneath, Open Library's image on top when it exists. */
-export function coverEl({ key, title, author, isbn, size = 'M', width = 160, height = 240 }) {
+/** Image address from a cover ref ("o123" Open Library id, "gXYZ" Google volume) or, failing that, an ISBN. */
+export function coverSrc({ ref, isbn, size = 'M' }) {
+  if (ref?.startsWith('o'))
+    return `https://covers.openlibrary.org/b/id/${ref.slice(1)}-${size}.jpg?default=false`;
+  if (ref?.startsWith('g'))
+    return `https://books.google.com/books/content?id=${ref.slice(1)}&printsec=frontcover&img=1&zoom=1`;
+  return isbn ? `https://covers.openlibrary.org/b/isbn/${isbn}-${size}.jpg?default=false` : null;
+}
+
+export function coverEl({ key, title, author, isbn, ref, size = 'M', width = 160, height = 240 }) {
   const cover = el('span', `cover hue-${hue(key)}`);
   const fallback = el('span', 'cover__fallback');
   fallback.setAttribute('aria-hidden', 'true');
   fallback.append(el('span', 'cover__title', title), el('span', 'cover__author', author ?? ''));
   cover.append(fallback);
-  if (isbn) {
+  const src = coverSrc({ ref, isbn, size });
+  if (src) {
     const img = el('img');
-    img.src = `https://covers.openlibrary.org/b/isbn/${isbn}-${size}.jpg?default=false`;
+    img.src = src;
     img.alt = `Cover of ${title}`;
     img.width = width;
     img.height = height;
@@ -36,14 +46,14 @@ export function coverEl({ key, title, author, isbn, size = 'M', width = 160, hei
 }
 
 /** A book card linking to `href`, for result lists. */
-export function resultCard({ href, key, title, author, isbn, meta }) {
+export function resultCard({ href, key, title, author, isbn, ref, meta }) {
   const li = el('li', 'card');
   const link = el('a', 'card__link');
   link.href = href;
   const body = el('span', 'card__body');
   body.append(el('strong', 'card__title', title), el('span', 'card__author', author ?? ''));
   if (meta) body.append(el('span', 'card__meta', meta));
-  link.append(coverEl({ key, title, author, isbn }), body);
+  link.append(coverEl({ key, title, author, isbn, ref }), body);
   li.append(link);
   return li;
 }

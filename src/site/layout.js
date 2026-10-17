@@ -16,6 +16,8 @@ export function layout({
   path,
   body,
   structuredData,
+  breadcrumbs,
+  crumbsVisible = true,
   image,
   scripts = [],
   noindex = false,
@@ -26,11 +28,42 @@ export function layout({
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">`
     : '<meta name="twitter:card" content="summary">';
-  const fullTitle = path === '/' ? title : `${title} | ${site.name}`;
-  const robots = noindex || site.preview ? '<meta name="robots" content="noindex, nofollow">' : '';
-  const ld = structuredData
-    ? `<script type="application/ld+json">${jsonLd(structuredData)}</script>`
+  // The site name is added only when the whole title still fits in a search result (about 60 characters).
+  const withName = `${title} | ${site.name}`;
+  const fullTitle = path === '/' || withName.length > 60 ? title : withName;
+  const robots =
+    noindex || site.preview
+      ? '<meta name="robots" content="noindex, nofollow">'
+      : '<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">';
+  // One JSON-LD block per page: any structured data plus the breadcrumb trail, as a single graph.
+  const trail = breadcrumbs?.length
+    ? {
+        '@type': 'BreadcrumbList',
+        itemListElement: [['Home', '/'], ...breadcrumbs].map(([name, href], i, all) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name,
+          ...(i < all.length - 1 || href ? { item: site.url + href } : {}),
+        })),
+      }
+    : null;
+  const nodes = [
+    ...(structuredData ? (structuredData['@graph'] ?? [structuredData]) : []),
+    ...(trail ? [trail] : []),
+  ].map((node) => Object.fromEntries(Object.entries(node).filter(([k]) => k !== '@context')));
+  const ld = nodes.length
+    ? `<script type="application/ld+json">${jsonLd({ '@context': 'https://schema.org', '@graph': nodes })}</script>`
     : '';
+  const crumbNav =
+    breadcrumbs?.length && crumbsVisible
+      ? `<nav class="wrap crumbs crumbs--page" aria-label="Breadcrumb"><a href="/">Home</a>${breadcrumbs
+          .map(([name, href], i) =>
+            i < breadcrumbs.length - 1 && href
+              ? `${icon('chevron-right', { size: 14 })}<a href="${esc(href)}">${esc(name)}</a>`
+              : `${icon('chevron-right', { size: 14 })}<span aria-current="page">${esc(name)}</span>`,
+          )
+          .join('')}</nav>`
+      : '';
   const scriptTags = ['site', ...scripts]
     .map((name) => `<script type="module" src="/assets/${name}.js"></script>`)
     .join('\n');
@@ -44,6 +77,8 @@ export function layout({
 <link rel="canonical" href="${esc(site.url + path)}">
 ${robots}
 <meta property="og:type" content="website">
+<meta property="og:url" content="${esc(site.url + path)}">
+<meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="${esc(site.name)}">
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
@@ -54,8 +89,10 @@ ${social}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://covers.openlibrary.org">
+<link rel="preconnect" href="https://books.google.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;600&family=Inter:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
+<script src="/assets/theme.js"></script>
 ${ld}
 </head>
 <body>
@@ -71,12 +108,13 @@ ${ld}
     </nav>
     <div class="bar__tools">
       ${searchForm('hq', { placeholder: 'Search books' })}
+      <button type="button" class="theme-toggle" data-theme-toggle hidden aria-pressed="false" aria-label="Switch to dark theme"><span class="theme-toggle__sun">${icon('sun', { size: 22 })}</span><span class="theme-toggle__moon">${icon('moon', { size: 22 })}</span></button>
       <a class="shelf-link" href="/shelf/" aria-label="My shelf">${icon('bookmark', { size: 22 })}<span class="shelf-count" data-shelf-count hidden>0</span></a>
     </div>
   </div>
 </header>
 <main id="main">
-${body}
+${crumbNav}${body}
 </main>
 <footer class="site-footer">
   <div class="wrap footer__grid">

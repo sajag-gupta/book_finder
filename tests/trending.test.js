@@ -1,3 +1,4 @@
+import { catalogIndex } from '../src/site/catalog.js';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
@@ -95,8 +96,11 @@ test('the lookup page is a noindex shell with the store list and format titles e
   assert.equal(titles.library, 'Borrow free');
 });
 
-test('the browse page can show books beyond the catalogue, and tags each card with its ISBN', () => {
-  const html = browsePage(fullCtx(null));
+test('the browse page can show books beyond the catalogue, and the index lists every ISBN', () => {
+  const ctx = fullCtx(null);
+  const html = browsePage(ctx);
   assert.ok(html.includes('data-remote') && html.includes('data-remote-list'));
-  assert.match(html, /data-isbn="97[89]\d{10}"/);
+  const index = catalogIndex(ctx);
+  assert.equal(index.books.length, ctx.published.length);
+  assert.ok(index.books.every((b) => /^97[89]\d{10}$/.test(b.i)));
 });

@@ -14,6 +14,8 @@ import { loadData, validateData } from '../src/site/data.js';
 import * as pages from '../src/site/pages.js';
 import { renderCardPng } from '../src/share/render.js';
 import { getSite } from '../src/site/config.js';
+import { pageCount, pageHref } from '../src/site/components.js';
+import { catalogIndex, searchIndex } from '../src/site/catalog.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const dist = join(root, 'dist');
@@ -36,9 +38,9 @@ function write(file, content) {
   writeFileSync(target, content);
 }
 /** Writes a page; `listed: false` keeps it out of the sitemap (private or utility pages). */
-function page(path, html, { listed = true } = {}) {
+function page(path, html, { listed = true, lastmod } = {}) {
   write(path.endsWith('/') ? `${path}index.html` : path, html);
-  if (listed && !path.endsWith('.html')) urls.push(path);
+  if (listed && !path.endsWith('.html')) urls.push({ path, lastmod });
 }
 
 rmSync(dist, { recursive: true, force: true });
@@ -46,9 +48,16 @@ cpSync(join(root, 'src', 'assets'), join(dist, 'assets'), { recursive: true });
 cpSync(join(root, 'public'), dist, { recursive: true });
 
 page('/', pages.homePage(ctx));
-page('/books/', pages.browsePage(ctx));
+for (let n = 1; n <= pageCount(ctx.published.length); n++) {
+  page(pageHref('/books/', n), pages.browsePage(ctx, n));
+}
 page('/bestsellers/', pages.bestsellersPage(ctx));
 page('/moods/', pages.moodsIndexPage(ctx));
+page('/feel/', pages.feelHubPage(ctx));
+for (const feeling of ctx.feelings) page(`/feel/${feeling.slug}/`, pages.feelingPage(ctx, feeling));
+for (const { feeling, want } of pages.feelPairs(ctx)) {
+  page(`/feel/${feeling.slug}/${want.mood}/`, pages.feelPairPage(ctx, feeling, want));
+}
 page('/genres/', pages.genresIndexPage(ctx));
 page('/tropes/', pages.tropesIndexPage(ctx));
 page('/about/how-we-pick/', pages.howWePickPage(ctx));
@@ -59,20 +68,30 @@ page('/subscribed/', pages.subscribedPage(ctx, true), { listed: false });
 page('/subscribe-error/', pages.subscribedPage(ctx, false), { listed: false });
 page('/404.html', pages.notFoundPage(ctx));
 
+/** Writes every page of a long list: /base/, /base/page/2/, and so on. */
+function paged(base, total, render) {
+  for (let n = 1; n <= pageCount(total); n++) page(pageHref(base, n), render(n));
+}
 for (const mood of data.moods) {
-  if (ctx.byMood.has(mood.slug)) page(`/moods/${mood.slug}/`, pages.moodPage(ctx, mood));
+  const total = ctx.byMood.get(mood.slug)?.length;
+  if (total) paged(`/moods/${mood.slug}/`, total, (n) => pages.moodPage(ctx, mood, n));
 }
 for (const genre of data.genres) {
-  if (ctx.byGenre.has(genre.slug)) page(`/genres/${genre.slug}/`, pages.genrePage(ctx, genre));
+  const total = ctx.byGenre.get(genre.slug)?.length;
+  if (total) paged(`/genres/${genre.slug}/`, total, (n) => pages.genrePage(ctx, genre, n));
 }
 for (const trope of pages.tropesWithPages(ctx)) {
-  page(`/tropes/${trope.slug}/`, pages.tropePage(ctx, trope));
+  paged(`/tropes/${trope.slug}/`, ctx.byTrope.get(trope.slug).length, (n) =>
+    pages.tropePage(ctx, trope, n),
+  );
 }
 for (const slug of pages.authorsWithPages(ctx)) {
-  page(`/authors/${slug}/`, pages.authorPage(ctx, slug));
+  paged(`/authors/${slug}/`, ctx.byAuthor.get(slug).length, (n) => pages.authorPage(ctx, slug, n));
 }
 for (const book of ctx.published) {
-  page(`/books/${book.slug}/`, pages.bookPage(ctx, book));
+  page(`/books/${book.slug}/`, pages.bookPage(ctx, book), {
+    lastmod: book.reviewedOn ?? book.checkedOn,
+  });
   if (ctx.pairings(book).length) page(`/books-like/${book.slug}/`, pages.booksLikePage(ctx, book));
 }
 
@@ -85,32 +104,67 @@ if (!process.argv.includes('--skip-share-cards')) {
   }
 }
 
-// Compact index for search suggestions and the saved shelf.
-write(
-  'search-index.json',
-  JSON.stringify(
-    ctx.published.map((b) => ({
-      s: b.slug,
-      t: b.title,
-      a: b.author,
-      y: b.firstPublished,
-      i: b.isbn13,
-      g: b.genres,
-    })),
-  ),
-);
+// Compact indexes: one small one for search suggestions and the saved shelf, and one with every
+// book's tags for the browse filters and the vibe box (both loaded on demand).
+write('search-index.json', JSON.stringify(searchIndex(ctx)));
+write('catalog.json', JSON.stringify(catalogIndex(ctx)));
 write(
   'sitemap.xml',
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
-    .map((u) => `  <url><loc>${site.url}${u}</loc></url>`)
+    .map(
+      (u) =>
+        `  <url><loc>${site.url}${u.path}</loc>${u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : ''}</url>`,
+    )
     .join('\n')}\n</urlset>\n`,
 );
+// Search and AI crawlers may read everything except the redirect, API and private pages. AI crawlers
+// are named so the choice is explicit and easy to change.
+const AI_BOTS = [
+  'GPTBot',
+  'OAI-SearchBot',
+  'ChatGPT-User',
+  'ClaudeBot',
+  'Claude-SearchBot',
+  'Claude-User',
+  'PerplexityBot',
+  'Perplexity-User',
+  'Google-Extended',
+  'Applebot-Extended',
+  'CCBot',
+];
+const blocked = 'Disallow: /go/\nDisallow: /api/\nDisallow: /shelf/\nDisallow: /b/\n';
 write(
   'robots.txt',
   includeDrafts
     ? 'User-agent: *\nDisallow: /\n'
-    : `User-agent: *\nDisallow: /go/\nDisallow: /api/\nDisallow: /shelf/\n\nSitemap: ${site.url}/sitemap.xml\n`,
+    : `User-agent: *\n${blocked}\n${AI_BOTS.map((bot) => `User-agent: ${bot}\n${blocked}`).join('\n')}\nSitemap: ${site.url}/sitemap.xml\n`,
 );
+
+// llms.txt: a short plain-text map for AI assistants. It is a proposed convention; Google does not
+// require it. Everything it links to is also in the sitemap.
+if (!includeDrafts) {
+  const moods = data.moods.filter((m) => ctx.byMood.has(m.slug));
+  write(
+    'llms.txt',
+    `# ${site.name}
+
+> A book discovery site built on two questions: how do you feel right now, and how do you want to feel? It matches ${ctx.published.length} books to that shift and shows every way to borrow (library first), buy or listen to each one. Descriptions and recommendations are written by us; facts are checked against Open Library and a second source; ratings come from Hardcover readers.
+
+## Start here
+- [Books by how you feel](${site.url}/feel/): pick a current feeling and a desired one
+- [Browse and filter all books](${site.url}/books/): genre, mood, length, pace, content warnings
+- [Bestsellers](${site.url}/bestsellers/): top-selling books of all time, sales labelled as estimates
+
+## Browse by mood
+${moods.map((m) => `- [${m.name} books](${site.url}/moods/${m.slug}/): ${m.blurb}`).join('\n')}
+
+## How we work
+- [How we pick and check books](${site.url}/about/how-we-pick/)
+- [Affiliate disclosure](${site.url}/about/affiliate-disclosure/): some store links earn us a commission and never change recommendations
+- [Sitemap](${site.url}/sitemap.xml)
+`,
+  );
+}
 
 console.log(
   `Built ${urls.length} listed pages, ${ctx.published.length} books${includeDrafts ? ' (preview, drafts included)' : ''} -> dist/`,

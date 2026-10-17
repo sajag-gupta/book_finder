@@ -49,20 +49,22 @@ npm run build:preview
 `dist/` with search and store redirects working (design notes: [docs/design.md](docs/design.md)). `npm run build` is the production build and publishes `reviewed` and `checked`
 books (about 1,200 pages and 1,000 share cards).
 
-| Command                   | What it does                                                                      |
-| ------------------------- | --------------------------------------------------------------------------------- |
-| `npm run check`           | Lint, format check, data validation and tests (what CI runs)                      |
-| `npm run build`           | Production build to `dist/` (reviewed and checked books)                          |
-| `npm run build:preview`   | Preview build including drafts, `noindex`                                         |
-| `npm run validate`        | Validate every record in `data/` against the schema and vocab                     |
-| `npm run email -- <date>` | Render a weekly issue to HTML and text (see docs/newsletter.md)                   |
-| `npm run review`          | Fact-check drafts; `-- --mark-checked` or `-- --approve <slug> --reviewer "Name"` |
-| `npm run enrich`          | Add Hardcover ratings, pages, series and reader warnings (needs HARDCOVER_TOKEN)  |
-| `npm run discover -- 150` | List the most-read books we are missing (`--write` adds them to the catalogue)    |
-| `npm run trending`        | Refresh data/trending.json from Hardcover's API (needs HARDCOVER_TOKEN)           |
-| `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books                       |
-| `npm run serve`           | Serve `dist/` on http://127.0.0.1:8788 with `/api/*` and `/go/*` working locally  |
-| `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)                    |
+| Command                   | What it does                                                                       |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| `npm run check`           | Lint, format check, data validation and tests (what CI runs)                       |
+| `npm run build`           | Production build to `dist/` (reviewed and checked books)                           |
+| `npm run build:preview`   | Preview build including drafts, `noindex`                                          |
+| `npm run validate`        | Validate every record in `data/` against the schema and vocab                      |
+| `npm run email -- <date>` | Render a weekly issue to HTML and text (see docs/newsletter.md)                    |
+| `npm run review`          | Fact-check drafts; `-- --mark-checked` or `-- --approve <slug> --reviewer "Name"`  |
+| `npm run enrich`          | Add Hardcover ratings, pages, series and reader warnings (needs HARDCOVER_TOKEN)   |
+| `npm run discover -- 150` | List the most-read books we are missing (`--write` adds them to the catalogue)     |
+| `npm run trending`        | Refresh data/trending.json from Hardcover's API (needs HARDCOVER_TOKEN)            |
+| `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books                        |
+| `npm run seo`             | Audit the built site for SEO, structured data, links and sitemap (see docs/seo.md) |
+| `npm run covers`          | Find a working cover image for each book (writes data/covers.json)                 |
+| `npm run serve`           | Serve `dist/` on http://127.0.0.1:8788 with `/api/*` and `/go/*` working locally   |
+| `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)                     |
 
 ## Repository layout
 
