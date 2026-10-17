@@ -15,6 +15,7 @@
   },
   "scripts": {
     "build": "node scripts/build.js",
+    "serve": "node scripts/dev-server.mjs",
     "build:preview": "node scripts/build.js --include-drafts",
     "dev": "npm run build:preview && wrangler pages dev dist",
     "validate": "node scripts/validate-data.js",

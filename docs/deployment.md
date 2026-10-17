@@ -73,8 +73,9 @@ not joined earn nothing. Until then both stores serve plain links. Apply in the 
 **Rakuten (Kobo).** Two different IDs exist. `kobo_partner_id` is the short alphanumeric code after
 `id=` in your tracking links (not your numeric account/publisher ID). `kobo_merchant_id` is the
 program's MID and only works once Rakuten approves you for that program: Kobo US is `37217`
-(Brazil is `40380`, which only tracks Kobo's Brazilian store). Leave `kobo_merchant_id` empty until
-the US program approves you: the link builder then serves a plain Kobo link instead of a broken one.
+(Brazil is `40380`, which only tracks Kobo's Brazilian store). This site is approved for Kobo US and
+uses `37217`. Had it been left empty, the link builder would serve a plain Kobo link instead of a
+broken one. A test (`tests/links.test.js`) pins the US MID and the `kobo.com/us` destination.
 
 Edit [config/affiliates.json](../config/affiliates.json) as programs approve you. Stores with a
 missing ID serve plain links; no code change is needed. Verify each program's real link format after
