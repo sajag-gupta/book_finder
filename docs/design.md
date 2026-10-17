@@ -30,6 +30,22 @@ nothing from them is vendored into the repo.
 | Search states | Loading, empty and error text for the Open Library results block                              | A search should never dead-end or fail silently        |
 | Dark mode     | Follows the system; same tokens, warm dark greys                                              | No separate theme to maintain                          |
 
+## Two questions, one right book
+
+The product rests on two ideas: how the reader feels now, and how they want to feel. The home page
+and `/feel/` ask both, as two rows of pills. Picking a current feeling marks three suggested target
+moods with a dot; picking both opens `/feel/<now>/<want>/`, a ranked list with a direct answer on top.
+Without JavaScript the pills are plain links. A free-text box ("a cozy fantasy with found family,
+no gore") maps words to moods, genres, tropes and exclusions with a small word list, no AI model, and
+ranks our own catalogue. `data/vocab/feelings.json` holds the feelings and their suggested moods.
+
+## Theme
+
+A sun/moon button in the header switches light and dark. The choice is saved in `localStorage`; with
+no saved choice the system setting is followed, and without JavaScript the CSS media query applies.
+`assets/theme.js` runs before first paint so the page never flashes the wrong theme. Book rows scroll
+sideways with arrow buttons instead of a scrollbar.
+
 ## Data attribution
 
 Ratings, reader counts, page counts, series order and reader-reported content warnings come from

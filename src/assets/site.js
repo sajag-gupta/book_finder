@@ -30,6 +30,38 @@ document.addEventListener('click', (event) => {
 document.addEventListener('shelf:change', syncShelf);
 syncShelf();
 
+// ---------- Shelves of books: arrow buttons instead of a scrollbar ----------
+for (const scroller of document.querySelectorAll('.scroller')) {
+  const rail = document.createElement('div');
+  rail.className = 'rail';
+  scroller.replaceWith(rail);
+  rail.append(scroller);
+  const make = (dir, label, path) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = `rail__btn rail__btn--${dir}`;
+    button.setAttribute('aria-label', label);
+    button.innerHTML = `<svg class="icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="${path}"/></svg>`;
+    button.addEventListener('click', () =>
+      scroller.scrollBy({
+        left: (dir === 'next' ? 1 : -1) * scroller.clientWidth * 0.85,
+        behavior: 'smooth',
+      }),
+    );
+    rail.append(button);
+    return button;
+  };
+  const prev = make('prev', 'Scroll back', 'm15 18-6-6 6-6');
+  const next = make('next', 'Scroll forward', 'm9 18 6-6-6-6');
+  const update = () => {
+    prev.hidden = scroller.scrollLeft < 8;
+    next.hidden = scroller.scrollLeft + scroller.clientWidth >= scroller.scrollWidth - 8;
+  };
+  scroller.addEventListener('scroll', update, { passive: true });
+  addEventListener('resize', update);
+  update();
+}
+
 // ---------- Covers: drop images that failed so the generated cover shows ----------
 for (const img of document.querySelectorAll('img[data-cover]')) {
   if (img.complete && img.naturalWidth === 0) img.remove();

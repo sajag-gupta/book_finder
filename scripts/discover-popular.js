@@ -3,6 +3,7 @@
  *
  *   npm run discover -- 150            list the 150 most-read missing books
  *   npm run discover -- 150 --write    also append them to data/catalogue/catalogue.json
+ *   npm run discover -- 4400 --pages=700 --min-ratings=60 --write    go deeper for a bigger catalogue
  *
  * Only titles, authors, years and genres are used (facts). Each new book then goes through the same
  * pipeline as the rest: ISBN lookup, our own written record, and the two-source fact check.
@@ -11,6 +12,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { searchBooks } from './hardcover-client.js';
+import { isValidIsbn13 } from '../src/shared/isbn.js';
 import {
   cleanTitle,
   isNonfiction,
@@ -23,6 +25,11 @@ const root = fileURLToPath(new URL('..', import.meta.url));
 const file = join(root, 'data', 'catalogue', 'catalogue.json');
 const want = Number(process.argv.find((a) => /^\d+$/.test(a)) ?? 150);
 const write = process.argv.includes('--write');
+const flag = (name, fallback) =>
+  Number(process.argv.find((a) => a.startsWith(`--${name}=`))?.split('=')[1] ?? fallback);
+// The search returns 25 books a page, so 5,000 books takes about 200 pages; raise --pages to go deeper.
+const maxPages = flag('pages', 60);
+const minRatings = flag('min-ratings', 100);
 
 const catalogue = JSON.parse(readFileSync(file, 'utf8'));
 const have = [...catalogue];
@@ -41,7 +48,7 @@ const EDITION_NOISE =
   /box(ed)? set|complete|collection|omnibus|illustrated|anniversary|special edition|trilogy|bundle|volume \d|books? \d/i;
 
 const found = [];
-for (let page = 1; page <= 60 && found.length < want; page++) {
+for (let page = 1; page <= maxPages && found.length < want; page++) {
   const docs = await searchBooks('*', { perPage: 50, page, sort: 'users_count:desc' });
   if (!docs.length) break;
   for (const doc of docs) {
@@ -52,13 +59,18 @@ for (let page = 1; page <= 60 && found.length < want; page++) {
       author &&
       !SKIP.has(title) &&
       !doc.compilation &&
-      (doc.ratings_count ?? 0) >= 100 &&
+      (doc.ratings_count ?? 0) >= minRatings &&
       doc.release_year >= 1800 &&
       genres.length > 0 &&
       !isNonfiction(doc.genres) &&
       !EDITION_NOISE.test(doc.title) &&
       !have.some((b) => sameBook(b, { title, author }));
     if (!ok) continue;
+    // Hardcover lists the ISBNs of the book's editions. An English-registrant (978-0 or 978-1) one
+    // with a valid check digit saves a slow Open Library search; it is still verified later.
+    const isbn13 = (doc.isbns ?? []).find(
+      (i) => /^97[89]\d{10}$/.test(i) && /^97[89][01]/.test(i) && isValidIsbn13(i),
+    );
     have.push({ title, author });
     found.push({
       title,
@@ -67,6 +79,7 @@ for (let page = 1; page <= 60 && found.length < want; page++) {
       genres,
       soldMillions: null,
       group: 'modern',
+      ...(isbn13 ? { isbn13 } : {}),
       usersCount: doc.users_count,
     });
   }

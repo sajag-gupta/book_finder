@@ -16,6 +16,8 @@
   "scripts": {
     "build": "node scripts/build.js",
     "serve": "node scripts/dev-server.mjs",
+    "seo": "node scripts/seo-audit.js",
+    "covers": "node --env-file-if-exists=.env scripts/build-covers.js",
     "build:preview": "node scripts/build.js --include-drafts",
     "dev": "npm run build:preview && wrangler pages dev dist",
     "validate": "node scripts/validate-data.js",

@@ -1,7 +1,8 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
-import { cardGrid, moodChip, searchForm, sectionHead, signupForm } from '../components.js';
+import { cardGrid, searchForm, sectionHead, signupForm } from '../components.js';
+import { feelPicker } from './feel.js';
 
 const STEPS = [
   [
@@ -23,20 +24,20 @@ const STEPS = [
 
 export function homePage(ctx) {
   const { site, data, published } = ctx;
-  const moods = data.moods.filter((m) => m.featured && ctx.byMood.has(m.slug));
   const genres = data.genres.filter((g) => ctx.byGenre.has(g.slug));
   const empty = published.length === 0;
 
   const hero = `<section class="hero">
   <div class="wrap hero__inner">
-    <p class="kicker">Mood-first book finder</p>
-    <h1>How do you want to feel?</h1>
-    <p class="hero__lede">${empty ? 'We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.' : `Choose a mood and we will point you to a book, then show you the cheapest or free way to read it. ${published.length} books, every format, library first.`}</p>
+    <p class="kicker">Two questions, one right book</p>
+    <h1>How do you feel, and how do you want to feel?</h1>
+    <p class="hero__lede">${empty ? 'We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.' : `Tell us where you are and where you want to be. We match ${published.length} books to that shift, then show you the free or cheapest way to read each one.`}</p>
     ${
       empty
         ? ''
-        : `<ul class="chips" aria-label="Moods">${moods.map((m) => `<li>${moodChip(m)}</li>`).join('')}</ul>
-    <div class="hero__search"><p class="hero__or">Or start from a book you loved</p>${searchForm('hero-q', { large: true, placeholder: 'Try “Fourth Wing” or “Pride and Prejudice”' })}</div>`
+        : `${feelPicker(ctx, { id: 'home-feel' })}
+    <div class="hero__search"><p class="hero__or">Or start from a book you loved</p>${searchForm('hero-q', { large: true, placeholder: 'Try “Fourth Wing” or “Pride and Prejudice”…' })}
+    <p class="hero__vibe"><a href="/feel/#vibe-q">${icon('sparkles', { size: 16 })} Describe the vibe in your own words</a></p></div>`
     }
   </div>
 </section>`;
@@ -93,16 +94,32 @@ ${
     description:
       'Pick a book by how you want to feel, then see every way to borrow, buy or listen to it, with the cheapest option marked.',
     body: hero + trust + sections + band,
+    scripts: ['feel'],
     structuredData: {
       '@context': 'https://schema.org',
-      '@type': 'WebSite',
-      name: site.name,
-      url: site.url,
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: `${site.url}/books/?q={search_term_string}`,
-        'query-input': 'required name=search_term_string',
-      },
+      '@graph': [
+        {
+          '@type': 'WebSite',
+          '@id': `${site.url}/#website`,
+          name: site.name,
+          url: site.url,
+          inLanguage: 'en',
+          publisher: { '@id': `${site.url}/#org` },
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: `${site.url}/books/?q={search_term_string}`,
+            'query-input': 'required name=search_term_string',
+          },
+        },
+        {
+          '@type': 'Organization',
+          '@id': `${site.url}/#org`,
+          name: site.name,
+          url: site.url,
+          description:
+            'A book discovery site that matches books to how you feel and how you want to feel, and shows every way to borrow, buy or listen.',
+        },
+      ],
     },
   });
 }

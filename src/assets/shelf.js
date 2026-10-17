@@ -40,7 +40,11 @@ if (root) {
     fallback.setAttribute('aria-hidden', 'true');
     fallback.append(el('span', 'cover__title', book.t), el('span', 'cover__author', book.a));
     const img = el('img');
-    img.src = `https://covers.openlibrary.org/b/isbn/${book.i}-M.jpg?default=false`;
+    img.src = book.c?.startsWith('o')
+      ? `https://covers.openlibrary.org/b/id/${book.c.slice(1)}-M.jpg?default=false`
+      : book.c?.startsWith('g')
+        ? `https://books.google.com/books/content?id=${book.c.slice(1)}&printsec=frontcover&img=1&zoom=1`
+        : `https://covers.openlibrary.org/b/isbn/${book.i}-M.jpg?default=false`;
     img.alt = `Cover of ${book.t}`;
     img.width = 160;
     img.height = 240;

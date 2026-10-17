@@ -2,6 +2,7 @@ export { createContext } from './context.js';
 export { homePage } from './pages/home.js';
 export { browsePage } from './pages/browse.js';
 export { bookPage } from './pages/book.js';
+export { feelHubPage, feelingPage, feelPairPage, feelPairs, feelPicker } from './pages/feel.js';
 export {
   moodPage,
   moodsIndexPage,

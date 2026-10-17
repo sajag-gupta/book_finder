@@ -7,3 +7,4 @@ package-lock.json
 .work
 .review
 out
+data/covers.json

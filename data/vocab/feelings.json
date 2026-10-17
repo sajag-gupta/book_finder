@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "stressed",
+    "name": "Stressed",
+    "blurb": "Too much on your plate and your head will not switch off.",
+    "icon": "zap",
+    "words": ["stressed", "overwhelmed", "frazzled", "on edge", "wound up"],
+    "wants": [
+      {
+        "mood": "cozy",
+        "line": "Low-stakes stories where nothing terrible is allowed to happen for long."
+      },
+      { "mood": "comforting", "line": "Gentle books that settle your shoulders." },
+      { "mood": "whimsical", "line": "Playful worlds that pull your attention somewhere lighter." }
+    ]
+  },
+  {
+    "slug": "anxious",
+    "name": "Anxious",
+    "blurb": "Your mind is racing ahead and you want it to slow down.",
+    "icon": "activity",
+    "words": ["anxious", "worried", "nervous", "panicky", "uneasy"],
+    "wants": [
+      { "mood": "comforting", "line": "Warm, steady reads that do not spring nasty surprises." },
+      { "mood": "cozy", "line": "Small worlds, kind people and a cup of something hot." },
+      { "mood": "hopeful", "line": "Stories that quietly argue things will be okay." }
+    ]
+  },
+  {
+    "slug": "burned-out",
+    "name": "Burned out",
+    "blurb": "Running on empty and in need of something undemanding.",
+    "icon": "battery-low",
+    "words": ["burned out", "burnt out", "exhausted", "drained", "tired", "worn out"],
+    "wants": [
+      { "mood": "cozy", "line": "Comfort reading that asks nothing of you." },
+      { "mood": "whimsical", "line": "Charming, inventive stories with a light touch." },
+      { "mood": "nostalgic", "line": "Old favourites and comfort-food classics." }
+    ]
+  },
+  {
+    "slug": "lonely",
+    "name": "Lonely",
+    "blurb": "You would like company, even if it is on the page.",
+    "icon": "user",
+    "words": ["lonely", "isolated", "alone", "disconnected"],
+    "wants": [
+      { "mood": "comforting", "line": "Books that feel like a friend sitting beside you." },
+      { "mood": "hopeful", "line": "Stories of people finding their people." },
+      { "mood": "swoony", "line": "Romance that reminds you connection is possible." }
+    ]
+  },
+  {
+    "slug": "sad",
+    "name": "Sad",
+    "blurb": "Low and heavy, and not sure what would help.",
+    "icon": "cloud-rain",
+    "words": ["sad", "down", "low", "blue", "gloomy", "depressed"],
+    "wants": [
+      { "mood": "hopeful", "line": "Stories that let a little light back in." },
+      { "mood": "funny", "line": "Books that make you laugh when you did not expect to." },
+      { "mood": "comforting", "line": "Gentle company for a grey day." }
+    ]
+  },
+  {
+    "slug": "heartbroken",
+    "name": "Heartbroken",
+    "blurb": "Something ended and it still hurts.",
+    "icon": "heart-crack",
+    "words": ["heartbroken", "heartbreak", "breakup", "broken up", "grieving", "grief"],
+    "wants": [
+      { "mood": "heartbreaking", "line": "A good cry, if what you need is to let it out." },
+      { "mood": "hopeful", "line": "Stories about starting again." },
+      { "mood": "inspiring", "line": "Books about people who rebuilt and came out stronger." }
+    ]
+  },
+  {
+    "slug": "bored",
+    "name": "Bored",
+    "blurb": "Restless and in need of something to grab you.",
+    "icon": "hourglass",
+    "words": ["bored", "restless", "flat", "uninspired"],
+    "wants": [
+      { "mood": "adventurous", "line": "Big journeys that get you out of your chair." },
+      { "mood": "tense", "line": "Page-turners you will not be able to put down." },
+      { "mood": "mind-bending", "line": "Stories that rearrange how you think." }
+    ]
+  },
+  {
+    "slug": "restless",
+    "name": "Restless",
+    "blurb": "Itching for something bigger than your day.",
+    "icon": "compass",
+    "words": ["itchy", "stuck", "antsy", "wanderlust", "in a rut"],
+    "wants": [
+      { "mood": "epic", "line": "Sweeping worlds with room to get lost in." },
+      { "mood": "adventurous", "line": "Quests and voyages with real momentum." },
+      { "mood": "inspiring", "line": "Books that make you want to change something." }
+    ]
+  },
+  {
+    "slug": "numb",
+    "name": "Numb",
+    "blurb": "Flat and detached, and you would like to feel something.",
+    "icon": "snowflake",
+    "words": ["numb", "empty", "detached", "apathetic"],
+    "wants": [
+      { "mood": "haunting", "line": "Books with images that stay with you." },
+      { "mood": "heartbreaking", "line": "Stories with real emotional force." },
+      { "mood": "tense", "line": "Suspense that wakes your nerves up." }
+    ]
+  },
+  {
+    "slug": "angry",
+    "name": "Angry",
+    "blurb": "Frustrated and needing somewhere to put it.",
+    "icon": "flame",
+    "words": ["angry", "furious", "frustrated", "irritated", "resentful"],
+    "wants": [
+      { "mood": "dark", "line": "Grim, gritty stories that match your temper." },
+      { "mood": "witty", "line": "Sharp, clever books that turn irritation into fun." },
+      { "mood": "epic", "line": "Big, dramatic conflicts to channel it into." }
+    ]
+  },
+  {
+    "slug": "happy",
+    "name": "Happy",
+    "blurb": "In a good mood and wanting to keep it going.",
+    "icon": "smile",
+    "words": ["happy", "great", "good mood", "cheerful", "excited", "joyful"],
+    "wants": [
+      { "mood": "funny", "line": "Books that keep the laughs coming." },
+      { "mood": "swoony", "line": "Romance with all the butterflies." },
+      { "mood": "adventurous", "line": "Fun, fast journeys to ride the high." }
+    ]
+  },
+  {
+    "slug": "curious",
+    "name": "Curious",
+    "blurb": "Your brain is hungry for something new.",
+    "icon": "lightbulb",
+    "words": ["curious", "inquisitive", "wondering", "restless mind"],
+    "wants": [
+      { "mood": "thoughtful", "line": "Ideas worth turning over for days." },
+      { "mood": "mind-bending", "line": "Plots and premises that surprise you." },
+      { "mood": "mysterious", "line": "Puzzles with answers worth waiting for." }
+    ]
+  },
+  {
+    "slug": "nostalgic",
+    "name": "Nostalgic",
+    "blurb": "Missing an earlier time and wanting to visit it.",
+    "icon": "history",
+    "words": ["nostalgic", "wistful", "sentimental", "homesick"],
+    "wants": [
+      { "mood": "nostalgic", "line": "Old favourites and stories that feel like home." },
+      { "mood": "cozy", "line": "Comfort reads with the warmth of the past." },
+      { "mood": "melancholic", "line": "Bittersweet books that honour what is gone." }
+    ]
+  },
+  {
+    "slug": "hopeless",
+    "name": "Discouraged",
+    "blurb": "Losing faith that things will get better.",
+    "icon": "sunrise",
+    "words": ["discouraged", "hopeless", "defeated", "unmotivated", "doubtful"],
+    "wants": [
+      { "mood": "hopeful", "line": "Stories that rebuild your belief in the future." },
+      { "mood": "inspiring", "line": "Proof that people get through worse." },
+      { "mood": "funny", "line": "Humour as a way back to yourself." }
+    ]
+  }
+]
