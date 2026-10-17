@@ -1,0 +1,44 @@
+{
+  "slug": "the-lost-metal",
+  "title": "The Lost Metal",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780765391193",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense", "witty"],
+  "tropes": ["political-intrigue", "rebellion"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The fourth and last Wax and Wayne Mistborn novel, closing out the second era of the series. A shadowy enemy and a deepening crisis in the city set the lawman, his partner and their friends against a threat with global consequences.",
+  "readIf": "you've been following the Wax and Wayne books and want a high-stakes finale with the humour intact.",
+  "skipIf": "you haven't read the earlier Mistborn books, since the finale depends on them.",
+  "pairings": [
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "The series' starting point, if you want the original world and its plot to give this finale more weight.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Same author's larger epic, for a longer and more intricate shared-universe adventure.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "sabriel",
+      "reason": "A shorter, atmospheric fantasy with a distinct magic system and a heroine who faces something old.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765391193",
+    "https://hardcover.app/books/the-lost-metal"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

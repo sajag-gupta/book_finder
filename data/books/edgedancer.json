@@ -1,0 +1,44 @@
+{
+  "slug": "edgedancer",
+  "title": "Edgedancer",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781250166609",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "hopeful"],
+  "tropes": ["unlikely-friendship", "hidden-identity"],
+  "warnings": ["violence"],
+  "summary": "A short Stormlight Archive novella following Lift, a cheerful young thief who is also a powerful wind-riding Edgedancer. She is in a city where she is trying to keep her head down, until a threat pulls her into a task she can't ignore.",
+  "readIf": "you want a quick, funny and big-hearted taste of the Stormlight world focused on one character.",
+  "skipIf": "you haven't read at least the first two Stormlight books, as it depends on their world and events.",
+  "pairings": [
+    {
+      "slug": "tress-of-the-emerald-sea",
+      "reason": "Another light, warm and funny Sanderson story with a plucky heroine and a charming fairy-tale voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A short, whimsical fantasy with a headstrong heroine and a witty, wandering tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "The first Stormlight book, for fans who want to meet this world in its full scope.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250166609",
+    "https://hardcover.app/books/edgedancer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

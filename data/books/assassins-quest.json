@@ -1,0 +1,45 @@
+{
+  "slug": "assassins-quest",
+  "title": "Assassin's Quest",
+  "author": "Robin Hobb",
+  "isbn13": "9780553106404",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["fantasy", "adventure", "young-adult"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["heartbreaking", "epic", "melancholic"],
+  "tropes": ["quest", "redemption"],
+  "warnings": ["violence", "death", "grief"],
+  "summary": "The final book of the Farseer trilogy follows FitzChivalry, a royal bastard trained as a secret assassin, as he sets off on a long and lonely journey. The Six Duchies face invasion and Fitz has little left to lose. Read the earlier books first.",
+  "readIf": "you want a slow, deeply emotional fantasy ending that rewards investment in one character's long fall and recovery.",
+  "skipIf": "you want a quick read or a standalone story, as it is long and relies heavily on the earlier books.",
+  "pairings": [
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "Another slow, character-led epic fantasy about a young outsider who grows into something larger.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "tigana",
+      "reason": "A fantasy of memory, loss and quiet heroism with a similarly emotional pull.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "A grittier, funnier fantasy with an equally tortured protagonist.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553106404",
+    "https://en.wikipedia.org/wiki/Assassin's_Quest",
+    "https://hardcover.app/books/assassins-quest"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

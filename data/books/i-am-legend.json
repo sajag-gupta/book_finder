@@ -1,0 +1,44 @@
+{
+  "slug": "i-am-legend",
+  "title": "I Am Legend",
+  "author": "Richard Matheson",
+  "isbn13": "9780552106412",
+  "firstPublished": 1954,
+  "series": null,
+  "genres": ["science-fiction", "horror"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "haunting", "melancholic"],
+  "tropes": ["post-apocalyptic", "vampires", "survival"],
+  "warnings": ["violence", "death", "addiction", "animal-death"],
+  "summary": "Robert Neville seems to be the last man alive in Los Angeles after a plague has turned everyone else into nocturnal vampire-like creatures. He spends his days fortifying his house and hunting them, and his nights trying to endure.",
+  "readIf": "you like short, bleak survival stories that treat loneliness as the real horror.",
+  "skipIf": "you want the action of the films, since the book is slower, more reflective and quite downbeat.",
+  "pairings": [
+    {
+      "slug": "the-road",
+      "reason": "A spare story of survival in a ruined world, with the same bleakness and a very personal focus.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "salems-lot",
+      "reason": "A more traditional vampire novel with a small town at its centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "world-war-z-an-oral-history-of-the-zombie-war",
+      "reason": "A wider, global view of a plague that overturns civilisation, told as interviews.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780552106412",
+    "https://en.wikipedia.org/wiki/I_Am_Legend_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

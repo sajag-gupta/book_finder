@@ -1,0 +1,41 @@
+{
+  "slug": "heartstopper-volume-one",
+  "title": "Heartstopper: Volume One",
+  "author": "Alice Oseman",
+  "isbn13": "9781444968934",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["young-adult", "romance"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["swoony", "comforting", "hopeful"],
+  "tropes": ["friends-to-lovers", "coming-of-age", "slow-burn"],
+  "warnings": ["homophobia", "bullying"],
+  "summary": "A graphic novel set at a British boys' school. Charlie, who is openly gay, ends up sitting next to Nick, a friendly rugby player, and their friendship begins to turn into something more.",
+  "readIf": "you want a sweet, quick, illustrated love story that feels safe and kind.",
+  "skipIf": "you want a long, complex plot, since this first volume is light and short.",
+  "pairings": [
+    {
+      "slug": "simon-vs-the-homo-sapiens-agenda",
+      "reason": "A warm, funny coming-out story of first love among teenagers, in prose.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "aristotle-and-dante-discover-the-secrets-of-the-universe",
+      "reason": "A quieter, more reflective story of two boys discovering what they mean to each other.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "red-white-and-royal-blue",
+      "reason": "A grown-up, comic romance with the same sweetness and an enemies-to-lovers heart.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

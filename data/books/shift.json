@@ -1,0 +1,41 @@
+{
+  "slug": "shift",
+  "title": "Shift",
+  "author": "Hugh Howey",
+  "isbn13": "9780099580478",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["science-fiction", "dystopian", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "thoughtful"],
+  "tropes": ["dystopian-regime", "post-apocalyptic", "secret-society"],
+  "warnings": ["death", "violence", "manipulation"],
+  "summary": "The middle volume of the Silo series goes back in time to show how the underground silos came to exist. It follows people on both sides of the decisions that put thousands of lives under the earth.",
+  "readIf": "you enjoyed Wool and want the cold, creeping story of how the world got that way.",
+  "skipIf": "you want to start the Silo series here, since this book works best after Wool.",
+  "pairings": [
+    {
+      "slug": "wool",
+      "reason": "The book that opens the Silo story, tighter and more mystery-driven, and the natural companion to this prequel.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "Another look at how ordinary people and institutions fall apart, told with more tenderness.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A much shorter story of a controlled society built on a hidden lie.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9780099580478", "https://hardcover.app/books/shift"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

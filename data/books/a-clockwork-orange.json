@@ -1,0 +1,45 @@
+{
+  "slug": "a-clockwork-orange",
+  "title": "A Clockwork Orange",
+  "author": "Anthony Burgess",
+  "isbn13": "9780061170621",
+  "firstPublished": 1962,
+  "series": null,
+  "genres": ["science-fiction", "dystopian", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "mind-bending", "thoughtful"],
+  "tropes": ["dystopian-regime", "redemption"],
+  "warnings": ["violence", "sexual-assault", "torture"],
+  "summary": "Fifteen-year-old Alex narrates in an invented slang as he leads a gang through nights of violence. After his arrest, the state tries to remake him through an experimental treatment, raising questions about free will.",
+  "readIf": "you like short, audacious novels that challenge you with language and uncomfortable ideas.",
+  "skipIf": "you are sensitive to graphic violence, or you struggle with heavy invented dialect.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "Another classic about a state controlling its citizens' minds, though colder and more bureaucratic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "A short classic that studies cruelty in the young and what holds civilisation together.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "brave-new-world",
+      "reason": "A different kind of controlled society, where comfort and conditioning replace brutality.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061170621",
+    "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(novel)",
+    "https://hardcover.app/books/a-clockwork-orange"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

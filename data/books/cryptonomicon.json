@@ -1,0 +1,45 @@
+{
+  "slug": "cryptonomicon",
+  "title": "Cryptonomicon",
+  "author": "Neal Stephenson",
+  "isbn13": "9780434009534",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["science-fiction", "historical", "thriller"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["witty", "adventurous", "mind-bending"],
+  "tropes": ["dual-timeline", "war-story"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "Two timelines follow a codebreaker in the Second World War and his grandson, a computer expert, in the dot-com era. Both are tied to a hidden fortune and a plan to build a secure data haven.",
+  "readIf": "you enjoy very long, nerdy novels full of cryptography, history and digressions, with dry humour.",
+  "skipIf": "you want a tight plot, since it wanders widely and takes its time.",
+  "pairings": [
+    {
+      "slug": "snow-crash",
+      "reason": "The same author's wilder and shorter cyberpunk satire, with plenty of sharp humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "seveneves",
+      "reason": "Another Stephenson epic that stops for long, lively explanations of how things work.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "A very different, satirical take on the Second World War, with absurd humour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780434009534",
+    "https://en.wikipedia.org/wiki/Cryptonomicon",
+    "https://hardcover.app/books/cryptonomicon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

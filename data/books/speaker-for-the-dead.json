@@ -1,0 +1,45 @@
+{
+  "slug": "speaker-for-the-dead",
+  "title": "Speaker for the Dead",
+  "author": "Orson Scott Card",
+  "isbn13": "9780812550757",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["science-fiction", "classic", "adventure"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "melancholic", "hopeful"],
+  "tropes": ["first-contact", "redemption"],
+  "warnings": ["death", "grief", "domestic-violence"],
+  "summary": "Three thousand years after a famous war, a man travels to a quiet colony world to speak the truth about a dead person's life. There he meets the only other intelligent species humanity has found since.",
+  "readIf": "you like philosophical science fiction about understanding other beings and telling the truth about the dead.",
+  "skipIf": "you want another fast, military story, as this is slower, more reflective and very different in tone.",
+  "pairings": [
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "A thoughtful novel about a visitor learning to see another culture without judgement.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "childhoods-end",
+      "reason": "A classic about contact with beings far beyond us and what it means for humanity's future.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "contact",
+      "reason": "A hopeful, scientific take on first contact, balanced by questions of faith and trust.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780812550757",
+    "https://en.wikipedia.org/wiki/Speaker_for_the_Dead",
+    "https://hardcover.app/books/speaker-for-the-dead"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

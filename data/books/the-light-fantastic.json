@@ -1,0 +1,45 @@
+{
+  "slug": "the-light-fantastic",
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "isbn13": "9781407034454",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "witty"],
+  "tropes": ["quest", "satire"],
+  "warnings": [],
+  "summary": "The second Discworld novel follows a cowardly failed wizard and a cheerful tourist as the flat world faces a mysterious red star heading toward it. It picks up straight after the first book but works as a fresh comic fantasy.",
+  "readIf": "you like silly, quick-fire fantasy parody and want the Discworld at its most joke-dense.",
+  "skipIf": "you would rather read the first book before this direct continuation, or want a tightly plotted story.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Same absurd, quotable humour pointed at science fiction instead of fantasy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Pratchett again, this time with Neil Gaiman, with an apocalypse treated as a comic mishap.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "Another fantasy that loves the genre while teasing it, with dry narration and sharp one-liners.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781407034454",
+    "https://en.wikipedia.org/wiki/The_Light_Fantastic",
+    "https://hardcover.app/books/the-light-fantastic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-fires-of-heaven",
+  "title": "The Fires of Heaven",
+  "author": "Robert Jordan",
+  "isbn13": "9780356503868",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["fantasy", "adventure", "classic"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "tense"],
+  "tropes": ["chosen-one", "quest", "political-intrigue"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "In the fifth Wheel of Time book, the series' young heroes are scattered across different lands. Each pursues his or her own goals against the Dark One's growing power. It assumes you know the earlier books.",
+  "readIf": "you are already deep in the Wheel of Time and want the story's many threads to keep advancing.",
+  "skipIf": "you are new to the series or want a fast book, since it is long and moves slowly.",
+  "pairings": [
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Another vast fantasy series with multiple viewpoints and political scheming, though harsher in tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A newer epic with a similarly large cast, deep world-building and thorough magic.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A single-volume epic with dragons and cultures at odds, for a lot of world in one book.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356503868",
+    "https://en.wikipedia.org/wiki/The_Fires_of_Heaven",
+    "https://hardcover.app/books/the-fires-of-heaven"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rogue-protocol",
+  "title": "Rogue Protocol",
+  "author": "Martha Wells",
+  "isbn13": "9781250191786",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "tense", "witty"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "The third Murderbot novella. A self-aware security android, still hiding that it has freed itself, heads to an abandoned terraforming facility to dig into a shady corporation. There it meets a researcher team and a friendly, trusting bot.",
+  "readIf": "you want a short, sardonic sci-fi with plenty of action and an emotionally guarded hero.",
+  "skipIf": "you haven't read the first two novellas, because this one builds directly on them.",
+  "pairings": [
+    {
+      "slug": "all-systems-red",
+      "reason": "The series' first novella, if you want to start from the beginning of this character's story.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "Another dry, problem-solving narrator with sarcastic commentary, working through a hostile setting.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "ancillary-justice",
+      "reason": "If the AI's point of view is what appeals, this is a more serious and political take on a machine mind.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

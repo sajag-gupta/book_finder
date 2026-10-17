@@ -1,0 +1,45 @@
+{
+  "slug": "a-discovery-of-witches",
+  "title": "A Discovery of Witches",
+  "author": "Deborah Harkness",
+  "isbn13": "9780142429112",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["fantasy", "romance", "thriller"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["swoony", "mysterious", "adventurous"],
+  "tropes": ["witches", "vampires", "forbidden-love", "slow-burn"],
+  "warnings": ["violence", "death"],
+  "summary": "Diana Bishop is a historian and a witch who avoids magic. When she calls up a bewitched manuscript in an Oxford library, she attracts the attention of creatures of every kind, including a vampire geneticist.",
+  "readIf": "you like scholarly, romantic fantasy with libraries, old secrets and a slow-building love story.",
+  "skipIf": "you want a fast plot, since there are long stretches of travel, dinners and background detail.",
+  "pairings": [
+    {
+      "slug": "outlander",
+      "reason": "Another long, romantic story that mixes history, danger and a couple whose bond is tested by their worlds.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-historian",
+      "reason": "A bookish, slow-moving hunt through libraries and old records for something vampiric.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "A softer, more atmospheric tale of magic and romance, with beautiful descriptions.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780142429112",
+    "https://en.wikipedia.org/wiki/A_Discovery_of_Witches",
+    "https://hardcover.app/books/a-discovery-of-witches"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

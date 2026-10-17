@@ -1,0 +1,45 @@
+{
+  "slug": "god-emperor-of-dune",
+  "title": "God Emperor of Dune",
+  "author": "Frank Herbert",
+  "isbn13": "9780425062333",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "classic"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "dark", "epic"],
+  "tropes": ["political-intrigue", "dystopian-regime", "rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "Thousands of years after the earlier Dune novels, one ruler has held absolute power across the empire for a very long time. His rule is now being questioned by those closest to him. The fourth Dune book is mostly philosophy and argument.",
+  "readIf": "you want ideas about power, destiny and the cost of a long peace more than action.",
+  "skipIf": "you want swords and desert battles, or you have not read the earlier Dune books.",
+  "pairings": [
+    {
+      "slug": "foundation",
+      "reason": "Another far-future series about the forces that shape civilisations over centuries, argued through debate.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "A thoughtful, quieter science-fiction novel about politics, culture and a lone outsider.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "A deep, strange far-future saga with big ideas about religion and power.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425062333",
+    "https://en.wikipedia.org/wiki/God_Emperor_of_Dune",
+    "https://hardcover.app/books/god-emperor-of-dune"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

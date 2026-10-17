@@ -1,0 +1,44 @@
+{
+  "slug": "for-we-are-many",
+  "title": "For We Are Many",
+  "author": "Dennis E. Taylor",
+  "isbn13": "9781543657326",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "thoughtful"],
+  "tropes": ["artificial-intelligence", "space-survival"],
+  "warnings": ["death", "violence"],
+  "summary": "Bob is a software copy of a man who died, now running as a self-replicating space probe and exploring the stars. In this second Bobiverse book, the growing group of Bobs spread out, each with their own mission and their own problems.",
+  "readIf": "you like cheerful, nerdy science fiction with a lot of problem-solving and affectionate humour.",
+  "skipIf": "you have not read We Are Legion (We Are Bob), since this picks up directly from it.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "Another warm, funny science-fiction story about clever problem-solving far from home.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "we-are-legion-we-are-bob",
+      "reason": "The first book in the Bobiverse, the best place to begin.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "redshirts",
+      "reason": "A comic science-fiction story that treats its own premise with similar irreverence.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781543657326",
+    "https://hardcover.app/books/for-we-are-many"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "ready-player-two",
+  "title": "Ready Player Two",
+  "author": "Ernest Cline",
+  "isbn13": "9781784758028",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "dystopian", "fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "nostalgic", "funny"],
+  "tropes": ["quest", "artificial-intelligence"],
+  "warnings": [],
+  "summary": "Following on from Ready Player One, Wade Watts discovers a new technology that makes the virtual world feel completely real, along with a fresh hunt for hidden prizes. It is another pop-culture scavenger hunt with higher stakes.",
+  "readIf": "you enjoyed the first book's 1980s references and want another round of puzzles and in-jokes.",
+  "skipIf": "you have not read Ready Player One, or you want characters with more depth than nostalgia.",
+  "pairings": [
+    {
+      "slug": "snow-crash",
+      "reason": "The older, wilder ancestor of virtual-world fiction, with sharper satire and a faster pulse.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "dungeon-crawler-carl",
+      "reason": "A newer game-like adventure with plenty of humour, built on survival and absurd rules.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "enders-game",
+      "reason": "A classic about a gifted kid inside a game that matters more than it seems.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784758028",
+    "https://en.wikipedia.org/wiki/Ready_Player_Two",
+    "https://hardcover.app/books/ready-player-two"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "lord-of-chaos",
+  "title": "Lord of Chaos",
+  "author": "Robert Jordan",
+  "isbn13": "9780356503875",
+  "firstPublished": 1994,
+  "series": null,
+  "genres": ["fantasy", "adventure", "epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "tense"],
+  "tropes": ["chosen-one", "political-intrigue", "quest"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "In the sixth Wheel of Time book, the young heroes are no longer villagers but figures with armies and enemies. Alliances shift among rival powers while the Dark One's reach grows. It is for readers who have the earlier books behind them.",
+  "readIf": "you are following the Wheel of Time and enjoy sprawling politics, many characters and slow-building showdowns.",
+  "skipIf": "you are new to the series or want a short, fast fantasy, since this is long and deeply tied to the earlier books.",
+  "pairings": [
+    {
+      "slug": "a-clash-of-kings",
+      "reason": "A series with several viewpoints and rival factions, though with a grittier and more violent feel.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "words-of-radiance",
+      "reason": "A newer epic with a large cast, in which long set-ups pay off in big, well-planned battles.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A tighter, quicker fantasy with a rebellion plot and a well-defined magic system.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356503875",
+    "https://en.wikipedia.org/wiki/Lord_of_Chaos",
+    "https://hardcover.app/books/lord-of-chaos"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

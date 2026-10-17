@@ -1,0 +1,45 @@
+{
+  "slug": "a-feast-for-crows",
+  "title": "A Feast for Crows",
+  "author": "George R.R. Martin",
+  "isbn13": "9780007548279",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["dark", "tense", "melancholic"],
+  "tropes": ["political-intrigue", "morally-grey"],
+  "warnings": ["violence", "death", "war", "sexual-content", "torture"],
+  "summary": "The fourth A Song of Ice and Fire book follows the realm after its most violent war, as the survivors scramble for power and safety. It spotlights only some of the series' viewpoint characters, in a more slow-building, scheming mood.",
+  "readIf": "you are deep into the series and enjoy its intrigue and moral compromise more than its battles.",
+  "skipIf": "you haven't read the earlier books or you want a fast, battle-heavy continuation.",
+  "pairings": [
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "An older, slower epic with the same fondness for castles, scheming and a kingdom sliding toward trouble.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "assassins-apprentice",
+      "reason": "A more personal, melancholy fantasy about a royal court's dangers, told through one wary narrator.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A large, standalone epic with court politics, rival queens and a sense of empire, wrapped up in one volume.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007548279",
+    "https://en.wikipedia.org/wiki/A_Feast_for_Crows",
+    "https://hardcover.app/books/a-feast-for-crows"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

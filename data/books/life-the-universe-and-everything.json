@@ -1,0 +1,45 @@
+{
+  "slug": "life-the-universe-and-everything",
+  "title": "Life, the Universe and Everything",
+  "author": "Douglas Adams",
+  "isbn13": "9781529034547",
+  "firstPublished": 1982,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "The third Hitchhiker's book. Arthur Dent and Ford Prefect, stranded on prehistoric Earth, are pulled into an effort to stop a galaxy-wide menace. It is absurd, short and full of jokes about science and bureaucracy.",
+  "readIf": "you like absurd science-fiction comedy and are already a fan of the series.",
+  "skipIf": "you haven't read the first two books, because the jokes build on their setup.",
+  "pairings": [
+    {
+      "slug": "the-colour-of-magic",
+      "reason": "Another witty, satirical comic fantasy that pokes fun at its own genre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "A comedy about the end of the world, with similar English dry humour and cosmic scale.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "redshirts",
+      "reason": "A newer science-fiction comedy that turns genre conventions inside out.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529034547",
+    "https://en.wikipedia.org/wiki/Life%2C_the_Universe_and_Everything",
+    "https://hardcover.app/books/life-the-universe-and-everything"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "skyward",
+  "title": "Skyward",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780399555787",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "young-adult", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "inspiring", "hopeful"],
+  "tropes": ["coming-of-age", "found-family"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "On a besieged planet where humanity hides from alien attackers, a teenage girl wants to be a fighter pilot. Her father was branded a coward, and she must win a place in the training school despite it.",
+  "readIf": "you like a determined young heroine and a fast space-fighter story with real heart.",
+  "skipIf": "you want hard science fiction, as the flying is exciting but the physics is loose.",
+  "pairings": [
+    {
+      "slug": "enders-game",
+      "reason": "Another young person trained for a war against alien forces, with a heavier look at cost and manipulation.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A comparable teen heroine with a stained family name and a fierce will to prove herself.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A harder-edged coming-of-age story in a ruthless military school setting.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780399555787",
+    "https://en.wikipedia.org/wiki/Skyward_(novel)",
+    "https://hardcover.app/books/skyward"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "eldest",
+  "title": "Eldest",
+  "author": "Christopher Paolini",
+  "isbn13": "9781933499482",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic", "hopeful"],
+  "tropes": ["dragons", "chosen-one", "coming-of-age"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "Second Inheritance book. The young dragon rider Eragon and his dragon go to the hidden elves for training, while his cousin Roran is left to defend their village against soldiers of the empire.",
+  "readIf": "you like classic dragon-and-rider fantasy with training, politics and big battles.",
+  "skipIf": "you haven't read Eragon, since the story picks up directly after it.",
+  "pairings": [
+    {
+      "slug": "eragon",
+      "reason": "The first Inheritance book, which should come before this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "A grown-up, romantic take on dragons and the training that bonds riders to them.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "A quieter, wiser classic about a gifted youth learning what his magic costs.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781933499482",
+    "https://en.wikipedia.org/wiki/Eldest",
+    "https://hardcover.app/books/eldest"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

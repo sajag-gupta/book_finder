@@ -1,0 +1,44 @@
+{
+  "slug": "blood-over-bright-haven",
+  "title": "Blood Over Bright Haven",
+  "author": "M.L. Wang",
+  "isbn13": "9781529935523",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "thoughtful", "haunting"],
+  "tropes": ["dystopian-regime"],
+  "warnings": ["death", "prejudice", "manipulation"],
+  "summary": "In a gleaming city powered by spells cast in a great tower, a woman becomes the first of her sex admitted among its scholars. Her dream begins to clash with what keeps the city running.",
+  "readIf": "you like a standalone fantasy that is angry about power and who gets to hold it.",
+  "skipIf": "you want a cosy or escapist fantasy, since this one is grim and bitter in tone.",
+  "pairings": [
+    {
+      "slug": "babel",
+      "reason": "Another fantasy about scholars, privilege and the hidden cost behind a shining institution.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-dispossessed",
+      "reason": "A thoughtful story about the ideals of a society and what they ask of the people living inside it.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-fifth-season",
+      "reason": "A larger, harsher fantasy about a world that depends on those it oppresses.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529935523",
+    "https://hardcover.app/books/blood-over-bright-haven"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

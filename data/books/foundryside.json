@@ -1,0 +1,45 @@
+{
+  "slug": "foundryside",
+  "title": "Foundryside",
+  "author": "Robert Jackson Bennett",
+  "isbn13": "9780525573845",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense", "witty"],
+  "tropes": ["heist", "rebellion", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "Sancia is a thief in a city where objects can be written with commands that convince them reality works differently. When she steals a strange artefact from a merchant house, she is hunted, and her theft threatens the city's balance.",
+  "readIf": "you like fast, inventive fantasy with a thief heroine and a magic system that feels almost like engineering.",
+  "skipIf": "you want a quiet, slow-building fantasy or dislike stories with heavy action.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another clever con-and-theft story set in a vivid city run by wealthy interests.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "A crew of skilled misfits pulling off an impossible job in a rich fantasy city.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A heist, a rebellion and a carefully designed magic system, on an epic scale.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525573845",
+    "https://en.wikipedia.org/wiki/Foundryside",
+    "https://hardcover.app/books/foundryside"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

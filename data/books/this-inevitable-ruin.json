@@ -1,0 +1,44 @@
+{
+  "slug": "this-inevitable-ruin",
+  "title": "This Inevitable Ruin",
+  "author": "Matt Dinniman",
+  "isbn13": "9780241829936",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "tense", "dark"],
+  "tropes": ["survival", "found-family"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "A recent entry in the Dungeon Crawler Carl series, where a man and his former cat endure a deadly televised dungeon created by aliens. The stakes and absurdity keep escalating for a cast that has grown beyond the two original survivors.",
+  "readIf": "you're caught up with the series and want more of its jokes, loot and increasingly cinematic battles.",
+  "skipIf": "you haven't read the earlier books, since the series builds heavily and this is not a starting point.",
+  "pairings": [
+    {
+      "slug": "ready-player-two",
+      "reason": "More game-world spectacle and pop culture, if you want a lighter and less brutal take on the genre.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "redshirts",
+      "reason": "Also mocks the logic of a deadly, scripted setting for its characters, but in a tighter, wittier book.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-kaiju-preservation-society",
+      "reason": "Another fast, fun sci-fi with monsters, banter and cheerful absurdity.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241829936",
+    "https://hardcover.app/books/this-inevitable-ruin"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

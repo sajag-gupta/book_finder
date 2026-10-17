@@ -1,0 +1,45 @@
+{
+  "slug": "cibola-burn",
+  "title": "Cibola Burn",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316217606",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["survival", "forced-proximity"],
+  "warnings": ["violence", "death"],
+  "summary": "The fourth Expanse novel. Humanity can now travel to hundreds of new worlds, and the first settlers on one are in a standoff with a corporate expedition that holds a legal claim. A familiar crew is sent to calm things down.",
+  "readIf": "you like space opera that treats a colony frontier as a conflict between people, not just monsters.",
+  "skipIf": "you want to jump in cold, since the main characters and their history need earlier books.",
+  "pairings": [
+    {
+      "slug": "the-martian",
+      "reason": "Shares the pleasure of clever people solving hard survival problems on a hostile world.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "children-of-time",
+      "reason": "Another story about settling a new planet that turns out to be less empty than expected.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "A stranger and more unsettling look at an alien landscape and the people sent to survey it.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316217606",
+    "https://en.wikipedia.org/wiki/Cibola_Burn",
+    "https://hardcover.app/books/cibola-burn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

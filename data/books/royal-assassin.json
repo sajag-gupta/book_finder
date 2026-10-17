@@ -1,0 +1,45 @@
+{
+  "slug": "royal-assassin",
+  "title": "Royal Assassin",
+  "author": "Robin Hobb",
+  "isbn13": "9780593722831",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["fantasy", "mystery", "thriller"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["heartbreaking", "melancholic", "tense"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["violence", "death", "torture", "grief"],
+  "summary": "Second Farseer book. Fitz, a royal bastard trained as a secret assassin, is drawn deeper into a court of rival schemers while raiders strike the coast and the kingdom's rulers grow weaker.",
+  "readIf": "you like slow, emotional fantasy told from inside one troubled, loyal narrator.",
+  "skipIf": "you want fast pacing or a happy outcome, as this book is long and often painful.",
+  "pairings": [
+    {
+      "slug": "assassins-apprentice",
+      "reason": "The first Farseer book, which should be read before this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Court politics where honour and ambition collide, with a bigger cast and a faster pulse.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "tigana",
+      "reason": "Another emotionally rich fantasy about loss, loyalty and what a person owes to their homeland.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593722831",
+    "https://en.wikipedia.org/wiki/Royal_Assassin",
+    "https://hardcover.app/books/royal-assassin"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

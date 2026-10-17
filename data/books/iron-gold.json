@@ -1,0 +1,45 @@
+{
+  "slug": "iron-gold",
+  "title": "Iron Gold",
+  "author": "Pierce Brown",
+  "isbn13": "9780425285916",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "young-adult"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["rebellion", "war-story", "revenge"],
+  "warnings": ["violence", "death", "war", "torture"],
+  "summary": "The fourth Red Rising book, which picks up years after the first trilogy ends. A solar system in the aftermath of revolution is anything but peaceful, and new viewpoint characters join the old hero as the fighting turns messy.",
+  "readIf": "you loved the first trilogy and want its action and politics broadened to a wider cast.",
+  "skipIf": "you haven't read the first three books, as this has major consequences from them.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "A shorter, simpler dystopian fight against a ruling class, if you want the template for this kind of story.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Another multi-viewpoint tale where power changes hands and characters are in real danger.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A more grounded space saga with a similar scale of political and military conflict.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425285916",
+    "https://en.wikipedia.org/wiki/Iron_Gold",
+    "https://hardcover.app/books/iron-gold"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "artificial-condition",
+  "title": "Artificial Condition",
+  "author": "Martha Wells",
+  "isbn13": "9781250186935",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "dystopian"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "tense", "witty"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "The second Murderbot novella. A security android that secretly hacked its own control system tries to uncover what happened in its past, travelling with the help of a very opinionated spaceship intelligence. It's a short, sardonic read.",
+  "readIf": "you want a sarcastic, short sci-fi read about an AI that would rather watch TV than fight.",
+  "skipIf": "you haven't read the first novella, which sets up the central character and its secret.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Shares the dry, deadpan humour and a reluctant protagonist dragged through space against their will.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-long-way-to-a-small-angry-planet",
+      "reason": "A warm, crew-centred space story that also treats nonhuman characters with real tenderness.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "children-of-time",
+      "reason": "Another thoughtful sci-fi book about non-human intelligence, but sweeping and serious across generations.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250186935",
+    "https://hardcover.app/books/artificial-condition"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-lost-hero",
+  "title": "The Lost Hero",
+  "author": "Rick Riordan",
+  "isbn13": "9781484441343",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "funny", "whimsical"],
+  "tropes": ["gods-and-myth", "quest", "amnesia", "found-family"],
+  "warnings": ["violence"],
+  "summary": "A teenage boy wakes on a school bus with no memory, and soon finds he is a demigod, the child of a Greek or Roman god. This opens Heroes of Olympus, a follow-on to Percy Jackson, and introduces new heroes sent on a quest.",
+  "readIf": "you like Percy Jackson's mix of Greek myth, snark and teen friendship and want a fresh cast.",
+  "skipIf": "you have not read Percy Jackson, since many references land better after it, or you want a short read.",
+  "pairings": [
+    {
+      "slug": "the-lightning-thief",
+      "reason": "The original Percy Jackson book, which sets up the world and the camp that this series builds on.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fablehaven",
+      "reason": "Another middle-grade adventure with a hidden magical world and siblings facing its dangers.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A grander and more serious adventure with a young hero on a long journey.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781484441343",
+    "https://en.wikipedia.org/wiki/The_Lost_Hero",
+    "https://hardcover.app/books/the-lost-hero"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

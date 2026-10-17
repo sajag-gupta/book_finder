@@ -1,0 +1,45 @@
+{
+  "slug": "the-great-hunt",
+  "title": "The Great Hunt",
+  "author": "Robert Jordan",
+  "isbn13": "9780748115358",
+  "firstPublished": 1990,
+  "series": null,
+  "genres": ["fantasy", "classic", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "adventurous"],
+  "tropes": ["quest", "chosen-one"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The second book of a sprawling fantasy series. A hunt begins across several lands for a legendary horn, while a young man still reeling from a prophecy about him struggles to control a power he doesn't want.",
+  "readIf": "you like a big, traditional fantasy series with a widening cast and lots of world-building.",
+  "skipIf": "you haven't read the first book, because it assumes you already know the main cast.",
+  "pairings": [
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "The first book of the same series, worth reading first because this one picks up straight after it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A modern epic with a similar scale and a slow build toward huge, intertwined stakes.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Equally long and political, with a harder edge and a much less certain fate for its heroes.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780748115358",
+    "https://en.wikipedia.org/wiki/The_Great_Hunt",
+    "https://hardcover.app/books/the-great-hunt"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "dark-age",
+  "title": "Dark Age",
+  "author": "Pierce Brown",
+  "isbn13": "9781473646766",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "dystopian", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["dark", "tense", "epic"],
+  "tropes": ["war-story", "rebellion"],
+  "warnings": ["violence", "war", "death", "torture"],
+  "summary": "Fifth in the Red Rising series. A young Republic is dragged into a brutal war across the planets, told from several viewpoints on different sides as the conflict gets personal.",
+  "readIf": "you like relentless, high-stakes science fiction with huge battles and a cast that keeps being tested.",
+  "skipIf": "you haven't read the earlier books, because this volume expects you to know the factions and their grudges.",
+  "pairings": [
+    {
+      "slug": "the-forever-war",
+      "reason": "A thoughtful, bitter novel about soldiers fighting across vast distances, a calmer counterpoint to this one.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Similar multi-sided politics where nobody is safe and any alliance may break.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A grimmer, earthier look at war from inside the ranks, with a fantasy backdrop.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473646766",
+    "https://en.wikipedia.org/wiki/Dark_Age_(novel)",
+    "https://hardcover.app/books/dark-age"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

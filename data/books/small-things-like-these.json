@@ -1,0 +1,45 @@
+{
+  "slug": "small-things-like-these",
+  "title": "Small Things Like These",
+  "author": "Claire Keegan",
+  "isbn13": "9780571368709",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "haunting", "melancholic"],
+  "tropes": ["small-town"],
+  "warnings": ["abuse"],
+  "summary": "A short novel set in a small Irish town in the weeks before Christmas in 1985. A coal merchant and father of five makes a delivery that makes him question what the town prefers not to see, and what he can do about it.",
+  "readIf": "you want a quiet, short, powerful read about conscience and small moments of courage.",
+  "skipIf": "you want a lot of plot, or find stories about institutional cruelty hard to read.",
+  "pairings": [
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A restrained novel about a man whose silence costs him, told with the same careful understatement.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "olive-kitteridge",
+      "reason": "Short, quiet stories of ordinary lives in a small community, with a similar moral clarity.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-light-between-oceans",
+      "reason": "Another story about a decent man facing a moral choice that cannot be undone.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780571368709",
+    "https://en.wikipedia.org/wiki/Small_Things_like_These",
+    "https://hardcover.app/books/small-things-like-these"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

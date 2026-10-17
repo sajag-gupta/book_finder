@@ -1,0 +1,45 @@
+{
+  "slug": "the-graveyard-book",
+  "title": "The Graveyard Book",
+  "author": "Neil Gaiman",
+  "isbn13": "9780747596844",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "spooky", "hopeful"],
+  "tropes": ["found-family", "coming-of-age"],
+  "warnings": ["death", "violence"],
+  "summary": "A toddler escapes the murder of his family and wanders into a graveyard, where the ghosts raise him. Nobody Owens grows up among the dead while the man who killed his family is still looking for him.",
+  "readIf": "you like a warm, eerie story about growing up and finding where you belong.",
+  "skipIf": "you want a plot that rushes forward, as it is episodic, with each chapter covering a new year.",
+  "pairings": [
+    {
+      "slug": "coraline",
+      "reason": "Another short, creepy Gaiman story that treats fear with a child's courage.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-ocean-at-the-end-of-the-lane",
+      "reason": "A more adult, wistful story of a child facing something older than he can understand.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-jungle-book",
+      "reason": "The inspiration for this novel: a child raised by animals instead of ghosts.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780747596844",
+    "https://en.wikipedia.org/wiki/The_Graveyard_Book",
+    "https://hardcover.app/books/the-graveyard-book-2008"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-outsider",
+  "title": "The Outsider",
+  "author": "Stephen King",
+  "isbn13": "9781501180989",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["detective", "monster", "small-town"],
+  "warnings": ["child-death", "violence", "death", "gore", "grief"],
+  "summary": "A boy is found murdered in a small Oklahoma town, and all the evidence points to a well-liked coach. Yet he also has solid proof that he was elsewhere. A detective must figure out how both can be true.",
+  "readIf": "you like King when he blends a police procedural with the supernatural, and enjoy a slow build of dread.",
+  "skipIf": "you would find a murdered child and graphic descriptions upsetting, as the opening is disturbing.",
+  "pairings": [
+    {
+      "slug": "the-silence-of-the-lambs",
+      "reason": "A classic about investigating a monstrous killer, with the same procedural focus.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "salems-lot",
+      "reason": "Another King story of a small town infiltrated by something evil and the few who see it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-bone-collector",
+      "reason": "A faster, plot-driven hunt for a killer, with fewer supernatural elements.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781501180989",
+    "https://en.wikipedia.org/wiki/The_Outsider_(King_novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

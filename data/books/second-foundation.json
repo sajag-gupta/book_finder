@@ -1,0 +1,45 @@
+{
+  "slug": "second-foundation",
+  "title": "Second Foundation",
+  "author": "Isaac Asimov",
+  "isbn13": "9780553900361",
+  "firstPublished": 1952,
+  "series": null,
+  "genres": ["science-fiction", "classic", "fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "mysterious", "adventurous"],
+  "tropes": ["secret-society", "political-intrigue", "quest"],
+  "warnings": [],
+  "summary": "Asimov's Foundation series follows a plan to shorten the dark age after a galactic empire collapses. This third book turns on a hunt for a rumoured second group of scientists, said to be guarding the plan from somewhere unknown.",
+  "readIf": "you like classic idea-driven science fiction where clever people outwit each other and the twists are intellectual.",
+  "skipIf": "you want action or rounded characters, or you have not read the earlier Foundation books.",
+  "pairings": [
+    {
+      "slug": "foundation-and-empire",
+      "reason": "The book that comes right before it in the series, and the one to read first.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "childhoods-end",
+      "reason": "Another classic from the golden age, with a big idea about humanity's future and a surprising turn.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "dune",
+      "reason": "A later, richer story of power and prediction across a galaxy-spanning empire.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553900361",
+    "https://en.wikipedia.org/wiki/Second_Foundation",
+    "https://hardcover.app/books/second-foundation"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-path-of-daggers",
+  "title": "The Path of Daggers",
+  "author": "Robert Jordan",
+  "isbn13": "9781575110455",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["fantasy", "epic-fantasy", "young-adult"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "tense", "adventurous"],
+  "tropes": ["chosen-one", "war-story", "political-intrigue"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The eighth Wheel of Time book. The series follows a young man marked to face the Dark One, and in this installment armies move and alliances are tested as several leaders pursue their own plans across the continent.",
+  "readIf": "you are far into the Wheel of Time and enjoy its many plots, politics and slow-turning world.",
+  "skipIf": "you have not read the series so far, or you dislike slow middle volumes.",
+  "pairings": [
+    {
+      "slug": "a-clash-of-kings",
+      "reason": "Another multi-viewpoint epic where several factions struggle for control of the same realm.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A single, self-contained epic with a similar breadth of politics, dragons and prophecy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "gardens-of-the-moon",
+      "reason": "A much denser, less forgiving epic fantasy for readers who like to be thrown into a big world.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781575110455",
+    "https://en.wikipedia.org/wiki/The_Path_of_Daggers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

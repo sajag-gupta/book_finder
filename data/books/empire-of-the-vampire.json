@@ -1,0 +1,45 @@
+{
+  "slug": "empire-of-the-vampire",
+  "title": "Empire of the Vampire",
+  "author": "Jay Kristoff",
+  "isbn13": "9781250245281",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy", "horror", "dystopian"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "epic", "tense"],
+  "tropes": ["vampires", "monster", "morally-grey"],
+  "warnings": ["violence", "gore", "death", "sexual-content"],
+  "summary": "Gabriel de Leon, the last of a holy order of vampire hunters, tells a chronicler the story of his life. The sun has been gone for decades and the night belongs to vampires, so his story is one of war, faith and loss.",
+  "readIf": "you want a bloody, grown-up vampire fantasy with a world-weary narrator telling his own story.",
+  "skipIf": "you dislike graphic violence, or you want a short book with a lot of lightness.",
+  "pairings": [
+    {
+      "slug": "interview-with-the-vampire",
+      "reason": "Also built around a vampire telling his life to a listener, though far more brooding and personal than martial.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "A similarly hard, funny-bleak fantasy with scarred fighters and little interest in heroism.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "salems-lot",
+      "reason": "A classic of vampires overrunning a community, with a much smaller scale and a slow creeping dread.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250245281",
+    "https://en.wikipedia.org/wiki/Empire_of_the_Vampire",
+    "https://hardcover.app/books/empire-of-the-vampire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

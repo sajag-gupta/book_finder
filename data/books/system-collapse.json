@@ -1,0 +1,44 @@
+{
+  "slug": "system-collapse",
+  "title": "System Collapse",
+  "author": "Martha Wells",
+  "isbn13": "9781250826985",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "dystopian"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["witty", "tense"],
+  "tropes": ["artificial-intelligence"],
+  "warnings": ["violence"],
+  "summary": "The newest Murderbot novel. The sardonic security android who has freed itself from its makers is back with its crew on a colony world, facing a dangerous threat while its own anxieties act up.",
+  "readIf": "you already love Murderbot and want another dose of its anxious, funny inner voice.",
+  "skipIf": "you are new to the series, as this installment leans on earlier stories.",
+  "pairings": [
+    {
+      "slug": "all-systems-red",
+      "reason": "The first Murderbot story, if you want to start at the beginning before this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "ancillary-justice",
+      "reason": "Another story told by an artificial mind, though more formal and politically heavy.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-psalm-for-the-wild-built",
+      "reason": "A softer, more reflective story about a robot and a person learning to understand one another.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250826985",
+    "https://hardcover.app/books/system-collapse"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

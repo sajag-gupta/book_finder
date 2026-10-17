@@ -1,0 +1,44 @@
+{
+  "slug": "world-war-z-an-oral-history-of-the-zombie-war",
+  "title": "World War Z: An Oral History of the Zombie War",
+  "author": "Max Brooks",
+  "isbn13": "9780715653739",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "thoughtful"],
+  "tropes": ["post-apocalyptic", "survival", "monster"],
+  "warnings": ["violence", "death", "gore", "war", "pandemic"],
+  "summary": "Told as a collection of interviews gathered years after a global zombie plague, this novel lets survivors from many countries describe how it began, how governments failed and how humanity fought back.",
+  "readIf": "you like zombie stories that read like a global history, with variety across places and voices.",
+  "skipIf": "you want one central hero or a single driving plot, since it's a mosaic of accounts.",
+  "pairings": [
+    {
+      "slug": "station-eleven",
+      "reason": "Another large-scale pandemic story that follows many lives, though quieter, with more beauty and hope.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "i-am-legend",
+      "reason": "The shorter, lonelier classic of one man facing a world overrun by infected monsters.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-stand",
+      "reason": "Another sweeping story of societal collapse after plague and the rebuilding that follows, with more fantasy.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780715653739",
+    "https://hardcover.app/books/world-war-z"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

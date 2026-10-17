@@ -1,0 +1,45 @@
+{
+  "slug": "the-dragon-reborn",
+  "title": "The Dragon Reborn",
+  "author": "Robert Jordan",
+  "isbn13": "9780356525235",
+  "firstPublished": 1991,
+  "series": null,
+  "genres": ["fantasy", "adventure", "classic"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "adventurous"],
+  "tropes": ["chosen-one", "quest"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "Third in a long epic fantasy series. The young man at the centre of an ancient prophecy has gone off alone to face his fate, while his friends and rival factions each set out in different directions to find him or stop him.",
+  "readIf": "you like long, sweeping fantasy with prophecy, politics and a large scattered cast.",
+  "skipIf": "you haven't read the earlier books, since the plot depends heavily on them.",
+  "pairings": [
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "The first book of this series, for a reader who wants to start where the story begins.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A faster, tighter epic with a similar fate-driven hero and a clever magic system.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A newer epic of comparable size, with many plot threads coming together slowly.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356525235",
+    "https://en.wikipedia.org/wiki/The_Dragon_Reborn",
+    "https://hardcover.app/books/the-dragon-reborn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

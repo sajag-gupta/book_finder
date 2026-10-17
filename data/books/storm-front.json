@@ -1,0 +1,45 @@
+{
+  "slug": "storm-front",
+  "title": "Storm Front",
+  "author": "Jim Butcher",
+  "isbn13": "9780593335154",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["mystery", "fantasy", "science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["witty", "tense", "mysterious"],
+  "tropes": ["detective", "witches"],
+  "warnings": ["violence", "death"],
+  "summary": "Harry Dresden is a wizard for hire in modern Chicago who consults for the police and lists himself in the phone book. The first Dresden Files book sends him after a magical double murder while he's on shaky terms with the city's magic community.",
+  "readIf": "you like wisecracking urban fantasy that blends hard-boiled detective plots with magic.",
+  "skipIf": "you want lyrical prose or a deeply original world, since the pleasure here is voice and pace.",
+  "pairings": [
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A lower-key detective series with a wry, bruised investigator, if you'd like the sleuthing without the magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Another funny, irreverent take on magic and supernatural trouble in a modern setting.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-maltese-falcon",
+      "reason": "The classic hard-boiled detective voice that this series riffs on, with clipped wit and moral grit.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593335154",
+    "https://en.wikipedia.org/wiki/Storm_Front_(novel)",
+    "https://hardcover.app/books/storm-front"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

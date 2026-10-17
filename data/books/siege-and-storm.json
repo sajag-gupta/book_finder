@@ -1,0 +1,45 @@
+{
+  "slug": "siege-and-storm",
+  "title": "Siege and Storm",
+  "author": "Leigh Bardugo",
+  "isbn13": "9781432894610",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "swoony"],
+  "tropes": ["love-triangle", "chosen-one", "morally-grey"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The second Grisha book follows a young woman with a rare power who is hunted by enemies. A charming privateer offers her an alliance at sea, and she must decide how much of her own strength she is willing to claim.",
+  "readIf": "you liked Shadow and Bone and want a faster, more dangerous sequel with a new charismatic ally.",
+  "skipIf": "you have not read the first book, or you are tired of love triangles.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "Set in the same world, with sharper plotting and a crew of schemers.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "Another young-adult fantasy with a rebel heroine and a ruthless empire.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "A heroine with an unexpected power, courted by dangerous people on opposing sides.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781432894610",
+    "https://en.wikipedia.org/wiki/Siege_and_Storm",
+    "https://hardcover.app/books/siege-and-storm"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

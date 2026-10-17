@@ -1,0 +1,45 @@
+{
+  "slug": "rhythm-of-war",
+  "title": "Rhythm of War",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780575093393",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "thoughtful"],
+  "tropes": ["war-story", "political-intrigue"],
+  "warnings": ["violence", "war", "death", "mental-illness"],
+  "summary": "The fourth Stormlight Archive novel, in which a long war has settled into a stalemate and each side races to find a technological or magical edge. It puts a lot of weight on how its main characters cope with trauma and duty.",
+  "readIf": "you are already reading the series and want a heavier focus on mental health, spycraft and invention.",
+  "skipIf": "you're new to the series, since the previous three books are necessary context.",
+  "pairings": [
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A big, self-contained epic with multiple viewpoints and ancient powers, if you want something that ends in one book.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-fifth-season",
+      "reason": "Another fantasy where the world's natural forces feel enormous and characters are shaped by trauma.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Same author, more tightly paced and a good palate cleanser for his clever magic systems.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575093393",
+    "https://en.wikipedia.org/wiki/Rhythm_of_War",
+    "https://hardcover.app/books/rhythm-of-war"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

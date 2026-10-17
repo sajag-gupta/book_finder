@@ -1,0 +1,44 @@
+{
+  "slug": "the-black-prism",
+  "title": "The Black Prism",
+  "author": "Brent Weeks",
+  "isbn13": "9781841499031",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "adventurous", "tense"],
+  "tropes": ["political-intrigue", "morally-grey", "war-story"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "In a world where drafters turn coloured light into solid matter, the Prism who keeps the peace between rival powers learns that he has a son he never knew. A looming war and a hidden threat close in on both of them.",
+  "readIf": "you like epic fantasy with a distinctive magic system and a powerful ruler who may be hiding a lot.",
+  "skipIf": "you want a gentle fantasy, as the book includes a lot of war and political betrayal.",
+  "pairings": [
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Another fast-moving epic with a very clearly built magic system and a rebellion.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "A bigger, slower epic with the same fascination for systems of magic and war.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "A sharper, funnier fantasy for readers who enjoy clever schemers.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781841499031",
+    "https://en.wikipedia.org/wiki/The_Black_Prism"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

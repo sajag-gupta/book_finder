@@ -1,0 +1,45 @@
+{
+  "slug": "the-sea-of-monsters",
+  "title": "The Sea of Monsters",
+  "author": "Rick Riordan",
+  "isbn13": "9780120000326",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "children"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "funny", "whimsical"],
+  "tropes": ["quest", "gods-and-myth", "found-family"],
+  "warnings": ["violence"],
+  "summary": "The second Percy Jackson book. When the magic that protects the demigod summer camp starts to fail, Percy and his friends sail into a sea of mythological monsters to find a legendary item that could save it.",
+  "readIf": "you like quick, funny adventures that remix Greek myth with a modern twist for younger readers.",
+  "skipIf": "you haven't read the first book, as the characters and rules are set up there.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-prisoner-of-azkaban",
+      "reason": "Another middle-grade series where the second act deepens the friendships and quietly raises the stakes.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "reason": "A classic adventure with myth-flavoured creatures and a clear quest, in a calmer old-fashioned voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "fablehaven",
+      "reason": "Another fast kids' fantasy with magical creatures, a hidden world and siblings thrown into danger.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780120000326",
+    "https://en.wikipedia.org/wiki/The_Sea_of_Monsters",
+    "https://hardcover.app/books/the-sea-of-monsters"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

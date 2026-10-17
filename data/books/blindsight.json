@@ -1,0 +1,45 @@
+{
+  "slug": "blindsight",
+  "title": "Blindsight",
+  "author": "Peter Watts",
+  "isbn13": "9781530182954",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["dark", "mind-bending", "tense"],
+  "tropes": ["first-contact", "space-survival"],
+  "warnings": ["violence", "death"],
+  "summary": "In the late twenty-first century, a strange crew is sent to investigate an alien object after thousands of probes lit up the sky. The narrator is a man with a brain rebuilt to observe, not feel. A hard science-fiction novel about consciousness.",
+  "readIf": "you like hard science fiction that questions what intelligence and awareness are, and are happy to be unsettled.",
+  "skipIf": "you want warm characters or an easy read, since it is cold, technical and deliberately bleak.",
+  "pairings": [
+    {
+      "slug": "solaris",
+      "reason": "A classic about people failing to understand something truly alien, with a more melancholy tone.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "A short, eerie story of an expedition into an area that does not follow familiar rules.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "Another contact story rooted in hard science, with a much wider scope.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781530182954",
+    "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+    "https://hardcover.app/books/blindsight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

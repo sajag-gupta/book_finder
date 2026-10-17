@@ -1,0 +1,45 @@
+{
+  "slug": "the-library-at-mount-char",
+  "title": "The Library at Mount Char",
+  "author": "Scott Hawkins",
+  "isbn13": "9781665153058",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "horror", "mystery"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "mind-bending", "mysterious"],
+  "tropes": ["morally-grey"],
+  "warnings": ["violence", "gore", "death", "abuse"],
+  "summary": "Carolyn and the others were taken in as children by a figure they call Father, and each was taught a single kind of powerful knowledge. When Father disappears, she has to act, and the cost is high.",
+  "readIf": "you like strange, dark fantasy that mixes humour with real brutality and keeps surprising you.",
+  "skipIf": "you are sensitive to graphic violence or cruelty toward children.",
+  "pairings": [
+    {
+      "slug": "american-gods",
+      "reason": "Another fantasy about gods and mortals set in an ordinary American landscape, with a gentler tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-starless-sea",
+      "reason": "A dreamier take on a hidden library and the people who guard it.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "A short, unsettling story of a place that rewrites the rules of reality.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781665153058",
+    "https://en.wikipedia.org/wiki/The_Library_at_Mount_Char",
+    "https://hardcover.app/books/the-library-at-mount-char"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

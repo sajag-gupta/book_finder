@@ -1,0 +1,44 @@
+{
+  "slug": "crooked-kingdom",
+  "title": "Crooked Kingdom",
+  "author": "Leigh Bardugo",
+  "isbn13": "9781250133694",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "romance"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "witty", "swoony"],
+  "tropes": ["heist", "found-family", "revenge", "morally-grey"],
+  "warnings": ["violence", "death", "grief"],
+  "summary": "Conclusion of a two-book heist story set in a grimy, canal-crossed port city. After a job goes sour and the crew is cheated, a young criminal mastermind and his team plot a final, near-impossible reckoning.",
+  "readIf": "you like a clever crew of damaged teenagers, tight plotting and double-crosses.",
+  "skipIf": "you haven't read Six of Crows, since this picks up directly from its ending.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "The first half of this story, essential to read before this one.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "An adult fantasy heist with sharp banter and a charming gang of thieves in a canal city.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-cruel-prince",
+      "reason": "Another young adult fantasy full of scheming and bruised loyalties, with a faerie setting.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250133694",
+    "https://en.wikipedia.org/wiki/Crooked_Kingdom"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

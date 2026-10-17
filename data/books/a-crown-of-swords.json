@@ -1,0 +1,45 @@
+{
+  "slug": "a-crown-of-swords",
+  "title": "A Crown of Swords",
+  "author": "Robert Jordan",
+  "isbn13": "9781879371965",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["fantasy", "adventure", "epic-fantasy"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous"],
+  "tropes": ["chosen-one", "quest", "political-intrigue"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The seventh Wheel of Time book. The central characters are scattered, each chasing a goal of their own, while the larger struggle against the Dark One keeps gaining ground and alliances grow more uncertain.",
+  "readIf": "you are already deep in the Wheel of Time and want its sprawling politics and many plot threads.",
+  "skipIf": "you have not read the earlier books, or you want a fast, tidy story.",
+  "pairings": [
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Another huge, multi-viewpoint epic fantasy where politics matter as much as swords.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Equally long, richly built fantasy with many characters and a huge world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "A classic, leisurely epic fantasy in the same slow-building tradition.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781879371965",
+    "https://en.wikipedia.org/wiki/A_Crown_of_Swords",
+    "https://hardcover.app/books/a-crown-of-swords"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

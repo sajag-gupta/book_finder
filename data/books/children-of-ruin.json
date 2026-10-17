@@ -1,0 +1,45 @@
+{
+  "slug": "children-of-ruin",
+  "title": "Children of Ruin",
+  "author": "Adrian Tchaikovsky",
+  "isbn13": "9781509865833",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "thoughtful", "tense"],
+  "tropes": ["first-contact", "space-survival"],
+  "warnings": ["death"],
+  "summary": "Long after humanity's first great star voyages, a new expedition follows a trail of old terraforming experiments to a planet where life has taken an unexpected shape. It sets two strange stories running side by side.",
+  "readIf": "you like science fiction that is curious about alien minds and how intelligence might evolve.",
+  "skipIf": "you have not read Children of Time, because this builds directly on it.",
+  "pairings": [
+    {
+      "slug": "annihilation",
+      "reason": "Another story of explorers meeting a place that changes how life works, with a creepier mood.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "solaris",
+      "reason": "A classic about trying and failing to understand an alien intelligence.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "Another big idea story about contact with a species whose logic is not ours.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781509865833",
+    "https://en.wikipedia.org/wiki/Children_of_Ruin",
+    "https://hardcover.app/books/children-of-ruin"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

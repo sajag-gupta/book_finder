@@ -1,0 +1,45 @@
+{
+  "slug": "this-is-how-you-lose-the-time-war",
+  "title": "This Is How You Lose the Time War",
+  "author": "Amal El-Mohtar",
+  "isbn13": "9781668204160",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "romance", "fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["swoony", "mind-bending", "haunting"],
+  "tropes": ["epistolary", "enemies-to-lovers", "time-travel", "spy"],
+  "warnings": ["violence", "war"],
+  "summary": "Two agents on opposite sides of a war that stretches across all of time begin leaving each other letters in unlikely places. A short novella told through those messages, it grows from taunting into something much tenderer.",
+  "readIf": "you like lyrical, inventive love stories and don't mind a plot that is felt more than explained.",
+  "skipIf": "you want clear worldbuilding rules or a conventional, action-driven time-travel plot.",
+  "pairings": [
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "Another love story bent around time, though warmer, more earthbound and told across one couple's whole life.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "Equally strange and beautifully written, with a short, dreamlike mystery that rewards slow reading.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-memory-called-empire",
+      "reason": "If you liked the espionage and rival cultures, this gives them a larger political canvas and a longer story.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781668204160",
+    "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
+    "https://hardcover.app/books/this-is-how-you-lose-the-time-war"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

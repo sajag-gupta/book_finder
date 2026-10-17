@@ -1,0 +1,45 @@
+{
+  "slug": "gardens-of-the-moon",
+  "title": "Gardens of the Moon",
+  "author": "Steven Erikson",
+  "isbn13": "9781469225692",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["fantasy", "epic-fantasy", "adventure"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "dark", "mysterious"],
+  "tropes": ["political-intrigue", "gods-and-myth", "war-story"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The first Malazan Book of the Fallen. A vast empire is trying to take another free city while soldiers, mages and gods all pursue their own aims. The book drops you into a deep, long history without explaining it.",
+  "readIf": "you want a dense, enormous fantasy world with soldiers' grit and are happy to piece things together yourself.",
+  "skipIf": "you want clear exposition or a gentle on-ramp, because this opening book is famously demanding.",
+  "pairings": [
+    {
+      "slug": "the-black-company",
+      "reason": "A leaner war story from the ranks of a mercenary company, with the same grit and morally tangled loyalties.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Another giant, many-book epic with ancient magic, if you want a more accessible start to a big series.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "Large-scale political fantasy with many viewpoints and an unforgiving tone, but tighter in focus.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781469225692",
+    "https://en.wikipedia.org/wiki/Gardens_of_the_Moon",
+    "https://hardcover.app/books/gardens-of-the-moon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

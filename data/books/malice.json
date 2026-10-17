@@ -1,0 +1,44 @@
+{
+  "slug": "malice",
+  "title": "Malice",
+  "author": "John Gwynne",
+  "isbn13": "9780330545754",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["fantasy", "epic-fantasy", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "dark", "adventurous"],
+  "tropes": ["chosen-one", "war-story"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "A boy in a quiet village dreams of becoming a warrior as old powers stir and a war between ancient forces begins to return. This is the first of the Banished Lands books, a big, battle-heavy epic fantasy.",
+  "readIf": "you like old-school epic fantasy with fighters, giants and a slow march toward war.",
+  "skipIf": "you want something quiet or you dislike a lot of battle detail.",
+  "pairings": [
+    {
+      "slug": "the-dragonbone-chair",
+      "reason": "A leisurely, classic epic fantasy that begins with a young person in a small corner of a huge world.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "A darker and funnier fantasy with scarred soldiers and a bleaker view of heroes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "War told from the ground by soldiers, with a grim, practical outlook.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780330545754",
+    "https://hardcover.app/books/malice-the-faithful-and-the-fallen"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

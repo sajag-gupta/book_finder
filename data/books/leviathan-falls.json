@@ -1,0 +1,45 @@
+{
+  "slug": "leviathan-falls",
+  "title": "Leviathan Falls",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316332934",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "heartbreaking"],
+  "tropes": ["found-family", "war-story"],
+  "warnings": ["violence", "death", "war", "grief"],
+  "summary": "The ninth and final Expanse novel. Humanity has spread across hundreds of worlds while a mysterious force threatens it from beyond, and the crew of the Rocinante and their allies face the last stand of the series.",
+  "readIf": "you have followed the Expanse series and want its conclusion.",
+  "skipIf": "you have not read the series, as this is the final book and would spoil a lot.",
+  "pairings": [
+    {
+      "slug": "children-of-time",
+      "reason": "A big-scale science-fiction story about how species meet, adapt and survive across vast time.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "Equally concerned with a vast, unknowable threat and with how humans respond.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "ancillary-justice",
+      "reason": "Another far-future space story that cares about empire, loyalty and identity.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316332934",
+    "https://en.wikipedia.org/wiki/Leviathan_Falls",
+    "https://hardcover.app/books/leviathan-falls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

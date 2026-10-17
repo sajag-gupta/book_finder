@@ -1,0 +1,45 @@
+{
+  "slug": "seveneves",
+  "title": "Seveneves",
+  "author": "Neal Stephenson",
+  "isbn13": "9780008148102",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "dystopian"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["tense", "epic", "thoughtful"],
+  "tropes": ["space-survival", "post-apocalyptic", "survival"],
+  "warnings": ["death", "grief", "violence"],
+  "summary": "The Moon breaks apart without warning, and scientists realise that Earth has only two years before a rain of debris ends life on the surface. Humanity builds a desperate plan in orbit, and the book then leaps far ahead.",
+  "readIf": "you like engineering-heavy science fiction with a huge sweep and a lot of detail on how survival works.",
+  "skipIf": "you dislike long technical explanations or want character moments over problem-solving.",
+  "pairings": [
+    {
+      "slug": "the-martian",
+      "reason": "Equally devoted to solving survival problems step by step, with far more humour and a single hero.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A warmer story with the same love of clever science and a huge stake for the human race.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A gentler, more literary view of what survives after civilisation ends.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008148102",
+    "https://en.wikipedia.org/wiki/Seveneves",
+    "https://hardcover.app/books/seveneves"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

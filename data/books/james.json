@@ -1,0 +1,44 @@
+{
+  "slug": "james",
+  "title": "James",
+  "author": "Percival Everett",
+  "isbn13": "9781035031238",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["historical", "adventure"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "heartbreaking", "witty"],
+  "tropes": ["survival", "satire", "unlikely-friendship"],
+  "warnings": ["slavery", "racism", "violence", "death"],
+  "summary": "A retelling of Huckleberry Finn from the point of view of Jim, the enslaved man who runs away down the river. Jim is far smarter and more guarded than the original lets him be, and the story turns darker and sharper.",
+  "readIf": "you want a fresh, sharp-edged take on a classic that gives its overlooked character a voice.",
+  "skipIf": "you want a gentle read, since it deals directly with slavery and its violence.",
+  "pairings": [
+    {
+      "slug": "adventures-of-huckleberry-finn",
+      "reason": "The original story, which is the best way to see what this book answers back to.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "beloved",
+      "reason": "A more haunting, poetic novel about what slavery leaves behind.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "kindred",
+      "reason": "A tighter, faster story about slavery, with a modern woman pulled into its past.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781035031238",
+    "https://en.wikipedia.org/wiki/James_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

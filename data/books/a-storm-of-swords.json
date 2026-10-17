@@ -1,0 +1,45 @@
+{
+  "slug": "a-storm-of-swords",
+  "title": "A Storm of Swords",
+  "author": "George R.R. Martin",
+  "isbn13": "9780007424931",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["political-intrigue", "morally-grey"],
+  "warnings": ["violence", "death", "war", "sexual-content", "sexual-assault", "torture"],
+  "summary": "The third volume of A Song of Ice and Fire, set in a continent riven by rival claimants to a throne while a colder threat gathers in the far north. Many viewpoint characters are scattered across the land and facing harsh consequences.",
+  "readIf": "you want sprawling, unsparing fantasy politics and are already hooked on the first two books.",
+  "skipIf": "you want a gentle read or a standalone story, or you haven't read earlier volumes.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "A grim, funny, character-first fantasy in which nobody is quite what they seem and violence has real cost.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "wolf-hall",
+      "reason": "Real court intrigue with the same pleasure in watching a clever person survive dangerous power games, minus the magic.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "Matches the war-and-politics focus but turns the brutality up considerably as it follows one young soldier.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007424931",
+    "https://en.wikipedia.org/wiki/A_Storm_of_Swords",
+    "https://hardcover.app/books/a-storm-of-swords"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

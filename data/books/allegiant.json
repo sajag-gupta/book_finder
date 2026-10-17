@@ -1,0 +1,45 @@
+{
+  "slug": "allegiant",
+  "title": "Allegiant",
+  "author": "Veronica Roth",
+  "isbn13": "9780007444120",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["young-adult", "dystopian", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "thoughtful", "adventurous"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "The third Divergent book is told alternately by Tris and Four. Having grown up in a Chicago divided by personality, they now look beyond the city's borders for answers. It continues directly from the previous book.",
+  "readIf": "you have followed the Divergent series and want to see how its big questions are answered.",
+  "skipIf": "you have not read Divergent and Insurgent, since the plot depends on them and the ending divides readers.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The model for this kind of young-adult dystopia, with a sharper and more lasting impact.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A short, quiet story that questions a controlled society, with similar themes.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "scythe",
+      "reason": "A newer dystopian young-adult series with moral dilemmas and a fresh, darker premise.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007444120",
+    "https://en.wikipedia.org/wiki/Allegiant",
+    "https://hardcover.app/books/allegiant"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

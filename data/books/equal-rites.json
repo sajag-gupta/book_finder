@@ -1,0 +1,45 @@
+{
+  "slug": "equal-rites",
+  "title": "Equal Rites",
+  "author": "Terry Pratchett",
+  "isbn13": "9780552166614",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["magic-school", "coming-of-age", "satire"],
+  "warnings": [],
+  "summary": "A dying wizard passes his power to a newborn, and it is discovered too late that the baby is a girl, which is not supposed to be possible. Eskarina grows up under the eye of a no-nonsense witch. The third Discworld novel.",
+  "readIf": "you want a funny, kind-hearted fantasy about a girl who refuses to accept what she is told she can be.",
+  "skipIf": "you want a large, serious epic, since it is short, comic and doubles as a parody of fantasy conventions.",
+  "pairings": [
+    {
+      "slug": "mort",
+      "reason": "Another early Discworld novel about a young apprentice and a seriously strange master.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "reason": "A more serious tale of a young wizard learning his power and its limits.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A witty, magical story about a young woman coping with an odd, unhelpful wizard.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780552166614",
+    "https://en.wikipedia.org/wiki/Equal_Rites",
+    "https://hardcover.app/books/equal-rites"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

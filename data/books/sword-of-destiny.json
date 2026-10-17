@@ -1,0 +1,45 @@
+{
+  "slug": "sword-of-destiny",
+  "title": "Sword of Destiny",
+  "author": "Andrzej Sapkowski",
+  "isbn13": "9780316389709",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["fantasy", "adventure", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "dark", "witty"],
+  "tropes": ["fairy-tale-retelling", "morally-grey"],
+  "warnings": ["violence", "death"],
+  "summary": "A collection of stories about Geralt, a monster hunter for hire, who often finds that people are the worse beasts. Several retell familiar fairy tales with a cynical bite, and the last begins the larger saga.",
+  "readIf": "you like sharp, sardonic fantasy stories that twist fairy tales and keep things grounded.",
+  "skipIf": "you want a single continuous plot, since most of this is episodic.",
+  "pairings": [
+    {
+      "slug": "the-last-wish",
+      "reason": "The first Witcher story collection, which introduces Geralt and the world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "A gritty, funny fantasy with a similar mix of wit and moral ambiguity.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "kings-of-the-wyld",
+      "reason": "A lighter, more comic fantasy about aging mercenaries looking back on their glory days.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316389709",
+    "https://en.wikipedia.org/wiki/Sword_of_Destiny",
+    "https://hardcover.app/books/sword-of-destiny"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

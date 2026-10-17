@@ -1,0 +1,45 @@
+{
+  "slug": "oathbringer",
+  "title": "Oathbringer",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781409150084",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["fantasy", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "adventurous", "tense"],
+  "tropes": ["war-story", "quest"],
+  "warnings": ["violence", "war", "death", "mental-illness"],
+  "summary": "The third book of the Stormlight Archive, a huge fantasy series about ancient oaths, storms that remake the land and warriors reviving old powers. Here the human war effort strains under a returning enemy, and one commander's past comes under a hard light.",
+  "readIf": "you are already invested in the Stormlight Archive and want its character backstories and politics to deepen.",
+  "skipIf": "you haven't read the first two books, since this one leans heavily on them.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another sprawling fantasy with a carefully built magic system, though far more focused on a single narrator.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-storm-of-swords",
+      "reason": "A similarly large, multi-viewpoint war epic where alliances shift, with a much grimmer tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "A classic long-running epic with the same pleasure of a vast world slowly unfolding across many volumes.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409150084",
+    "https://en.wikipedia.org/wiki/Oathbringer",
+    "https://hardcover.app/books/oathbringer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

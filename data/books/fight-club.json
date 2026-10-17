@@ -1,0 +1,45 @@
+{
+  "slug": "fight-club",
+  "title": "Fight Club",
+  "author": "Chuck Palahniuk",
+  "isbn13": "9780091835132",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["classic", "thriller", "literary"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "mind-bending"],
+  "tropes": ["unreliable-narrator", "cult"],
+  "warnings": ["violence", "mental-illness"],
+  "summary": "An insomniac office worker, bored with his life, falls in with a charismatic soap maker named Tyler Durden. Together they start an underground fighting club that grows into something far larger.",
+  "readIf": "you like short, abrasive satire with a narrator you can't quite trust.",
+  "skipIf": "you dislike nihilistic, macho violence or have already absorbed the film's big ideas.",
+  "pairings": [
+    {
+      "slug": "american-psycho",
+      "reason": "Another vicious, darkly funny novel about male emptiness and consumer culture, with a narrator who slips from reality.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "a-clockwork-orange",
+      "reason": "Short, stylised and violent, and it likewise asks what society does with young men who crave chaos.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-catcher-in-the-rye",
+      "reason": "An older, gentler account of a narrator alienated from the world he is expected to join.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780091835132",
+    "https://en.wikipedia.org/wiki/Fight_Club",
+    "https://hardcover.app/books/fight-club"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

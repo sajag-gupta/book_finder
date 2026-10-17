@@ -1,0 +1,45 @@
+{
+  "slug": "the-vanishing-half",
+  "title": "The Vanishing Half",
+  "author": "Brit Bennett",
+  "isbn13": "9780349701455",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "thoughtful", "haunting"],
+  "tropes": ["family-saga", "hidden-identity", "small-town"],
+  "warnings": ["racism", "prejudice", "violence"],
+  "summary": "Twin sisters grow up in a small Black Louisiana town and run away together at sixteen. Years later, one is back with her daughter while the other lives as a white woman, hiding her past, and the book follows both families.",
+  "readIf": "you like family sagas about identity, belonging and the secrets people keep.",
+  "skipIf": "you want a fast plot, since this unfolds across decades and many viewpoints.",
+  "pairings": [
+    {
+      "slug": "americanah",
+      "reason": "Another thoughtful novel about race, identity and who you become when you move between worlds.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "A multi-generation family story about outsiders, prejudice and survival.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-secret-life-of-bees",
+      "reason": "A softer, warmer story about family, race and belonging in the American South.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780349701455",
+    "https://en.wikipedia.org/wiki/The_Vanishing_Half",
+    "https://hardcover.app/books/the-vanishing-half"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

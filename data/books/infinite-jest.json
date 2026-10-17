@@ -1,0 +1,41 @@
+{
+  "slug": "infinite-jest",
+  "title": "Infinite Jest",
+  "author": "David Foster Wallace",
+  "isbn13": "9780349121086",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["literary", "classic", "science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["witty", "melancholic", "mind-bending"],
+  "tropes": ["satire", "sports"],
+  "warnings": ["addiction", "suicide", "mental-illness", "abuse"],
+  "summary": "A huge, footnoted novel set in a near-future North America, moving between a Boston halfway house and a junior tennis academy. A rumoured film, so entertaining that viewers cannot look away, haunts the background.",
+  "readIf": "you want a very long, funny, demanding novel about addiction, entertainment and loneliness and are ready to be patient.",
+  "skipIf": "you want a plot that resolves neatly, since the book is famously dense, digressive and open-ended.",
+  "pairings": [
+    {
+      "slug": "house-of-leaves",
+      "reason": "Another huge, formally unusual novel with footnotes, obsession and a hidden centre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-corrections",
+      "reason": "A big American family novel about addiction, illness and dysfunction, but far easier to follow.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "catch-22",
+      "reason": "A comic satire built on loops and absurdity, with a sharp sense of humour.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

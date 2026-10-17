@@ -1,0 +1,45 @@
+{
+  "slug": "warbreaker",
+  "title": "Warbreaker",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780575097469",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["fantasy", "adventure", "romance"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "mysterious", "witty"],
+  "tropes": ["marriage-of-convenience", "political-intrigue", "royalty"],
+  "warnings": ["violence", "death"],
+  "summary": "Two sisters from a mountain kingdom find their lives pulled in different directions when one is sent to marry the god-king of a rival city. There, colour and breath are the basis of magic, and war is on the horizon.",
+  "readIf": "you want a standalone fantasy with court intrigue, odd magic and a sarcastic cast.",
+  "skipIf": "you want romance at the centre, or a very fast plot since the first half takes time to set the pieces.",
+  "pairings": [
+    {
+      "slug": "tigana",
+      "reason": "A single-volume fantasy of occupied kingdoms and political scheming, with more lyrical sorrow.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Same author, with a similar mix of unusual magic and heists, but a more propulsive tale of rebellion.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "spinning-silver",
+      "reason": "Another standalone with cleverly drawn women navigating courts and bargains, in a wintry fairy-tale style.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575097469",
+    "https://en.wikipedia.org/wiki/Warbreaker",
+    "https://hardcover.app/books/warbreaker"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

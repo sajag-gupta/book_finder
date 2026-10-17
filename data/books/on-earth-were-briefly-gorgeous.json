@@ -1,0 +1,45 @@
+{
+  "slug": "on-earth-were-briefly-gorgeous",
+  "title": "On Earth We're Briefly Gorgeous",
+  "author": "Ocean Vuong",
+  "isbn13": "9780525507710",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["heartbreaking", "melancholic", "haunting"],
+  "tropes": ["epistolary", "coming-of-age"],
+  "warnings": ["abuse", "war", "addiction", "sexual-content", "grief"],
+  "summary": "A young Vietnamese American man writes a long letter to his mother, who cannot read it. He recalls their family's history, his childhood in Hartford, and a first love, in poetic, fragmented prose.",
+  "readIf": "you like lyrical, intimate fiction about family, inheritance and love, and enjoy poetry in prose.",
+  "skipIf": "you prefer straightforward plots, or you would find the portrayal of family violence and addiction painful.",
+  "pairings": [
+    {
+      "slug": "the-namesake",
+      "reason": "A quieter, more traditional novel about an immigrant family and a son finding his place.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-joy-luck-club",
+      "reason": "Another book that moves between mothers and their American-raised children across a language gap.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "pachinko",
+      "reason": "A sweeping family saga of immigrants and survival, with a broader historical canvas.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525507710",
+    "https://en.wikipedia.org/wiki/On_Earth_We're_Briefly_Gorgeous",
+    "https://hardcover.app/books/on-earth-were-briefly-gorgeous"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

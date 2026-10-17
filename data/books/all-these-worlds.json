@@ -1,0 +1,44 @@
+{
+  "slug": "all-these-worlds",
+  "title": "All These Worlds",
+  "author": "Dennis E. Taylor",
+  "isbn13": "9781543662030",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "thoughtful"],
+  "tropes": ["artificial-intelligence", "space-survival"],
+  "warnings": ["death"],
+  "summary": "The third Bobiverse book follows Bob, a former engineer who now lives as software, and his many copies as they spread across space. This time they face threats to humanity and decisions about what a copy owes to the original.",
+  "readIf": "you like cheerful, geeky science fiction that is more about problem-solving than grim stakes.",
+  "skipIf": "you have not read the earlier Bob books, as the cast and rules are built up across them.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "Another warm, nerdy story of science used to solve impossible problems.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "Same joking, engineer's approach to survival, in a much more contained setting.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "An artificial mind with a sarcastic voice, in a much shorter story.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781543662030",
+    "https://hardcover.app/books/all-these-worlds"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

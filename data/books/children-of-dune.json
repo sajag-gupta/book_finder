@@ -1,0 +1,45 @@
+{
+  "slug": "children-of-dune",
+  "title": "Children of Dune",
+  "author": "Frank Herbert",
+  "isbn13": "9780425071793",
+  "firstPublished": 1976,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "tense", "epic"],
+  "tropes": ["political-intrigue", "chosen-one"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The third Dune novel, set years after the first two. A powerful family's young heirs grow up under the shadow of a vast legacy, while old factions and an empire under pressure scheme to take control of their future.",
+  "readIf": "you've read the first Dune books and want more of its dense politics, religion and philosophy.",
+  "skipIf": "you haven't read Dune and its sequel, since this assumes both and has little hand-holding.",
+  "pairings": [
+    {
+      "slug": "hyperion",
+      "reason": "Another far-future saga rich in religion, ideas and big-picture storytelling, with a more varied structure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "A quieter, more humane science fiction classic about culture, politics and perception.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "foundation",
+      "reason": "Another classic of the genre focused on empires, long-term planning and the movement of history.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425071793",
+    "https://en.wikipedia.org/wiki/Children_of_Dune",
+    "https://hardcover.app/books/children-of-dune"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

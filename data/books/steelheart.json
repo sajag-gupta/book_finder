@@ -1,0 +1,44 @@
+{
+  "slug": "steelheart",
+  "title": "Steelheart",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780385743570",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["young-adult", "science-fiction", "fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "funny"],
+  "tropes": ["revenge", "rebellion", "dystopian-regime", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "Ordinary people called Epics have gained powers and used them to rule. David has spent years studying how to kill Steelheart, the unbeatable tyrant of Newcago, who murdered his father. He seeks out the Reckoners, a group of Epic-hunters.",
+  "readIf": "you like fast-paced young-adult adventures with a revenge motive, a clever magic system and a quirky team.",
+  "skipIf": "you dislike mixed metaphors and corny humour, which the narrator uses often.",
+  "pairings": [
+    {
+      "slug": "vicious",
+      "reason": "Another story of people with powers and a feud between them, but darker and more morally grey.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Another Sanderson story of a crew plotting to topple an unbeatable ruler.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A fast, bloody revolt story with a similar revenge-driven young hero.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385743570",
+    "https://hardcover.app/books/steelheart"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

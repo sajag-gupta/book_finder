@@ -1,0 +1,44 @@
+{
+  "slug": "the-shadow-of-the-gods",
+  "title": "The Shadow of the Gods",
+  "author": "John Gwynne",
+  "isbn13": "9780316539883",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "epic-fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "dark", "adventurous"],
+  "tropes": ["gods-and-myth", "morally-grey"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "Generations after the gods fought and fell, a Norse-flavoured land is scarred by their remains. Three people from very different backgrounds are pulled into a hunt for a mythic legacy as old powers return.",
+  "readIf": "you like big, bloody fantasy with warriors, monsters and a pantheon of dead gods.",
+  "skipIf": "you want a gentle read or are put off by long fight scenes.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "Similarly brutal and character-driven, with a sharper sense of humour and more political scheming.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "malice",
+      "reason": "The author's earlier series, a more traditional fantasy with the same love of battle and mythology.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-game-of-thrones",
+      "reason": "A comparable multi-viewpoint epic where violence has real consequences for anyone.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316539883",
+    "https://hardcover.app/books/the-shadow-of-the-gods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "calibans-war",
+  "title": "Caliban's War",
+  "author": "James S. A. Corey",
+  "isbn13": "9781841499901",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous", "epic"],
+  "tropes": ["political-intrigue", "space-survival"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The second Expanse novel, in a solar system where Earth, Mars and the Belt are on the edge of open war. A crisis on a Jovian moon pulls in the crew of a ship led by a stubborn captain, plus a marine and a veteran politician.",
+  "readIf": "you like grounded, fast space opera with political tension and a strong ensemble.",
+  "skipIf": "you haven't read the first book, which sets up the crew and the central conflict.",
+  "pairings": [
+    {
+      "slug": "leviathan-wakes",
+      "reason": "The first book in the same series, if you want to start with the ensemble and setup this one builds on.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "Also mixes interplanetary class conflict with intense action and large stakes, though more stylised.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-martian",
+      "reason": "A friendlier, more hands-on take on survival in a hostile solar system, driven by science.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781841499901",
+    "https://en.wikipedia.org/wiki/Caliban's_War",
+    "https://hardcover.app/books/calibans-war"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

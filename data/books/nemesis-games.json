@@ -1,0 +1,45 @@
+{
+  "slug": "nemesis-games",
+  "title": "Nemesis Games",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316217583",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "Fifth Expanse novel. The crew of the Rocinante splits up for private reasons, each member heading to a different world, just as old threats stir and the balance among Earth, Mars and the Belt starts to slip.",
+  "readIf": "you like a long space-opera series that gives each member of the crew their own storyline.",
+  "skipIf": "you haven't read the earlier books, because this one draws heavily on what came before.",
+  "pairings": [
+    {
+      "slug": "the-forever-war",
+      "reason": "A classic about the human cost of long wars between worlds, with a more bitter and personal tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A fast, ruthless story about a class system, rebellion and shifting loyalties across the solar system.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "A more literary space epic with a similar interest in how scattered people end up converging.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316217583",
+    "https://en.wikipedia.org/wiki/Nemesis_Games",
+    "https://hardcover.app/books/nemesis-games"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

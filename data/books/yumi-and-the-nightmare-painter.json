@@ -1,0 +1,45 @@
+{
+  "slug": "yumi-and-the-nightmare-painter",
+  "title": "Yumi and the Nightmare Painter",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781250899699",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "swoony", "hopeful"],
+  "tropes": ["unlikely-friendship"],
+  "warnings": [],
+  "summary": "A temple ritualist whose duty is to keep spirits at bay and a struggling painter with a strange gift find their lives linked in an unusual way. A standalone fantasy with a romantic heart and a dreamlike setting.",
+  "readIf": "you like a gentle, imaginative standalone fantasy with a romance and a sense of wonder.",
+  "skipIf": "you want large-scale battles, because this one stays small and character-focused.",
+  "pairings": [
+    {
+      "slug": "tress-of-the-emerald-sea",
+      "reason": "A sibling standalone from the same author with a similar fairy-tale voice and a more whimsical quest.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "howls-moving-castle",
+      "reason": "A magical romance with a prickly heroine and an odd, charming partnership at its core.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-night-circus",
+      "reason": "Equally atmospheric, with beautiful imagery and a love story shaped by magic.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250899699",
+    "https://en.wikipedia.org/wiki/Yumi_and_the_Nightmare_Painter",
+    "https://hardcover.app/books/yumi-and-the-nightmare-painter"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

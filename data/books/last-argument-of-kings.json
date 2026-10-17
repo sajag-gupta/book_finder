@@ -1,0 +1,44 @@
+{
+  "slug": "last-argument-of-kings",
+  "title": "Last Argument of Kings",
+  "author": "Joe Abercrombie",
+  "isbn13": "9781478935872",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["dark", "tense", "witty"],
+  "tropes": ["morally-grey", "war-story"],
+  "warnings": ["violence", "torture", "war", "death"],
+  "summary": "Third and final volume of the First Law trilogy. War on several fronts closes in on a kingdom of schemers, soldiers and a torturer, as old secrets and long-laid plans finally come due.",
+  "readIf": "you like bleak, darkly funny fantasy and want to see how a cynical story ends.",
+  "skipIf": "you haven't read the first two books, since this concludes their plots.",
+  "pairings": [
+    {
+      "slug": "a-storm-of-swords",
+      "reason": "A comparable high point in another grim epic, where betrayals and battle change everything.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-poppy-war",
+      "reason": "A newer grim fantasy about war that shares the sense that victory is expensive.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A cynical mercenary view of war and empire written with dry, weary humour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781478935872",
+    "https://hardcover.app/books/last-argument-of-kings"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "a-parade-of-horribles",
+  "title": "A Parade of Horribles",
+  "author": "Matt Dinniman",
+  "isbn13": "9780241836880",
+  "firstPublished": 2026,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "tense", "dark"],
+  "tropes": ["survival", "found-family"],
+  "warnings": ["violence", "gore", "death"],
+  "summary": "A newer book in the Dungeon Crawler Carl series, in which a man and his former pet cat are forced to survive a deadly televised dungeon built by aliens. It continues the series' mix of black comedy and brutal action.",
+  "readIf": "you're already deep into the series and want another round of its jokes and mayhem.",
+  "skipIf": "you haven't read the earlier books, since this series should be read in order.",
+  "pairings": [
+    {
+      "slug": "ready-player-one",
+      "reason": "A lighter, nostalgic game-world adventure if you like the levels and loot side of the series.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "A classic comic sci-fi with the same sense of ordinary people tossed into a ridiculous universe.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "redshirts",
+      "reason": "A shorter, wittier sci-fi about expendable characters who figure out they are living in a story.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241836880",
+    "https://hardcover.app/books/a-parade-of-horribles-dungeon-crawler-carl-book-8-2026"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-strength-of-the-few",
+  "title": "The Strength of the Few",
+  "author": "James Islington",
+  "isbn13": "9781982141233",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "epic", "mysterious"],
+  "tropes": ["political-intrigue", "hidden-identity"],
+  "warnings": ["violence", "death"],
+  "summary": "The second Hierarchy novel continues the story of a young man living under an empire built on a system where citizens hand part of their strength upward. It deepens the secrets, rivalries and dangers around him.",
+  "readIf": "you finished The Will of the Many and want more of its layered, secret-heavy empire.",
+  "skipIf": "you have not read book one, since this one is hard to follow without it.",
+  "pairings": [
+    {
+      "slug": "the-will-of-the-many",
+      "reason": "The first Hierarchy book, where the empire and its rules are introduced.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "Another story of an outsider climbing through a ruthless, hierarchical society to break it from within.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "A long, immersive fantasy about a gifted young man and a school that tests him.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781982141233",
+    "https://en.wikipedia.org/wiki/The_Strength_of_the_Few",
+    "https://hardcover.app/books/the-strength-of-the-few"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

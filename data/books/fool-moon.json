@@ -1,0 +1,45 @@
+{
+  "slug": "fool-moon",
+  "title": "Fool Moon",
+  "author": "Jim Butcher",
+  "isbn13": "9781480581326",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["fantasy", "mystery", "adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "witty"],
+  "tropes": ["detective", "monster"],
+  "warnings": ["violence", "death", "gore"],
+  "summary": "Harry Dresden is a wizard who works as a private investigator in modern Chicago. In this second case, a string of brutal killings points to werewolves, and he finds himself caught between the police and several dangerous factions.",
+  "readIf": "you like wisecracking urban fantasy that moves like a detective novel.",
+  "skipIf": "you dislike gory violence, or want a series that is slow and atmospheric.",
+  "pairings": [
+    {
+      "slug": "the-tainted-cup",
+      "reason": "Also fuses fantasy with a proper detective story, with a sharp investigator and a strange magical setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "neverwhere",
+      "reason": "A hidden magical London under the real one, with a lighter, more dreamlike touch.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-cuckoos-calling",
+      "reason": "A straight private-detective series for when you want the case without the magic.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781480581326",
+    "https://en.wikipedia.org/wiki/Fool_Moon_(novel)",
+    "https://hardcover.app/books/fool-moon-volume-1-the-dresden-files-graphic-novels"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

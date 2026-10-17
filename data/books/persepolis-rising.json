@@ -1,0 +1,45 @@
+{
+  "slug": "persepolis-rising",
+  "title": "Persepolis Rising",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316332859",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["rebellion", "dystopian-regime", "political-intrigue"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The seventh Expanse novel jumps forward in time, to a solar system settled across many worlds. A strong new power from beyond the gates arrives with demands, and the old crew must decide how much to resist. Best read after the earlier books.",
+  "readIf": "you already follow the Expanse and want to see its cast older and facing a new kind of enemy.",
+  "skipIf": "you are new to the series, since it leans on years of history and relationships built in the earlier books.",
+  "pairings": [
+    {
+      "slug": "a-memory-called-empire",
+      "reason": "Politics of a vast empire and the pressure on smaller cultures, handled with a quieter, more diplomatic touch.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "Another saga of rebellion across a settled solar system, harsher and more brutal.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "The series opener, if you want to start where the crew first comes together.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316332859",
+    "https://en.wikipedia.org/wiki/Persepolis_Rising",
+    "https://hardcover.app/books/persepolis-rising"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

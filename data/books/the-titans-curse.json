@@ -1,0 +1,44 @@
+{
+  "slug": "the-titans-curse",
+  "title": "The Titan's Curse",
+  "author": "Rick Riordan",
+  "isbn13": "9780141321264",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "children"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "funny", "tense"],
+  "tropes": ["quest", "gods-and-myth", "chosen-one"],
+  "warnings": ["violence", "death"],
+  "summary": "The third Percy Jackson book. A pair of demigods in danger, a missing goddess and a prophecy put Percy and his friends on a road trip across America, with a legion of monsters and some new allies in the way.",
+  "readIf": "you like fast, jokey myth adventures with real stakes and lots of quests.",
+  "skipIf": "you haven't read the earlier books, since this series builds on them directly.",
+  "pairings": [
+    {
+      "slug": "the-golden-compass",
+      "reason": "Another young-reader fantasy with a bold quest, though more philosophical and slower to unfold.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "eragon",
+      "reason": "A classic chosen-hero fantasy for teens, with dragons in place of gods and a similar pace.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "redwall",
+      "reason": "A more cosy, old-fashioned adventure with brave heroes, big battles and feasts.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141321264",
+    "https://en.wikipedia.org/wiki/The_Titan's_Curse"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-man-in-the-high-castle",
+  "title": "The Man in the High Castle",
+  "author": "Philip K. Dick",
+  "isbn13": "9780441518098",
+  "firstPublished": 1962,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "historical"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mind-bending", "dark", "thoughtful"],
+  "tropes": ["dystopian-regime", "book-within-a-book"],
+  "warnings": ["war", "racism", "violence", "death"],
+  "summary": "In an alternate 1960s where the Axis powers won the Second World War, America is divided between Japan and Germany. Several ordinary people on the Pacific coast cross paths, with a banned novel about a different outcome in the background.",
+  "readIf": "you like alternate-history stories that are more about unsettled reality than plot.",
+  "skipIf": "you want a clear, action-led resolution, because this one is quiet and ambiguous.",
+  "pairings": [
+    {
+      "slug": "nineteen-eighty-four",
+      "reason": "Another classic about life under total control, with a darker and more direct view of tyranny.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "do-androids-dream-of-electric-sheep",
+      "reason": "The same author in a similar vein, questioning what is real and what makes a person human.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "A near-future regime shown through one narrow, personal viewpoint.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780441518098",
+    "https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle",
+    "https://hardcover.app/books/the-man-in-the-high-castle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

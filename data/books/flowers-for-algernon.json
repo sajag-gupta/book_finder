@@ -1,0 +1,45 @@
+{
+  "slug": "flowers-for-algernon",
+  "title": "Flowers for Algernon",
+  "author": "Daniel Keyes",
+  "isbn13": "9781417630189",
+  "firstPublished": 1959,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "thoughtful", "hopeful"],
+  "tropes": ["epistolary"],
+  "warnings": ["bullying", "mental-illness"],
+  "summary": "Charlie Gordon, a kind man with a low IQ, is offered an experimental surgery that may make him intelligent. The novel is told through his own progress reports, and his writing changes as he does.",
+  "readIf": "you like short, emotional science fiction that cares more about people than gadgets.",
+  "skipIf": "you want an upbeat story or hard science, since the heart of it is sadness and ethics.",
+  "pairings": [
+    {
+      "slug": "never-let-me-go",
+      "reason": "Another quiet, devastating novel where a science-fiction idea is used to look at what a life is worth.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "of-mice-and-men",
+      "reason": "A short, compassionate story about a gentle man with an intellectual disability and a world that is unkind to him.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "A tender, observant narrator slowly reveals how others treat and value them, in a softer near-future setting.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781417630189",
+    "https://en.wikipedia.org/wiki/Flowers_for_Algernon",
+    "https://hardcover.app/books/flowers-for-algernon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

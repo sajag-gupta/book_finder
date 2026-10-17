@@ -1,0 +1,44 @@
+{
+  "slug": "the-drawing-of-the-three",
+  "title": "The Drawing of the Three",
+  "author": "Stephen King",
+  "isbn13": "9780451925084",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["horror", "science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "adventurous"],
+  "tropes": ["quest", "portal-fantasy"],
+  "warnings": ["violence", "death", "addiction", "gore"],
+  "summary": "In Stephen King's Dark Tower series, a lone gunslinger pursues a mysterious man across a ruined world. In this second book, he finds doors on a shore that open into our own world, and the people behind them matter to his quest.",
+  "readIf": "you like King's weirder side, with western grit, strange doors and characters thrown together.",
+  "skipIf": "you have not read The Gunslinger, or you dislike graphic violence and drug use.",
+  "pairings": [
+    {
+      "slug": "the-gunslinger",
+      "reason": "The first Dark Tower book, which sets up Roland and the world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-stand",
+      "reason": "Another large King story of ordinary people drawn into a battle between good and evil.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-last-wish",
+      "reason": "A grim, episodic fantasy about a weary professional wandering a dangerous world.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451925084",
+    "https://hardcover.app/books/the-drawing-of-the-three"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

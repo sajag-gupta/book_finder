@@ -1,0 +1,45 @@
+{
+  "slug": "vicious",
+  "title": "Vicious",
+  "author": "V. E. Schwab",
+  "isbn13": "9781491508350",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["dark", "tense", "mind-bending"],
+  "tropes": ["morally-grey", "revenge", "dual-timeline"],
+  "warnings": ["violence", "death"],
+  "summary": "Victor and Eli were college friends who became fascinated with how people might gain extraordinary abilities. A decade later they are enemies, one just out of prison and the other determined to stop him.",
+  "readIf": "you like morally murky superhero stories where nobody is clearly the hero.",
+  "skipIf": "you want clear heroes and villains or a story with a lot of warmth.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another story of brilliant college friends whose obsession leads somewhere very dark.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "steelheart",
+      "reason": "A lighter story about people with powers and the few who can fight them.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "A cast of morally grey characters planning in a tense, well-plotted story.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781491508350",
+    "https://en.wikipedia.org/wiki/Vicious_(novel)",
+    "https://hardcover.app/books/vicious"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "shadows-of-self",
+  "title": "Shadows of Self",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781473233355",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "witty"],
+  "tropes": ["detective", "political-intrigue"],
+  "warnings": ["violence", "death"],
+  "summary": "The fifth Mistborn novel and the second in the Wax and Wayne era, set in a growing industrial city. A series of killings, and rising political unrest, demand that the lawman and his irreverent partner dig deeper.",
+  "readIf": "you're following the Wax and Wayne books and want a smart, fast mystery with gunfights.",
+  "skipIf": "you haven't read the earlier Mistborn books, as this builds on them closely.",
+  "pairings": [
+    {
+      "slug": "storm-front",
+      "reason": "Another fast-paced fantasy with a detective's instincts and wisecracks in a city under pressure.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-tainted-cup",
+      "reason": "A more inventive murder mystery in a fantasy empire, focused on a pair of investigators.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "If you like the sparring partners and the intricate plans, this has a crew of thieves with the same energy.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473233355",
+    "https://hardcover.app/books/shadows-of-self"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
