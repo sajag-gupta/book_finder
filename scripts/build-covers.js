@@ -110,7 +110,8 @@ if (recheck && gKey) {
     const g = await getJson(
       `https://www.googleapis.com/books/v1/volumes/${covers[book.isbn13].gb}?fields=volumeInfo(title,authors)&key=${gKey}`,
     );
-    const info = g?.volumeInfo ?? {};
+    if (!g) return; // lookup failed (rate limit): keep the entry rather than guess
+    const info = g.volumeInfo ?? {};
     const ok =
       norm(info.title ?? '').includes(norm(book.title)) &&
       !NOT_A_SINGLE_BOOK.test(info.title ?? '') &&
