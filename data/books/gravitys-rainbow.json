@@ -1,0 +1,27 @@
+{
+  "slug": "gravitys-rainbow",
+  "title": "Gravity's Rainbow",
+  "author": "Thomas Pynchon",
+  "isbn13": "9780553246841",
+  "firstPublished": 1973,
+  "series": null,
+  "genres": ["literary", "satire", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "dark", "witty"],
+  "tropes": ["war-story", "book-within-a-book"],
+  "warnings": ["war", "sexual-content", "violence", "torture"],
+  "summary": "Late in the Second World War, American soldier Tyrone Slothrop appears to be connected to the German V-2 rocket, and he is tracked across Europe by many parties. The sprawling, allusive novel has hundreds of characters.",
+  "readIf": "you like enormous, difficult postmodern novels and are happy to be lost for long stretches.",
+  "skipIf": "you want a clear storyline or are put off by dense, bizarre and sometimes disturbing material.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553246841",
+    "https://en.wikipedia.org/wiki/Gravity's_Rainbow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

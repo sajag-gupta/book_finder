@@ -1,0 +1,28 @@
+{
+  "slug": "bossypants",
+  "title": "Bossypants",
+  "author": "Tina Fey",
+  "isbn13": "9780316056892",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["memoir", "humor-nonfiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "inspiring"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Tina Fey writes about her awkward adolescence, years in improv and television, and life as a working mother. She covers Saturday Night Live and 30 Rock with self-deprecating humour.",
+  "readIf": "you want a quick, jokey memoir about comedy and being a woman at work.",
+  "skipIf": "you want deep revelations or a detailed behind-the-scenes history.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316056892",
+    "https://en.wikipedia.org/wiki/Bossypants",
+    "https://hardcover.app/books/bossypants"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "becoming",
+  "title": "Becoming",
+  "author": "Michelle Obama",
+  "isbn13": "9781524763152",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["memoir", "biography"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "hopeful", "thoughtful"],
+  "tropes": [],
+  "warnings": ["racism"],
+  "summary": "Michelle Obama recounts her life from childhood on Chicago's South Side through law school and her career to her years as First Lady of the United States. She writes about family, marriage, motherhood and public life.",
+  "readIf": "you like candid memoirs that mix personal history with a view of public life.",
+  "skipIf": "you want political analysis or a detailed account of policy decisions.",
+  "soldMillions": 14,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9781524763152",
+    "https://en.wikipedia.org/wiki/Becoming_(book)",
+    "https://hardcover.app/books/becoming"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

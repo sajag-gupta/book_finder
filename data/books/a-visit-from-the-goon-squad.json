@@ -1,0 +1,28 @@
+{
+  "slug": "a-visit-from-the-goon-squad",
+  "title": "A Visit from the Goon Squad",
+  "author": "Jennifer Egan",
+  "isbn13": "9781594135736",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic", "witty"],
+  "tropes": [],
+  "warnings": ["addiction"],
+  "summary": "Linked stories jump across decades and styles to follow a record executive, his assistant and others in the music business, showing how time changes ambition, friendship and the people we were.",
+  "readIf": "you like inventive, fragmentary fiction about time, music and memory.",
+  "skipIf": "you want a single linear story with one main character.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781594135736",
+    "https://en.wikipedia.org/wiki/A_Visit_from_the_Goon_Squad",
+    "https://hardcover.app/books/a-visit-from-the-goon-squad"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

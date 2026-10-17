@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-win-friends-and-influence-people",
+  "title": "How to Win Friends and Influence People",
+  "author": "Dale Carnegie",
+  "isbn13": "9780749307844",
+  "firstPublished": 1936,
+  "series": null,
+  "genres": ["communication", "self-help"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["practical", "motivating"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Dale Carnegie's classic guide to getting along with people. Using anecdotes and simple rules, it covers showing genuine interest, avoiding criticism, remembering names and persuading others without argument.",
+  "readIf": "you want everyday techniques for handling people at work and in social life.",
+  "skipIf": "you dislike dated examples and advice that can feel formulaic.",
+  "soldMillions": 37,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780749307844",
+    "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People",
+    "https://hardcover.app/books/how-to-win-friends-and-influence-people"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

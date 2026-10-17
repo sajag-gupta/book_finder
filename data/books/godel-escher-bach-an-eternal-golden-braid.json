@@ -1,0 +1,27 @@
+{
+  "slug": "godel-escher-bach-an-eternal-golden-braid",
+  "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+  "author": "Douglas R. Hofstadter",
+  "isbn13": "9780465026852",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["mathematics", "philosophy", "popular-science"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["mind-bending", "thoughtful", "witty"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Douglas Hofstadter weaves together Godel's incompleteness theorem, Escher's drawings and Bach's music to explore how self-reference and meaning might give rise to minds. Dialogues between fictional characters alternate with chapters of explanation.",
+  "readIf": "you enjoy playful puzzles and want to think hard about logic, mind and pattern.",
+  "skipIf": "you want a quick, straightforward read or dislike abstract formal ideas.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780465026852",
+    "https://hardcover.app/books/godel-escher-bach"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

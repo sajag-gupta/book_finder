@@ -1,0 +1,28 @@
+{
+  "slug": "have-space-suit-will-travel",
+  "title": "Have Space Suit—Will Travel",
+  "author": "Robert A. Heinlein",
+  "isbn13": "9780345324412",
+  "firstPublished": 1958,
+  "series": null,
+  "genres": ["science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "hopeful", "witty"],
+  "tropes": ["unlikely-friendship", "first-contact"],
+  "warnings": [],
+  "summary": "Teenager Kip Russell wins a used spacesuit in a soap contest and is abducted along with a young girl nicknamed Peewee. He ends up travelling to the Moon and beyond. This is one of Heinlein's novels for younger readers.",
+  "readIf": "you like classic, optimistic space adventure with a resourceful teenage hero.",
+  "skipIf": "you want modern characters and attitudes, since the book is clearly of the 1950s.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345324412",
+    "https://en.wikipedia.org/wiki/Have_Space_Suit%E2%80%94Will_Travel",
+    "https://hardcover.app/books/have-space-suit-will-travel"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

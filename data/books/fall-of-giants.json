@@ -1,0 +1,28 @@
+{
+  "slug": "fall-of-giants",
+  "title": "Fall of Giants",
+  "author": "Ken Follett",
+  "isbn13": "9780230749429",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["historical", "war-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "heartbreaking"],
+  "tropes": ["war-story", "family-saga"],
+  "warnings": ["war", "violence", "death"],
+  "summary": "Follows five linked families, Welsh miners, English aristocrats, Russians, Germans and Americans, from 1911 through the First World War and the Russian Revolution.",
+  "readIf": "you like long, sweeping historical sagas that follow many characters across countries.",
+  "skipIf": "you prefer deep, literary characterisation to broad historical coverage.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780230749429",
+    "https://en.wikipedia.org/wiki/Fall_of_Giants",
+    "https://hardcover.app/books/fall-of-giants"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -63,25 +63,8 @@
       "type": "array",
       "minItems": 1,
       "items": {
-        "enum": [
-          "romance",
-          "romantasy",
-          "fantasy",
-          "cozy-fantasy",
-          "epic-fantasy",
-          "science-fiction",
-          "dystopian",
-          "thriller",
-          "mystery",
-          "crime",
-          "horror",
-          "historical",
-          "young-adult",
-          "literary",
-          "classic",
-          "adventure",
-          "children"
-        ]
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
       }
     },
     "pace": {

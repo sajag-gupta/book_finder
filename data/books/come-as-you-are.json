@@ -1,0 +1,27 @@
+{
+  "slug": "come-as-you-are",
+  "title": "Come as You Are",
+  "author": "Emily Nagoski",
+  "isbn13": "9781925106596",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["sex-sexuality", "psychology"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["practical", "eye-opening", "funny"],
+  "tropes": [],
+  "warnings": ["sexual-content"],
+  "summary": "Sex educator Emily Nagoski explains the science of women's sexual response, covering stress, context, desire and body image, to show that most women are normal.",
+  "readIf": "you want a friendly, evidence-based guide to understanding sexual well-being.",
+  "skipIf": "you are uncomfortable with frank talk about sex.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781925106596",
+    "https://hardcover.app/books/come-as-you-are"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hyperbole-and-a-half",
+  "title": "Hyperbole and a Half",
+  "author": "Allie Brosh",
+  "isbn13": "9781446496527",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["humor-nonfiction", "memoir", "graphic-novels"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "whimsical", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["mental-illness", "suicide"],
+  "summary": "Allie Brosh illustrates stories from her life in rough cartoons, from childhood mischief and dogs to her honest account of depression.",
+  "readIf": "you like absurd, illustrated humor that also speaks plainly about mental health.",
+  "skipIf": "you prefer polished artwork or find depression discussions hard right now.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781446496527",
+    "https://hardcover.app/books/hyperbole-and-a-half"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

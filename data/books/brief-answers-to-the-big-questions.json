@@ -1,0 +1,28 @@
+{
+  "slug": "brief-answers-to-the-big-questions",
+  "title": "Brief Answers to the Big Questions",
+  "author": "Stephen Hawking",
+  "isbn13": "9781473695993",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["popular-science", "physics-cosmos"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "eye-opening", "inspiring"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Stephen Hawking answers questions such as whether God exists, how the universe began and whether we can predict the future, with short essays on black holes, artificial intelligence and humanity's prospects.",
+  "readIf": "you want short, accessible essays on cosmology from a famous physicist.",
+  "skipIf": "you want a deep or technical treatment of physics.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473695993",
+    "https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions",
+    "https://hardcover.app/books/brief-answers-to-the-big-questions"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

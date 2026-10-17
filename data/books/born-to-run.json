@@ -1,0 +1,27 @@
+{
+  "slug": "born-to-run",
+  "title": "Born to Run",
+  "author": "Christopher McDougall",
+  "isbn13": "9780307266309",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["sports", "true-adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["inspiring", "funny", "adventurous"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Christopher McDougall chases the secret of the Tarahumara runners of Mexico's Copper Canyons while asking why he keeps getting injured. He joins them for an ultramarathon and argues for barefoot-style running.",
+  "readIf": "you are a runner, or you like quirky adventure with a strong argument about how humans move.",
+  "skipIf": "you want a balanced scientific review of running shoes and injuries.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307266309",
+    "https://hardcover.app/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

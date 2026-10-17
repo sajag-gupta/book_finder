@@ -1,0 +1,28 @@
+{
+  "slug": "city-of-ashes",
+  "title": "City of Ashes",
+  "author": "Cassandra Clare",
+  "isbn13": "9781416914297",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["young-adult", "urban-fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "swoony"],
+  "tropes": ["love-triangle"],
+  "warnings": ["violence"],
+  "summary": "In the second Mortal Instruments book, Clary, now part of the Shadowhunter world, deals with Valentine's schemes and with the attraction between her and Jace.",
+  "readIf": "you finished City of Bones and want the next instalment.",
+  "skipIf": "you have not read the first book, as it follows on directly.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781416914297",
+    "https://en.wikipedia.org/wiki/City_of_Ashes",
+    "https://hardcover.app/books/city-of-ashes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

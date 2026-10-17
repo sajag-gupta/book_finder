@@ -1,0 +1,28 @@
+{
+  "slug": "it-starts-with-us",
+  "title": "It Starts with Us",
+  "author": "Colleen Hoover",
+  "isbn13": "9781398518179",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["contemporary-romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["swoony", "hopeful", "heartbreaking"],
+  "tropes": ["second-chance"],
+  "warnings": ["domestic-violence", "abuse"],
+  "summary": "Picking up after It Ends with Us, Lily is starting over with a flower shop and a young daughter, while Atlas, her first love, returns and her ex-husband remains in her life.",
+  "readIf": "you read the first book and want to see where Lily and Atlas end up.",
+  "skipIf": "you have not read It Ends with Us, or want to avoid domestic abuse themes.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781398518179",
+    "https://en.wikipedia.org/wiki/It_Starts_with_Us",
+    "https://hardcover.app/books/it-starts-with-us"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "homo-deus-a-brief-history-of-tomorrow",
+  "title": "Homo Deus: A Brief History of Tomorrow",
+  "author": "Yuval Noah Harari",
+  "isbn13": "9780062464354",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["history", "technology", "philosophy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mind-bending", "thoughtful", "eye-opening"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Following Sapiens, Yuval Noah Harari speculates on where humanity heads after reducing famine, plague and war. He considers aims such as immortality and happiness and the rise of data and algorithms.",
+  "readIf": "you enjoy big-picture speculation on technology and the future of humanity.",
+  "skipIf": "you want firm predictions or careful academic caution.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062464354",
+    "https://en.wikipedia.org/wiki/Homo_Deus%3A_A_Brief_History_of_Tomorrow",
+    "https://hardcover.app/books/homo-deus"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

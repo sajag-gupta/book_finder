@@ -1,0 +1,28 @@
+{
+  "slug": "goodnight-moon",
+  "title": "Goodnight Moon",
+  "author": "Margaret Wise Brown",
+  "isbn13": "9780590131599",
+  "firstPublished": 1947,
+  "series": null,
+  "genres": ["picture-books", "children"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["cozy", "comforting"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "A young rabbit says goodnight to everything in the great green room, from the clocks and socks to the moon outside the window. The soft, repetitive verse is designed to ease a child toward sleep.",
+  "readIf": "you need a calm, rhythmic book for a bedtime routine with a small child.",
+  "skipIf": "you want a story with action or a surprise.",
+  "soldMillions": 16,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780590131599",
+    "https://en.wikipedia.org/wiki/Goodnight_Moon",
+    "https://hardcover.app/books/goodnight-moon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

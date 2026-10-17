@@ -1,0 +1,28 @@
+{
+  "slug": "american-pastoral",
+  "title": "American Pastoral",
+  "author": "Philip Roth",
+  "isbn13": "9781597771122",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["literary", "family-saga"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "thoughtful", "dark"],
+  "tropes": ["family-saga"],
+  "warnings": ["violence", "death"],
+  "summary": "A successful New Jersey businessman, once a local sports hero, sees his ordered life fall apart when his teenage daughter commits an act of political violence in the 1960s.",
+  "readIf": "you like dense, ambitious American novels about family, ideals and loss.",
+  "skipIf": "you want an easy, fast-moving read.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781597771122",
+    "https://en.wikipedia.org/wiki/American_Pastoral",
+    "https://hardcover.app/books/american-pastoral"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

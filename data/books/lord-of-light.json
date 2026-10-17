@@ -1,0 +1,28 @@
+{
+  "slug": "lord-of-light",
+  "title": "Lord of Light",
+  "author": "Roger Zelazny",
+  "isbn13": "9780575079014",
+  "firstPublished": 1967,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mind-bending", "adventurous", "witty"],
+  "tropes": ["gods-and-myth", "rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "On a distant colony world, early settlers use advanced technology to pose as the gods of the Hindu pantheon. One of them, Sam, who rejects their rule, takes on the role of the Buddha to challenge them.",
+  "readIf": "you like myth-heavy science fiction with a playful, ornate style.",
+  "skipIf": "you want straightforward storytelling, since the timeline jumps and the style is dense.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780575079014",
+    "https://en.wikipedia.org/wiki/Lord_of_Light",
+    "https://hardcover.app/books/lord-of-light"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

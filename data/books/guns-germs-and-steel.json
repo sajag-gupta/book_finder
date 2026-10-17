@@ -1,0 +1,27 @@
+{
+  "slug": "guns-germs-and-steel",
+  "title": "Guns, Germs, and Steel",
+  "author": "Jared Diamond",
+  "isbn13": "9780224038096",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["world-history", "anthropology"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["eye-opening", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Jared Diamond asks why some societies came to dominate others. He argues that geography, crops, domesticated animals and germs, rather than any difference in people, explain the uneven spread of power.",
+  "readIf": "you enjoy broad, sweeping theories of human history built on geography and biology.",
+  "skipIf": "you want nuance, since historians criticise its determinism.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780224038096",
+    "https://hardcover.app/books/guns-germs-and-steel"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

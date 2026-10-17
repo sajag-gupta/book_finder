@@ -1,0 +1,28 @@
+{
+  "slug": "candide",
+  "title": "Candide",
+  "author": "Francois Voltaire",
+  "isbn13": "9780486276250",
+  "firstPublished": 1759,
+  "series": null,
+  "genres": ["classic", "satire"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["witty", "funny", "dark"],
+  "tropes": ["satire", "quest"],
+  "warnings": ["violence", "war", "slavery", "sexual-assault"],
+  "summary": "The naive Candide, taught that this is the best of all possible worlds, is thrown out of his castle and meets war, earthquake and cruelty across Europe and the Americas.",
+  "readIf": "you enjoy short, biting Enlightenment satire.",
+  "skipIf": "you want realistic characters rather than a deliberate string of misfortunes.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780486276250",
+    "https://en.wikipedia.org/wiki/Candide",
+    "https://hardcover.app/books/candide"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

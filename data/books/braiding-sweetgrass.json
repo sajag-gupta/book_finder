@@ -1,0 +1,27 @@
+{
+  "slug": "braiding-sweetgrass",
+  "title": "Braiding Sweetgrass",
+  "author": "Robin Wall Kimmerer",
+  "isbn13": "9781571318718",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["nature-writing", "biology-nature", "essays"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "hopeful", "comforting"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Botanist and Potawatomi citizen Robin Wall Kimmerer weaves essays on plants, Indigenous teachings and science. She explores a relationship with the land based on reciprocity and gratitude.",
+  "readIf": "you want gentle, lyrical nature writing that joins science with Indigenous perspectives.",
+  "skipIf": "you want a technical ecology text or a fast-moving argument.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781571318718",
+    "https://hardcover.app/books/braiding-sweetgrass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

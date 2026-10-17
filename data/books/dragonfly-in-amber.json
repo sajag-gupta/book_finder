@@ -1,0 +1,28 @@
+{
+  "slug": "dragonfly-in-amber",
+  "title": "Dragonfly in Amber",
+  "author": "Diana Gabaldon",
+  "isbn13": "9780553714517",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["historical-romance", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "tense"],
+  "tropes": ["time-travel", "political-intrigue"],
+  "warnings": ["war", "violence", "death", "sexual-content"],
+  "summary": "Claire, back in the 1960s, tells of her years in 1740s Paris and Scotland with Jamie, as they try to stop the Jacobite rising that she knows will end at Culloden.",
+  "readIf": "you liked Outlander and want more of Claire and Jamie's story.",
+  "skipIf": "you have not read the first book or find a near thousand-page novel daunting.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553714517",
+    "https://en.wikipedia.org/wiki/Dragonfly_in_Amber",
+    "https://hardcover.app/books/dragonfly-in-amber"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

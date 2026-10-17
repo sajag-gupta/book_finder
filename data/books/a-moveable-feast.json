@@ -1,0 +1,28 @@
+{
+  "slug": "a-moveable-feast",
+  "title": "A Moveable Feast",
+  "author": "Ernest Hemingway",
+  "isbn13": "9780020519607",
+  "firstPublished": 1964,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["nostalgic", "thoughtful", "witty"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Hemingway recalls his early years as a struggling writer in 1920s Paris, with sketches of cafes, hunger, his first wife, and fellow writers including Fitzgerald and Gertrude Stein.",
+  "readIf": "you love literary history and atmospheric writing about Paris.",
+  "skipIf": "you want a reliable, complete autobiography and not a polished, selective recollection.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780020519607",
+    "https://en.wikipedia.org/wiki/A_Moveable_Feast",
+    "https://hardcover.app/books/a-moveable-feast-1964"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

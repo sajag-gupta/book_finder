@@ -1,0 +1,28 @@
+{
+  "slug": "a-monster-calls",
+  "title": "A Monster Calls",
+  "author": "Patrick Ness",
+  "isbn13": "9780606321068",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["young-adult", "fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "dark", "haunting"],
+  "tropes": [],
+  "warnings": ["grief", "terminal-illness", "bullying", "death"],
+  "summary": "Thirteen-year-old Conor is visited each night by a yew-tree monster who tells him three stories and demands a fourth, his own truth. Meanwhile, his mother is seriously ill and he is bullied at school.",
+  "readIf": "you want a short, moving story about grief and honesty that suits teens and adults.",
+  "skipIf": "you are not ready for a story about a parent's terminal illness.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606321068",
+    "https://en.wikipedia.org/wiki/A_Monster_Calls",
+    "https://hardcover.app/books/a-monster-calls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

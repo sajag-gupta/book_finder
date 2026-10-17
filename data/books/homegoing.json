@@ -1,0 +1,28 @@
+{
+  "slug": "homegoing",
+  "title": "Homegoing",
+  "author": "Yaa Gyasi",
+  "isbn13": "9780451493835",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["literary", "historical", "family-saga"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["heartbreaking", "thoughtful", "haunting"],
+  "tropes": ["family-saga"],
+  "warnings": ["slavery", "racism", "violence", "death", "child-death"],
+  "summary": "Two half-sisters born in eighteenth-century Ghana never meet: one marries a British slaver, the other is sold into slavery. Each chapter follows a descendant in turn, from Ghana and America across about three hundred years.",
+  "readIf": "you like multigenerational novels that give a portrait of history through individual lives.",
+  "skipIf": "you want to stay with one set of characters throughout.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780451493835",
+    "https://en.wikipedia.org/wiki/Homegoing_(Gyasi_novel)",
+    "https://hardcover.app/books/homegoing"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

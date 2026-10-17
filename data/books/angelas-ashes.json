@@ -1,0 +1,28 @@
+{
+  "slug": "angelas-ashes",
+  "title": "Angela's Ashes",
+  "author": "Frank McCourt",
+  "isbn13": "9780684864839",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "funny", "haunting"],
+  "tropes": [],
+  "warnings": ["death", "child-death", "addiction"],
+  "summary": "Frank McCourt recalls a childhood of hunger and damp in Limerick, Ireland, with a charming father who drinks away the family's money and a mother who holds them together.",
+  "readIf": "you like memoirs that mix grim hardship with dry, sly humour.",
+  "skipIf": "you cannot face stories of poverty and the deaths of small children.",
+  "soldMillions": 10,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780684864839",
+    "https://en.wikipedia.org/wiki/Angela's_Ashes",
+    "https://hardcover.app/books/angelas-ashes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "im-glad-my-mom-died",
+  "title": "I'm Glad My Mom Died",
+  "author": "Jennette McCurdy",
+  "isbn13": "9781668022849",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["heartbreaking", "funny", "eye-opening"],
+  "tropes": [],
+  "warnings": ["eating-disorder", "child-abuse", "abuse", "death", "addiction"],
+  "summary": "Former child actor Jennette McCurdy describes growing up under a controlling mother who pushed her into acting, shaped her eating habits, and whose death left her to work out who she was.",
+  "readIf": "you want a frank, darkly funny memoir about family and the cost of childhood fame.",
+  "skipIf": "you find accounts of eating disorders and parental abuse too distressing.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781668022849",
+    "https://en.wikipedia.org/wiki/I'm_Glad_My_Mom_Died"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

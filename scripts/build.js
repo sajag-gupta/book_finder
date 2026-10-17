@@ -95,6 +95,13 @@ for (const book of ctx.published) {
   if (ctx.pairings(book).length) page(`/books-like/${book.slug}/`, pages.booksLikePage(ctx, book));
 }
 
+// Light listings: facts-only pages for more of the most-read books. They are noindex, stay out of
+// the sitemap, and give way to a full page as soon as a full record exists.
+const light = ctx.light.filter((entry) => !ctx.bySlug.has(entry.s));
+for (const entry of light)
+  page(`/books/${entry.s}/`, pages.lightBookPage(ctx, entry), { listed: false });
+write('light-index.json', JSON.stringify(light.map(({ s, t, a, y, i }) => ({ s, t, a, y, i }))));
+
 // Share cards: a 4:5 image for posting and a 1.91:1 image for link previews, one pair per book.
 if (!process.argv.includes('--skip-share-cards')) {
   const options = { moods: data.moods, siteName: site.name, host: new URL(site.url).host };

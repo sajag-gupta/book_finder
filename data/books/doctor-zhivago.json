@@ -1,0 +1,28 @@
+{
+  "slug": "doctor-zhivago",
+  "title": "Doctor Zhivago",
+  "author": "Boris Pasternak",
+  "isbn13": "9780006121985",
+  "firstPublished": 1957,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["melancholic", "haunting", "epic"],
+  "tropes": ["star-crossed-lovers", "war-story"],
+  "warnings": ["war", "death"],
+  "summary": "A doctor and poet in Russia is carried through the revolution and civil war, while his love for Lara and his marriage are pulled apart by the upheaval around them.",
+  "readIf": "you like long, lyrical Russian novels where history crushes private lives.",
+  "skipIf": "you want a quick plot and a small cast of characters to keep track of.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780006121985",
+    "https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel)",
+    "https://hardcover.app/books/doctor-zhivago"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

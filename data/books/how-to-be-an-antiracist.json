@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-be-an-antiracist",
+  "title": "How to Be an Antiracist",
+  "author": "Ibram X. Kendi",
+  "isbn13": "9780593395707",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["social-science", "memoir"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["eye-opening", "thoughtful", "motivating"],
+  "tropes": [],
+  "warnings": ["racism", "prejudice"],
+  "summary": "Ibram X. Kendi combines memoir with a framework for understanding racist ideas and policies. He argues that being neutral is not an option and that the work is to challenge inequity in its many forms.",
+  "readIf": "you want a personal, definition-driven argument about race that you can debate with others.",
+  "skipIf": "you want a neutral survey of competing views or a purely historical account.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593395707",
+    "https://en.wikipedia.org/wiki/How_to_Be_an_Antiracist",
+    "https://hardcover.app/books/how-to-be-an-antiracist"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

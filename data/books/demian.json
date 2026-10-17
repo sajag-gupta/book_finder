@@ -1,0 +1,28 @@
+{
+  "slug": "demian",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "isbn13": "9780486120546",
+  "firstPublished": 1919,
+  "series": null,
+  "genres": ["literary", "coming-of-age", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "mysterious", "haunting"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["war"],
+  "summary": "Emil Sinclair, a boy raised in a sheltered home, meets the older, enigmatic Max Demian. He is led through a troubled youth toward questions of good, evil and finding his own path.",
+  "readIf": "you like short, introspective novels about self-discovery and spiritual questions.",
+  "skipIf": "you prefer realistic plots and concrete storytelling.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780486120546",
+    "https://en.wikipedia.org/wiki/Demian",
+    "https://hardcover.app/books/demian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

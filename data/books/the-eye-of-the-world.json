@@ -16,7 +16,7 @@
   "skipIf": "you want fresh plotting, since the start borrows heavily from older fantasy, and it is long.",
   "pairings": [
     {
-      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "slug": "the-lord-of-the-rings",
       "reason": "The model for this opening, with a similar flight from home and a hidden danger on the road.",
       "moodShift": "similar"
     },

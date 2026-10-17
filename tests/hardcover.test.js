@@ -21,7 +21,8 @@ test('ourGenres maps Hardcover genres, keeps order, dedupes and caps at three', 
     'classic',
   ]);
   assert.deepEqual(ourGenres(['Suspense', 'Thriller']), ['thriller']);
-  assert.deepEqual(ourGenres(['Cooking', 'Home']), []);
+  assert.deepEqual(ourGenres(['Cooking', 'Home']), ['cookbooks']);
+  assert.deepEqual(ourGenres(['Home', 'Weather']), []);
   assert.deepEqual(ourGenres(undefined), []);
 });
 

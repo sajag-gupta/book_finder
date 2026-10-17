@@ -1,0 +1,27 @@
+{
+  "slug": "factfulness",
+  "title": "Factfulness",
+  "author": "Hans Rosling",
+  "isbn13": "9781250107817",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["popular-science", "economics"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["eye-opening", "hopeful", "practical"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Physician and statistician Hans Rosling argues that most people hold outdated, overly gloomy views of global health and poverty. He describes ten instincts that distort our picture of the world and how to check them against data.",
+  "readIf": "you want a clear, optimistic corrective to bad-news thinking, backed by statistics.",
+  "skipIf": "you already follow global development data or want a deep policy analysis.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250107817",
+    "https://en.wikipedia.org/wiki/Factfulness"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

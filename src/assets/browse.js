@@ -89,6 +89,7 @@ if (form && wrap && list) {
   const remoteQuery = document.querySelector('[data-remote-q]');
   const remoteStatus = document.querySelector('[data-remote-status]');
   let known = new Set();
+  let lightIndex = null;
   let remoteTimer;
   let remoteRun = 0;
   const say = (text) => {
@@ -99,7 +100,7 @@ if (form && wrap && list) {
   function remoteCard(r) {
     const li = el('li', 'card');
     const link = el('a', 'card__link');
-    link.href = `/b/?isbn=${r.isbn13}`;
+    link.href = r.href ?? `/b/?isbn=${r.isbn13}`;
     const body = el('span', 'card__body');
     body.append(
       el('strong', 'card__title', r.title),
@@ -130,20 +131,42 @@ if (form && wrap && list) {
       const run = ++remoteRun;
       remoteQuery.textContent = query;
       remoteList.replaceChildren();
-      say('Searching Open Library…');
+      say('Searching more books…');
       remoteBox.hidden = false;
       try {
+        // Books we list with facts only (no write-up yet) come first; they are one small file.
+        lightIndex ??= await fetch('/light-index.json')
+          .then((r) => (r.ok ? r.json() : []))
+          .catch(() => []);
+        const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+        const listed = lightIndex
+          .filter((b) => words.every((w) => `${b.t} ${b.a}`.toLowerCase().includes(w)))
+          .slice(0, 24);
+        for (const b of listed) known.add(b.i);
+        remoteList.replaceChildren(
+          ...listed.map((b) =>
+            remoteCard({
+              href: `/books/${b.s}/`,
+              isbn13: b.i,
+              title: b.t,
+              author: b.a,
+              year: b.y,
+            }),
+          ),
+        );
+        if (run !== remoteRun) return;
         const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
         if (run !== remoteRun) return;
         if (!response.ok) throw new Error(`search ${response.status}`);
         const results = (await response.json()).results.filter((r) => !known.has(r.isbn13));
+        const total = remoteList.children.length + results.length;
         say(
-          results.length || localCount
+          total || localCount
             ? ''
             : `No books found for “${query}”. Check the spelling or try just the author’s name.`,
         );
-        remoteList.replaceChildren(...results.map(remoteCard));
-        remoteBox.hidden = results.length === 0 && localCount > 0;
+        remoteList.append(...results.map(remoteCard));
+        remoteBox.hidden = total === 0 && localCount > 0;
       } catch {
         if (run !== remoteRun) return;
         say('Open Library search is unavailable right now. Try again in a moment.');

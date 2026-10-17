@@ -1,0 +1,28 @@
+{
+  "slug": "batman-the-killing-joke",
+  "title": "Batman: The Killing Joke",
+  "author": "Alan Moore",
+  "isbn13": "9780930289454",
+  "firstPublished": 1988,
+  "series": null,
+  "genres": ["graphic-novels", "crime"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["morally-grey"],
+  "warnings": ["violence", "sexual-assault", "kidnapping", "torture"],
+  "summary": "The Joker escapes Arkham and tries to prove that one bad day can break anyone, targeting Commissioner Gordon, while flashbacks hint at his past.",
+  "readIf": "you want a short, dark and influential Batman and Joker story.",
+  "skipIf": "you dislike its violence or its treatment of Barbara Gordon.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780930289454",
+    "https://en.wikipedia.org/wiki/Batman%3A_The_Killing_Joke",
+    "https://hardcover.app/books/batman-the-killing-joke"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

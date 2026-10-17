@@ -1,0 +1,28 @@
+{
+  "slug": "bring-up-the-bodies",
+  "title": "Bring Up the Bodies",
+  "author": "Hilary Mantel",
+  "isbn13": "9781554687794",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "witty"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["violence", "death"],
+  "summary": "Thomas Cromwell, the king's fixer, turns to bringing down Anne Boleyn when Henry VIII tires of her and wants a new queen, in this sequel to Wolf Hall.",
+  "readIf": "you like intelligent, closely observed Tudor court drama and enjoyed Wolf Hall.",
+  "skipIf": "you have not read Wolf Hall or dislike present-tense, dense historical prose.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781554687794",
+    "https://en.wikipedia.org/wiki/Bring_Up_the_Bodies",
+    "https://hardcover.app/books/bring-up-the-bodies"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

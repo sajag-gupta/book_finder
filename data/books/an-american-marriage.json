@@ -1,0 +1,28 @@
+{
+  "slug": "an-american-marriage",
+  "title": "An American Marriage",
+  "author": "Tayari Jones",
+  "isbn13": "9781681688336",
+  "firstPublished": 1957,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "thoughtful", "tense"],
+  "tropes": ["second-chance"],
+  "warnings": ["racism", "prejudice"],
+  "summary": "Newlyweds Celestial and Roy are building a life in Atlanta when Roy is wrongly convicted and sentenced to twelve years. The story follows how the separation changes their marriage and the people around them.",
+  "readIf": "you want a moving, character-driven novel about love, injustice and impossible choices.",
+  "skipIf": "you prefer plot-led stories with clear heroes and a neat ending.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781681688336",
+    "https://en.wikipedia.org/wiki/An_American_Marriage",
+    "https://hardcover.app/books/an-american-marriage"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

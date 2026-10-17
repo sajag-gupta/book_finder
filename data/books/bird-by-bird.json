@@ -1,0 +1,27 @@
+{
+  "slug": "bird-by-bird",
+  "title": "Bird by Bird",
+  "author": "Anne Lamott",
+  "isbn13": "9780679435204",
+  "firstPublished": 1994,
+  "series": null,
+  "genres": ["writing-language", "memoir"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["funny", "inspiring", "practical"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Anne Lamott shares advice from her years of teaching and writing, from short assignments and shitty first drafts to dealing with doubt and jealousy, using stories about her family and friends.",
+  "readIf": "you want honest, funny encouragement for starting and finishing writing.",
+  "skipIf": "you want technical guidance on plot, structure or publishing.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679435204",
+    "https://hardcover.app/books/bird-by-bird"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

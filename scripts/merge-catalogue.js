@@ -22,6 +22,12 @@ const prettierConfig = read('.prettierrc.json');
 const save = async (path, value) =>
   writeFileSync(path, await format(JSON.stringify(value), { parser: 'json', ...prettierConfig }));
 
+const hardcoverFile = join(root, 'data', 'hardcover.json');
+const hardcover = existsSync(hardcoverFile) ? read('data', 'hardcover.json') : { books: {} };
+/** short < 300 pages, medium 300 to 450, long > 450 (from Hardcover's page count when it has one). */
+const lengthBand = (pages) =>
+  pages ? (pages < 300 ? 'short' : pages <= 450 ? 'medium' : 'long') : null;
+
 const drafts = new Map(
   readdirSync(draftsDir)
     .filter((f) => f.endsWith('.json'))
@@ -33,7 +39,7 @@ const created = [];
 const updated = [];
 const skipped = [];
 for (const entry of read('data', 'catalogue', 'catalogue.json')) {
-  const slug = slugify(entry.title);
+  const slug = entry.slug ?? slugify(entry.title);
   const path = join(root, 'data', 'books', `${slug}.json`);
 
   if (existsSync(path)) {
@@ -52,6 +58,15 @@ for (const entry of read('data', 'catalogue', 'catalogue.json')) {
     skipped.push(`${slug}: no drafted record`);
     continue;
   }
+  if (draft.skip) {
+    skipped.push(`${slug}: drafter did not know the book well enough`);
+    continue;
+  }
+  const genres = draft.genres ?? entry.genres;
+  if (!genres?.length) {
+    skipped.push(`${slug}: no genres`);
+    continue;
+  }
   if (!entry.isbn13 || !isValidIsbn13(entry.isbn13)) {
     skipped.push(`${slug}: no valid ISBN`);
     continue;
@@ -63,16 +78,16 @@ for (const entry of read('data', 'catalogue', 'catalogue.json')) {
     isbn13: entry.isbn13,
     firstPublished: entry.year,
     series: null,
-    genres: entry.genres,
+    genres,
     pace: draft.pace,
-    length: draft.length,
+    length: lengthBand(hardcover.books?.[slug]?.pages) ?? draft.length ?? 'medium',
     moods: draft.moods,
     tropes: draft.tropes,
     warnings: draft.warnings,
     summary: draft.summary,
     readIf: draft.readIf,
     skipIf: draft.skipIf,
-    pairings: draft.pairings,
+    ...(draft.pairings?.length ? { pairings: draft.pairings } : {}),
     soldMillions: entry.soldMillions ?? null,
     tier: entry.group,
     sources: [],

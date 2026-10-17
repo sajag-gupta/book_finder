@@ -15,7 +15,7 @@ const catalogue = JSON.parse(
 
 const seen = new Map();
 const lines = catalogue.map((b, i) => {
-  const slug = slugify(b.title);
+  const slug = b.slug ?? slugify(b.title);
   if (seen.has(slug)) throw new Error(`Duplicate slug "${slug}": ${b.title} and ${seen.get(slug)}`);
   seen.set(slug, b.title);
   return `${String(i + 1).padStart(3, '0')} | ${slug} | ${b.title} | ${b.author} | ${b.year} | ${b.genres.join(',')}`;

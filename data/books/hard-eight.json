@@ -1,0 +1,28 @@
+{
+  "slug": "hard-eight",
+  "title": "Hard Eight",
+  "author": "Janet Evanovich",
+  "isbn13": "9781402529658",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["mystery", "humor-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "mysterious"],
+  "tropes": ["detective"],
+  "warnings": ["violence"],
+  "summary": "Stephanie Plum's neighbour disappears with her daughter, and she must find them while a menacing stalker follows her and her two love interests circle.",
+  "readIf": "you want a quick, comic mystery and already enjoy the Plum series.",
+  "skipIf": "you want gritty crime fiction without the slapstick.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781402529658",
+    "https://en.wikipedia.org/wiki/Hard_Eight_(novel)",
+    "https://hardcover.app/books/hard-eight"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

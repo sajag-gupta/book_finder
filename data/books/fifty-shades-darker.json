@@ -1,0 +1,28 @@
+{
+  "slug": "fifty-shades-darker",
+  "title": "Fifty Shades Darker",
+  "author": "E.L. James",
+  "isbn13": "9780385537681",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["erotica", "contemporary-romance"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "dark", "tense"],
+  "tropes": ["second-chance"],
+  "warnings": ["sexual-content", "manipulation", "stalking"],
+  "summary": "Anastasia Steele and Christian Grey try to rebuild their relationship on her terms after a painful break. Old shadows from his past and a jealous figure from it threaten the reunion.",
+  "readIf": "you want an explicit, melodramatic romance sequel that picks up straight after the first book.",
+  "skipIf": "you dislike controlling love interests or want subtle, realistic writing about relationships.",
+  "soldMillions": 10.4,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385537681",
+    "https://en.wikipedia.org/wiki/Fifty_Shades_Darker",
+    "https://hardcover.app/books/fifty-shades-darker"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "into-the-wild",
+  "title": "Into the Wild",
+  "author": "Jon Krakauer",
+  "isbn13": "9780739358047",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["true-adventure", "biography"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "melancholic", "adventurous"],
+  "tropes": [],
+  "warnings": ["death"],
+  "summary": "Jon Krakauer reconstructs the life of Chris McCandless, a young man who gave away his savings, headed into the Alaskan wilderness in 1992 and was found dead months later. He also draws on his own youth.",
+  "readIf": "you are curious about what drives people to risk everything in the wild.",
+  "skipIf": "you want a tidy verdict, since the book leaves open why McCandless died and who he was.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780739358047",
+    "https://en.wikipedia.org/wiki/Into_the_Wild_(Krakauer_book)",
+    "https://hardcover.app/books/into-the-wild"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

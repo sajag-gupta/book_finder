@@ -1,5 +1,5 @@
 /** Site-wide settings shared by the page build and the newsletter. */
-export const SITE_NAME = 'After the Dragons'; // working title: change in one place
+export const SITE_NAME = 'ReadYourMood'; // change in one place
 
 export function getSite({ includeDrafts = false, env = process.env } = {}) {
   return {

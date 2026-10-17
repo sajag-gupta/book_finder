@@ -1,0 +1,28 @@
+{
+  "slug": "life-after-life",
+  "title": "Life After Life",
+  "author": "Kate Atkinson",
+  "isbn13": "9781619696969",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["literary", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["thoughtful", "haunting", "mind-bending"],
+  "tropes": ["time-travel"],
+  "warnings": ["death", "war", "violence", "child-abuse"],
+  "summary": "Ursula Todd is born in 1910 and dies, and then is born again, living variations of her life. Each time she gets another chance to change events, including through two world wars.",
+  "readIf": "you like inventive literary fiction that plays with time, memory and the weight of small choices.",
+  "skipIf": "you want a linear plot or are uneasy with repeated scenes of death and wartime bombing.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781619696969",
+    "https://en.wikipedia.org/wiki/Life_After_Life_(novel)",
+    "https://hardcover.app/books/life-after-life"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

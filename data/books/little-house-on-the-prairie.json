@@ -1,0 +1,28 @@
+{
+  "slug": "little-house-on-the-prairie",
+  "title": "Little House on the Prairie",
+  "author": "Laura Ingalls Wilder",
+  "isbn13": "9780416071405",
+  "firstPublished": 1935,
+  "series": null,
+  "genres": ["historical", "children"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["nostalgic", "cozy", "adventurous"],
+  "tropes": ["family-saga"],
+  "warnings": ["racism"],
+  "summary": "Laura Ingalls and her family leave Wisconsin in a covered wagon and settle on the Kansas prairie. Pa builds a house, and the family faces prairie fires, illness and tension with neighboring Osage people.",
+  "readIf": "you like gentle pioneer stories full of everyday detail about building a home.",
+  "skipIf": "you would be bothered by period attitudes toward Native Americans.",
+  "soldMillions": 60,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780416071405",
+    "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie",
+    "https://hardcover.app/books/little-house-on-the-prairie"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

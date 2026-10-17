@@ -1,0 +1,28 @@
+{
+  "slug": "beartown",
+  "title": "Beartown",
+  "author": "Fredrik Backman",
+  "isbn13": "9781501160769",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "tense", "thoughtful"],
+  "tropes": ["small-town", "sports"],
+  "warnings": ["sexual-assault", "bullying", "violence", "homophobia", "suicide"],
+  "summary": "A struggling Swedish forest town pins its hopes on its junior ice hockey team. After a terrible act involving the team's star player, the whole community is forced to choose between loyalty and the truth.",
+  "readIf": "you like emotional, character-heavy stories about community and what people will excuse for a win.",
+  "skipIf": "you are not ready for a serious treatment of sexual assault or want a light sports story.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781501160769",
+    "https://en.wikipedia.org/wiki/Beartown_(novel)",
+    "https://hardcover.app/books/beartown"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fear-and-loathing-in-las-vegas",
+  "title": "Fear and Loathing in Las Vegas",
+  "author": "Hunter S. Thompson",
+  "isbn13": "9780446313933",
+  "firstPublished": 1971,
+  "series": null,
+  "genres": ["essays", "humor-nonfiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "dark", "mind-bending"],
+  "tropes": [],
+  "warnings": ["addiction"],
+  "summary": "A journalist and his lawyer drive to Las Vegas on a assignment fuelled by a trunk full of drugs. Thompson turns the trip into a wild, semi-fictional satire of the American dream.",
+  "readIf": "you like savage, chaotic comic writing and gonzo journalism.",
+  "skipIf": "you dislike drug-soaked narratives or an unstructured, rambling story.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780446313933",
+    "https://hardcover.app/books/fear-and-loathing-in-las-vegas"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

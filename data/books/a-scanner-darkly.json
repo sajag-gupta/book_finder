@@ -1,0 +1,28 @@
+{
+  "slug": "a-scanner-darkly",
+  "title": "A Scanner Darkly",
+  "author": "Philip K. Dick",
+  "isbn13": "9780345260642",
+  "firstPublished": 1977,
+  "series": null,
+  "genres": ["science-fiction", "dystopian"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["dark", "mind-bending", "melancholic"],
+  "tropes": ["unreliable-narrator", "hidden-identity"],
+  "warnings": ["addiction", "mental-illness"],
+  "summary": "An undercover narcotics agent is assigned to spy on a circle of friends who use Substance D, a drug that damages the brain. He is also one of the users, and his sense of self begins to split.",
+  "readIf": "you like bleak, paranoid science fiction about drugs and fractured identity.",
+  "skipIf": "you want an uplifting read or a plot with a clean resolution.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345260642",
+    "https://en.wikipedia.org/wiki/A_Scanner_Darkly",
+    "https://hardcover.app/books/a-scanner-darkly"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

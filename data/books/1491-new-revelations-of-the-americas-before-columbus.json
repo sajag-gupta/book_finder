@@ -1,0 +1,28 @@
+{
+  "slug": "1491-new-revelations-of-the-americas-before-columbus",
+  "title": "1491: New Revelations of the Americas Before Columbus",
+  "author": "Charles C. Mann",
+  "isbn13": "9780307278180",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["history", "anthropology"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["eye-opening", "thoughtful"],
+  "tropes": [],
+  "warnings": ["genocide", "pandemic"],
+  "summary": "Charles Mann gathers research suggesting that the pre-Columbian Americas held larger, older and more sophisticated societies than once believed, and that they reshaped their landscapes.",
+  "readIf": "you are curious about what historians now say about the Americas before European contact.",
+  "skipIf": "you want a single narrative history, as it ranges across debates and sites.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780307278180",
+    "https://en.wikipedia.org/wiki/1491%3A_New_Revelations_of_the_Americas_Before_Columbus",
+    "https://hardcover.app/books/1491"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

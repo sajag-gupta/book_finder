@@ -1,0 +1,28 @@
+{
+  "slug": "just-kids",
+  "title": "Just Kids",
+  "author": "Patti Smith",
+  "isbn13": "9780066211312",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["memoir", "music"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["nostalgic", "melancholic", "inspiring"],
+  "tropes": [],
+  "warnings": ["death", "grief"],
+  "summary": "Patti Smith recalls her young years in 1960s and 70s New York, her friendship with photographer Robert Mapplethorpe, and how the two supported each other while becoming artists.",
+  "readIf": "you like lyrical memoirs about art, friendship and a vanished New York.",
+  "skipIf": "you want an in-depth account of her music career.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780066211312",
+    "https://en.wikipedia.org/wiki/Just_Kids",
+    "https://hardcover.app/books/just-kids"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

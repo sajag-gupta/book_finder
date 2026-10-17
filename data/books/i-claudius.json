@@ -1,0 +1,28 @@
+{
+  "slug": "i-claudius",
+  "title": "I, Claudius",
+  "author": "Robert Graves",
+  "isbn13": "9781857542790",
+  "firstPublished": 1934,
+  "series": null,
+  "genres": ["historical", "classic"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["witty", "dark", "epic"],
+  "tropes": ["political-intrigue", "royalty"],
+  "warnings": ["violence", "death", "incest", "manipulation"],
+  "summary": "Claudius, the stammering and overlooked member of the Roman imperial family, writes his memoirs. He recounts the intrigues, poisonings and crimes of Augustus, Tiberius and Caligula, up to his own unlikely rise.",
+  "readIf": "you like scheming, gossipy historical fiction about the first Roman emperors.",
+  "skipIf": "you want a strong romance or heart-warming characters, since almost everyone is ruthless.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781857542790",
+    "https://en.wikipedia.org/wiki/I%2C_Claudius",
+    "https://hardcover.app/books/i-claudius"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

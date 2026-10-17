@@ -1,0 +1,27 @@
+{
+  "slug": "antifragile-things-that-gain-from-disorder",
+  "title": "Antifragile: Things That Gain from Disorder",
+  "author": "Nassim Nicholas Taleb",
+  "isbn13": "9780718197902",
+  "firstPublished": 2010,
+  "series": null,
+  "genres": ["economics", "critical-thinking"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "eye-opening", "witty"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Taleb introduces antifragility, the property of things that improve under stress and volatility, and applies it to finance, medicine, politics and daily life.",
+  "readIf": "you want a bold, sprawling argument about uncertainty and resilience.",
+  "skipIf": "you dislike digressions and combative style, or want a tidy practical guide.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780718197902",
+    "https://hardcover.app/books/antifragile"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

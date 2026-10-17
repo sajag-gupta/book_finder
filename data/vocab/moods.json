@@ -158,5 +158,29 @@
     "color": "mint",
     "featured": false,
     "icon": "sparkles"
+  },
+  {
+    "slug": "practical",
+    "name": "Practical",
+    "blurb": "Ideas you can use this week.",
+    "color": "mint",
+    "featured": false,
+    "icon": "wrench"
+  },
+  {
+    "slug": "eye-opening",
+    "name": "Eye-opening",
+    "blurb": "Changes how you see the world.",
+    "color": "violet",
+    "featured": true,
+    "icon": "eye"
+  },
+  {
+    "slug": "motivating",
+    "name": "Motivating",
+    "blurb": "Makes you want to get started.",
+    "color": "coral",
+    "featured": false,
+    "icon": "rocket"
   }
 ]

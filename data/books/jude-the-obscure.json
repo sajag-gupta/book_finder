@@ -1,0 +1,28 @@
+{
+  "slug": "jude-the-obscure",
+  "title": "Jude the Obscure",
+  "author": "Thomas Hardy",
+  "isbn13": "9780553211917",
+  "firstPublished": 1895,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["melancholic", "heartbreaking", "thoughtful"],
+  "tropes": ["star-crossed-lovers"],
+  "warnings": ["suicide", "child-death", "death"],
+  "summary": "Jude Fawley, a poor stonemason, dreams of studying at the university in Christminster. His hopes are thwarted by class barriers and by his tangled relationships with Arabella and his cousin Sue Bridehead.",
+  "readIf": "you appreciate bleak Victorian tragedy that criticises class and marriage.",
+  "skipIf": "you want a hopeful ending or are sensitive to the death of children.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553211917",
+    "https://en.wikipedia.org/wiki/Jude_the_Obscure",
+    "https://hardcover.app/books/jude-the-obscure"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

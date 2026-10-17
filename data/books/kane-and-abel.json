@@ -1,0 +1,28 @@
+{
+  "slug": "kane-and-abel",
+  "title": "Kane & Abel",
+  "author": "Jeffrey Archer",
+  "isbn13": "9780449243763",
+  "firstPublished": 1979,
+  "series": null,
+  "genres": ["historical", "family-saga"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense"],
+  "tropes": ["rags-to-riches", "family-saga"],
+  "warnings": ["war"],
+  "summary": "Two men are born on the same day in 1906: Wladek, a penniless Polish immigrant who rises in America, and William Kane, a Boston banker's son. Their lives follow separate paths while a bitter feud grows between them across decades.",
+  "readIf": "you like long, plot-driven sagas about ambition, money and rivalry across a lifetime.",
+  "skipIf": "you want subtle prose and psychological depth over a straightforward, dramatic storyline.",
+  "soldMillions": 32.7,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780449243763",
+    "https://en.wikipedia.org/wiki/Kane_and_Abel_(novel)",
+    "https://hardcover.app/books/kane-and-abel-1979"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

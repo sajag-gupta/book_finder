@@ -30,7 +30,10 @@ const MOOD_WORDS = {
   witty: ['witty', 'clever', 'sharp', 'sarcastic', 'dry humour', 'dry humor'],
   melancholic: ['melancholic', 'melancholy', 'bittersweet', 'wistful'],
   'mind-bending': ['mind bending', 'mind-bending', 'twisty', 'plot twists', 'twist', 'trippy'],
-  inspiring: ['inspiring', 'motivating', 'empowering', 'life changing', 'life-changing'],
+  inspiring: ['inspiring', 'empowering', 'life changing', 'life-changing'],
+  motivating: ['motivating', 'motivational', 'get me moving', 'kick start', 'kickstart'],
+  practical: ['practical', 'actionable', 'how to', 'step by step', 'useful'],
+  'eye-opening': ['eye opening', 'eye-opening', 'learn something', 'surprising', 'fascinating'],
 };
 
 const GENRE_WORDS = {
@@ -51,6 +54,26 @@ const GENRE_WORDS = {
   classic: ['classic', 'classics'],
   adventure: ['adventure'],
   children: ['kids', 'children', 'childrens', "children's"],
+  'self-help': ['self help', 'self-help', 'self improvement', 'improve my life'],
+  productivity: ['productivity', 'habits', 'focus', 'time management'],
+  psychology: ['psychology', 'how the mind works', 'behaviour', 'behavior'],
+  business: ['business', 'startup', 'company', 'management'],
+  finance: ['investing', 'personal finance', 'money', 'wealth', 'retire'],
+  history: ['history', 'historical nonfiction'],
+  biography: ['biography', 'biographies', 'life of'],
+  memoir: ['memoir', 'memoirs', 'true story'],
+  philosophy: ['philosophy', 'philosophical', 'stoic', 'stoicism'],
+  'popular-science': ['popular science', 'physics', 'biology', 'neuroscience'],
+  'true-crime': ['true crime'],
+  cookbooks: ['cookbook', 'recipes', 'cooking'],
+  'health-fitness': ['fitness', 'health', 'exercise', 'sleep'],
+  politics: ['politics', 'political', 'government'],
+  technology: ['technology', 'tech', 'internet'],
+  'artificial-intelligence': ['artificial intelligence', 'ai', 'machine learning'],
+  economics: ['economics', 'economy'],
+  poetry: ['poetry', 'poems'],
+  'graphic-novels': ['graphic novel', 'graphic novels', 'comics'],
+  manga: ['manga'],
 };
 
 // Words that mean "leave this out" when they follow a negation.

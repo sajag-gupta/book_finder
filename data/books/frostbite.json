@@ -1,0 +1,28 @@
+{
+  "slug": "frostbite",
+  "title": "Frostbite",
+  "author": "Richelle Mead",
+  "isbn13": "9780606089418",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["young-adult", "urban-fantasy", "paranormal-romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous", "swoony"],
+  "tropes": ["vampires", "forbidden-love"],
+  "warnings": ["violence", "death"],
+  "summary": "At a vampire boarding school, Rose Hathaway trains to be a guardian for her best friend Lissa, a royal Moroi. When a major Strigoi attack strikes, the school sends them on a trip to a ski resort and the danger follows.",
+  "readIf": "you want a fast YA vampire series with banter, training and a forbidden crush.",
+  "skipIf": "you dislike teen love-triangle drama or want vampires played in a darker register.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606089418",
+    "https://en.wikipedia.org/wiki/Frostbite_(Mead_novel)",
+    "https://hardcover.app/books/frostbite"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

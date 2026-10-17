@@ -1,0 +1,27 @@
+{
+  "slug": "invisible-women",
+  "title": "Invisible Women",
+  "author": "Caroline Criado Perez",
+  "isbn13": "9781419729072",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["social-science", "popular-science"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["eye-opening", "thoughtful", "practical"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Caroline Criado Perez shows how data on men is treated as the default in design, medicine, work and public policy. She argues that this gap leaves women with worse safety, health and pay.",
+  "readIf": "you want a data-driven case about gender bias in everyday systems.",
+  "skipIf": "you want a narrative or a balanced debate, since the book is a sustained argument.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781419729072",
+    "https://hardcover.app/books/invisible-women"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

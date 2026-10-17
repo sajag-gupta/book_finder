@@ -1,0 +1,28 @@
+{
+  "slug": "a-light-in-the-attic",
+  "title": "A Light in the Attic",
+  "author": "Shel Silverstein",
+  "isbn13": "9780061905865",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["poetry", "children"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "nostalgic"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "A collection of Shel Silverstein's short, silly poems with his own pen drawings, about odd creatures, bad habits, imagination and a few moments of tenderness, aimed at children but loved by adults too.",
+  "readIf": "you want quick, funny verse to read aloud or revisit from childhood.",
+  "skipIf": "you want serious, long-form poetry with dense imagery.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780061905865",
+    "https://en.wikipedia.org/wiki/A_Light_in_the_Attic",
+    "https://hardcover.app/books/a-light-in-the-attic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

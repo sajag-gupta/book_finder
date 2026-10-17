@@ -1,0 +1,28 @@
+{
+  "slug": "call-us-what-we-carry",
+  "title": "Call Us What We Carry",
+  "author": "Amanda Gorman",
+  "isbn13": "9781784744618",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["poetry"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["inspiring", "hopeful", "thoughtful"],
+  "tropes": [],
+  "warnings": ["pandemic", "grief"],
+  "summary": "Poems by Amanda Gorman that reflect on the pandemic, history and memory, many arranged in playful visual forms on the page.",
+  "readIf": "you like accessible, performance-minded poetry about collective experience.",
+  "skipIf": "you prefer quiet, private or traditionally formal poems.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784744618",
+    "https://en.wikipedia.org/wiki/Call_Us_What_We_Carry",
+    "https://hardcover.app/books/call-us-what-we-carry"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "cant-hurt-me",
+  "title": "Can't Hurt Me",
+  "author": "David Goggins",
+  "isbn13": "9781544512280",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["memoir", "personal-development"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["motivating", "inspiring", "dark"],
+  "tropes": [],
+  "warnings": ["child-abuse", "abuse", "racism"],
+  "summary": "Former Navy SEAL and ultramarathoner David Goggins recounts a violent childhood and his drive to push through pain, with challenges at the end of each chapter.",
+  "readIf": "you want blunt, high-intensity motivation from someone who lived it.",
+  "skipIf": "you find tough-love, push-through-everything advice discouraging.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781544512280",
+    "https://hardcover.app/books/cant-hurt-me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

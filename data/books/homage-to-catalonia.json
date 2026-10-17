@@ -1,0 +1,28 @@
+{
+  "slug": "homage-to-catalonia",
+  "title": "Homage To Catalonia",
+  "author": "George Orwell",
+  "isbn13": "9781784876562",
+  "firstPublished": 1938,
+  "series": null,
+  "genres": ["memoir", "history", "politics"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "eye-opening", "tense"],
+  "tropes": [],
+  "warnings": ["war", "violence", "death"],
+  "summary": "Orwell reports on his months fighting in a militia on the Aragon front during the Spanish Civil War, and on the infighting among the left in Barcelona that followed.",
+  "readIf": "you want a first-hand, clear-eyed account of the Spanish Civil War.",
+  "skipIf": "you want novelistic storytelling rather than reportage and political argument.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784876562",
+    "https://en.wikipedia.org/wiki/Homage_to_Catalonia",
+    "https://hardcover.app/books/homage-to-catalonia"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

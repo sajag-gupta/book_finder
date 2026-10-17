@@ -1,0 +1,28 @@
+{
+  "slug": "a-promised-land",
+  "title": "A Promised Land",
+  "author": "Barack Obama",
+  "isbn13": "9781524763183",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["memoir", "politics"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "inspiring"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Barack Obama recounts his political rise and first term as president, from the 2008 campaign through the financial crisis, health care reform and the raid on Osama bin Laden. He reflects on the decisions along the way.",
+  "readIf": "you want a detailed, reflective inside account of a presidency.",
+  "skipIf": "you want a short book or less detail about policy and political process.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781524763183",
+    "https://en.wikipedia.org/wiki/A_Promised_Land",
+    "https://hardcover.app/books/a-promised-land"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

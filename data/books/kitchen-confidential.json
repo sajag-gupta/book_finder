@@ -1,0 +1,27 @@
+{
+  "slug": "kitchen-confidential",
+  "title": "Kitchen Confidential",
+  "author": "Anthony Bourdain",
+  "isbn13": "9780965093675",
+  "firstPublished": 1994,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "eye-opening", "witty"],
+  "tropes": [],
+  "warnings": ["addiction"],
+  "summary": "Chef Anthony Bourdain recalls his path through restaurant kitchens and the rowdy, hard-drinking crews who run them. He mixes war stories with blunt advice about eating out.",
+  "readIf": "you enjoy loud, profane, behind-the-scenes stories about work and food.",
+  "skipIf": "you want a polished cookbook or a gentle read about cooking.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780965093675",
+    "https://hardcover.app/books/kitchen-confidential"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

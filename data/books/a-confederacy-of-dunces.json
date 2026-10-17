@@ -1,0 +1,28 @@
+{
+  "slug": "a-confederacy-of-dunces",
+  "title": "A Confederacy of Dunces",
+  "author": "John Kennedy Toole",
+  "isbn13": "9780141182865",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["satire", "humor-fiction", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "Ignatius J. Reilly, a pompous, unemployed medievalist living with his mother in New Orleans, is forced to find work. His schemes collide with a cast of eccentric locals.",
+  "readIf": "you like broad, absurd comedy with an unforgettable, unbearable hero.",
+  "skipIf": "you have little patience for self-absorbed characters or rambling plots.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141182865",
+    "https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces",
+    "https://hardcover.app/books/a-confederacy-of-dunces"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

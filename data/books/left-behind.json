@@ -1,0 +1,28 @@
+{
+  "slug": "left-behind",
+  "title": "Left Behind",
+  "author": "Tim LaHaye",
+  "isbn13": "9780613768368",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["thriller", "supernatural"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "dark"],
+  "tropes": ["survival"],
+  "warnings": ["death", "religious-extremism"],
+  "summary": "Millions of people vanish in an instant, and airline pilot Rayford Steele and journalist Buck Williams try to understand what has happened. The novel is based on a Christian view of the end times.",
+  "readIf": "you want an evangelical end-times thriller with short chapters and a brisk pace.",
+  "skipIf": "you do not share its theology or prefer more nuanced character writing.",
+  "soldMillions": 65,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780613768368",
+    "https://en.wikipedia.org/wiki/Left_Behind",
+    "https://hardcover.app/books/left-behind"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

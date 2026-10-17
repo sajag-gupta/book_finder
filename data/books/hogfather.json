@@ -1,0 +1,28 @@
+{
+  "slug": "hogfather",
+  "title": "Hogfather",
+  "author": "Terry Pratchett",
+  "isbn13": "9780552145749",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["fantasy", "humor-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "whimsical", "witty"],
+  "tropes": ["gods-and-myth"],
+  "warnings": [],
+  "summary": "When the Hogfather, the Discworld's Father Christmas, goes missing, Death steps into his red suit while his granddaughter Susan investigates who is trying to kill belief itself.",
+  "readIf": "you enjoy clever, satirical fantasy that plays with myth and winter holidays.",
+  "skipIf": "you want serious, straight-faced fantasy.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780552145749",
+    "https://en.wikipedia.org/wiki/Hogfather",
+    "https://hardcover.app/books/hogfather"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

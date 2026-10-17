@@ -1,0 +1,28 @@
+{
+  "slug": "just-listen",
+  "title": "Just listen",
+  "author": "Sarah Dessen",
+  "isbn13": "9780141322919",
+  "firstPublished": 2006,
+  "series": null,
+  "genres": ["young-adult", "contemporary-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["hopeful", "thoughtful", "heartbreaking"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["sexual-assault", "eating-disorder"],
+  "summary": "Annabel Greene, a teen model, is shunned by her friends after something that happened at a party, and she keeps silent. A loner named Owen who loves music helps her find her voice.",
+  "readIf": "you like thoughtful YA about friendship, family strain and finding the courage to speak up.",
+  "skipIf": "you want a light summer romance without serious themes.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141322919",
+    "https://en.wikipedia.org/wiki/Just_Listen",
+    "https://hardcover.app/books/just-listen"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

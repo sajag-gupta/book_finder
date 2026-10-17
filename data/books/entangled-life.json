@@ -1,0 +1,27 @@
+{
+  "slug": "entangled-life",
+  "title": "Entangled Life",
+  "author": "Merlin Sheldrake",
+  "isbn13": "9780525510321",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["biology-nature", "popular-science"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["eye-opening", "thoughtful", "whimsical"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Biologist Merlin Sheldrake explores fungi and mycelial networks, showing how they shape ecosystems, decompose waste, feed plants and challenge our ideas of individuality.",
+  "readIf": "you love learning about the hidden workings of nature.",
+  "skipIf": "you want a field guide or very technical biology.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525510321",
+    "https://hardcover.app/books/entangled-life"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

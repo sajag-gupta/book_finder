@@ -1,0 +1,28 @@
+{
+  "slug": "invisible-cities",
+  "title": "Invisible Cities",
+  "author": "Italo Calvino",
+  "isbn13": "9780749397647",
+  "firstPublished": 1972,
+  "series": null,
+  "genres": ["literary", "magical-realism"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "whimsical", "mind-bending"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Marco Polo describes dozens of imaginary cities to the ageing emperor Kublai Khan. Each short piece is a poetic fable about memory, desire, time and how we see places.",
+  "readIf": "you like short, lyrical, imaginative books you can dip into and ponder.",
+  "skipIf": "you need plot and characters, since this is a series of prose-poem sketches.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780749397647",
+    "https://en.wikipedia.org/wiki/Invisible_Cities",
+    "https://hardcover.app/books/invisible-cities"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

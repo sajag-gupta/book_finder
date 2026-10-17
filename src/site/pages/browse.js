@@ -48,7 +48,7 @@ export function browsePage(ctx, pageNum = 1) {
       <select name="sort"><option value="top">Top sellers first</option><option value="popular">Most read on Hardcover</option><option value="az">Title A to Z</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select>
     </label>
   </div>
-  <details class="facet" open><summary>Genre ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${genres.map((g) => checkbox('genre', g.slug, g.name, ctx.byGenre.get(g.slug).length)).join('')}</div></details>
+  <details class="facet facet--long"><summary>Genre ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${genres.map((g) => checkbox('genre', g.slug, g.name, ctx.byGenre.get(g.slug).length)).join('')}</div></details>
   <details class="facet" open><summary>Mood ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${moods.map((m) => checkbox('mood', m.slug, m.name, ctx.byMood.get(m.slug).length)).join('')}</div></details>
   <details class="facet"><summary>Length ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${LENGTHS.map(([v, l]) => checkbox('length', v, l)).join('')}</div></details>
   <details class="facet"><summary>Pace ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${PACES.map(([v, l]) => checkbox('pace', v, l)).join('')}</div></details>

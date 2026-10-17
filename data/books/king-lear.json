@@ -1,0 +1,28 @@
+{
+  "slug": "king-lear",
+  "title": "King Lear",
+  "author": "William Shakespeare",
+  "isbn13": "9780416761108",
+  "firstPublished": 1605,
+  "series": null,
+  "genres": ["plays", "classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "dark", "thoughtful"],
+  "tropes": ["family-saga", "royalty"],
+  "warnings": ["violence", "death", "torture"],
+  "summary": "An aging king divides his kingdom among his daughters according to their flattery, banishes the honest one, and descends into madness and ruin.",
+  "readIf": "you want Shakespeare's most devastating tragedy about family and power.",
+  "skipIf": "you want an easy read, as the language is dense and the tone bleak.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780416761108",
+    "https://en.wikipedia.org/wiki/King_Lear",
+    "https://hardcover.app/books/king-lear"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

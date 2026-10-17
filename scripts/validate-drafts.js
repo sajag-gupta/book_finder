@@ -15,7 +15,10 @@ const root = fileURLToPath(new URL('..', import.meta.url));
 const json = (...p) => JSON.parse(readFileSync(join(root, ...p), 'utf8'));
 const vocab = (f) => new Set(json('data', 'vocab', f).map((x) => x.slug));
 const [moods, tropes, warnings] = ['moods.json', 'tropes.json', 'warnings.json'].map(vocab);
-const slugs = new Set(json('data', 'catalogue', 'catalogue.json').map((b) => slugify(b.title)));
+const genres = vocab('genres.json');
+const slugs = new Set(
+  json('data', 'catalogue', 'catalogue.json').map((b) => b.slug ?? slugify(b.title)),
+);
 
 const between = (s, lo, hi) => typeof s === 'string' && s.length >= lo && s.length <= hi;
 const errors = [];
@@ -32,8 +35,13 @@ for (const file of process.argv.slice(2)) {
     const at = `${file} ${r.slug}`;
     const bad = (msg) => errors.push(`${at}: ${msg}`);
     if (!slugs.has(r.slug)) bad('slug is not in the catalogue');
+    if (r.skip === true) continue; // the drafter did not know this book well enough
     if (!['slow', 'medium', 'fast'].includes(r.pace)) bad(`pace "${r.pace}"`);
-    if (!['short', 'medium', 'long'].includes(r.length)) bad(`length "${r.length}"`);
+    if (r.length !== undefined && !['short', 'medium', 'long'].includes(r.length))
+      bad(`length "${r.length}"`);
+    if (!Array.isArray(r.genres) || r.genres.length < 1 || r.genres.length > 3)
+      bad('needs 1-3 genres');
+    for (const g of r.genres ?? []) if (!genres.has(g)) bad(`unknown genre "${g}"`);
     if (!Array.isArray(r.moods) || r.moods.length < 1 || r.moods.length > 4) bad('needs 1-4 moods');
     for (const m of r.moods ?? []) if (!moods.has(m)) bad(`unknown mood "${m}"`);
     for (const t of r.tropes ?? []) if (!tropes.has(t)) bad(`unknown trope "${t}"`);
@@ -42,10 +50,12 @@ for (const file of process.argv.slice(2)) {
       if (new Set(r[key]).size !== (r[key] ?? []).length) bad(`duplicate in ${key}`);
     }
     if (!between(r.summary, 40, 400)) bad(`summary length ${r.summary?.length}`);
+    if ((r.tropes ?? []).length > 3) bad('at most 3 tropes');
+    if ((r.warnings ?? []).length > 8) bad('at most 8 warnings');
     if (!between(r.readIf, 15, 200)) bad(`readIf length ${r.readIf?.length}`);
     if (!between(r.skipIf, 15, 200)) bad(`skipIf length ${r.skipIf?.length}`);
-    if (!Array.isArray(r.pairings) || r.pairings.length < 2 || r.pairings.length > 3) {
-      bad('needs 2-3 pairings');
+    if (r.pairings !== undefined && (!Array.isArray(r.pairings) || r.pairings.length > 3)) {
+      bad('pairings, when given, are a list of at most 3');
     }
     for (const p of r.pairings ?? []) {
       if (!slugs.has(p.slug)) bad(`pairing "${p.slug}" is not in the catalogue`);

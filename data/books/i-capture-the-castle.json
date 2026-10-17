@@ -1,0 +1,28 @@
+{
+  "slug": "i-capture-the-castle",
+  "title": "I Capture the Castle",
+  "author": "Dodie Smith",
+  "isbn13": "9781784877453",
+  "firstPublished": 1948,
+  "series": null,
+  "genres": ["classic", "coming-of-age", "contemporary-fiction"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["cozy", "nostalgic", "witty"],
+  "tropes": ["coming-of-age"],
+  "warnings": [],
+  "summary": "Seventeen-year-old Cassandra records family life in a crumbling English castle in the 1930s. Her writer father is blocked and the household is poor, until two wealthy American brothers arrive.",
+  "readIf": "you love charming, witty diary-style novels with a distinct narrator and a touch of romance.",
+  "skipIf": "you want a fast plot or a modern setting.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781784877453",
+    "https://en.wikipedia.org/wiki/I_Capture_the_Castle",
+    "https://hardcover.app/books/i-capture-the-castle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "brideshead-revisited",
+  "title": "Brideshead Revisited",
+  "author": "Evelyn Waugh",
+  "isbn13": "9780316216456",
+  "firstPublished": 1930,
+  "series": null,
+  "genres": ["classic", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["nostalgic", "melancholic", "thoughtful"],
+  "tropes": [],
+  "warnings": ["addiction"],
+  "summary": "Charles Ryder looks back on his friendship with Sebastian Flyte at Oxford and his long entanglement with Sebastian's wealthy, devoutly Catholic family and their house, Brideshead.",
+  "readIf": "you like elegiac novels about class, faith and faded glamour.",
+  "skipIf": "you lack patience for a slow, reflective narrator and religious themes.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316216456",
+    "https://en.wikipedia.org/wiki/Brideshead_Revisited",
+    "https://hardcover.app/books/brideshead-revisited"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

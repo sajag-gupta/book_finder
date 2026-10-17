@@ -1,0 +1,28 @@
+{
+  "slug": "love-in-the-time-of-cholera",
+  "title": "Love in the Time of Cholera",
+  "author": "Gabriel García Márquez",
+  "isbn13": "9780140281644",
+  "firstPublished": 1985,
+  "series": null,
+  "genres": ["literary", "magical-realism", "historical-romance"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "swoony", "thoughtful"],
+  "tropes": ["second-chance", "star-crossed-lovers"],
+  "warnings": ["sexual-content", "infidelity"],
+  "summary": "Florentino Ariza falls in love as a young man with Fermina Daza, who marries a respected doctor. He waits more than fifty years for another chance, in a Caribbean port town.",
+  "readIf": "you like lush, slow literary fiction about obsession and long-term love.",
+  "skipIf": "you want a conventional romance, since the protagonist's behavior is often troubling.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140281644",
+    "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera",
+    "https://hardcover.app/books/love-in-the-time-of-cholera"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

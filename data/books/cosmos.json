@@ -1,0 +1,27 @@
+{
+  "slug": "cosmos",
+  "title": "Cosmos",
+  "author": "Carl Sagan",
+  "isbn13": "9780354045315",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["physics-cosmos", "popular-science"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "thoughtful", "eye-opening"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Carl Sagan surveys the universe and humanity's long effort to understand it, from ancient astronomers to the exploration of planets and stars. He combines science history with reflections on our place in the cosmos.",
+  "readIf": "you want science writing that is lyrical and full of wonder about the universe.",
+  "skipIf": "you want up-to-date findings, as parts of the science have been overtaken since 1980.",
+  "soldMillions": 40,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780354045315",
+    "https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

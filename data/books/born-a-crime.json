@@ -1,0 +1,27 @@
+{
+  "slug": "born-a-crime",
+  "title": "Born A Crime",
+  "author": "Trevor Noah",
+  "isbn13": "9781531865047",
+  "firstPublished": 1986,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "eye-opening", "inspiring"],
+  "tropes": [],
+  "warnings": ["racism", "domestic-violence", "abuse"],
+  "summary": "Comedian Trevor Noah tells of growing up in apartheid and post-apartheid South Africa as the child of a Black mother and white father, a relationship that was then illegal, and of his fierce mother.",
+  "readIf": "you want a funny and humane memoir that also explains apartheid's reach.",
+  "skipIf": "you want a strict chronology or avoid stories of domestic violence.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781531865047",
+    "https://hardcover.app/books/born-a-crime"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

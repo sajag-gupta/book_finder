@@ -1,0 +1,28 @@
+{
+  "slug": "hamnet",
+  "title": "Hamnet",
+  "author": "Maggie O'Farrell",
+  "isbn13": "9781472223791",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["historical", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["heartbreaking", "haunting", "melancholic"],
+  "tropes": ["family-saga"],
+  "warnings": ["child-death", "death", "grief"],
+  "summary": "In late sixteenth-century Warwickshire, the story follows Agnes, a healer, and her husband, a Latin tutor who becomes a playwright. It centres on the death of their young son Hamnet.",
+  "readIf": "you like lyrical historical fiction focused on love, family and grief.",
+  "skipIf": "you want a book about Shakespeare's career or find child loss unbearable.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781472223791",
+    "https://en.wikipedia.org/wiki/Hamnet_(novel)",
+    "https://hardcover.app/books/hamnet"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

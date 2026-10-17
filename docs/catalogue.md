@@ -98,3 +98,21 @@ general knowledge and can be incomplete: `reviewed` is the level that means a pe
 2. `npm run catalogue:isbns`, then `npm run catalogue:index` to regenerate the reference list.
 3. Draft records to `.work/records/*.json` (see `scripts/validate-drafts.js` for the format).
 4. `node scripts/merge-catalogue.js`, `npm run validate`, then `npm run review -- --mark-checked`.
+
+## Written records and light listings
+
+The catalogue has two tiers of book page:
+
+- **Written records** (`data/books/`): our own summary, read-if/skip-if, moods, content warnings.
+  These are indexed, in the sitemap, and have share cards. About 850 are published; the rest of a
+  second batch of about 480 waits for `npm run review -- --mark-checked`.
+- **Light listings** (`data/light/books.json`, about 8,000): facts only, from Hardcover's most-read
+  list (title, author, year, ISBN, pages, rating counts, reader-reported mood words). They are
+  `noindex`, not in the sitemap, and found through the browse search. They give way to a written
+  record as soon as one exists. Rebuild with `node scripts/build-light.js`.
+
+How the second batch was picked: `scripts/build-candidates.js` merges research lists
+(`.work/research/*.json`: bestsellers, awards, canon and top-author lists gathered from public
+pages) with Hardcover's 10,000 most-read books, scores them (readers, number of lists, author rank,
+sales), and writes the top ones to `data/catalogue/catalogue.json`. `scripts/prepare-batches.js`
+splits them for drafting and `scripts/validate-drafts.js` checks each batch.

@@ -1,0 +1,27 @@
+{
+  "slug": "astrophysics-for-people-in-a-hurry",
+  "title": "Astrophysics for People in a Hurry",
+  "author": "Neil deGrasse Tyson",
+  "isbn13": "9781722481674",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["physics-cosmos", "popular-science"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["eye-opening", "inspiring", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "A short, chapter-by-chapter tour of cosmology by astrophysicist Neil deGrasse Tyson, covering the Big Bang, dark matter and the nature of the universe. It is aimed at readers who want the main ideas quickly.",
+  "readIf": "you want a quick, readable overview of the universe with no maths.",
+  "skipIf": "you want depth, detailed explanation or rigorous derivations.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781722481674",
+    "https://en.wikipedia.org/wiki/Astrophysics_for_People_in_a_Hurry"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
