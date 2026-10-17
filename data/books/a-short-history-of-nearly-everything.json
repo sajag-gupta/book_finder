@@ -1,0 +1,28 @@
+{
+  "slug": "a-short-history-of-nearly-everything",
+  "title": "A Short History of Nearly Everything",
+  "author": "Bill Bryson",
+  "isbn13": "9781409095484",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["popular-science"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["funny", "eye-opening", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Bryson sets out to understand how we know what we know about the universe, Earth and life, from the Big Bang to people, and tells the stories of the scientists who figured it out.",
+  "readIf": "you want a funny, accessible tour of science and the people behind it.",
+  "skipIf": "you want specialist depth in one field rather than a broad overview.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409095484",
+    "https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything",
+    "https://hardcover.app/books/a-short-history-of-nearly-everything"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

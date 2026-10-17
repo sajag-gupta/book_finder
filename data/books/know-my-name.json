@@ -1,0 +1,27 @@
+{
+  "slug": "know-my-name",
+  "title": "Know My Name",
+  "author": "Chanel Miller",
+  "isbn13": "9780241988374",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["heartbreaking", "inspiring", "eye-opening"],
+  "tropes": [],
+  "warnings": ["sexual-assault", "racism"],
+  "summary": "Chanel Miller, known publicly as Emily Doe, tells her own story of being sexually assaulted on a university campus and the trial that followed. She describes how the justice system treated her and her work to reclaim her identity.",
+  "readIf": "you want a powerful, personal account of the aftermath of assault and the legal process.",
+  "skipIf": "you cannot read detailed discussions of sexual violence.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241988374",
+    "https://hardcover.app/books/know-my-name"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

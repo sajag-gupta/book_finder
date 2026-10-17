@@ -1,0 +1,28 @@
+{
+  "slug": "i-know-why-the-caged-bird-sings",
+  "title": "I Know Why the Caged Bird Sings",
+  "author": "Maya Angelou",
+  "isbn13": "9780679451730",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["memoir"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "heartbreaking", "thoughtful"],
+  "tropes": [],
+  "warnings": ["racism", "child-sexual-abuse", "sexual-assault"],
+  "summary": "Maya Angelou recounts her early years in segregated Arkansas and California, including a trauma that left her mute for years, and how books and a few strong women helped her find her voice.",
+  "readIf": "you appreciate lyrical memoirs about resilience and identity.",
+  "skipIf": "you want to avoid depictions of racism and the abuse of a child.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780679451730",
+    "https://en.wikipedia.org/wiki/I_Know_Why_the_Caged_Bird_Sings",
+    "https://hardcover.app/books/i-know-why-the-caged-bird-sings"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

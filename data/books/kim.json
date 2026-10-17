@@ -1,0 +1,28 @@
+{
+  "slug": "kim",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "isbn13": "9781434619020",
+  "firstPublished": 1901,
+  "series": null,
+  "genres": ["classic", "adventure"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["adventurous", "nostalgic", "whimsical"],
+  "tropes": ["quest", "unlikely-friendship"],
+  "warnings": ["prejudice"],
+  "summary": "Kim, an orphan boy living on the streets of British India, becomes the disciple of a Tibetan lama seeking a holy river and is also drawn into the Great Game of espionage along the roads of the Raj.",
+  "readIf": "you enjoy old-fashioned adventure with vivid scenes of colonial India.",
+  "skipIf": "you are put off by colonial-era attitudes or slow, episodic plotting.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781434619020",
+    "https://en.wikipedia.org/wiki/Kim_(novel)",
+    "https://hardcover.app/books/kim"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

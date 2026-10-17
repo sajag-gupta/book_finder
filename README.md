@@ -17,7 +17,7 @@ import), content warnings you can hide until you ask, a weekly email, and sharea
 Store buttons are affiliate links where a program exists. See [docs/product.md](docs/product.md) for
 the product plan and [docs/architecture.md](docs/architecture.md) for how it is built.
 
-> Working title: **After the Dragons**. It is set in one place (`site.name` in
+> Name: **ReadYourMood**. It is set in one place (`site.name` in
 > [scripts/build.js](scripts/build.js)).
 
 ## How it works

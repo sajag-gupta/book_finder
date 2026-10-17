@@ -1,0 +1,28 @@
+{
+  "slug": "brown-girl-dreaming",
+  "title": "Brown Girl Dreaming",
+  "author": "Jacqueline Woodson",
+  "isbn13": "9781432850425",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["poetry", "middle-grade"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["inspiring", "hopeful", "thoughtful"],
+  "tropes": [],
+  "warnings": ["racism"],
+  "summary": "Written in verse, this is the author's account of growing up in the 1960s and 70s, moving between South Carolina and New York, and discovering the power of stories and writing.",
+  "readIf": "you enjoy lyrical memoirs about childhood, family and finding your voice.",
+  "skipIf": "you want a conventional plot-driven narrative.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781432850425",
+    "https://en.wikipedia.org/wiki/Brown_Girl_Dreaming",
+    "https://hardcover.app/books/brown-girl-dreaming"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

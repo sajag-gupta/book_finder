@@ -1,0 +1,28 @@
+{
+  "slug": "i-am-malala",
+  "title": "I Am Malala",
+  "author": "Malala Yousafzai",
+  "isbn13": "9780545902687",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["memoir", "biography"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "hopeful", "eye-opening"],
+  "tropes": [],
+  "warnings": ["violence", "war"],
+  "summary": "Malala Yousafzai recounts growing up in Pakistan's Swat Valley, her father's school, the rise of the Taliban and her campaign for girls' education, which led to her being shot in 2012.",
+  "readIf": "you want an accessible, personal account of courage and the fight for education.",
+  "skipIf": "you want an analytical political history of Pakistan.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780545902687",
+    "https://en.wikipedia.org/wiki/I_Am_Malala",
+    "https://hardcover.app/books/i-am-malala"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

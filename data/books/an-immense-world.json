@@ -1,0 +1,27 @@
+{
+  "slug": "an-immense-world",
+  "title": "An Immense World",
+  "author": "Ed Yong",
+  "isbn13": "9780593133231",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["biology-nature", "popular-science"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["eye-opening", "whimsical", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Ed Yong explores how animals perceive the world through senses humans lack or barely use, such as echolocation, electric fields and magnetic navigation, and what this says about experience.",
+  "readIf": "you love nature writing full of surprising animal facts.",
+  "skipIf": "you want a narrow argument or a deep technical text.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593133231",
+    "https://hardcover.app/books/an-immense-world"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

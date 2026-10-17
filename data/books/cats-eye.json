@@ -1,0 +1,28 @@
+{
+  "slug": "cats-eye",
+  "title": "Cat's Eye",
+  "author": "Margaret Atwood",
+  "isbn13": "9780385491020",
+  "firstPublished": 1988,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["haunting", "melancholic", "thoughtful"],
+  "tropes": ["dual-timeline"],
+  "warnings": ["bullying"],
+  "summary": "Painter Elaine Risley returns to Toronto for a retrospective of her work. She looks back on a childhood in which her friend Cordelia bullied her, and on the lasting effect on her art and life.",
+  "readIf": "you like reflective, character-led novels about girlhood, memory and art.",
+  "skipIf": "you want brisk plotting or a book with a clear villain and resolution.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385491020",
+    "https://en.wikipedia.org/wiki/Cat's_Eye_(novel)",
+    "https://hardcover.app/books/cats-eye"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ivanhoe",
+  "title": "Ivanhoe",
+  "author": "Sir Walter Scott",
+  "isbn13": "9781556514296",
+  "firstPublished": 1819,
+  "series": null,
+  "genres": ["classic", "adventure", "historical"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "nostalgic", "epic"],
+  "tropes": ["quest", "royalty", "hidden-identity"],
+  "warnings": ["violence", "prejudice"],
+  "summary": "In twelfth-century England, the knight Wilfred of Ivanhoe returns from the Crusades in disguise. He is drawn into tournaments, a siege and the struggle between Saxons and Normans while King Richard is away.",
+  "readIf": "you enjoy old-fashioned chivalric adventure with tournaments, outlaws and castle sieges.",
+  "skipIf": "you find nineteenth-century historical romance wordy or dislike its dated views.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781556514296",
+    "https://en.wikipedia.org/wiki/Ivanhoe",
+    "https://hardcover.app/books/ivanhoe"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "jonathan-livingston-seagull",
+  "title": "Jonathan Livingston Seagull",
+  "author": "Richard Bach",
+  "isbn13": "9780531003206",
+  "firstPublished": 1969,
+  "series": null,
+  "genres": ["literary", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["inspiring", "hopeful", "thoughtful"],
+  "tropes": ["talking-animals"],
+  "warnings": [],
+  "summary": "A seagull cares more about flying faster and better than about searching for food with the flock. His devotion to flight leads to exile, then to a higher kind of understanding that he shares with other gulls.",
+  "readIf": "you want a brief, allegorical fable about following your passion and growing beyond the crowd.",
+  "skipIf": "you find parable-style spirituality sentimental or overly simple.",
+  "soldMillions": 44,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780531003206",
+    "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull",
+    "https://hardcover.app/books/jonathan-livingston-seagull"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

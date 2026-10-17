@@ -1,0 +1,28 @@
+{
+  "slug": "careless-people",
+  "title": "Careless People",
+  "author": "Sarah Wynn-Williams",
+  "isbn13": "9781035065929",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["memoir", "business", "current-affairs"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["eye-opening", "dark", "tense"],
+  "tropes": [],
+  "warnings": ["manipulation", "sexual-assault", "bullying"],
+  "summary": "A former Facebook policy director describes her years inside the company, from its early global expansion to its role in politics. She portrays leaders making huge decisions with little care for the consequences.",
+  "readIf": "you want an insider's view of how a major tech company worked and its leadership culture.",
+  "skipIf": "you want a neutral, fully documented history rather than one person's account.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781035065929",
+    "https://en.wikipedia.org/wiki/Careless_People",
+    "https://hardcover.app/books/careless-people-2025"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

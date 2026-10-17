@@ -1,0 +1,28 @@
+{
+  "slug": "babel-17",
+  "title": "Babel-17",
+  "author": "Samuel R. Delany",
+  "isbn13": "9781857988055",
+  "firstPublished": 1966,
+  "series": null,
+  "genres": ["science-fiction", "space-opera"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["mind-bending", "adventurous", "mysterious"],
+  "tropes": ["artificial-intelligence"],
+  "warnings": ["war"],
+  "summary": "Rydra Wong, a poet and starship captain, is asked to decode Babel-17, an enemy language during an interstellar war. She finds that the language shapes the thinking of anyone who learns it.",
+  "readIf": "you enjoy short, inventive science fiction about language and how it shapes the mind.",
+  "skipIf": "you want hard technical science fiction or plain, linear storytelling.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781857988055",
+    "https://en.wikipedia.org/wiki/Babel-17",
+    "https://hardcover.app/books/babel-17"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

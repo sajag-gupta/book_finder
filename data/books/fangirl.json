@@ -1,0 +1,28 @@
+{
+  "slug": "fangirl",
+  "title": "Fangirl",
+  "author": "Rainbow Rowell",
+  "isbn13": "9781250907134",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["young-adult", "contemporary-romance", "coming-of-age"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["swoony", "funny", "hopeful", "comforting"],
+  "tropes": ["coming-of-age", "slow-burn"],
+  "warnings": ["mental-illness", "addiction"],
+  "summary": "Cath is a shy first-year at university who writes popular fan fiction about a boy wizard, while her twin sister Wren pulls away. She must cope with a new roommate, a difficult father and her first romance.",
+  "readIf": "you love fandom, anxious heroines and gentle campus romance.",
+  "skipIf": "you want high-stakes plot or little romance.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250907134",
+    "https://en.wikipedia.org/wiki/Fangirl_(novel)",
+    "https://hardcover.app/books/fangirl-vol-1-2020"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

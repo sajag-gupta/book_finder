@@ -55,10 +55,10 @@ test('the home page shows trending only when enough trending books are on the si
   const some = data.books.slice(0, 6).map((b) => ({ title: b.title, author: b.author }));
   const url = 'https://hardcover.app/trending/month';
   const withSome = homePage(fullCtx({ source: 'Hardcover', url, entries: some }));
-  assert.ok(withSome.includes('Trending now'));
+  assert.ok(withSome.includes('over the last 30 days'));
   assert.ok(withSome.includes('according to Hardcover readers'));
   assert.ok(!withSome.includes('hardcover.app'), 'trending credits Hardcover without linking');
-  assert.ok(!homePage(fullCtx(null)).includes('Trending now'));
+  assert.ok(!homePage(fullCtx(null)).includes('over the last 30 days'));
 });
 
 test('book pages offer a shelf panel and hideable content warnings', () => {

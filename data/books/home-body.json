@@ -1,0 +1,27 @@
+{
+  "slug": "home-body",
+  "title": "home body",
+  "author": "Rupi Kaur",
+  "isbn13": "9781524867829",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["poetry"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["hopeful", "thoughtful", "comforting"],
+  "tropes": [],
+  "warnings": ["sexual-assault", "mental-illness"],
+  "summary": "A collection of short poems and illustrations about the body, self-acceptance, work, love and rest, divided into sections on mind, rising, wondering and coming home.",
+  "readIf": "you want short, simple, affirming poems you can dip into.",
+  "skipIf": "you prefer complex, formally ambitious poetry.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781524867829",
+    "https://hardcover.app/books/home-body"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

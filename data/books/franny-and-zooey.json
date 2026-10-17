@@ -1,0 +1,28 @@
+{
+  "slug": "franny-and-zooey",
+  "title": "Franny and Zooey",
+  "author": "J. D. Salinger",
+  "isbn13": "9780140021202",
+  "firstPublished": 1957,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "witty", "melancholic"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Two linked pieces about the gifted Glass siblings: Franny, a college student unravelling in a spiritual crisis, and her brother Zooey, who tries to talk her round in the family apartment.",
+  "readIf": "you like dialogue-heavy novels about intelligent people searching for meaning.",
+  "skipIf": "you want action or find long, talky scenes tiring.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140021202",
+    "https://en.wikipedia.org/wiki/Franny_and_Zooey",
+    "https://hardcover.app/books/franny-and-zooey"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

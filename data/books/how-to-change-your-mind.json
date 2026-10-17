@@ -1,0 +1,27 @@
+{
+  "slug": "how-to-change-your-mind",
+  "title": "How to Change Your Mind",
+  "author": "Michael Pollan",
+  "isbn13": "9781720692171",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["popular-science", "neuroscience", "psychology"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "thoughtful", "eye-opening"],
+  "tropes": [],
+  "warnings": ["addiction"],
+  "summary": "Michael Pollan explores the history and revival of psychedelic research for depression, addiction and end-of-life anxiety, blending science with his own experiences.",
+  "readIf": "you are curious about the science and culture of psychedelics.",
+  "skipIf": "you want a clinical guide or are put off by first-person trip accounts.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781720692171",
+    "https://hardcover.app/books/how-to-change-your-mind"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

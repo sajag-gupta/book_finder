@@ -1,0 +1,27 @@
+{
+  "slug": "algorithms-to-live-by",
+  "title": "Algorithms to Live By",
+  "author": "Brian Christian",
+  "isbn13": "9781627790369",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["technology", "critical-thinking"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mind-bending", "practical", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Brian Christian and Tom Griffiths show how computer science ideas such as optimal stopping, caching and sorting can inform everyday choices like when to stop looking for a flat or how to organize a desk.",
+  "readIf": "you enjoy seeing everyday dilemmas through the lens of math and computing.",
+  "skipIf": "you want firm rules to follow, since many of the answers are probabilities and trade-offs.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781627790369",
+    "https://hardcover.app/books/algorithms-to-live-by"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

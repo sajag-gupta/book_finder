@@ -1,0 +1,28 @@
+{
+  "slug": "disgrace",
+  "title": "Disgrace",
+  "author": "J.M. Coetzee",
+  "isbn13": "9780143115281",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "thoughtful", "haunting"],
+  "tropes": [],
+  "warnings": ["sexual-assault", "violence", "racism", "animal-death"],
+  "summary": "David Lurie, a Cape Town professor, loses his job after an affair with a student and retreats to his daughter's farm. There, violence forces him to face a changing South Africa and his own limits.",
+  "readIf": "you want a spare, morally difficult novel about power and post-apartheid society.",
+  "skipIf": "you want a likeable protagonist or a story with a comforting resolution.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780143115281",
+    "https://en.wikipedia.org/wiki/Disgrace",
+    "https://hardcover.app/books/disgrace"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

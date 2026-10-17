@@ -1,0 +1,27 @@
+{
+  "slug": "being-mortal",
+  "title": "Being Mortal",
+  "author": "Atul Gawande",
+  "isbn13": "9781594139246",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["medicine", "essays"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "heartbreaking", "eye-opening"],
+  "tropes": [],
+  "warnings": ["death", "terminal-illness", "grief"],
+  "summary": "A surgeon examines how modern medicine handles aging and dying, and argues that doctors and families should focus on quality of life, not only on extending it. He draws on patients and on his own father.",
+  "readIf": "you are thinking about ageing, caring for a parent, or what a good end of life looks like.",
+  "skipIf": "you are in the middle of a recent loss and want something lighter.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781594139246",
+    "https://hardcover.app/books/being-mortal"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

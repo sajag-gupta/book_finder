@@ -1,0 +1,28 @@
+{
+  "slug": "a-room-of-ones-own",
+  "title": "A Room of One's Own",
+  "author": "Virginia Woolf",
+  "isbn13": "9781981495641",
+  "firstPublished": 1903,
+  "series": null,
+  "genres": ["essays", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "witty", "inspiring"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Virginia Woolf considers why so few women wrote famous works in the past. She argues that a woman needs money and a room of her own to write fiction, and imagines a sister of Shakespeare whose talent was wasted.",
+  "readIf": "you like essays on literature, gender and creative freedom with a distinct voice.",
+  "skipIf": "you want a systematic argument rather than a wandering, fictionalized lecture.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781981495641",
+    "https://en.wikipedia.org/wiki/A_Room_of_One's_Own",
+    "https://hardcover.app/books/a-room-of-ones-own"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "green-eggs-and-ham",
+  "title": "Green Eggs and Ham",
+  "author": "Dr. Seuss",
+  "isbn13": "9780375810886",
+  "firstPublished": 1960,
+  "series": null,
+  "genres": ["picture-books", "children"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "A persistent character keeps offering green eggs and ham to a grumpy one who refuses to try them in any place or manner. Written with a very small vocabulary, it ends when the doubter finally tastes them.",
+  "readIf": "you want a rhyming, repetitive book for early readers or read-aloud time.",
+  "skipIf": "you want a story with much variety or detailed illustrations.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780375810886",
+    "https://en.wikipedia.org/wiki/Green_Eggs_and_Ham",
+    "https://hardcover.app/books/green-eggs-and-ham"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

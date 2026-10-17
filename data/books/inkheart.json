@@ -1,0 +1,28 @@
+{
+  "slug": "inkheart",
+  "title": "Inkheart",
+  "author": "Cornelia Funke",
+  "isbn13": "9781908435118",
+  "firstPublished": 2003,
+  "series": null,
+  "genres": ["children", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "whimsical", "mysterious"],
+  "tropes": ["book-within-a-book"],
+  "warnings": [],
+  "summary": "Twelve-year-old Meggie learns that her father can read characters out of books into the real world, and a ruthless villain who escaped one wants to use the gift for his own ends.",
+  "readIf": "you love stories about books and the characters inside them.",
+  "skipIf": "you want a fast, light read, as this one is long and fairly intricate.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781908435118",
+    "https://en.wikipedia.org/wiki/Inkheart",
+    "https://hardcover.app/books/inkheart"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

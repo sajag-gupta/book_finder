@@ -1,0 +1,28 @@
+{
+  "slug": "cold-comfort-farm",
+  "title": "Cold Comfort Farm",
+  "author": "Stella Gibbons",
+  "isbn13": "9781856132749",
+  "firstPublished": 1929,
+  "series": null,
+  "genres": ["humor-fiction", "classic", "satire"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["funny", "witty", "nostalgic"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "Newly orphaned and sensible Flora Poste moves in with her gloomy relatives on a Sussex farm and sets about tidying up their lives, to the amusement of the reader.",
+  "readIf": "you like dry, classic British comedy that mocks melodramatic country novels.",
+  "skipIf": "you want modern humour or a heartfelt drama.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781856132749",
+    "https://en.wikipedia.org/wiki/Cold_Comfort_Farm",
+    "https://hardcover.app/books/cold-comfort-farm"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

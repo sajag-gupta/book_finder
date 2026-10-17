@@ -1,0 +1,27 @@
+{
+  "slug": "ignite-me",
+  "title": "Ignite Me",
+  "author": "Tahereh Mafi",
+  "isbn13": "9780062085573",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["young-adult", "dystopian", "romance"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "swoony", "hopeful"],
+  "tropes": ["rebellion", "love-triangle"],
+  "warnings": ["violence", "abuse", "manipulation"],
+  "summary": "In the third Shatter Me book, Juliette, whose touch can kill, joins the fight against the regime that rules her world and tries to trust Warner, who has been her enemy.",
+  "readIf": "you have read the first two Shatter Me books and want the dystopian romance to continue.",
+  "skipIf": "you have not read the earlier books or dislike lyrical, heavily stylised prose.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062085573",
+    "https://hardcover.app/books/ignite-me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

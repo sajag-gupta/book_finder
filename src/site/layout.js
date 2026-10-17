@@ -6,7 +6,7 @@ import { searchForm, signupForm } from './components.js';
  * @typedef {{name: string, url: string, preview: boolean}} Site
  */
 
-const LOGO = `<svg class="brand__mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#FFC933"/><path d="M7 9h8a2 2 0 0 1 2 2v13a4 4 0 0 0-4-3H7zM25 9h-8a2 2 0 0 0-2 2v13a4 4 0 0 1 4-3h6z" fill="#14213D"/></svg>`;
+const LOGO = `<svg class="brand__mark" viewBox="0 0 32 32" width="34" height="34" aria-hidden="true" focusable="false"><path d="M16 8.5C13.5 6.6 9.6 6 5 6.6v16.8c4.6-.6 8.5 0 11 1.9 2.5-1.9 6.4-2.5 11-1.9V6.6c-4.600-.6-8.500 0-11 1.900zM16 8.500v16.800" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
 /** Wraps page content in the shared document shell. */
 export function layout({
@@ -101,13 +101,14 @@ ${ld}
   <div class="wrap site-bar">
     <a class="brand" href="/">${LOGO}<span>${esc(site.name)}</span></a>
     <nav class="nav" aria-label="Main">
-      <a href="/books/">Browse</a>
-      <a href="/bestsellers/">Bestsellers</a>
-      <a href="/moods/">Moods</a>
+      <a href="/">Home</a>
+      <a href="/books/">Explore</a>
+      <a href="/feel/">Mood finder</a>
+      <a href="/bestsellers/">Top lists</a>
       <a href="/genres/">Genres</a>
     </nav>
     <div class="bar__tools">
-      ${searchForm('hq', { placeholder: 'Search books' })}
+      ${searchForm('hq', { placeholder: 'Search books, authors, or moods…' })}
       <button type="button" class="theme-toggle" data-theme-toggle hidden aria-pressed="false" aria-label="Switch to dark theme"><span class="theme-toggle__sun">${icon('sun', { size: 22 })}</span><span class="theme-toggle__moon">${icon('moon', { size: 22 })}</span></button>
       <a class="shelf-link" href="/shelf/" aria-label="My shelf">${icon('bookmark', { size: 22 })}<span class="shelf-count" data-shelf-count hidden>0</span></a>
     </div>

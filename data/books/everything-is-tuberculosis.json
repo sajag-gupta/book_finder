@@ -1,0 +1,27 @@
+{
+  "slug": "everything-is-tuberculosis",
+  "title": "Everything Is Tuberculosis",
+  "author": "John Green",
+  "isbn13": "9781529961423",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["medicine", "history"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["eye-opening", "hopeful", "thoughtful"],
+  "tropes": [],
+  "warnings": ["death", "terminal-illness"],
+  "summary": "John Green traces the long history of tuberculosis and argues that a curable disease still kills over a million people a year because of inequality. He tells it partly through a young patient he met in Sierra Leone.",
+  "readIf": "you want a short, humane look at global health and why a curable illness persists.",
+  "skipIf": "you want a detailed medical or epidemiological text rather than a personal, advocacy-minded essay.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529961423",
+    "https://hardcover.app/books/everything-is-tuberculosis"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "graceling",
+  "title": "Graceling",
+  "author": "Kristin Cashore",
+  "isbn13": "9781934180709",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["fantasy", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "tense", "hopeful"],
+  "tropes": ["slow-burn", "quest"],
+  "warnings": ["violence", "abuse", "manipulation"],
+  "summary": "Katsa is Graced with a gift for killing and serves as her cruel uncle's enforcer. She rescues a prisoner, flees with a fighter named Po and discovers a dangerous secret about a neighbouring king.",
+  "readIf": "you like a strong heroine, adventure and a slow-growing romance in a young adult fantasy.",
+  "skipIf": "you want dense worldbuilding or dislike stories with controlling, abusive rulers.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781934180709",
+    "https://en.wikipedia.org/wiki/Graceling",
+    "https://hardcover.app/books/graceling"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

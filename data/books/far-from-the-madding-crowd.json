@@ -1,0 +1,28 @@
+{
+  "slug": "far-from-the-madding-crowd",
+  "title": "Far from the Madding Crowd",
+  "author": "Thomas Hardy",
+  "isbn13": "9780345804006",
+  "firstPublished": 1874,
+  "series": null,
+  "genres": ["classic", "historical-romance", "literary"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["melancholic", "thoughtful", "swoony"],
+  "tropes": ["love-triangle"],
+  "warnings": ["death", "manipulation"],
+  "summary": "Bathsheba Everdene inherits a farm in rural Wessex and runs it independently. Three men court her: the loyal shepherd Gabriel Oak, the wealthy Boldwood and the dashing Sergeant Troy.",
+  "readIf": "you like rural Victorian novels with a strong-minded heroine and a mix of romance and tragedy.",
+  "skipIf": "you want a fast-moving romance or are put off by slow, descriptive countryside passages.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780345804006",
+    "https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd",
+    "https://hardcover.app/books/far-from-the-madding-crowd"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

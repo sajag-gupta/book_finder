@@ -1,0 +1,28 @@
+{
+  "slug": "eye-of-the-needle",
+  "title": "Eye of the Needle",
+  "author": "Ken Follett",
+  "isbn13": "9780062077622",
+  "firstPublished": 1978,
+  "series": null,
+  "genres": ["thriller", "spy-thriller"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["spy", "war-story"],
+  "warnings": ["violence", "death"],
+  "summary": "In 1944, a ruthless German agent known as the Needle discovers the truth about the planned D-Day landings and tries to get the news home. British intelligence hunts him, and the chase ends on a remote island.",
+  "readIf": "you like tightly paced Second World War spy thrillers.",
+  "skipIf": "you want deep characterisation or a morally gentle story.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062077622",
+    "https://en.wikipedia.org/wiki/Eye_of_the_Needle_(novel)",
+    "https://hardcover.app/books/eye-of-the-needle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

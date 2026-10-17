@@ -1,0 +1,27 @@
+{
+  "slug": "a-walk-in-the-woods",
+  "title": "A Walk in the Woods",
+  "author": "Bill Bryson",
+  "isbn13": "9781409095521",
+  "firstPublished": 1997,
+  "series": null,
+  "genres": ["travel", "humor-nonfiction", "nature-writing"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Bill Bryson sets out to hike the Appalachian Trail with his out-of-shape friend Katz, mixing comic misadventures with the history and ecology of the trail.",
+  "readIf": "you like humorous travel writing with nature and history tucked in.",
+  "skipIf": "you want a serious, complete account of a thru-hike.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781409095521",
+    "https://hardcover.app/books/a-walk-in-the-woods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

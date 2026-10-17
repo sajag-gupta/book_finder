@@ -1,0 +1,28 @@
+{
+  "slug": "blindness",
+  "title": "Blindness",
+  "author": "José Saramago",
+  "isbn13": "9781860462979",
+  "firstPublished": 1995,
+  "series": null,
+  "genres": ["literary", "dystopian"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["survival"],
+  "warnings": ["violence", "sexual-assault", "death"],
+  "summary": "When a sudden epidemic of white blindness strikes a city, a small group of the afflicted, led by a doctor's wife who can still see, struggle to survive in a quarantine ward.",
+  "readIf": "you can handle a bleak, allegorical novel about society breaking down.",
+  "skipIf": "you dislike unconventional punctuation or graphic suffering.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781860462979",
+    "https://en.wikipedia.org/wiki/Blindness_(novel)",
+    "https://hardcover.app/books/blindness"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

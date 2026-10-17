@@ -4,118 +4,967 @@
     "name": "Romance",
     "blurb": "Love stories, from slow burns to big gestures.",
     "color": "coral",
-    "icon": "heart"
+    "icon": "heart",
+    "group": "fiction"
   },
   {
     "slug": "romantasy",
     "name": "Romantasy",
     "blurb": "Romance with magic, courts and dragons.",
     "color": "coral",
-    "icon": "flame"
+    "icon": "flame",
+    "group": "fiction"
   },
   {
     "slug": "fantasy",
     "name": "Fantasy",
     "blurb": "Magic, myth and other worlds.",
     "color": "violet",
-    "icon": "wand-sparkles"
+    "icon": "wand-sparkles",
+    "group": "fiction"
   },
   {
     "slug": "cozy-fantasy",
     "name": "Cozy fantasy",
     "blurb": "Low stakes, warm hearts, great company.",
     "color": "sunshine",
-    "icon": "coffee"
+    "icon": "coffee",
+    "group": "fiction"
   },
   {
     "slug": "epic-fantasy",
     "name": "Epic fantasy",
     "blurb": "Sweeping sagas and world-changing quests.",
     "color": "violet",
-    "icon": "castle"
+    "icon": "castle",
+    "group": "fiction"
   },
   {
     "slug": "science-fiction",
     "name": "Science fiction",
     "blurb": "Space, technology and big what-ifs.",
     "color": "mint",
-    "icon": "rocket"
+    "icon": "rocket",
+    "group": "fiction"
   },
   {
     "slug": "dystopian",
     "name": "Dystopian",
     "blurb": "Worlds that went wrong, and who fights back.",
     "color": "violet",
-    "icon": "building-2"
+    "icon": "building-2",
+    "group": "fiction"
   },
   {
     "slug": "thriller",
     "name": "Thriller",
     "blurb": "Pulse-racing page-turners.",
     "color": "coral",
-    "icon": "siren"
+    "icon": "siren",
+    "group": "fiction"
   },
   {
     "slug": "mystery",
     "name": "Mystery",
     "blurb": "Puzzles, clues and satisfying reveals.",
     "color": "mint",
-    "icon": "search"
+    "icon": "search",
+    "group": "fiction"
   },
   {
     "slug": "crime",
     "name": "Crime",
     "blurb": "Detectives, gangsters and moral grey.",
     "color": "coral",
-    "icon": "fingerprint"
+    "icon": "fingerprint",
+    "group": "fiction"
   },
   {
     "slug": "horror",
     "name": "Horror",
     "blurb": "Dread, ghosts and things in the dark.",
     "color": "violet",
-    "icon": "ghost"
+    "icon": "ghost",
+    "group": "fiction"
   },
   {
     "slug": "historical",
     "name": "Historical",
     "blurb": "The past, brought close.",
     "color": "sunshine",
-    "icon": "landmark"
+    "icon": "landmark",
+    "group": "fiction"
   },
   {
     "slug": "young-adult",
     "name": "Young adult",
     "blurb": "Big feelings and firsts, for any age.",
     "color": "mint",
-    "icon": "backpack"
+    "icon": "backpack",
+    "group": "young-readers"
   },
   {
     "slug": "literary",
     "name": "Literary",
     "blurb": "Character-led books that stay with you.",
     "color": "sunshine",
-    "icon": "book-open"
+    "icon": "book-open",
+    "group": "fiction"
   },
   {
     "slug": "classic",
     "name": "Classics",
     "blurb": "Books that earned their reputation.",
     "color": "sunshine",
-    "icon": "scroll-text"
+    "icon": "scroll-text",
+    "group": "fiction"
   },
   {
     "slug": "adventure",
     "name": "Adventure",
     "blurb": "Journeys, danger and far-off places.",
     "color": "mint",
-    "icon": "compass"
+    "icon": "compass",
+    "group": "fiction"
   },
   {
     "slug": "children",
     "name": "Children's",
     "blurb": "Read-aloud favourites and first chapter books.",
     "color": "sunshine",
-    "icon": "blocks"
+    "icon": "blocks",
+    "group": "young-readers"
+  },
+  {
+    "slug": "contemporary-romance",
+    "name": "Contemporary romance",
+    "blurb": "Modern love stories with real-life stakes.",
+    "color": "coral",
+    "icon": "heart-handshake",
+    "group": "fiction"
+  },
+  {
+    "slug": "romantic-comedy",
+    "name": "Romantic comedy",
+    "blurb": "Banter, mishaps and happily ever after.",
+    "color": "coral",
+    "icon": "smile-plus",
+    "group": "fiction"
+  },
+  {
+    "slug": "historical-romance",
+    "name": "Historical romance",
+    "blurb": "Love in ballrooms, battlefields and bygone eras.",
+    "color": "sunshine",
+    "icon": "gem",
+    "group": "fiction"
+  },
+  {
+    "slug": "dark-romance",
+    "name": "Dark romance",
+    "blurb": "Intense, morally grey love stories.",
+    "color": "violet",
+    "icon": "moon-star",
+    "group": "fiction"
+  },
+  {
+    "slug": "paranormal-romance",
+    "name": "Paranormal romance",
+    "blurb": "Vampires, shifters and love that bites.",
+    "color": "violet",
+    "icon": "sparkle",
+    "group": "fiction"
+  },
+  {
+    "slug": "urban-fantasy",
+    "name": "Urban fantasy",
+    "blurb": "Magic hiding in modern cities.",
+    "color": "violet",
+    "icon": "building",
+    "group": "fiction"
+  },
+  {
+    "slug": "dark-fantasy",
+    "name": "Dark fantasy",
+    "blurb": "Grim worlds where magic costs something.",
+    "color": "violet",
+    "icon": "skull",
+    "group": "fiction"
+  },
+  {
+    "slug": "space-opera",
+    "name": "Space opera",
+    "blurb": "Fleets, empires and galaxy-sized stories.",
+    "color": "mint",
+    "icon": "satellite",
+    "group": "fiction"
+  },
+  {
+    "slug": "hard-science-fiction",
+    "name": "Hard science fiction",
+    "blurb": "Rigorous science driving the plot.",
+    "color": "mint",
+    "icon": "atom",
+    "group": "fiction"
+  },
+  {
+    "slug": "cyberpunk",
+    "name": "Cyberpunk",
+    "blurb": "Neon, networks and high tech, low life.",
+    "color": "mint",
+    "icon": "cpu",
+    "group": "fiction"
+  },
+  {
+    "slug": "post-apocalyptic",
+    "name": "Post-apocalyptic",
+    "blurb": "Life after the end, and what survives.",
+    "color": "coral",
+    "icon": "tent",
+    "group": "fiction"
+  },
+  {
+    "slug": "litrpg",
+    "name": "LitRPG and progression",
+    "blurb": "Level-ups, systems and numbers going up.",
+    "color": "mint",
+    "icon": "gamepad-2",
+    "group": "fiction"
+  },
+  {
+    "slug": "psychological-thriller",
+    "name": "Psychological thriller",
+    "blurb": "Unreliable minds and twists you will not see coming.",
+    "color": "coral",
+    "icon": "brain",
+    "group": "fiction"
+  },
+  {
+    "slug": "spy-thriller",
+    "name": "Spy and espionage",
+    "blurb": "Double agents, tradecraft and cold-war chills.",
+    "color": "coral",
+    "icon": "eye",
+    "group": "fiction"
+  },
+  {
+    "slug": "legal-thriller",
+    "name": "Legal thriller",
+    "blurb": "Courtroom drama and high-stakes verdicts.",
+    "color": "coral",
+    "icon": "scale",
+    "group": "fiction"
+  },
+  {
+    "slug": "cozy-mystery",
+    "name": "Cozy mystery",
+    "blurb": "Amateur sleuths, small towns and tea.",
+    "color": "mint",
+    "icon": "cat",
+    "group": "fiction"
+  },
+  {
+    "slug": "detective",
+    "name": "Detective fiction",
+    "blurb": "Classic sleuths and clever deductions.",
+    "color": "mint",
+    "icon": "scan-search",
+    "group": "fiction"
+  },
+  {
+    "slug": "noir",
+    "name": "Noir",
+    "blurb": "Shadows, cynics and bad decisions.",
+    "color": "violet",
+    "icon": "cigarette",
+    "group": "fiction"
+  },
+  {
+    "slug": "gothic",
+    "name": "Gothic",
+    "blurb": "Crumbling houses and creeping dread.",
+    "color": "violet",
+    "icon": "church",
+    "group": "fiction"
+  },
+  {
+    "slug": "supernatural",
+    "name": "Supernatural",
+    "blurb": "Ghosts, curses and the unexplained.",
+    "color": "violet",
+    "icon": "ghost",
+    "group": "fiction"
+  },
+  {
+    "slug": "war-fiction",
+    "name": "War fiction",
+    "blurb": "Conflict seen through the people in it.",
+    "color": "coral",
+    "icon": "shield",
+    "group": "fiction"
+  },
+  {
+    "slug": "western",
+    "name": "Western",
+    "blurb": "Frontiers, outlaws and open country.",
+    "color": "sunshine",
+    "icon": "mountain",
+    "group": "fiction"
+  },
+  {
+    "slug": "contemporary-fiction",
+    "name": "Contemporary fiction",
+    "blurb": "Stories about life right now.",
+    "color": "sunshine",
+    "icon": "coffee",
+    "group": "fiction"
+  },
+  {
+    "slug": "womens-fiction",
+    "name": "Women's fiction",
+    "blurb": "Friendship, family and finding yourself.",
+    "color": "coral",
+    "icon": "users",
+    "group": "fiction"
+  },
+  {
+    "slug": "family-saga",
+    "name": "Family saga",
+    "blurb": "Generations, secrets and inheritance.",
+    "color": "sunshine",
+    "icon": "trees",
+    "group": "fiction"
+  },
+  {
+    "slug": "coming-of-age",
+    "name": "Coming of age",
+    "blurb": "The year everything changes.",
+    "color": "mint",
+    "icon": "sprout",
+    "group": "fiction"
+  },
+  {
+    "slug": "magical-realism",
+    "name": "Magical realism",
+    "blurb": "The impossible, told as everyday.",
+    "color": "violet",
+    "icon": "sparkles",
+    "group": "fiction"
+  },
+  {
+    "slug": "satire",
+    "name": "Satire and dark comedy",
+    "blurb": "Sharp wit aimed at the way we live.",
+    "color": "sunshine",
+    "icon": "drama",
+    "group": "fiction"
+  },
+  {
+    "slug": "humor-fiction",
+    "name": "Comic novels",
+    "blurb": "Books that make you laugh out loud.",
+    "color": "sunshine",
+    "icon": "laugh",
+    "group": "fiction"
+  },
+  {
+    "slug": "mythology-retelling",
+    "name": "Myth and retellings",
+    "blurb": "Old stories, told again.",
+    "color": "violet",
+    "icon": "columns",
+    "group": "fiction"
+  },
+  {
+    "slug": "fairy-tale-retelling",
+    "name": "Fairy tale retellings",
+    "blurb": "Familiar tales turned inside out.",
+    "color": "violet",
+    "icon": "crown",
+    "group": "fiction"
+  },
+  {
+    "slug": "lgbtq-fiction",
+    "name": "LGBTQ+ fiction",
+    "blurb": "Queer lives, loves and stories.",
+    "color": "coral",
+    "icon": "rainbow",
+    "group": "fiction"
+  },
+  {
+    "slug": "short-stories",
+    "name": "Short stories",
+    "blurb": "Whole worlds in a single sitting.",
+    "color": "sunshine",
+    "icon": "file-text",
+    "group": "fiction"
+  },
+  {
+    "slug": "poetry",
+    "name": "Poetry",
+    "blurb": "Verse for quiet moments and big feelings.",
+    "color": "violet",
+    "icon": "feather",
+    "group": "fiction"
+  },
+  {
+    "slug": "plays",
+    "name": "Plays and drama",
+    "blurb": "Stories written to be performed.",
+    "color": "coral",
+    "icon": "drama",
+    "group": "fiction"
+  },
+  {
+    "slug": "graphic-novels",
+    "name": "Graphic novels",
+    "blurb": "Stories told in pictures and panels.",
+    "color": "mint",
+    "icon": "panels-top-left",
+    "group": "fiction"
+  },
+  {
+    "slug": "manga",
+    "name": "Manga",
+    "blurb": "Japanese comics, volume by volume.",
+    "color": "coral",
+    "icon": "book-image",
+    "group": "fiction"
+  },
+  {
+    "slug": "middle-grade",
+    "name": "Middle grade",
+    "blurb": "Adventures for ages 8 to 12.",
+    "color": "mint",
+    "icon": "backpack",
+    "group": "young-readers"
+  },
+  {
+    "slug": "picture-books",
+    "name": "Picture books",
+    "blurb": "Read-aloud art and rhyme.",
+    "color": "sunshine",
+    "icon": "shapes",
+    "group": "young-readers"
+  },
+  {
+    "slug": "self-help",
+    "name": "Self-help",
+    "blurb": "Practical ideas for a better life.",
+    "color": "mint",
+    "icon": "life-buoy",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "personal-development",
+    "name": "Personal development",
+    "blurb": "Growth, habits and getting unstuck.",
+    "color": "mint",
+    "icon": "trending-up",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "blurb": "Focus, systems and doing the work.",
+    "color": "sunshine",
+    "icon": "list-checks",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "mindfulness",
+    "name": "Mindfulness and spirituality",
+    "blurb": "Calm, presence and meaning.",
+    "color": "violet",
+    "icon": "flower-2",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "psychology",
+    "name": "Psychology",
+    "blurb": "How minds work and why we do what we do.",
+    "color": "violet",
+    "icon": "brain",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "relationships",
+    "name": "Relationships and love",
+    "blurb": "Friends, partners and family.",
+    "color": "coral",
+    "icon": "heart-handshake",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "parenting",
+    "name": "Parenting",
+    "blurb": "Raising kids, honestly.",
+    "color": "sunshine",
+    "icon": "baby",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "health-fitness",
+    "name": "Health and fitness",
+    "blurb": "Training, sleep and feeling well.",
+    "color": "mint",
+    "icon": "dumbbell",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "nutrition",
+    "name": "Nutrition and diet",
+    "blurb": "What we eat and what it does.",
+    "color": "mint",
+    "icon": "apple",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "mental-health",
+    "name": "Mental health",
+    "blurb": "Understanding anxiety, depression and healing.",
+    "color": "violet",
+    "icon": "heart-pulse",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "cookbooks",
+    "name": "Cookbooks and food",
+    "blurb": "Recipes and the stories behind them.",
+    "color": "coral",
+    "icon": "chef-hat",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "business",
+    "name": "Business",
+    "blurb": "How companies are built and run.",
+    "color": "sunshine",
+    "icon": "briefcase",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "blurb": "Starting, scaling and surviving.",
+    "color": "coral",
+    "icon": "lightbulb",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "leadership",
+    "name": "Leadership and management",
+    "blurb": "Leading people well.",
+    "color": "violet",
+    "icon": "flag",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing and sales",
+    "blurb": "Persuasion, brands and growth.",
+    "color": "coral",
+    "icon": "megaphone",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "finance",
+    "name": "Personal finance and investing",
+    "blurb": "Money, markets and building wealth.",
+    "color": "mint",
+    "icon": "piggy-bank",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "economics",
+    "name": "Economics",
+    "blurb": "How the world makes and spends.",
+    "color": "sunshine",
+    "icon": "chart-line",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "careers",
+    "name": "Careers and work",
+    "blurb": "Jobs, ambition and the future of work.",
+    "color": "violet",
+    "icon": "briefcase-business",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "philosophy",
+    "name": "Philosophy",
+    "blurb": "Big questions, from the ancients to now.",
+    "color": "violet",
+    "icon": "landmark",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "religion",
+    "name": "Religion and belief",
+    "blurb": "Faith, doubt and the world's traditions.",
+    "color": "sunshine",
+    "icon": "church",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "history",
+    "name": "History",
+    "blurb": "The past, explained and narrated.",
+    "color": "sunshine",
+    "icon": "hourglass",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "ancient-history",
+    "name": "Ancient history",
+    "blurb": "Empires, myths and the first cities.",
+    "color": "sunshine",
+    "icon": "columns",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "military-history",
+    "name": "Military history",
+    "blurb": "Wars, strategy and the people who fought.",
+    "color": "coral",
+    "icon": "swords",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "us-history",
+    "name": "American history",
+    "blurb": "The United States, from founding to now.",
+    "color": "coral",
+    "icon": "flag",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "european-history",
+    "name": "European history",
+    "blurb": "Kings, revolutions and continental change.",
+    "color": "violet",
+    "icon": "castle",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "world-history",
+    "name": "World history",
+    "blurb": "Big sweeps of human history.",
+    "color": "mint",
+    "icon": "globe",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "biography",
+    "name": "Biography",
+    "blurb": "Lives of the people who shaped the world.",
+    "color": "violet",
+    "icon": "user-round",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "memoir",
+    "name": "Memoir",
+    "blurb": "True stories, told by the people who lived them.",
+    "color": "coral",
+    "icon": "pen-line",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "politics",
+    "name": "Politics and government",
+    "blurb": "Power, policy and how it works.",
+    "color": "coral",
+    "icon": "vote",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "current-affairs",
+    "name": "Current affairs",
+    "blurb": "Understanding the news behind the headlines.",
+    "color": "mint",
+    "icon": "newspaper",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "true-crime",
+    "name": "True crime",
+    "blurb": "Real cases, investigations and verdicts.",
+    "color": "coral",
+    "icon": "fingerprint",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "social-science",
+    "name": "Social science",
+    "blurb": "Society, culture and behaviour.",
+    "color": "mint",
+    "icon": "users-round",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "sociology",
+    "name": "Sociology",
+    "blurb": "How groups, class and institutions shape us.",
+    "color": "violet",
+    "icon": "network",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "anthropology",
+    "name": "Anthropology",
+    "blurb": "People, cultures and human origins.",
+    "color": "sunshine",
+    "icon": "earth",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "popular-science",
+    "name": "Popular science",
+    "blurb": "Big ideas in science, made readable.",
+    "color": "mint",
+    "icon": "microscope",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "physics-cosmos",
+    "name": "Physics and the cosmos",
+    "blurb": "Universe, time and the smallest things.",
+    "color": "violet",
+    "icon": "orbit",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "biology-nature",
+    "name": "Biology and nature",
+    "blurb": "Life, evolution and the living world.",
+    "color": "mint",
+    "icon": "leaf",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "medicine",
+    "name": "Medicine and the body",
+    "blurb": "Doctors, disease and how bodies work.",
+    "color": "coral",
+    "icon": "stethoscope",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "neuroscience",
+    "name": "Neuroscience",
+    "blurb": "The brain, mind and consciousness.",
+    "color": "violet",
+    "icon": "brain-circuit",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "technology",
+    "name": "Technology",
+    "blurb": "How tech changed, and is changing, our lives.",
+    "color": "mint",
+    "icon": "cpu",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "artificial-intelligence",
+    "name": "Artificial intelligence",
+    "blurb": "Machines that learn, and what comes next.",
+    "color": "violet",
+    "icon": "bot",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "mathematics",
+    "name": "Mathematics",
+    "blurb": "Numbers, proofs and patterns.",
+    "color": "sunshine",
+    "icon": "sigma",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "environment",
+    "name": "Environment and climate",
+    "blurb": "The planet, and what we do to it.",
+    "color": "mint",
+    "icon": "trees",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "education",
+    "name": "Education and learning",
+    "blurb": "How we learn and teach.",
+    "color": "sunshine",
+    "icon": "graduation-cap",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "writing-language",
+    "name": "Writing and language",
+    "blurb": "Craft, words and how to use them.",
+    "color": "violet",
+    "icon": "pen-tool",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "essays",
+    "name": "Essays",
+    "blurb": "Sharp, short and well-argued.",
+    "color": "sunshine",
+    "icon": "file-pen-line",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "travel",
+    "name": "Travel writing",
+    "blurb": "Journeys, expeditions and far places.",
+    "color": "mint",
+    "icon": "map",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "sports",
+    "name": "Sports",
+    "blurb": "Athletes, teams and the games we love.",
+    "color": "coral",
+    "icon": "trophy",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "art-design",
+    "name": "Art and design",
+    "blurb": "Artists, makers and how things look.",
+    "color": "violet",
+    "icon": "palette",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "music",
+    "name": "Music",
+    "blurb": "Musicians, genres and the stories behind songs.",
+    "color": "coral",
+    "icon": "music",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "film-tv",
+    "name": "Film and television",
+    "blurb": "Directors, stars and how screens are made.",
+    "color": "sunshine",
+    "icon": "clapperboard",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "humor-nonfiction",
+    "name": "Humor and comedy writing",
+    "blurb": "True stories with big laughs.",
+    "color": "sunshine",
+    "icon": "laugh",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "nature-writing",
+    "name": "Nature writing",
+    "blurb": "The outdoors, in beautiful prose.",
+    "color": "mint",
+    "icon": "mountain-snow",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "true-adventure",
+    "name": "True adventure and survival",
+    "blurb": "Real expeditions and escapes.",
+    "color": "coral",
+    "icon": "compass",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "home-garden-craft",
+    "name": "Home, garden and craft",
+    "blurb": "Making, growing and homemaking.",
+    "color": "mint",
+    "icon": "flower",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "stoicism",
+    "name": "Stoicism and ancient wisdom",
+    "blurb": "Practical philosophy for hard times.",
+    "color": "violet",
+    "icon": "columns",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "critical-thinking",
+    "name": "Critical thinking and decisions",
+    "blurb": "Judgment, bias and better choices.",
+    "color": "mint",
+    "icon": "scale",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "communication",
+    "name": "Communication and persuasion",
+    "blurb": "Talking, listening and influence.",
+    "color": "coral",
+    "icon": "messages-square",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "creativity",
+    "name": "Creativity",
+    "blurb": "Finding and keeping ideas flowing.",
+    "color": "sunshine",
+    "icon": "lightbulb",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "pop-culture",
+    "name": "Games and pop culture",
+    "blurb": "Video games, comics and fandom.",
+    "color": "mint",
+    "icon": "gamepad-2",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "erotica",
+    "name": "Spicy romance and erotica",
+    "blurb": "Adult romance with open-door, explicit scenes.",
+    "color": "coral",
+    "icon": "flame-kindling",
+    "group": "fiction"
+  },
+  {
+    "slug": "sex-sexuality",
+    "name": "Sex, intimacy and sexuality",
+    "blurb": "Honest non-fiction on desire, intimacy and sex education.",
+    "color": "coral",
+    "icon": "heart",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "dating-marriage",
+    "name": "Dating and marriage",
+    "blurb": "Finding, keeping and rebuilding relationships.",
+    "color": "coral",
+    "icon": "heart-handshake",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "addiction-recovery",
+    "name": "Addiction and recovery",
+    "blurb": "Understanding addiction and the road back.",
+    "color": "violet",
+    "icon": "life-buoy",
+    "group": "nonfiction"
+  },
+  {
+    "slug": "grief-loss",
+    "name": "Grief and loss",
+    "blurb": "Getting through bereavement.",
+    "color": "violet",
+    "icon": "flower-2",
+    "group": "nonfiction"
   }
 ]

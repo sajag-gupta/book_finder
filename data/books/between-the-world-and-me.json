@@ -1,0 +1,27 @@
+{
+  "slug": "between-the-world-and-me",
+  "title": "Between the World and Me",
+  "author": "Ta-Nehisi Coates",
+  "isbn13": "9780525510307",
+  "firstPublished": 2015,
+  "series": null,
+  "genres": ["essays", "memoir", "politics"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["thoughtful", "heartbreaking", "eye-opening"],
+  "tropes": [],
+  "warnings": ["racism", "violence", "death"],
+  "summary": "Written as a letter to his teenage son, Ta-Nehisi Coates reflects on growing up in Baltimore and what it means to live in a Black body in America. He examines fear, history and the loss of friends to violence.",
+  "readIf": "you want a personal, lyrical essay on race in America.",
+  "skipIf": "you prefer policy-focused argument over personal and poetic reflection.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525510307",
+    "https://en.wikipedia.org/wiki/Between_the_World_and_Me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

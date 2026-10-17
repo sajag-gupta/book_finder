@@ -1,0 +1,28 @@
+{
+  "slug": "downbelow-station",
+  "title": "Downbelow Station",
+  "author": "C. J. Cherryh",
+  "isbn13": "9780756405502",
+  "firstPublished": 1981,
+  "series": null,
+  "genres": ["science-fiction", "space-opera"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["epic", "thoughtful", "tense"],
+  "tropes": ["political-intrigue", "war-story"],
+  "warnings": ["war", "violence"],
+  "summary": "As war between Earth's Company and the Union spreads, Pell Station, a trading hub above a planet of native people, becomes a refuge and a flashpoint for stations, merchants and fleets.",
+  "readIf": "you like dense, politically minded space opera with many factions.",
+  "skipIf": "you want a light, action-first space adventure with one hero.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780756405502",
+    "https://en.wikipedia.org/wiki/Downbelow_Station",
+    "https://hardcover.app/books/downbelow-station"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

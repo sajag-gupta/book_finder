@@ -1,0 +1,28 @@
+{
+  "slug": "down-and-out-in-paris-and-london",
+  "title": "Down and Out in Paris and London",
+  "author": "George Orwell",
+  "isbn13": "9780140282566",
+  "firstPublished": 1933,
+  "series": null,
+  "genres": ["memoir", "literary"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["eye-opening", "witty", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Orwell describes working as a kitchen drudge in Paris restaurants and then tramping through London lodging houses, noting the routines, humiliations and dark humour of being poor.",
+  "readIf": "you want a vivid, observant look at poverty in the 1920s and 30s.",
+  "skipIf": "you want a plotted narrative rather than episodes and social observation.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140282566",
+    "https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London",
+    "https://hardcover.app/books/down-and-out-in-paris-and-london"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

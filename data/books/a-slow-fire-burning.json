@@ -1,0 +1,27 @@
+{
+  "slug": "a-slow-fire-burning",
+  "title": "A Slow Fire Burning",
+  "author": "Paula Hawkins",
+  "isbn13": "9780593543849",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["thriller", "mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["whodunit"],
+  "warnings": ["death", "violence", "addiction"],
+  "summary": "A young man is found murdered on a London houseboat, and three women with their own troubled ties to him become suspects as old hurts come out.",
+  "readIf": "you like moody, character-led thrillers with several unreliable perspectives.",
+  "skipIf": "you want a fast, plot-first page-turner with a cheerful tone.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593543849",
+    "https://hardcover.app/books/a-slow-fire-burning"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

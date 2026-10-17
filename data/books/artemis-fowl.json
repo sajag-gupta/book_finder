@@ -1,0 +1,28 @@
+{
+  "slug": "artemis-fowl",
+  "title": "Artemis Fowl",
+  "author": "Eoin Colfer",
+  "isbn13": "9780141966649",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["fantasy", "adventure", "children"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "funny", "whimsical"],
+  "tropes": ["heist"],
+  "warnings": [],
+  "summary": "Twelve-year-old criminal mastermind Artemis Fowl kidnaps a fairy officer from the hidden People, hoping to ransom her for gold. Captain Holly Short's underground police force must get her back, using technology as well as magic.",
+  "readIf": "you like clever young antiheroes and fantasy mixed with gadgets and jokes.",
+  "skipIf": "you prefer serious, lyrical fantasy over brisk, tongue-in-cheek capers.",
+  "soldMillions": 21,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141966649",
+    "https://en.wikipedia.org/wiki/Artemis_Fowl",
+    "https://hardcover.app/books/artemis-fowl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

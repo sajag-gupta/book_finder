@@ -1,14 +1,14 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
-import { cardGrid, searchForm, sectionHead, signupForm } from '../components.js';
-import { feelPicker } from './feel.js';
+import { cardGrid, cover, searchForm, sectionHead, signupForm } from '../components.js';
+import { HERO_ART } from '../hero-art.js';
 
 const STEPS = [
   [
     'search',
-    'Say how you want to feel',
-    'Pick a mood, or name a book you loved. We suggest what to read next and tell you why.',
+    'Say how you feel, and how you want to',
+    'Pick a mood, or describe it in your own words. We suggest what to read next and tell you why.',
   ],
   [
     'layers',
@@ -22,60 +22,123 @@ const STEPS = [
   ],
 ];
 
+// Soft background for each feeling card on the mood strip.
+const TONES = [
+  '#fbe9b7',
+  '#d9e8f7',
+  '#e4e0ee',
+  '#dcebd5',
+  '#f6d9d9',
+  '#d6e9f0',
+  '#ece8e1',
+  '#fbe4c4',
+];
+const CATEGORIES = [
+  'romance',
+  'fantasy',
+  'self-help',
+  'thriller',
+  'science-fiction',
+  'biography',
+  'young-adult',
+  'classic',
+];
+const fmt = (n) => n.toLocaleString('en-US');
+
 export function homePage(ctx) {
   const { site, data, published } = ctx;
-  const genres = data.genres.filter((g) => ctx.byGenre.has(g.slug));
   const empty = published.length === 0;
+  const listed = published.length + ctx.light.length;
+  const authors = new Set([...published.map((b) => b.author), ...ctx.light.map((b) => b.a)]).size;
+  const genreCount = data.genres.filter((g) => ctx.byGenre.has(g.slug)).length;
 
-  const hero = `<section class="hero">
-  <div class="wrap hero__inner">
-    <p class="kicker">Two questions, one right book</p>
-    <h1>How do you feel, and how do you want to feel?</h1>
-    <p class="hero__lede">${empty ? 'We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.' : `Tell us where you are and where you want to be. We match ${published.length} books to that shift, then show you the free or cheapest way to read each one.`}</p>
-    ${
-      empty
-        ? ''
-        : `${feelPicker(ctx, { id: 'home-feel' })}
-    <div class="hero__search"><p class="hero__or">Or start from a book you loved</p>${searchForm('hero-q', { large: true, placeholder: 'Try “Fourth Wing” or “Pride and Prejudice”…' })}
-    <p class="hero__vibe"><a href="/feel/#vibe-q">${icon('sparkles', { size: 16 })} Describe the vibe in your own words</a></p></div>`
-    }
+  const hero = `<section class="hero2">
+  <div class="hero2__text">
+    <h1>Books for wherever your mind is.</h1>
+    <p class="hero2__lede">${empty ? 'We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.' : 'Sometimes you don&rsquo;t know what to read, but you know how you feel. Tell us how you feel and how you want to feel, and find books that fit.'}</p>
+    ${empty ? '' : searchForm('hero-q', { large: true, placeholder: 'e.g. I feel lost and need a fresh start…' })}
+    <ul class="hero2__stats" aria-label="The collection">
+      <li>${icon('book-open', { size: 26 })}<span><strong>${fmt(listed)}</strong> books</span></li>
+      <li>${icon('users', { size: 26 })}<span><strong>${fmt(authors)}</strong> authors</span></li>
+      <li>${icon('layout-grid', { size: 26 })}<span><strong>${genreCount}</strong> categories</span></li>
+    </ul>
   </div>
+  <div class="hero2__visual">${HERO_ART}<p class="hero2__note" aria-hidden="true">A different book for a different you.</p></div>
 </section>`;
 
-  const trust = empty
+  const feelings = ctx.feelings
+    .map(
+      (f, i) =>
+        `<a class="feelcard" style="--tone:${TONES[i % TONES.length]}" href="/feel/${esc(f.slug)}/">${icon(f.icon, { size: 28 })}<span>${esc(f.name)}</span></a>`,
+    )
+    .join('');
+  const wants = data.moods
+    .filter((m) => m.featured && ctx.byMood.has(m.slug))
+    .map(
+      (m) =>
+        `<li><a class="pill" href="/moods/${esc(m.slug)}/">${icon(m.icon, { size: 18 })}<span>${esc(m.name)}</span></a></li>`,
+    )
+    .join('');
+  const moodStrip = empty
     ? ''
-    : `<section class="wrap trust" aria-label="Why use us"><ul>
-    <li>${icon('library', { size: 22 })}<span><strong>Library first</strong> Free borrowing is always the top option</span></li>
-    <li>${icon('shield-check', { size: 22 })}<span><strong>Facts checked</strong> Every book verified against two sources</span></li>
-    <li>${icon('layers', { size: 22 })}<span><strong>Every format</strong> Print, ebook and audio compared</span></li>
-  </ul></section>`;
+    : `<section class="wrap moodstrip" aria-labelledby="mood-h">
+  <div class="moodstrip__intro"><h2 id="mood-h">How are you feeling today?</h2><p class="muted">Pick a feeling and get personalised recommendations.</p></div>
+  <div class="scroller moodstrip__cards">${feelings}</div>
+  <p class="moodstrip__next"><strong>And how do you want to feel?</strong> <a class="more" href="/feel/">Choose both${icon('arrow-right', { size: 16 })}</a></p>
+  <ul class="pills" aria-label="Moods you can aim for">${wants}</ul>
+</section>`;
+
+  // Trending: this month's most-read when we have enough of them, else the most-read overall.
+  const byReaders = [...published].sort(
+    (a, b) => (ctx.hc(b.slug)?.usersCount ?? 0) - (ctx.hc(a.slug)?.usersCount ?? 0),
+  );
+  const trending = (ctx.trending.length >= 4 ? ctx.trending : byReaders).slice(0, 10);
+  const trendItem = (b, i) => {
+    const hc = ctx.hc(b.slug);
+    const rating =
+      hc?.rating && hc.ratingsCount >= 20
+        ? `<span class="trend__rating">${icon('star', { size: 14 })}${esc(hc.rating.toFixed(1))}</span>`
+        : '';
+    return `<li class="trend"><span class="trend__n" aria-hidden="true">${i + 1}</span><a class="trend__link" href="/books/${esc(b.slug)}/">${cover(b, { eager: i < 6 })}<strong class="trend__title">${esc(b.title)}</strong><span class="trend__author">${esc(b.author)}</span>${rating}</a></li>`;
+  };
+  const trendingSection = `<section class="wrap section">
+  ${sectionHead({ title: 'Trending right now', href: '/books/?sort=popular', linkText: 'View all' })}
+  <p class="muted small sub">${ctx.trending.length >= 4 ? 'Most-read books over the last 30 days, according to Hardcover readers.' : 'Popular books readers are loving, according to Hardcover readers.'}</p>
+  <div class="scroller"><ol class="trendlist">${trending.map(trendItem).join('')}</ol></div>
+</section>`;
+
+  const slugs = [
+    ...CATEGORIES.filter((s) => ctx.byGenre.has(s)),
+    ...data.genres
+      .filter((g) => ctx.byGenre.has(g.slug) && !CATEGORIES.includes(g.slug))
+      .sort((a, b) => ctx.byGenre.get(b.slug).length - ctx.byGenre.get(a.slug).length)
+      .map((g) => g.slug),
+  ].slice(0, 8);
+  const catTiles = slugs
+    .map((slug, i) => {
+      const g = ctx.genre(slug);
+      const books = ctx.byGenre.get(slug).slice(0, 3);
+      return `<li><a class="catcard" style="--tone:${TONES[i % TONES.length]}" href="/genres/${esc(slug)}/"><span class="catcard__fan">${books.map((b) => cover(b, { width: 90, height: 135 })).join('')}</span><span class="catcard__name">${esc(g.name)}</span><span class="catcard__count">${fmt(ctx.byGenre.get(slug).length)} books</span></a></li>`;
+    })
+    .join('');
+  const categories = `<section class="wrap section">
+  ${sectionHead({ title: 'Explore by category', href: '/genres/', linkText: 'View all categories' })}
+  <p class="muted small sub">Browse books by your favourite genres.</p>
+  <ul class="catgrid">${catTiles}</ul>
+</section>`;
 
   const sellers = ctx.topSellers.slice(0, 12);
-  const popular = ctx.modern.slice(0, 12);
-
   const sections = empty
     ? ''
-    : `
-${
-  ctx.trending.length >= 4
-    ? `<section class="wrap section">
-  ${sectionHead({ kicker: 'This month', title: 'Trending now', href: '/books/?sort=newest', linkText: 'See newer books' })}
-  <div class="scroller">${cardGrid(ctx.trending, ctx)}</div>
-  <p class="muted small">Most-read books over the last 30 days, according to Hardcover readers.</p>
-</section>`
-    : ''
-}
+    : `${trendingSection}
+${categories}
 <section class="wrap section">
   ${sectionHead({ kicker: 'Sold by the million', title: 'Top sellers of all time', href: '/bestsellers/', linkText: 'See the full ranking' })}
   <div class="scroller">${cardGrid(sellers, ctx, { ranked: true })}</div>
 </section>
 <section class="wrap section">
-  ${sectionHead({ kicker: 'Find your corner', title: 'Browse by genre', href: '/genres/', linkText: 'All genres' })}
-  <ul class="tiles">${genres.map((g) => `<li><a class="tile tile--${esc(g.color)}" href="/genres/${esc(g.slug)}/">${icon(g.icon, { size: 26 })}<span class="tile__name">${esc(g.name)}</span><span class="tile__count">${ctx.byGenre.get(g.slug).length} books</span></a></li>`).join('')}</ul>
-</section>
-<section class="wrap section">
   ${sectionHead({ kicker: 'Read this decade', title: 'Popular right now', href: '/books/?sort=newest', linkText: 'More recent books' })}
-  <div class="scroller">${cardGrid(popular, ctx)}</div>
+  <div class="scroller">${cardGrid(ctx.modern.slice(0, 12), ctx)}</div>
 </section>
 <section class="wrap section how">
   ${sectionHead({ title: 'How it works' })}
@@ -90,11 +153,10 @@ ${
   return layout({
     site,
     path: '/',
-    title: `${site.name}: find your next read by mood`,
+    title: `${site.name}: find books by how you feel`,
     description:
-      'Pick a book by how you want to feel, then see every way to borrow, buy or listen to it, with the cheapest option marked.',
-    body: hero + trust + sections + band,
-    scripts: ['feel'],
+      'Tell us how you feel and how you want to feel. Find books that fit, then see every way to borrow, buy or listen, with the cheapest option marked.',
+    body: hero + moodStrip + sections + band,
     structuredData: {
       '@context': 'https://schema.org',
       '@graph': [

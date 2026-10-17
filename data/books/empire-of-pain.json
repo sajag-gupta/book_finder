@@ -1,0 +1,27 @@
+{
+  "slug": "empire-of-pain",
+  "title": "Empire of Pain",
+  "author": "Patrick Radden Keefe",
+  "isbn13": "9780385545686",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["history", "business", "true-crime"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["eye-opening", "dark", "tense"],
+  "tropes": [],
+  "warnings": ["addiction", "death"],
+  "summary": "Patrick Radden Keefe traces three generations of the Sackler family, from the immigrant brothers who built a fortune to the company that sold OxyContin. He shows how the drug fed the opioid epidemic.",
+  "readIf": "you like long investigative nonfiction about money, power and corporate responsibility.",
+  "skipIf": "you want a short read or find stories of institutional wrongdoing too bleak.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385545686",
+    "https://hardcover.app/books/empire-of-pain"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

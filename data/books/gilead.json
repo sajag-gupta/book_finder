@@ -1,0 +1,28 @@
+{
+  "slug": "gilead",
+  "title": "Gilead",
+  "author": "Marilynne Robinson",
+  "isbn13": "9780374706098",
+  "firstPublished": 2004,
+  "series": null,
+  "genres": ["literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "comforting", "melancholic"],
+  "tropes": [],
+  "warnings": ["death", "racism"],
+  "summary": "John Ames, an elderly minister in a small Iowa town in the 1950s, writes a long letter to his young son. He knows he is dying, and he reflects on family, faith and the town's history.",
+  "readIf": "you like quiet, reflective novels about faith, fatherhood and small daily graces.",
+  "skipIf": "you want action or a plot that moves along, since little happens on the surface.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780374706098",
+    "https://en.wikipedia.org/wiki/Gilead_(novel)",
+    "https://hardcover.app/books/gilead"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

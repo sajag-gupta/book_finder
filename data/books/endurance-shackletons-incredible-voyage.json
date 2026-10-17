@@ -1,0 +1,28 @@
+{
+  "slug": "endurance-shackletons-incredible-voyage",
+  "title": "Endurance: Shackleton's Incredible Voyage",
+  "author": "Alfred Lansing",
+  "isbn13": "9780786165803",
+  "firstPublished": 1959,
+  "series": null,
+  "genres": ["true-adventure", "history"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "inspiring"],
+  "tropes": [],
+  "warnings": ["death", "animal-death"],
+  "summary": "Alfred Lansing recounts Ernest Shackleton's 1914 Antarctic expedition, when the ship Endurance was crushed by ice. The crew survived for months on the ice, then at sea, before a desperate rescue.",
+  "readIf": "you want a gripping true survival story told in plain, vivid detail.",
+  "skipIf": "you dislike cold, hardship and stories involving the killing of animals.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780786165803",
+    "https://en.wikipedia.org/wiki/Endurance%3A_Shackleton's_Incredible_Voyage",
+    "https://hardcover.app/books/endurance"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

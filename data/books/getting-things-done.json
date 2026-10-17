@@ -1,0 +1,27 @@
+{
+  "slug": "getting-things-done",
+  "title": "Getting Things Done",
+  "author": "David    Allen",
+  "isbn13": "9781101128497",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["productivity", "self-help"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["practical", "motivating"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "David Allen presents a system for capturing every task and commitment, clarifying next actions and reviewing them regularly so your mind is free of worry.",
+  "readIf": "you feel overloaded and want a concrete method for managing tasks.",
+  "skipIf": "you want a loose approach, as the system asks for steady upkeep.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781101128497",
+    "https://hardcover.app/books/getting-things-done"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

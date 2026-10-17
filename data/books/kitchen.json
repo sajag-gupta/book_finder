@@ -1,0 +1,28 @@
+{
+  "slug": "kitchen",
+  "title": "Kitchen",
+  "author": "Banana Yoshimoto",
+  "isbn13": "9780671880187",
+  "firstPublished": 1975,
+  "series": null,
+  "genres": ["literary", "contemporary-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "comforting", "thoughtful"],
+  "tropes": [],
+  "warnings": ["grief", "death"],
+  "summary": "After her grandmother dies, a young Tokyo woman is taken in by a friend and his unconventional mother, and finds quiet solace in kitchens while learning to live with loss.",
+  "readIf": "you like short, gentle Japanese fiction about grief and small comforts.",
+  "skipIf": "you want a plot-driven story with lots of incident.",
+  "soldMillions": 20,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780671880187",
+    "https://en.wikipedia.org/wiki/Kitchen_(novel)",
+    "https://hardcover.app/books/kitchen-1975"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

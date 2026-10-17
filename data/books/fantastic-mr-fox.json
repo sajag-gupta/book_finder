@@ -1,0 +1,27 @@
+{
+  "slug": "fantastic-mr-fox",
+  "title": "Fantastic Mr Fox",
+  "author": "Roald Dahl",
+  "isbn13": "9780141301136",
+  "firstPublished": 1970,
+  "series": null,
+  "genres": ["children", "adventure"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "adventurous"],
+  "tropes": ["talking-animals"],
+  "warnings": [],
+  "summary": "Mr Fox steals food each night from three mean farmers, Boggis, Bunce and Bean. They set out to get him, so the fox and his family dig deeper to outwit them.",
+  "readIf": "you want a short, clever and cheeky animal tale to read aloud to children.",
+  "skipIf": "you are after a long or emotionally complex story for older readers.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780141301136",
+    "https://en.wikipedia.org/wiki/Fantastic_Mr_Fox"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

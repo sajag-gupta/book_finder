@@ -14,11 +14,13 @@ const FORMAT_ICONS = {
 };
 const names = (slugs, vocab) => slugs.map((s) => vocab.find((v) => v.slug === s)?.name ?? s);
 
+const lower = (text) => text.charAt(0).toLowerCase() + text.slice(1);
+
 /** Shortens text to fit a search snippet, cutting at a word and ending with an ellipsis. */
 const clip = (text, max) =>
   text.length <= max ? text : `${text.slice(0, max - 1).replace(/\s+\S*$/, '')}…`;
 
-function offersTable(book, ctx) {
+export function offersTable(book, ctx) {
   const query = `${book.title} ${book.author}`;
   const feed = new Map((ctx.data.offers[book.isbn13] ?? []).map((o) => [o.store, o]));
   // Feed entries name their store by id, so the store object must be applied last.
@@ -170,7 +172,6 @@ export function bookPage(ctx, book) {
 
   // Plain-language answers, written from our own record. They are shown on the page and repeated in
   // FAQPage markup, so readers, search engines and AI assistants all get the same facts.
-  const lower = (text) => text.charAt(0).toLowerCase() + text.slice(1);
   const asSentence = (text) => (/[.!?]$/.test(text) ? text : `${text}.`);
   const warningNames = [...warnings];
   const faq = [
@@ -240,8 +241,8 @@ ${notice}
 <div class="book__grid">
   <div class="book__main">
     <div class="duo">
-      <div class="callout callout--yes">${icon('circle-check', { size: 22 })}<p><strong>Read this if</strong> ${esc(book.readIf)}</p></div>
-      <div class="callout callout--no">${icon('circle-alert', { size: 22 })}<p><strong>Skip this if</strong> ${esc(book.skipIf)}</p></div>
+      <div class="callout callout--yes">${icon('circle-check', { size: 22 })}<p><strong>Read this if</strong> ${esc(lower(book.readIf))}</p></div>
+      <div class="callout callout--no">${icon('circle-alert', { size: 22 })}<p><strong>Skip this if</strong> ${esc(lower(book.skipIf))}</p></div>
     </div>
     <section class="panel" aria-labelledby="feel-h"><h2 id="feel-h">The feel</h2>
       <ul class="tags" aria-label="Moods">${moodLinks}</ul>

@@ -36,6 +36,9 @@ export function loadData(root) {
     hardcover: existsSync(join(data, 'hardcover.json'))
       ? readJson(join(data, 'hardcover.json'))
       : null,
+    light: existsSync(join(data, 'light', 'books.json'))
+      ? readJson(join(data, 'light', 'books.json'))
+      : [],
     trending: existsSync(join(data, 'trending.json'))
       ? readJson(join(data, 'trending.json'))
       : null,

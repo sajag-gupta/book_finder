@@ -1,0 +1,28 @@
+{
+  "slug": "beyond-good-and-evil",
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "isbn13": "9780486298689",
+  "firstPublished": 1886,
+  "series": null,
+  "genres": ["philosophy"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["thoughtful", "mind-bending", "dark"],
+  "tropes": [],
+  "warnings": ["prejudice"],
+  "summary": "Nietzsche attacks the assumptions of earlier philosophers, questioning the idea of objective truth and traditional morality, and sketches a new way of thinking about values and the free spirit.",
+  "readIf": "you are ready for dense, provocative philosophy delivered in short aphorisms.",
+  "skipIf": "you want an easy introduction or dislike arguments with sweeping, offensive claims.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780486298689",
+    "https://en.wikipedia.org/wiki/Beyond_Good_and_Evil",
+    "https://hardcover.app/books/beyond-good-and-evil"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

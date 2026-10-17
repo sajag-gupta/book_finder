@@ -1,0 +1,27 @@
+{
+  "slug": "creativity-inc",
+  "title": "Creativity, Inc.",
+  "author": "Ed Catmull",
+  "isbn13": "9781448126286",
+  "firstPublished": 2001,
+  "series": null,
+  "genres": ["business", "leadership"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "practical", "thoughtful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "Pixar co-founder Ed Catmull tells how the studio grew from a computer graphics group into a film powerhouse, and what he learned about candor, failure and protecting creative teams as they scale.",
+  "readIf": "you manage creative people or are curious about how Pixar was run from the inside.",
+  "skipIf": "you want a gossipy film history or a short list of management tips.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781448126286",
+    "https://hardcover.app/books/creativity-inc"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

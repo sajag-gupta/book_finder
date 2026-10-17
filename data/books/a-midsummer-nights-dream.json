@@ -1,0 +1,28 @@
+{
+  "slug": "a-midsummer-nights-dream",
+  "title": "A Midsummer-Night’s Dream",
+  "author": "William Shakespeare",
+  "isbn13": "9781296881238",
+  "firstPublished": 1595,
+  "series": null,
+  "genres": ["plays", "classic"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "whimsical", "swoony"],
+  "tropes": ["fae", "mistaken-identity", "love-triangle"],
+  "warnings": [],
+  "summary": "In a moonlit forest outside Athens, quarreling lovers, a group of amateur actors and the fairy king and queen become entangled. A magic flower's juice causes love to land on the wrong people.",
+  "readIf": "you want Shakespeare's most playful comedy, full of magic and mix-ups.",
+  "skipIf": "you dislike reading play scripts or archaic language.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781296881238",
+    "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(1999_film)",
+    "https://hardcover.app/books/a-midsummer-nights-dream"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

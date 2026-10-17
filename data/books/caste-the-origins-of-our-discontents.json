@@ -1,0 +1,28 @@
+{
+  "slug": "caste-the-origins-of-our-discontents",
+  "title": "Caste: The Origins of Our Discontents",
+  "author": "Isabel Wilkerson",
+  "isbn13": "9780593230268",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["history", "sociology"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["eye-opening", "thoughtful", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["racism", "violence", "genocide", "torture"],
+  "summary": "Isabel Wilkerson argues that race in America is best understood as part of a caste system, and compares it with caste in India and Nazi Germany. She backs the case with historical accounts and personal stories.",
+  "readIf": "you want a wide-ranging, emotionally direct argument about hierarchy in American society.",
+  "skipIf": "you prefer strictly academic, narrowly focused history.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593230268",
+    "https://en.wikipedia.org/wiki/Caste%3A_The_Origins_of_Our_Discontents",
+    "https://hardcover.app/books/caste"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

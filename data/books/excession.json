@@ -1,0 +1,28 @@
+{
+  "slug": "excession",
+  "title": "Excession",
+  "author": "Iain M. Banks",
+  "isbn13": "9781857233940",
+  "firstPublished": 1996,
+  "series": null,
+  "genres": ["science-fiction", "space-opera"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "mysterious", "witty"],
+  "tropes": ["artificial-intelligence"],
+  "warnings": ["violence", "death"],
+  "summary": "In Iain M. Banks's Culture series, an artefact that seems more advanced than anything known appears in deep space. Culture Minds and rival civilisations scheme over how to deal with it.",
+  "readIf": "you like intricate space opera with witty AI ships and big ideas.",
+  "skipIf": "you are new to the Culture or want a straightforward plot.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781857233940",
+    "https://en.wikipedia.org/wiki/Excession",
+    "https://hardcover.app/books/excession"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

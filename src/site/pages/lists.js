@@ -112,13 +112,28 @@ ${cardGrid(pg.list, ctx)}${pg.nav}`,
 
 export function genresIndexPage(ctx) {
   const genres = ctx.data.genres.filter((g) => ctx.byGenre.has(g.slug));
+  const GROUPS = [
+    ['fiction', 'Fiction'],
+    ['nonfiction', 'Non-fiction'],
+    ['young-readers', 'Young readers'],
+  ];
+  const tile = (g) =>
+    `<li><a class="tile tile--${esc(g.color)}" href="/genres/${esc(g.slug)}/">${icon(g.icon, { size: 26 })}<span class="tile__name">${esc(g.name)}</span><span class="tile__count">${ctx.byGenre.get(g.slug).length} books</span></a></li>`;
+  const sections = GROUPS.map(([key, label]) => {
+    const inGroup = genres
+      .filter((g) => (g.group ?? 'fiction') === key)
+      .sort((a, b) => ctx.byGenre.get(b.slug).length - ctx.byGenre.get(a.slug).length);
+    return inGroup.length
+      ? `<section class="section"><h2>${label} <span class="muted small">${inGroup.length} genres</span></h2><ul class="tiles">${inGroup.map(tile).join('')}</ul></section>`
+      : '';
+  }).join('');
   return page(ctx, {
     path: '/genres/',
     breadcrumbs: [['Genres']],
     title: 'Browse by genre',
     description: 'From cozy fantasy to crime and classics: browse books by genre.',
     body: `${head({ kicker: 'Browse', title: 'Genres', lede: 'Find your corner of the shelf.' })}
-<ul class="tiles">${genres.map((g) => `<li><a class="tile tile--${esc(g.color)}" href="/genres/${esc(g.slug)}/">${icon(g.icon, { size: 26 })}<span class="tile__name">${esc(g.name)}</span><span class="tile__count">${ctx.byGenre.get(g.slug).length} books</span></a></li>`).join('')}</ul>`,
+${sections}`,
   });
 }
 

@@ -1,0 +1,28 @@
+{
+  "slug": "invisible-monsters",
+  "title": "Invisible Monsters",
+  "author": "Chuck Palahniuk",
+  "isbn13": "9780393341423",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["literary", "satire"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["dark", "witty", "mind-bending"],
+  "tropes": ["unreliable-narrator", "road-trip"],
+  "warnings": ["violence", "addiction", "eating-disorder"],
+  "summary": "A fashion model whose face was destroyed by a gunshot is left unable to speak. She travels with a flamboyant drag queen named Brandy Alexander, and the story is told out of order and keeps revising itself.",
+  "readIf": "you like Palahniuk's transgressive, darkly comic style and fractured structure.",
+  "skipIf": "you dislike shock, bleak humour or non-linear narratives.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780393341423",
+    "https://en.wikipedia.org/wiki/Invisible_Monsters",
+    "https://hardcover.app/books/invisible-monsters"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

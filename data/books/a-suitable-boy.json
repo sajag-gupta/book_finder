@@ -1,0 +1,28 @@
+{
+  "slug": "a-suitable-boy",
+  "title": "A Suitable Boy",
+  "author": "Vikram Seth",
+  "isbn13": "9781897580202",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["literary", "historical", "family-saga"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "witty", "nostalgic"],
+  "tropes": ["family-saga", "small-town"],
+  "warnings": ["death", "prejudice"],
+  "summary": "In newly independent India of the early 1950s, Mrs Rupa Mehra is determined to find a husband for her daughter Lata. Four families and a first general election form the backdrop to a huge social novel.",
+  "readIf": "you have time for an immersive, Victorian-style doorstop of Indian family life.",
+  "skipIf": "you want a quick read, since it runs close to 1,500 pages in most editions.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781897580202",
+    "https://en.wikipedia.org/wiki/A_Suitable_Boy",
+    "https://hardcover.app/books/a-suitable-boy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

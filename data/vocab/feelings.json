@@ -10,8 +10,18 @@
         "mood": "cozy",
         "line": "Low-stakes stories where nothing terrible is allowed to happen for long."
       },
-      { "mood": "comforting", "line": "Gentle books that settle your shoulders." },
-      { "mood": "whimsical", "line": "Playful worlds that pull your attention somewhere lighter." }
+      {
+        "mood": "comforting",
+        "line": "Gentle books that settle your shoulders."
+      },
+      {
+        "mood": "whimsical",
+        "line": "Playful worlds that pull your attention somewhere lighter."
+      },
+      {
+        "mood": "practical",
+        "line": "Concrete advice for the pile on your plate."
+      }
     ]
   },
   {
@@ -21,9 +31,18 @@
     "icon": "activity",
     "words": ["anxious", "worried", "nervous", "panicky", "uneasy"],
     "wants": [
-      { "mood": "comforting", "line": "Warm, steady reads that do not spring nasty surprises." },
-      { "mood": "cozy", "line": "Small worlds, kind people and a cup of something hot." },
-      { "mood": "hopeful", "line": "Stories that quietly argue things will be okay." }
+      {
+        "mood": "comforting",
+        "line": "Warm, steady reads that do not spring nasty surprises."
+      },
+      {
+        "mood": "cozy",
+        "line": "Small worlds, kind people and a cup of something hot."
+      },
+      {
+        "mood": "hopeful",
+        "line": "Stories that quietly argue things will be okay."
+      }
     ]
   },
   {
@@ -33,9 +52,22 @@
     "icon": "battery-low",
     "words": ["burned out", "burnt out", "exhausted", "drained", "tired", "worn out"],
     "wants": [
-      { "mood": "cozy", "line": "Comfort reading that asks nothing of you." },
-      { "mood": "whimsical", "line": "Charming, inventive stories with a light touch." },
-      { "mood": "nostalgic", "line": "Old favourites and comfort-food classics." }
+      {
+        "mood": "cozy",
+        "line": "Comfort reading that asks nothing of you."
+      },
+      {
+        "mood": "whimsical",
+        "line": "Charming, inventive stories with a light touch."
+      },
+      {
+        "mood": "nostalgic",
+        "line": "Old favourites and comfort-food classics."
+      },
+      {
+        "mood": "practical",
+        "line": "Gentle, practical help to recover and reset."
+      }
     ]
   },
   {
@@ -45,9 +77,18 @@
     "icon": "user",
     "words": ["lonely", "isolated", "alone", "disconnected"],
     "wants": [
-      { "mood": "comforting", "line": "Books that feel like a friend sitting beside you." },
-      { "mood": "hopeful", "line": "Stories of people finding their people." },
-      { "mood": "swoony", "line": "Romance that reminds you connection is possible." }
+      {
+        "mood": "comforting",
+        "line": "Books that feel like a friend sitting beside you."
+      },
+      {
+        "mood": "hopeful",
+        "line": "Stories of people finding their people."
+      },
+      {
+        "mood": "swoony",
+        "line": "Romance that reminds you connection is possible."
+      }
     ]
   },
   {
@@ -57,9 +98,18 @@
     "icon": "cloud-rain",
     "words": ["sad", "down", "low", "blue", "gloomy", "depressed"],
     "wants": [
-      { "mood": "hopeful", "line": "Stories that let a little light back in." },
-      { "mood": "funny", "line": "Books that make you laugh when you did not expect to." },
-      { "mood": "comforting", "line": "Gentle company for a grey day." }
+      {
+        "mood": "hopeful",
+        "line": "Stories that let a little light back in."
+      },
+      {
+        "mood": "funny",
+        "line": "Books that make you laugh when you did not expect to."
+      },
+      {
+        "mood": "comforting",
+        "line": "Gentle company for a grey day."
+      }
     ]
   },
   {
@@ -69,9 +119,18 @@
     "icon": "heart-crack",
     "words": ["heartbroken", "heartbreak", "breakup", "broken up", "grieving", "grief"],
     "wants": [
-      { "mood": "heartbreaking", "line": "A good cry, if what you need is to let it out." },
-      { "mood": "hopeful", "line": "Stories about starting again." },
-      { "mood": "inspiring", "line": "Books about people who rebuilt and came out stronger." }
+      {
+        "mood": "heartbreaking",
+        "line": "A good cry, if what you need is to let it out."
+      },
+      {
+        "mood": "hopeful",
+        "line": "Stories about starting again."
+      },
+      {
+        "mood": "inspiring",
+        "line": "Books about people who rebuilt and came out stronger."
+      }
     ]
   },
   {
@@ -81,9 +140,22 @@
     "icon": "hourglass",
     "words": ["bored", "restless", "flat", "uninspired"],
     "wants": [
-      { "mood": "adventurous", "line": "Big journeys that get you out of your chair." },
-      { "mood": "tense", "line": "Page-turners you will not be able to put down." },
-      { "mood": "mind-bending", "line": "Stories that rearrange how you think." }
+      {
+        "mood": "adventurous",
+        "line": "Big journeys that get you out of your chair."
+      },
+      {
+        "mood": "tense",
+        "line": "Page-turners you will not be able to put down."
+      },
+      {
+        "mood": "mind-bending",
+        "line": "Stories that rearrange how you think."
+      },
+      {
+        "mood": "eye-opening",
+        "line": "True stories and ideas more surprising than fiction."
+      }
     ]
   },
   {
@@ -93,9 +165,22 @@
     "icon": "compass",
     "words": ["itchy", "stuck", "antsy", "wanderlust", "in a rut"],
     "wants": [
-      { "mood": "epic", "line": "Sweeping worlds with room to get lost in." },
-      { "mood": "adventurous", "line": "Quests and voyages with real momentum." },
-      { "mood": "inspiring", "line": "Books that make you want to change something." }
+      {
+        "mood": "epic",
+        "line": "Sweeping worlds with room to get lost in."
+      },
+      {
+        "mood": "adventurous",
+        "line": "Quests and voyages with real momentum."
+      },
+      {
+        "mood": "inspiring",
+        "line": "Books that make you want to change something."
+      },
+      {
+        "mood": "motivating",
+        "line": "Books that make you want to change something this week."
+      }
     ]
   },
   {
@@ -105,9 +190,18 @@
     "icon": "snowflake",
     "words": ["numb", "empty", "detached", "apathetic"],
     "wants": [
-      { "mood": "haunting", "line": "Books with images that stay with you." },
-      { "mood": "heartbreaking", "line": "Stories with real emotional force." },
-      { "mood": "tense", "line": "Suspense that wakes your nerves up." }
+      {
+        "mood": "haunting",
+        "line": "Books with images that stay with you."
+      },
+      {
+        "mood": "heartbreaking",
+        "line": "Stories with real emotional force."
+      },
+      {
+        "mood": "tense",
+        "line": "Suspense that wakes your nerves up."
+      }
     ]
   },
   {
@@ -117,9 +211,18 @@
     "icon": "flame",
     "words": ["angry", "furious", "frustrated", "irritated", "resentful"],
     "wants": [
-      { "mood": "dark", "line": "Grim, gritty stories that match your temper." },
-      { "mood": "witty", "line": "Sharp, clever books that turn irritation into fun." },
-      { "mood": "epic", "line": "Big, dramatic conflicts to channel it into." }
+      {
+        "mood": "dark",
+        "line": "Grim, gritty stories that match your temper."
+      },
+      {
+        "mood": "witty",
+        "line": "Sharp, clever books that turn irritation into fun."
+      },
+      {
+        "mood": "epic",
+        "line": "Big, dramatic conflicts to channel it into."
+      }
     ]
   },
   {
@@ -129,9 +232,18 @@
     "icon": "smile",
     "words": ["happy", "great", "good mood", "cheerful", "excited", "joyful"],
     "wants": [
-      { "mood": "funny", "line": "Books that keep the laughs coming." },
-      { "mood": "swoony", "line": "Romance with all the butterflies." },
-      { "mood": "adventurous", "line": "Fun, fast journeys to ride the high." }
+      {
+        "mood": "funny",
+        "line": "Books that keep the laughs coming."
+      },
+      {
+        "mood": "swoony",
+        "line": "Romance with all the butterflies."
+      },
+      {
+        "mood": "adventurous",
+        "line": "Fun, fast journeys to ride the high."
+      }
     ]
   },
   {
@@ -141,9 +253,22 @@
     "icon": "lightbulb",
     "words": ["curious", "inquisitive", "wondering", "restless mind"],
     "wants": [
-      { "mood": "thoughtful", "line": "Ideas worth turning over for days." },
-      { "mood": "mind-bending", "line": "Plots and premises that surprise you." },
-      { "mood": "mysterious", "line": "Puzzles with answers worth waiting for." }
+      {
+        "mood": "thoughtful",
+        "line": "Ideas worth turning over for days."
+      },
+      {
+        "mood": "mind-bending",
+        "line": "Plots and premises that surprise you."
+      },
+      {
+        "mood": "mysterious",
+        "line": "Puzzles with answers worth waiting for."
+      },
+      {
+        "mood": "eye-opening",
+        "line": "Books that change how you see the world."
+      }
     ]
   },
   {
@@ -153,9 +278,18 @@
     "icon": "history",
     "words": ["nostalgic", "wistful", "sentimental", "homesick"],
     "wants": [
-      { "mood": "nostalgic", "line": "Old favourites and stories that feel like home." },
-      { "mood": "cozy", "line": "Comfort reads with the warmth of the past." },
-      { "mood": "melancholic", "line": "Bittersweet books that honour what is gone." }
+      {
+        "mood": "nostalgic",
+        "line": "Old favourites and stories that feel like home."
+      },
+      {
+        "mood": "cozy",
+        "line": "Comfort reads with the warmth of the past."
+      },
+      {
+        "mood": "melancholic",
+        "line": "Bittersweet books that honour what is gone."
+      }
     ]
   },
   {
@@ -165,9 +299,22 @@
     "icon": "sunrise",
     "words": ["discouraged", "hopeless", "defeated", "unmotivated", "doubtful"],
     "wants": [
-      { "mood": "hopeful", "line": "Stories that rebuild your belief in the future." },
-      { "mood": "inspiring", "line": "Proof that people get through worse." },
-      { "mood": "funny", "line": "Humour as a way back to yourself." }
+      {
+        "mood": "hopeful",
+        "line": "Stories that rebuild your belief in the future."
+      },
+      {
+        "mood": "inspiring",
+        "line": "Proof that people get through worse."
+      },
+      {
+        "mood": "funny",
+        "line": "Humour as a way back to yourself."
+      },
+      {
+        "mood": "motivating",
+        "line": "Real stories and ideas that get you moving again."
+      }
     ]
   }
 ]

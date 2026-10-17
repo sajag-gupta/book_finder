@@ -1,0 +1,28 @@
+{
+  "slug": "interpreter-of-maladies",
+  "title": "Interpreter of Maladies",
+  "author": "Jhumpa Lahiri",
+  "isbn13": "9780358213260",
+  "firstPublished": 1999,
+  "series": null,
+  "genres": ["short-stories", "literary"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful", "haunting"],
+  "tropes": [],
+  "warnings": ["infidelity"],
+  "summary": "Nine short stories about Indian and Indian American characters, set in India and the United States. They explore marriage, loneliness, immigration and the small misunderstandings that separate people.",
+  "readIf": "you like quiet, carefully observed stories about families and cultural distance.",
+  "skipIf": "you want plot-heavy stories with dramatic resolutions.",
+  "soldMillions": 15,
+  "tier": "all-time",
+  "sources": [
+    "https://openlibrary.org/isbn/9780358213260",
+    "https://en.wikipedia.org/wiki/Interpreter_of_Maladies",
+    "https://hardcover.app/books/interpreter-of-maladies"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

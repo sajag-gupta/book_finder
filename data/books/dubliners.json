@@ -1,0 +1,28 @@
+{
+  "slug": "dubliners",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "isbn13": "9780786103591",
+  "firstPublished": 1914,
+  "series": null,
+  "genres": ["short-stories", "literary", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful", "haunting"],
+  "tropes": [],
+  "warnings": ["abuse"],
+  "summary": "Fifteen stories set in early twentieth-century Dublin that follow people from childhood to old age, many caught in quiet paralysis, with the finale 'The Dead'.",
+  "readIf": "you like precise, understated short fiction about ordinary lives.",
+  "skipIf": "you want dramatic plots with clear endings.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780786103591",
+    "https://en.wikipedia.org/wiki/Dubliners",
+    "https://hardcover.app/books/dubliners"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

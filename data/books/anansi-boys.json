@@ -1,0 +1,28 @@
+{
+  "slug": "anansi-boys",
+  "title": "Anansi Boys",
+  "author": "Neil Gaiman",
+  "isbn13": "9780786285105",
+  "firstPublished": 2005,
+  "series": null,
+  "genres": ["fantasy", "humor-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["funny", "whimsical", "adventurous"],
+  "tropes": ["gods-and-myth", "unlikely-friendship"],
+  "warnings": [],
+  "summary": "Fat Charlie Nancy's father dies, and he learns he was the trickster god Anansi and that Charlie has a brother. The brother arrives and begins to upend Charlie's quiet, embarrassed life in London.",
+  "readIf": "you want a light, funny fantasy about family, myth and sibling rivalry.",
+  "skipIf": "you want the darker tone of American Gods, which this only loosely follows.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780786285105",
+    "https://en.wikipedia.org/wiki/Anansi_Boys",
+    "https://hardcover.app/books/anansi-boys"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

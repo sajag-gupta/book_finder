@@ -1,0 +1,27 @@
+{
+  "slug": "atomic-habits",
+  "title": "Atomic habits",
+  "author": "James Clear",
+  "isbn13": "9781801137195",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["self-help", "productivity"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["practical", "motivating"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "James Clear argues that small daily changes compound into big results, and lays out a framework of cue, craving, response and reward for making good habits easy and bad ones hard.",
+  "readIf": "you want concrete, usable steps for building routines that last.",
+  "skipIf": "you already know the habit-loop basics and want deeper research than anecdotes.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781801137195",
+    "https://hardcover.app/books/atomic-habits"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

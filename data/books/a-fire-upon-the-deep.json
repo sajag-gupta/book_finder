@@ -1,0 +1,28 @@
+{
+  "slug": "a-fire-upon-the-deep",
+  "title": "A Fire Upon the Deep",
+  "author": "Vernor Vinge",
+  "isbn13": "9780765329820",
+  "firstPublished": 1992,
+  "series": null,
+  "genres": ["science-fiction", "space-opera"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "mind-bending", "tense"],
+  "tropes": ["first-contact", "space-survival"],
+  "warnings": ["violence"],
+  "summary": "Humans awaken an ancient threat that spreads across a galaxy where the laws of thought vary by region. A group of survivors flees to a medieval world of pack-minded creatures while a fleet chases them.",
+  "readIf": "you want big-idea space opera with inventive alien minds.",
+  "skipIf": "you prefer realistic near-future settings and quiet character studies.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765329820",
+    "https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep",
+    "https://hardcover.app/books/a-fire-upon-the-deep"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

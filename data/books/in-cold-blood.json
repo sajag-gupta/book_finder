@@ -1,0 +1,28 @@
+{
+  "slug": "in-cold-blood",
+  "title": "In Cold Blood",
+  "author": "Truman Capote",
+  "isbn13": "9780140187014",
+  "firstPublished": 1959,
+  "series": null,
+  "genres": ["true-crime", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": [],
+  "warnings": ["violence", "death", "gore", "child-death"],
+  "summary": "Truman Capote reconstructs the 1959 murder of the Clutter family in rural Kansas, and the investigation and trial of the two men who killed them. It reads like a novel but is built from his reporting.",
+  "readIf": "you want a classic of true crime written with a novelist's eye.",
+  "skipIf": "you want a fast whodunit, since the killers are known early and the focus is on them.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780140187014",
+    "https://en.wikipedia.org/wiki/In_Cold_Blood",
+    "https://hardcover.app/books/in-cold-blood"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

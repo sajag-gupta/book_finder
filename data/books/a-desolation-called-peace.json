@@ -1,0 +1,28 @@
+{
+  "slug": "a-desolation-called-peace",
+  "title": "A Desolation Called Peace",
+  "author": "Arkady Martine",
+  "isbn13": "9781529001631",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "space-opera"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "thoughtful", "epic"],
+  "tropes": ["first-contact", "political-intrigue"],
+  "warnings": ["war", "genocide"],
+  "summary": "As the Teixcalaanli empire faces an unknown alien threat at its border, a diplomat and a cultural liaison struggle to negotiate peace while a ruthless general pushes toward war.",
+  "readIf": "you like political, language-focused science fiction and have read A Memory Called Empire.",
+  "skipIf": "you have not read the first book or dislike dense diplomatic plotting.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529001631",
+    "https://en.wikipedia.org/wiki/A_Desolation_Called_Peace",
+    "https://hardcover.app/books/a-desolation-called-peace"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

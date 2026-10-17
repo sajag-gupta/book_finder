@@ -1,0 +1,28 @@
+{
+  "slug": "city-of-glass",
+  "title": "City of Glass",
+  "author": "Cassandra Clare",
+  "isbn13": "9781439158425",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["young-adult", "urban-fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense", "swoony"],
+  "tropes": ["love-triangle"],
+  "warnings": ["violence", "death"],
+  "summary": "The third Mortal Instruments book takes Clary and her friends to the Shadowhunters' hidden homeland, where Valentine's army is preparing a decisive strike.",
+  "readIf": "you are already following the Mortal Instruments series.",
+  "skipIf": "you are new to the series, as it depends on the earlier books.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781439158425",
+    "https://en.wikipedia.org/wiki/City_of_Glass_(Clare_novel)",
+    "https://hardcover.app/books/city-of-glass-12f293b2-5fae-4614-94a0-3c2f7a4c9502"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

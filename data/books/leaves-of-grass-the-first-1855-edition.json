@@ -1,0 +1,27 @@
+{
+  "slug": "leaves-of-grass-the-first-1855-edition",
+  "title": "Leaves of Grass: The First (1855) Edition",
+  "author": "Walt Whitman",
+  "isbn13": "9780899261607",
+  "firstPublished": 1855,
+  "series": null,
+  "genres": ["poetry", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["inspiring", "thoughtful", "hopeful"],
+  "tropes": [],
+  "warnings": [],
+  "summary": "The first edition of Whitman's landmark poetry collection, published in 1855, with a long preface and twelve untitled poems, including the one later called Song of Myself. It celebrates the self, the body, nature and democracy in free verse.",
+  "readIf": "you want to read the raw, original version of a foundational work of American poetry.",
+  "skipIf": "you prefer rhymed or tightly structured verse, or want the later, expanded editions.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780899261607",
+    "https://hardcover.app/books/leaves-of-grass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "a-peoples-history-of-the-united-states",
+  "title": "A People's History of the United States",
+  "author": "Howard Zinn",
+  "isbn13": "9781456610814",
+  "firstPublished": 1980,
+  "series": null,
+  "genres": ["us-history", "history"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["eye-opening", "thoughtful", "dark"],
+  "tropes": [],
+  "warnings": ["racism", "slavery", "violence", "genocide"],
+  "summary": "Howard Zinn retells American history from the perspective of the people usually left out, including Native Americans, enslaved people, workers and women. It is openly written as a counterweight to standard accounts.",
+  "readIf": "you want a history told from the bottom up and are ready for a strong point of view.",
+  "skipIf": "you want a balanced survey or a neutral account of events.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781456610814",
+    "https://en.wikipedia.org/wiki/A_People's_History_of_the_United_States",
+    "https://hardcover.app/books/a-peoples-history-of-the-united-states"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

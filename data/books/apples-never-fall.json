@@ -1,0 +1,28 @@
+{
+  "slug": "apples-never-fall",
+  "title": "Apples Never Fall",
+  "author": "Liane Moriarty",
+  "isbn13": "9780241396094",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["mystery", "contemporary-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "funny", "thoughtful"],
+  "tropes": ["twist-ending"],
+  "warnings": ["domestic-violence", "infidelity"],
+  "summary": "The Delaney family are retired tennis coaches with four adult children. When the mother, Joy, disappears, the police look at her husband, and the family recalls a young woman who once stayed with them.",
+  "readIf": "you like family dramas with wit and a mystery at the centre.",
+  "skipIf": "you want a fast thriller or a story with a tidy detective plot.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780241396094",
+    "https://en.wikipedia.org/wiki/Apples_Never_Fall",
+    "https://hardcover.app/books/apples-never-fall"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

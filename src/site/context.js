@@ -55,6 +55,7 @@ export function createContext({ data, site }) {
     hasAuthorPage: (book) => (byAuthor.get(slugify(book.author))?.length ?? 0) >= 2,
     genre: (slug) => data.genres.find((g) => g.slug === slug),
     mood: (slug) => data.moods.find((m) => m.slug === slug),
+    light: data.light ?? [],
     feelings: data.feelings ?? [],
     feeling: (slug) => (data.feelings ?? []).find((f) => f.slug === slug),
     trope: (slug) => data.tropes.find((t) => t.slug === slug),

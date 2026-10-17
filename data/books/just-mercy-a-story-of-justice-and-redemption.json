@@ -1,0 +1,27 @@
+{
+  "slug": "just-mercy-a-story-of-justice-and-redemption",
+  "title": "Just Mercy: A Story of Justice and Redemption",
+  "author": "Bryan Stevenson",
+  "isbn13": "9781925228311",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["memoir", "politics"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["inspiring", "eye-opening", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["death", "racism", "child-abuse", "prejudice"],
+  "summary": "A young lawyer founds a legal practice in Alabama to defend people on death row and the wrongly convicted. His clients, above all Walter McMillian, show how the justice system fails the poor and Black Americans.",
+  "readIf": "you want a human, case-driven look at American criminal justice that still leaves room for hope.",
+  "skipIf": "you cannot read about children sentenced to harsh terms or executions right now.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781925228311",
+    "https://hardcover.app/books/just-mercy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "dirk-gentlys-holistic-detective-agency",
+  "title": "Dirk Gently's Holistic Detective Agency",
+  "author": "Douglas Adams",
+  "isbn13": "9781590070598",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["science-fiction", "humor-fiction", "detective"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["funny", "whimsical", "mysterious"],
+  "tropes": ["detective", "time-travel"],
+  "warnings": [],
+  "summary": "A murder in Cambridge, a missing cat and a ghost lead the odd detective Dirk Gently to follow the fundamental interconnectedness of all things. Douglas Adams ties it together with time travel and an electric monk.",
+  "readIf": "you like absurd, witty mysteries where the logic is deliberately bizarre.",
+  "skipIf": "you want a conventional detective story with fair-play clues.",
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781590070598",
+    "https://en.wikipedia.org/wiki/Dirk_Gently's_Holistic_Detective_Agency",
+    "https://hardcover.app/books/dirk-gentlys-holistic-detective-agency"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
