@@ -16,6 +16,7 @@ if (form && list) {
 
   const sorters = {
     top: (a, b) => b.sold - a.sold || a.title.localeCompare(b.title),
+    popular: (a, b) => b.users - a.users || a.title.localeCompare(b.title),
     az: (a, b) => a.title.localeCompare(b.title),
     newest: (a, b) => b.year - a.year || a.title.localeCompare(b.title),
     oldest: (a, b) => a.year - b.year || a.title.localeCompare(b.title),
@@ -26,6 +27,7 @@ if (form && list) {
       {
         title: el.querySelector('.card__title').textContent,
         sold: Number(el.dataset.sold),
+        users: Number(el.dataset.users),
         year: Number(el.dataset.year),
       },
     ]),

@@ -19,6 +19,8 @@
     "dev": "npm run build:preview && wrangler pages dev dist",
     "validate": "node scripts/validate-data.js",
     "indexnow": "node --env-file-if-exists=.env scripts/indexnow.js",
+    "discover": "node --env-file-if-exists=.env scripts/discover-popular.js",
+    "enrich": "node --env-file-if-exists=.env scripts/enrich-hardcover.js",
     "trending": "node --env-file-if-exists=.env scripts/refresh-trending.js",
     "catalogue:isbns": "node --env-file-if-exists=.env scripts/resolve-isbns.js",
     "catalogue:index": "node scripts/catalogue-index.js",

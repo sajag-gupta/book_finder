@@ -42,7 +42,7 @@ export function browsePage(ctx) {
     <label class="sr-only" for="bq">Search within results</label>
     <div class="search search--block">${icon('search', { size: 18, className: 'search__icon' })}<input id="bq" type="search" name="q" placeholder="Title or author" autocomplete="off"></div>
     <label class="select"><span class="sr-only">Sort by</span>
-      <select name="sort"><option value="top">Top sellers first</option><option value="az">Title A to Z</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select>
+      <select name="sort"><option value="top">Top sellers first</option><option value="popular">Most read on Hardcover</option><option value="az">Title A to Z</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select>
     </label>
   </div>
   <details class="facet" open><summary>Genre ${icon('chevron-down', { size: 16 })}</summary><div class="facet__body">${genres.map((g) => checkbox('genre', g.slug, g.name, ctx.byGenre.get(g.slug).length)).join('')}</div></details>

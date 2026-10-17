@@ -236,6 +236,8 @@ export function howWePickPage(ctx) {
 <h2>Two levels of checking</h2>
 <p><strong>Reviewed</strong> books have been read by an editor, who checked the details against at least two public sources and signed off.</p>
 <p><strong>Facts checked</strong> books have had their title, author, first-publication year and edition verified automatically against Open Library and Wikipedia. Their descriptions and tags are written by us but have not yet been read by an editor, and the page says so. We are working through them.</p>
+<h2>Ratings and reader data</h2>
+<p>Reader ratings, reader counts, page counts, series order and reader-reported content warnings come from <a href="https://hardcover.app" rel="noopener">Hardcover</a>, credited wherever they appear. Everything we write about a book is our own.</p>
 <h2>Bestseller rankings</h2>
 <p>Sales figures are estimates from public sources and vary widely. We show them as approximate and never as exact.</p>
 <h2>Money and honesty</h2>

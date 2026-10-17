@@ -99,7 +99,7 @@ ${body}
   </div>
   <div class="wrap footer__legal">
     <p>Some links on this site are affiliate links: if you buy through them we may earn a small commission at no extra cost to you. It never changes which books we recommend.</p>
-    <p>Cover images are provided by Open Library. All descriptions and recommendations are written by us.</p>
+    <p>Cover images are provided by Open Library. Reader ratings and reader-reported content warnings come from <a href="https://hardcover.app" rel="noopener">Hardcover</a>. All descriptions and recommendations are written by us.</p>
   </div>
 </footer>
 ${scriptTags}
