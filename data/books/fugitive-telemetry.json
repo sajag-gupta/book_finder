@@ -1,0 +1,44 @@
+{
+  "slug": "fugitive-telemetry",
+  "title": "Fugitive Telemetry",
+  "author": "Martha Wells",
+  "isbn13": "9781250765376",
+  "firstPublished": 2021,
+  "series": null,
+  "genres": ["science-fiction", "mystery", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["witty", "tense"],
+  "tropes": ["artificial-intelligence", "detective"],
+  "warnings": ["violence", "death"],
+  "summary": "A short novel in a series about a security android that has freed itself from corporate control and would mostly rather watch its serials. When a body turns up on a station, it ends up investigating.",
+  "readIf": "you like a sardonic, socially awkward narrator in a quick murder mystery set in space.",
+  "skipIf": "you want to start the series at the beginning, since the cast arrives with history.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "Shares the dry, deflating humour and a far-future setting that never takes itself too seriously.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-thursday-murder-club",
+      "reason": "A cosy, funny investigation led by unlikely sleuths rather than an android.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-long-way-to-a-small-angry-planet",
+      "reason": "A warmer, found-family take on life aboard ships and stations among mixed species.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250765376",
+    "https://hardcover.app/books/fugitive-telemetry"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

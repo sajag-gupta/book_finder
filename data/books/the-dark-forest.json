@@ -1,0 +1,45 @@
+{
+  "slug": "the-dark-forest",
+  "title": "The Dark Forest",
+  "author": "Cixin Liu",
+  "isbn13": "9781803287461",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["science-fiction", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mind-bending", "tense", "thoughtful"],
+  "tropes": ["first-contact", "political-intrigue"],
+  "warnings": ["violence", "death", "suicide"],
+  "summary": "The second book of the Remembrance of Earth's Past trilogy. Humanity knows an alien fleet is coming and has centuries to prepare, and chooses a handful of individuals to devise strategies that must stay secret even from their own side.",
+  "readIf": "you enjoy huge-concept science fiction that treats first contact as a problem of game theory.",
+  "skipIf": "you haven't read the first book, or you want strong character work over ideas.",
+  "pairings": [
+    {
+      "slug": "hyperion",
+      "reason": "Another ambitious, idea-heavy science fiction work with a far-future sweep and a structure that rewards patience.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rendezvous-with-rama",
+      "reason": "A shorter, calmer take on meeting something vast and incomprehensible from space.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "children-of-time",
+      "reason": "Another large-scale story about how humanity relates to a very different intelligence over generations.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781803287461",
+    "https://en.wikipedia.org/wiki/The_Dark_Forest",
+    "https://hardcover.app/books/the-dark-forest"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

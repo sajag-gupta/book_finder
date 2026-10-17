@@ -1,0 +1,41 @@
+{
+  "slug": "dust",
+  "title": "Dust",
+  "author": "Hugh Howey",
+  "isbn13": "9781490904382",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["science-fiction", "dystopian", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "hopeful"],
+  "tropes": ["dystopian-regime", "rebellion", "post-apocalyptic"],
+  "warnings": ["death", "violence"],
+  "summary": "The final book of the Silo series follows people living in the buried silos as the truth about their world forces them to act. It pulls the story of the underground and the world above toward a conclusion.",
+  "readIf": "you have followed the Silo books and want to see how the story ends.",
+  "skipIf": "you have not read Wool and Shift, because this book relies on both.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "Another story of people living under a hidden control system who decide to fight back.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hunger-games",
+      "reason": "A faster story of rebellion against a regime that lies to its people.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A calmer, more literary look at the world after collapse and what people hold onto.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

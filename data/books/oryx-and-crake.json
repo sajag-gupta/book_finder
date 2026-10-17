@@ -1,0 +1,44 @@
+{
+  "slug": "oryx-and-crake",
+  "title": "Oryx and Crake",
+  "author": "Margaret Atwood",
+  "isbn13": "9780747562597",
+  "firstPublished": 2002,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "thoughtful", "haunting"],
+  "tropes": ["post-apocalyptic", "dual-timeline"],
+  "warnings": ["death", "pandemic", "violence"],
+  "summary": "Snowman may be the last human, living near a group of gentle engineered people. As he scavenges to survive, he remembers his friend Crake, a woman called Oryx and the world that led to the collapse.",
+  "readIf": "you like literary science fiction about science and corporate greed gone wrong.",
+  "skipIf": "you want a hopeful read, as it is bleak and critical of human behaviour.",
+  "pairings": [
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "Another Atwood warning about a society reshaped by control, with a more political focus.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-road",
+      "reason": "A starker, simpler story of survival after the end, with far less explanation.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A gentler, more hopeful look at the world after a pandemic ends it.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780747562597",
+    "https://en.wikipedia.org/wiki/Oryx_and_Crake"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

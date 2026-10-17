@@ -1,0 +1,45 @@
+{
+  "slug": "the-god-of-the-woods",
+  "title": "The God of the Woods",
+  "author": "Liz Moore",
+  "isbn13": "9780008663834",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["mystery", "historical", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["mysterious", "tense", "haunting"],
+  "tropes": ["dual-timeline", "whodunit"],
+  "warnings": ["kidnapping", "death", "grief"],
+  "summary": "In 1975, a girl vanishes from an Adirondack summer camp owned by her wealthy family. Her older brother disappeared from the same woods years earlier. The story moves between times and viewpoints to piece together what happened.",
+  "readIf": "you like layered, atmospheric mysteries with a large cast and secrets across several decades.",
+  "skipIf": "you want a quick thriller, since it is slow, with many perspectives and time jumps.",
+  "pairings": [
+    {
+      "slug": "in-the-woods",
+      "reason": "A literary mystery about vanished children and the woods, with a haunted narrator.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "where-the-crawdads-sing",
+      "reason": "Another atmospheric story rooted in wild nature, with a mystery and a lonely central figure.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-guest-list",
+      "reason": "A more twisty and breezy mystery with a closed setting and many secrets.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780008663834",
+    "https://en.wikipedia.org/wiki/The_God_of_the_Woods",
+    "https://hardcover.app/books/the-god-of-the-woods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

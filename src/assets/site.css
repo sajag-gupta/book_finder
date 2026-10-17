@@ -1198,7 +1198,6 @@ ol {
 .facts dd {
   margin: 0;
   font-weight: 700;
-  text-transform: capitalize;
 }
 .actions {
   display: flex;
@@ -1653,4 +1652,24 @@ a.tag:hover {
 }
 .tools label.btn {
   cursor: pointer;
+}
+
+/* ---------- Reader ratings (data from Hardcover) ---------- */
+.rating {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 0 0.8rem;
+}
+.rating .icon {
+  color: var(--sunshine);
+  fill: currentColor;
+}
+.rating strong {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+}
+.cw__reported {
+  margin: 0.8rem 0 0.4rem;
 }

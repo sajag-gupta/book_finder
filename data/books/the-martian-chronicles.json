@@ -1,0 +1,45 @@
+{
+  "slug": "the-martian-chronicles",
+  "title": "The Martian Chronicles",
+  "author": "Ray Bradbury",
+  "isbn13": "9780898452136",
+  "firstPublished": 1950,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "haunting", "thoughtful"],
+  "tropes": ["first-contact"],
+  "warnings": ["death", "war"],
+  "summary": "A linked collection of stories follows human settlers to Mars, from the first failed expeditions to the towns that follow. Ray Bradbury writes it as a poetic meditation on loss, memory and what people carry to a new world.",
+  "readIf": "you like lyrical, wistful science fiction made of short pieces more than a single plot.",
+  "skipIf": "you want hard science or a single continuous storyline.",
+  "pairings": [
+    {
+      "slug": "fahrenheit-451",
+      "reason": "Bradbury again, a more direct and urgent warning with the same poetic style.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "solaris",
+      "reason": "Another melancholic story about humans meeting an alien world that will not behave as expected.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "station-eleven",
+      "reason": "A gentle, elegiac look at what people save and remember after an old world ends.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780898452136",
+    "https://en.wikipedia.org/wiki/The_Martian_Chronicles",
+    "https://hardcover.app/books/the-martian-chronicles"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

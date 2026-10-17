@@ -1,0 +1,45 @@
+{
+  "slug": "deaths-end",
+  "title": "Death's End",
+  "author": "Cixin Liu",
+  "isbn13": "9780765377104",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "dystopian"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "epic", "melancholic"],
+  "tropes": ["first-contact", "political-intrigue"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The third and final book of the Remembrance of Earth's Past trilogy. It follows an engineer across many centuries as humanity's struggle with an alien civilisation grows into something with cosmic stakes.",
+  "readIf": "you want huge-scale hard science fiction that goes far into the future and isn't afraid of big ideas.",
+  "skipIf": "you haven't read the first two books, or you prefer character-led stories over concepts.",
+  "pairings": [
+    {
+      "slug": "childhoods-end",
+      "reason": "A much shorter classic about humanity's fate after contact, with the same awe at the size of the universe.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-forever-war",
+      "reason": "A different take on interstellar war and time dilation, but focused tightly on one soldier.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "Another far-future saga rich in ideas and structure, with more poetry.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765377104",
+    "https://en.wikipedia.org/wiki/Death's_End",
+    "https://hardcover.app/books/deaths-end"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

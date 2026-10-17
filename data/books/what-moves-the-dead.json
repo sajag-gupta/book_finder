@@ -1,0 +1,45 @@
+{
+  "slug": "what-moves-the-dead",
+  "title": "What Moves the Dead",
+  "author": "T. Kingfisher",
+  "isbn13": "9781250830753",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["horror", "fantasy", "science-fiction"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["spooky", "haunting", "dark"],
+  "tropes": ["haunted-house", "fairy-tale-retelling", "monster"],
+  "warnings": ["death"],
+  "summary": "A retelling of the Fall of the House of Usher. A retired soldier answers a childhood friend's call and arrives at a decaying family house, where the surrounding woods, the animals and the people all seem to be wrong.",
+  "readIf": "you want a short, creepy gothic story with a practical narrator and a touch of dark humour.",
+  "skipIf": "you dislike body horror or want a long, slow-building story.",
+  "pairings": [
+    {
+      "slug": "the-haunting-of-hill-house",
+      "reason": "The classic haunted-house novel, with a similar quiet menace and a fragile household.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "mexican-gothic",
+      "reason": "Another decaying mansion with a strange illness and a heroine who refuses to be scared off.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "A short, strange story where nature itself seems to be doing something unnatural.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250830753",
+    "https://en.wikipedia.org/wiki/What_Moves_the_Dead",
+    "https://hardcover.app/books/what-moves-the-dead"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

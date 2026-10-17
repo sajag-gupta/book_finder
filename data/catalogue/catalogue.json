@@ -4981,12 +4981,1506 @@
     "isbn13": "9781338167016"
   },
   {
-    "title": "Percy Jackson and the Sea of Monsters",
-    "author": "Rick Riordan",
-    "year": 2006,
-    "genres": ["fantasy", "young-adult"],
+    "title": "The Will of the Many",
+    "author": "James Islington",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "adventure"],
     "soldMillions": null,
     "group": "modern",
-    "isbn13": "9780786856862"
+    "isbn13": "9781922790910"
+  },
+  {
+    "title": "This Is How You Lose the Time War",
+    "author": "Amal El-Mohtar",
+    "year": 2019,
+    "genres": ["science-fiction", "romance", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781668204160"
+  },
+  {
+    "title": "Oathbringer",
+    "author": "Brandon Sanderson",
+    "year": 2017,
+    "genres": ["fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781409150084"
+  },
+  {
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "year": 2000,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007424931"
+  },
+  {
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "year": 1959,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781417630189"
+  },
+  {
+    "title": "A Feast for Crows",
+    "author": "George R.R. Martin",
+    "year": 2005,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007548279"
+  },
+  {
+    "title": "Artificial Condition",
+    "author": "Martha Wells",
+    "year": 2018,
+    "genres": ["science-fiction", "adventure", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250186935"
+  },
+  {
+    "title": "Yellowface",
+    "author": "R.F. Kuang",
+    "year": 2023,
+    "genres": ["thriller", "mystery", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063330306"
+  },
+  {
+    "title": "A Dance with Dragons",
+    "author": "George R.R. Martin",
+    "year": 2011,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780002247399"
+  },
+  {
+    "title": "The Last Wish",
+    "author": "Andrzej Sapkowski",
+    "year": 1993,
+    "genres": ["fantasy", "adventure", "epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781637999134"
+  },
+  {
+    "title": "11/22/63",
+    "author": "Stephen King",
+    "year": 2011,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781451627282"
+  },
+  {
+    "title": "Rhythm of War",
+    "author": "Brandon Sanderson",
+    "year": 2020,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575093393"
+  },
+  {
+    "title": "The Alloy of Law",
+    "author": "Brandon Sanderson",
+    "year": 2011,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781473233348"
+  },
+  {
+    "title": "The Eye of the Bedlam Bride",
+    "author": "Matt Dinniman",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241829899"
+  },
+  {
+    "title": "Gideon the Ninth",
+    "author": "Tamsyn Muir",
+    "year": 2019,
+    "genres": ["science-fiction", "fantasy", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781664743328"
+  },
+  {
+    "title": "Warbreaker",
+    "author": "Brandon Sanderson",
+    "year": 2009,
+    "genres": ["fantasy", "adventure", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575097469"
+  },
+  {
+    "title": "Rogue Protocol",
+    "author": "Martha Wells",
+    "year": 2018,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250191786"
+  },
+  {
+    "title": "This Inevitable Ruin",
+    "author": "Matt Dinniman",
+    "year": 2024,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241829936"
+  },
+  {
+    "title": "The Dark Forest",
+    "author": "Cixin Liu",
+    "year": 2008,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781803287461"
+  },
+  {
+    "title": "The Ballad of Songbirds and Snakes",
+    "author": "Suzanne Collins",
+    "year": 2020,
+    "genres": ["dystopian", "young-adult", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781339016580"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "year": 1962,
+    "genres": ["science-fiction", "dystopian", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780061170621"
+  },
+  {
+    "title": "Shadows of Self",
+    "author": "Brandon Sanderson",
+    "year": 2015,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781473233355"
+  },
+  {
+    "title": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "year": 2006,
+    "genres": ["fantasy", "young-adult", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780120000326"
+  },
+  {
+    "title": "Exit Strategy",
+    "author": "Martha Wells",
+    "year": 2018,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250191854"
+  },
+  {
+    "title": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "year": 1995,
+    "genres": ["science-fiction", "dystopian", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Caliban's War",
+    "author": "James S. A. Corey",
+    "year": 2012,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781841499901"
+  },
+  {
+    "title": "The Bands of Mourning",
+    "author": "Brandon Sanderson",
+    "year": 2016,
+    "genres": ["fantasy", "science-fiction", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765378583"
+  },
+  {
+    "title": "Storm Front",
+    "author": "Jim Butcher",
+    "year": 2000,
+    "genres": ["mystery", "fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593335154"
+  },
+  {
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "year": 1999,
+    "genres": ["fantasy", "epic-fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781469225692"
+  },
+  {
+    "title": "The Tainted Cup",
+    "author": "Robert Jackson Bennett",
+    "year": 2024,
+    "genres": ["fantasy", "mystery", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781984820723"
+  },
+  {
+    "title": "Before the Coffee Gets Cold",
+    "author": "Toshikazu Kawaguchi",
+    "year": 2015,
+    "genres": ["fantasy", "literary", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Network Effect",
+    "author": "Martha Wells",
+    "year": 2018,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781980021711"
+  },
+  {
+    "title": "The Titan's Curse",
+    "author": "Rick Riordan",
+    "year": 2007,
+    "genres": ["fantasy", "young-adult", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780141321264"
+  },
+  {
+    "title": "World War Z: An Oral History of the Zombie War",
+    "author": "Max Brooks",
+    "year": 2006,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780715653739"
+  },
+  {
+    "title": "Wind and Truth",
+    "author": "Brandon Sanderson",
+    "year": 2024,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250368287"
+  },
+  {
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "year": 1976,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425071793"
+  },
+  {
+    "title": "The Battle of the Labyrinth",
+    "author": "Rick Riordan",
+    "year": 2008,
+    "genres": ["fantasy", "young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780545200493"
+  },
+  {
+    "title": "Iron Gold",
+    "author": "Pierce Brown",
+    "year": 2018,
+    "genres": ["science-fiction", "fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425285916"
+  },
+  {
+    "title": "A Parade of Horribles",
+    "author": "Matt Dinniman",
+    "year": 2026,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780241836880"
+  },
+  {
+    "title": "Death's End",
+    "author": "Cixin Liu",
+    "year": 2008,
+    "genres": ["science-fiction", "fantasy", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765377104"
+  },
+  {
+    "title": "The Last Olympian",
+    "author": "Rick Riordan",
+    "year": 2009,
+    "genres": ["fantasy", "young-adult", "children"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781405664424"
+  },
+  {
+    "title": "The Lost Metal",
+    "author": "Brandon Sanderson",
+    "year": 2022,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765391193"
+  },
+  {
+    "title": "Edgedancer",
+    "author": "Brandon Sanderson",
+    "year": 2016,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250166609"
+  },
+  {
+    "title": "Abaddon's Gate",
+    "author": "James S. A. Corey",
+    "year": 2013,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781549153075"
+  },
+  {
+    "title": "Tender Is the Flesh",
+    "author": "Agustina Bazterrica",
+    "year": 2017,
+    "genres": ["horror", "dystopian", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "year": 1996,
+    "genres": ["classic", "thriller", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780091835132"
+  },
+  {
+    "title": "Empire of Silence",
+    "author": "Christopher Ruocchio",
+    "year": 2018,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781664470125"
+  },
+  {
+    "title": "The Great Hunt",
+    "author": "Robert Jordan",
+    "year": 1990,
+    "genres": ["fantasy", "classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780748115358"
+  },
+  {
+    "title": "Blood of Elves",
+    "author": "Andrzej Sapkowski",
+    "year": 1994,
+    "genres": ["fantasy", "adventure", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316029186"
+  },
+  {
+    "title": "The Shadow of the Gods",
+    "author": "John Gwynne",
+    "year": 2021,
+    "genres": ["fantasy", "science-fiction", "epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316539883"
+  },
+  {
+    "title": "Fugitive Telemetry",
+    "author": "Martha Wells",
+    "year": 2021,
+    "genres": ["science-fiction", "mystery", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250765376"
+  },
+  {
+    "title": "The Sword of Kaigen",
+    "author": "M.L. Wang",
+    "year": 2018,
+    "genres": ["fantasy", "science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Dawnshard",
+    "author": "Brandon Sanderson",
+    "year": 2020,
+    "genres": ["fantasy", "science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781803361062"
+  },
+  {
+    "title": "Yumi and the Nightmare Painter",
+    "author": "Brandon Sanderson",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250899699"
+  },
+  {
+    "title": "Skyward",
+    "author": "Brandon Sanderson",
+    "year": 2018,
+    "genres": ["science-fiction", "young-adult", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780399555787"
+  },
+  {
+    "title": "Cibola Burn",
+    "author": "James S. A. Corey",
+    "year": 2014,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316217606"
+  },
+  {
+    "title": "The Dragon Reborn",
+    "author": "Robert Jordan",
+    "year": 1991,
+    "genres": ["fantasy", "adventure", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356525235"
+  },
+  {
+    "title": "Katabasis",
+    "author": "R.F. Kuang",
+    "year": 2025,
+    "genres": ["fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063021471"
+  },
+  {
+    "title": "The Man in the High Castle",
+    "author": "Philip K. Dick",
+    "year": 1962,
+    "genres": ["science-fiction", "fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780441518098"
+  },
+  {
+    "title": "Insurgent",
+    "author": "Veronica Roth",
+    "year": 2012,
+    "genres": ["young-adult", "dystopian", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780063040526"
+  },
+  {
+    "title": "The 7 1/2 Deaths of Evelyn Hardcastle",
+    "author": "Stuart Turton",
+    "year": 2018,
+    "genres": ["mystery", "thriller", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Before They Are Hanged",
+    "author": "Joe Abercrombie",
+    "year": 2007,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781473223028"
+  },
+  {
+    "title": "Heir of Fire",
+    "author": "Sarah J. Maas",
+    "year": 2014,
+    "genres": ["fantasy", "romance", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781619630659"
+  },
+  {
+    "title": "System Collapse",
+    "author": "Martha Wells",
+    "year": 2023,
+    "genres": ["science-fiction", "fantasy", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250826985"
+  },
+  {
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "year": 2015,
+    "genres": ["science-fiction", "fantasy", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008148102"
+  },
+  {
+    "title": "Nemesis Games",
+    "author": "James S. A. Corey",
+    "year": 2015,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316217583"
+  },
+  {
+    "title": "Crooked Kingdom",
+    "author": "Leigh Bardugo",
+    "year": 2016,
+    "genres": ["fantasy", "young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250133694"
+  },
+  {
+    "title": "Blood Over Bright Haven",
+    "author": "M.L. Wang",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529935523"
+  },
+  {
+    "title": "Dark Age",
+    "author": "Pierce Brown",
+    "year": 2019,
+    "genres": ["science-fiction", "dystopian", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781473646766"
+  },
+  {
+    "title": "Royal Assassin",
+    "author": "Robin Hobb",
+    "year": 1992,
+    "genres": ["fantasy", "mystery", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593722831"
+  },
+  {
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov",
+    "year": 2000,
+    "genres": ["science-fiction", "classic", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007270446"
+  },
+  {
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "year": 2019,
+    "genres": ["science-fiction", "literary", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529014488"
+  },
+  {
+    "title": "The Graveyard Book",
+    "author": "Neil Gaiman",
+    "year": 2008,
+    "genres": ["fantasy", "young-adult", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780747596844"
+  },
+  {
+    "title": "Last Argument of Kings",
+    "author": "Joe Abercrombie",
+    "year": 2008,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781478935872"
+  },
+  {
+    "title": "Between Two Fires",
+    "author": "Christopher Buehlman",
+    "year": 2012,
+    "genres": ["horror", "historical", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425256909"
+  },
+  {
+    "title": "Sword of Destiny",
+    "author": "Andrzej Sapkowski",
+    "year": 1992,
+    "genres": ["fantasy", "adventure", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316389709"
+  },
+  {
+    "title": "The Shadow of What Was Lost",
+    "author": "James Islington",
+    "year": 2014,
+    "genres": ["fantasy", "epic-fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316552745"
+  },
+  {
+    "title": "Life, the Universe and Everything",
+    "author": "Douglas Adams",
+    "year": 1982,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529034547"
+  },
+  {
+    "title": "Babylon's Ashes",
+    "author": "James S. A. Corey",
+    "year": 2016,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316217644"
+  },
+  {
+    "title": "The Obelisk Gate",
+    "author": "N. K. Jemisin",
+    "year": 2016,
+    "genres": ["fantasy", "science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781405537278"
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "year": 1986,
+    "genres": ["science-fiction", "classic", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780812550757"
+  },
+  {
+    "title": "Stoner",
+    "author": "John Williams",
+    "year": 1965,
+    "genres": ["classic", "literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781448156023"
+  },
+  {
+    "title": "The Emperor's Soul",
+    "author": "Brandon Sanderson",
+    "year": 2012,
+    "genres": ["fantasy", "adventure", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781616964023"
+  },
+  {
+    "title": "Eldest",
+    "author": "Christopher Paolini",
+    "year": 2005,
+    "genres": ["fantasy", "young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781933499482"
+  },
+  {
+    "title": "The Sunlit Man",
+    "author": "Brandon Sanderson",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781938570391"
+  },
+  {
+    "title": "No Longer Human",
+    "author": "Osamu Dazai",
+    "year": 1948,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9784805317426"
+  },
+  {
+    "title": "Fairy Tale",
+    "author": "Stephen King",
+    "year": 2022,
+    "genres": ["fantasy", "thriller", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781668002193"
+  },
+  {
+    "title": "The Devils",
+    "author": "Joe Abercrombie",
+    "year": 2025,
+    "genres": ["fantasy", "epic-fantasy", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250391131"
+  },
+  {
+    "title": "Consider Phlebas",
+    "author": "Iain M. Banks",
+    "year": 1987,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356521633"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "year": 1864,
+    "genres": ["young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781402511530"
+  },
+  {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "year": 2007,
+    "genres": ["literary", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553448184"
+  },
+  {
+    "title": "The City of Brass",
+    "author": "S. A. Chakraborty",
+    "year": 2017,
+    "genres": ["fantasy", "young-adult", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780062690951"
+  },
+  {
+    "title": "Persepolis Rising",
+    "author": "James S. A. Corey",
+    "year": 2017,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316332859"
+  },
+  {
+    "title": "Miss Peregrine’s Home for Peculiar Children",
+    "author": "Ransom Riggs",
+    "year": 2011,
+    "genres": ["young-adult", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781594749025"
+  },
+  {
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "year": 1981,
+    "genres": ["science-fiction", "fantasy", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780425062333"
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "year": 1950,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780898452136"
+  },
+  {
+    "title": "American Psycho",
+    "author": "Bret Easton Ellis",
+    "year": 1991,
+    "genres": ["horror", "classic", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529077155"
+  },
+  {
+    "title": "The Lost Hero",
+    "author": "Rick Riordan",
+    "year": 2010,
+    "genres": ["fantasy", "young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781484441343"
+  },
+  {
+    "title": "For We Are Many",
+    "author": "Dennis E. Taylor",
+    "year": 2017,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781543657326"
+  },
+  {
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "year": 1985,
+    "genres": ["literary", "classic", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349121086"
+  },
+  {
+    "title": "Mistborn: Secret History",
+    "author": "Brandon Sanderson",
+    "year": 2016,
+    "genres": ["fantasy", "young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780575118560"
+  },
+  {
+    "title": "Blindsight",
+    "author": "Peter Watts",
+    "year": 2006,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781530182954"
+  },
+  {
+    "title": "If We Were Villains",
+    "author": "M.L. Rio",
+    "year": 2017,
+    "genres": ["thriller", "fantasy", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250289780"
+  },
+  {
+    "title": "Assassin's Quest",
+    "author": "Robin Hobb",
+    "year": 1997,
+    "genres": ["fantasy", "adventure", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553106404"
+  },
+  {
+    "title": "Light Bringer",
+    "author": "Pierce Brown",
+    "year": 2023,
+    "genres": ["science-fiction", "fantasy", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780593722749"
+  },
+  {
+    "title": "The Fires of Heaven",
+    "author": "Robert Jordan",
+    "year": 1993,
+    "genres": ["fantasy", "adventure", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356503868"
+  },
+  {
+    "title": "The God of the Woods",
+    "author": "Liz Moore",
+    "year": 2024,
+    "genres": ["mystery", "historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780008663834"
+  },
+  {
+    "title": "Second Foundation",
+    "author": "Isaac Asimov",
+    "year": 1952,
+    "genres": ["science-fiction", "classic", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780553900361"
+  },
+  {
+    "title": "The Very Secret Society of Irregular Witches",
+    "author": "Sangu Mandanna",
+    "year": 2022,
+    "genres": ["fantasy", "romance", "cozy-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781399709897"
+  },
+  {
+    "title": "On Earth We're Briefly Gorgeous",
+    "author": "Ocean Vuong",
+    "year": 2019,
+    "genres": ["literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525507710"
+  },
+  {
+    "title": "The Drawing of the Three",
+    "author": "Stephen King",
+    "year": 1987,
+    "genres": ["horror", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780451925084"
+  },
+  {
+    "title": "Allegiant",
+    "author": "Veronica Roth",
+    "year": 2013,
+    "genres": ["young-adult", "dystopian", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007444120"
+  },
+  {
+    "title": "Bunny",
+    "author": "Mona Awad",
+    "year": 2019,
+    "genres": ["horror", "literary", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781788545433"
+  },
+  {
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "year": 1999,
+    "genres": ["science-fiction", "historical", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780434009534"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "year": 1928,
+    "genres": ["classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781454956617"
+  },
+  {
+    "title": "Tiamat's Wrath",
+    "author": "James S. A. Corey",
+    "year": 2019,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356510361"
+  },
+  {
+    "title": "Starter Villain",
+    "author": "John Scalzi",
+    "year": 2023,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765389237"
+  },
+  {
+    "title": "Steelheart",
+    "author": "Brandon Sanderson",
+    "year": 2013,
+    "genres": ["young-adult", "science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385743570"
+  },
+  {
+    "title": "I Am Legend",
+    "author": "Richard Matheson",
+    "year": 1954,
+    "genres": ["science-fiction", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780552106412"
+  },
+  {
+    "title": "My Year of Rest and Relaxation",
+    "author": "Ottessa Moshfegh",
+    "year": 2013,
+    "genres": ["literary", "classic"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525522126"
+  },
+  {
+    "title": "Equal Rites",
+    "author": "Terry Pratchett",
+    "year": 1987,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780552166614"
+  },
+  {
+    "title": "Brisingr",
+    "author": "Christopher Paolini",
+    "year": 2008,
+    "genres": ["fantasy", "adventure", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780385613859"
+  },
+  {
+    "title": "The Girl Who Kicked the Hornet's Nest",
+    "author": "Stieg Larsson",
+    "year": 2007,
+    "genres": ["mystery", "thriller", "crime"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "year": 2018,
+    "genres": ["horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781501180989"
+  },
+  {
+    "title": "The Institute",
+    "author": "Stephen King",
+    "year": 2019,
+    "genres": ["science-fiction", "horror"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781529355413"
+  },
+  {
+    "title": "Lord of Chaos",
+    "author": "Robert Jordan",
+    "year": 1994,
+    "genres": ["fantasy", "adventure", "epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780356503875"
+  },
+  {
+    "title": "Caraval",
+    "author": "Stephanie Garber",
+    "year": 2016,
+    "genres": ["fantasy", "young-adult", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781399739672"
+  },
+  {
+    "title": "Tower of Dawn",
+    "author": "Sarah J. Maas",
+    "year": 2017,
+    "genres": ["fantasy", "romance", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781681198804"
+  },
+  {
+    "title": "Empire of the Vampire",
+    "author": "Jay Kristoff",
+    "year": 2020,
+    "genres": ["fantasy", "horror", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250245281"
+  },
+  {
+    "title": "The Light Fantastic",
+    "author": "Terry Pratchett",
+    "year": 1986,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781407034454"
+  },
+  {
+    "title": "Shift",
+    "author": "Hugh Howey",
+    "year": 2013,
+    "genres": ["science-fiction", "dystopian", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780099580478"
+  },
+  {
+    "title": "So Long, and Thanks for All the Fish",
+    "author": "Douglas Adams",
+    "year": 1984,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780606251235"
+  },
+  {
+    "title": "The Strength of the Few",
+    "author": "James Islington",
+    "year": 2025,
+    "genres": ["fantasy", "science-fiction", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781982141233"
+  },
+  {
+    "title": "Fool Moon",
+    "author": "Jim Butcher",
+    "year": 2001,
+    "genres": ["fantasy", "mystery", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781480581326"
+  },
+  {
+    "title": "Ready Player Two",
+    "author": "Ernest Cline",
+    "year": 2019,
+    "genres": ["science-fiction", "dystopian", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781784758028"
+  },
+  {
+    "title": "All These Worlds",
+    "author": "Dennis E. Taylor",
+    "year": 2017,
+    "genres": ["science-fiction", "dystopian"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781543662030"
+  },
+  {
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "year": 1987,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780747279648"
+  },
+  {
+    "title": "The Kaiju Preservation Society",
+    "author": "John Scalzi",
+    "year": 2022,
+    "genres": ["science-fiction", "adventure", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780765389121"
+  },
+  {
+    "title": "Leviathan Falls",
+    "author": "James S. A. Corey",
+    "year": 2021,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316332934"
+  },
+  {
+    "title": "Foundryside",
+    "author": "Robert Jackson Bennett",
+    "year": 2018,
+    "genres": ["fantasy", "science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780525573845"
+  },
+  {
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "year": 2020,
+    "genres": ["literary", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780349701455"
+  },
+  {
+    "title": "A Crown of Swords",
+    "author": "Robert Jordan",
+    "year": 1996,
+    "genres": ["fantasy", "adventure", "epic-fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781879371965"
+  },
+  {
+    "title": "The Idiot",
+    "author": "Fyodor Dostoevsky",
+    "year": 1869,
+    "genres": ["classic", "historical"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781544014302"
+  },
+  {
+    "title": "Siege and Storm",
+    "author": "Leigh Bardugo",
+    "year": 2013,
+    "genres": ["fantasy", "young-adult", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781432894610"
+  },
+  {
+    "title": "Malice",
+    "author": "John Gwynne",
+    "year": 2012,
+    "genres": ["fantasy", "epic-fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780330545754"
+  },
+  {
+    "title": "James",
+    "author": "Percival Everett",
+    "year": 2024,
+    "genres": ["historical", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781035031238"
+  },
+  {
+    "title": "Redshirts",
+    "author": "John Scalzi",
+    "year": 2012,
+    "genres": ["science-fiction", "fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781469298870"
+  },
+  {
+    "title": "The Serpent and the Wings of Night",
+    "author": "Carissa Broadbent",
+    "year": 2022,
+    "genres": ["fantasy", "romance", "romantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "year": 1967,
+    "genres": ["classic", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780143108276"
+  },
+  {
+    "title": "The Black Prism",
+    "author": "Brent Weeks",
+    "year": 2010,
+    "genres": ["fantasy", "science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781841499031"
+  },
+  {
+    "title": "Dust",
+    "author": "Hugh Howey",
+    "year": 2013,
+    "genres": ["science-fiction", "dystopian", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781490904382"
+  },
+  {
+    "title": "Small Things Like These",
+    "author": "Claire Keegan",
+    "year": 2020,
+    "genres": ["historical", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780571368709"
+  },
+  {
+    "title": "The Waste Lands",
+    "author": "Stephen King",
+    "year": 1991,
+    "genres": ["horror", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": null
+  },
+  {
+    "title": "Children of Ruin",
+    "author": "Adrian Tchaikovsky",
+    "year": 2019,
+    "genres": ["science-fiction", "fantasy"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781509865833"
+  },
+  {
+    "title": "Kings of the Wyld",
+    "author": "Nicholas Eames",
+    "year": 2017,
+    "genres": ["fantasy", "adventure"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316362474"
+  },
+  {
+    "title": "Oryx and Crake",
+    "author": "Margaret Atwood",
+    "year": 2002,
+    "genres": ["science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780747562597"
+  },
+  {
+    "title": "Vicious",
+    "author": "V. E. Schwab",
+    "year": 2013,
+    "genres": ["fantasy", "young-adult", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781491508350"
+  },
+  {
+    "title": "The Path of Daggers",
+    "author": "Robert Jordan",
+    "year": 1998,
+    "genres": ["fantasy", "epic-fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781575110455"
+  },
+  {
+    "title": "The Mercy of Gods",
+    "author": "James S. A. Corey",
+    "year": 2024,
+    "genres": ["science-fiction", "fantasy", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780316525558"
+  },
+  {
+    "title": "The Library at Mount Char",
+    "author": "Scott Hawkins",
+    "year": 2015,
+    "genres": ["fantasy", "horror", "mystery"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781665153058"
+  },
+  {
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "year": 2019,
+    "genres": ["dystopian", "science-fiction", "literary"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780771009433"
+  },
+  {
+    "title": "A Discovery of Witches",
+    "author": "Deborah Harkness",
+    "year": 2011,
+    "genres": ["fantasy", "romance", "thriller"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780142429112"
+  },
+  {
+    "title": "Heartstopper: Volume One",
+    "author": "Alice Oseman",
+    "year": 2018,
+    "genres": ["young-adult", "romance"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781444968934"
+  },
+  {
+    "title": "The Frugal Wizard's Handbook for Surviving Medieval England",
+    "author": "Brandon Sanderson",
+    "year": 2023,
+    "genres": ["fantasy", "science-fiction", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781938570339"
+  },
+  {
+    "title": "To Sleep in a Sea of Stars",
+    "author": "Christopher Paolini",
+    "year": 2019,
+    "genres": ["science-fiction", "adventure", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250794093"
+  },
+  {
+    "title": "What Moves the Dead",
+    "author": "T. Kingfisher",
+    "year": 2022,
+    "genres": ["horror", "fantasy", "science-fiction"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9781250830753"
+  },
+  {
+    "title": "Ship of Magic",
+    "author": "Robin Hobb",
+    "year": 1998,
+    "genres": ["fantasy", "adventure", "young-adult"],
+    "soldMillions": null,
+    "group": "modern",
+    "isbn13": "9780007383467"
   }
 ]

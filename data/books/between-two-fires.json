@@ -1,0 +1,45 @@
+{
+  "slug": "between-two-fires",
+  "title": "Between Two Fires",
+  "author": "Christopher Buehlman",
+  "isbn13": "9780425256909",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["horror", "historical", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "haunting"],
+  "tropes": ["quest", "monster"],
+  "warnings": ["violence", "death", "gore", "pandemic"],
+  "summary": "In plague-ravaged France in 1348, a knight meets a young girl who seems to have strange knowledge. They travel through a ruined countryside while angels and demons take an interest in her fate.",
+  "readIf": "you like grim medieval horror with grit, black humour and a touch of the apocalyptic.",
+  "skipIf": "you want comfort or hope, as the tone is bleak and the imagery is graphic.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-rose",
+      "reason": "Another dark medieval story full of faith, fear and dangerous knowledge.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-plague",
+      "reason": "A very different look at life under an epidemic, more reflective and philosophical.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-historian",
+      "reason": "An atmospheric blend of history and horror that unfolds across old European landscapes.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780425256909",
+    "https://en.wikipedia.org/wiki/Between_Two_Fires",
+    "https://hardcover.app/books/between-two-fires-2012"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

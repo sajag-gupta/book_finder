@@ -1,0 +1,44 @@
+{
+  "slug": "redshirts",
+  "title": "Redshirts",
+  "author": "John Scalzi",
+  "isbn13": "9781469298870",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "witty", "mind-bending"],
+  "tropes": ["satire"],
+  "warnings": ["death"],
+  "summary": "Ensign Andrew Dahl joins the flagship of a space fleet and notices that junior crew members die on away missions at an alarming rate while the officers somehow survive. The crew starts to ask why.",
+  "readIf": "you like comic science fiction that knows exactly which television clichés it is teasing.",
+  "skipIf": "you want serious science fiction or characters you will remember deeply.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "The classic of comic science fiction, with a similar love of cosmic absurdity.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "Another sarcastic, short, modern science-fiction story that is more focused on a single voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "A comic fantasy with the same playful, self-aware way of using a familiar story.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781469298870",
+    "https://en.wikipedia.org/wiki/Redshirts_(novel)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

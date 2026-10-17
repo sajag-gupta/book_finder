@@ -1,0 +1,45 @@
+{
+  "slug": "tiamats-wrath",
+  "title": "Tiamat's Wrath",
+  "author": "James S. A. Corey",
+  "isbn13": "9780356510361",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["rebellion", "dystopian-regime", "political-intrigue"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The eighth Expanse novel is set under the rule of a new, powerful empire that now controls the settled worlds. A scattered resistance tries to hit back, and the old crew pursues its own risky plans. It needs the earlier books.",
+  "readIf": "you are following the Expanse and want its story to keep tightening toward the endgame.",
+  "skipIf": "you are new to the series, as this is far along and spoils a lot.",
+  "pairings": [
+    {
+      "slug": "ancillary-justice",
+      "reason": "Another space opera about empire and the control of people, with a very different, cooler voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "all-systems-red",
+      "reason": "A short, funny science-fiction story with a sardonic android narrator, for a break from heavy war.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "old-mans-war",
+      "reason": "A fast, humane science-fiction novel about humans fighting in space against hostile species.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356510361",
+    "https://en.wikipedia.org/wiki/Tiamat's_Wrath",
+    "https://hardcover.app/books/tiamats-wrath"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

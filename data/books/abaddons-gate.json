@@ -1,0 +1,45 @@
+{
+  "slug": "abaddons-gate",
+  "title": "Abaddon's Gate",
+  "author": "James S. A. Corey",
+  "isbn13": "9781549153075",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense"],
+  "tropes": ["forced-proximity"],
+  "warnings": ["violence", "death"],
+  "summary": "Third in a space-opera series about humanity spread across the solar system. A vast alien structure appears beyond the outer planets, and ships from Earth, Mars and the Belt converge on it, each wary of the others.",
+  "readIf": "you like a series that turns a first-contact mystery into a political pressure cooker.",
+  "skipIf": "you want a standalone story, because the cast and tensions build on earlier books.",
+  "pairings": [
+    {
+      "slug": "leviathan-wakes",
+      "reason": "The series opener, if you want the crew and the politics set up properly before this installment.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "rendezvous-with-rama",
+      "reason": "Another crew sent to explore a giant, silent alien structure, in a calmer and more awestruck register.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "A bigger, stranger space story where strangers are drawn toward an unknown structure with a dark reputation.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781549153075",
+    "https://en.wikipedia.org/wiki/Abaddon's_Gate",
+    "https://hardcover.app/books/abaddons-gate"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

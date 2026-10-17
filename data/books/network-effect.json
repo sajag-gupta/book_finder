@@ -1,0 +1,45 @@
+{
+  "slug": "network-effect",
+  "title": "Network Effect",
+  "author": "Martha Wells",
+  "isbn13": "9781980021711",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "tense", "adventurous"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": ["violence", "death", "kidnapping"],
+  "summary": "The first full-length Murderbot novel. The security android, known for avoiding humans and binge-watching shows, is dragged into an ambush with a familiar spaceship intelligence and a team of people it has grown to care about.",
+  "readIf": "you've enjoyed the novellas and want a longer, more action-heavy Murderbot adventure.",
+  "skipIf": "you haven't read the novellas, since the characters and history are assumed.",
+  "pairings": [
+    {
+      "slug": "the-martian",
+      "reason": "Another funny, resourceful narrator solving life-or-death problems in space, with plenty of technical charm.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "ancillary-justice",
+      "reason": "If the AI viewpoint is what you love, this is a denser, political space opera about machine identity.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "old-mans-war",
+      "reason": "A quick, witty military sci-fi with a narrator whose voice and body are not what they were.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781980021711",
+    "https://en.wikipedia.org/wiki/Network_Effect_(novel)",
+    "https://hardcover.app/books/network-effect"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

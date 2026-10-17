@@ -1,0 +1,45 @@
+{
+  "slug": "gideon-the-ninth",
+  "title": "Gideon the Ninth",
+  "author": "Tamsyn Muir",
+  "isbn13": "9781664743328",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "witty", "mysterious"],
+  "tropes": ["locked-room", "forced-proximity", "secret-society"],
+  "warnings": ["violence", "death", "gore"],
+  "summary": "Gideon, a sharp-tongued swordswoman stuck in a gloomy tomb-world, is dragged along as bodyguard to the necromancer she despises. They travel to a decaying mansion where the heirs of other houses must pass trials, and people start dying.",
+  "readIf": "you like a snarky, skeleton-filled gothic mystery with a bold voice and a bit of everything.",
+  "skipIf": "you prefer plain, linear storytelling, since the opening chapters throw a lot of invented terms at you.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "Another story about a clever, closed group in an isolated setting where hidden resentments lead to death.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "and-then-there-were-none",
+      "reason": "The classic template for the mansion where guests die one by one, here crossed with bone magic.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-atlas-six",
+      "reason": "Another dark, competitive academic fantasy with bickering rivals and magic that costs something.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781664743328",
+    "https://en.wikipedia.org/wiki/Gideon_the_Ninth",
+    "https://hardcover.app/books/gideon-the-ninth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

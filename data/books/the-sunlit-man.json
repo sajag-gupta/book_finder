@@ -1,0 +1,45 @@
+{
+  "slug": "the-sunlit-man",
+  "title": "The Sunlit Man",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781938570391",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["adventurous", "tense"],
+  "tropes": ["survival"],
+  "warnings": ["violence", "death"],
+  "summary": "A hunted wanderer arrives on a world where a lethal sun sweeps across the land, forcing everyone to keep moving ahead of it. A fast standalone adventure in a larger shared universe of fantasy worlds.",
+  "readIf": "you like a fast, inventive adventure with an odd setting and a lot of action.",
+  "skipIf": "you want a character study, as this prefers set pieces and plot to quiet moments.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Another story of a hostile world with strict rules for survival and a hero who must adapt.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-gunslinger",
+      "reason": "A lone, haunted traveller moves across a strange, scoured landscape in pursuit of someone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "The same author's tighter fantasy with a similar love of clever magic and twists.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781938570391",
+    "https://en.wikipedia.org/wiki/The_Sunlit_Man",
+    "https://hardcover.app/books/the-sunlit-man"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

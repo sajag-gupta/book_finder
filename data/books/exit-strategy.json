@@ -1,0 +1,44 @@
+{
+  "slug": "exit-strategy",
+  "title": "Exit Strategy",
+  "author": "Martha Wells",
+  "isbn13": "9781250191854",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["tense", "funny", "hopeful"],
+  "tropes": ["artificial-intelligence", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "The fourth Murderbot novella. The self-aware security android, who has been dodging a corporation and trying to piece itself together, must act to help the humans who trust it. It draws the first run of stories to a close.",
+  "readIf": "you've followed the series and want a satisfying, action-packed conclusion to its first arc.",
+  "skipIf": "you haven't read the earlier novellas, since this builds directly on them.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "Another story about an unlikely friendship and problem-solving in space, with a bigger heart and more scientific puzzles.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-long-way-to-a-small-angry-planet",
+      "reason": "A cozy-to-bittersweet found-family space book if you want more about outsiders finding belonging.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A faster, grittier space story with a crew caught up in corporate and political schemes.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250191854",
+    "https://hardcover.app/books/exit-strategy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

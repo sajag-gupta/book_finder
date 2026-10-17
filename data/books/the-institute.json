@@ -1,0 +1,45 @@
+{
+  "slug": "the-institute",
+  "title": "The Institute",
+  "author": "Stephen King",
+  "isbn13": "9781529355413",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "horror"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "dark", "heartbreaking"],
+  "tropes": ["found-family", "rebellion"],
+  "warnings": ["kidnapping", "child-abuse", "violence", "death", "torture"],
+  "summary": "Twelve-year-old Luke Ellis, a gifted boy, is taken from his home overnight and wakes in a facility in the Maine woods. There, kids with psychic abilities are tested and pushed by adults who claim it is for a greater good.",
+  "readIf": "you like a King story of children banding together against a cold, organised evil.",
+  "skipIf": "you find harm done to children upsetting, since the book depicts it often and in detail.",
+  "pairings": [
+    {
+      "slug": "never-let-me-go",
+      "reason": "Another story of children raised for a purpose they do not choose, told in a far quieter, sadder way.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-maze-runner",
+      "reason": "A young-adult story of kids thrown into a controlled environment who must work together.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "carrie",
+      "reason": "King's first novel about a young person with telekinetic power, on a smaller scale.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529355413",
+    "https://en.wikipedia.org/wiki/The_Institute",
+    "https://hardcover.app/books/the-institute"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

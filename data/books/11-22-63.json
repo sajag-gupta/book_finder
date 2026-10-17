@@ -1,0 +1,45 @@
+{
+  "slug": "11-22-63",
+  "title": "11/22/63",
+  "author": "Stephen King",
+  "isbn13": "9781451627282",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "nostalgic", "heartbreaking"],
+  "tropes": ["time-travel", "star-crossed-lovers"],
+  "warnings": ["violence", "death", "domestic-violence"],
+  "summary": "A high school teacher in Maine finds a portal in a diner that leads back to 1958. He decides to live through the intervening years and try to stop the assassination of President Kennedy, building a new life along the way.",
+  "readIf": "you like time-travel stories with a strong sense of period and a slow, affecting love story.",
+  "skipIf": "you expect classic horror or a short thriller, as this is long and focuses on character.",
+  "pairings": [
+    {
+      "slug": "the-time-travelers-wife",
+      "reason": "A time-bending romance with the same ache for a life lived out of order, in a quieter key.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "dark-matter",
+      "reason": "If you want the tension of changing your own past but at a quicker, more thriller-like speed.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-stand",
+      "reason": "Another big, character-rich King book set on a vast American canvas, with more horror and a bleaker tone.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781451627282",
+    "https://en.wikipedia.org/wiki/11%2F22%2F63",
+    "https://hardcover.app/books/11-22-63"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

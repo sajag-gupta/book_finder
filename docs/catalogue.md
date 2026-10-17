@@ -1,10 +1,10 @@
-# The catalogue (about 550 books)
+# The catalogue (about 700 books)
 
 How the catalogue was built, what the quality levels mean, and how to extend it.
 
 ## Scope
 
-About 550 novels across romance and romantasy, fantasy, science fiction, thriller, mystery, crime, horror,
+About 700 novels across romance and romantasy, fantasy, science fiction, thriller, mystery, crime, horror,
 historical, young adult, literary fiction, classics and children's classics. Non-fiction and
 self-help are out of scope for now: the mood, trope and content-warning tags are built for stories.
 
@@ -32,6 +32,22 @@ figure an estimate. Modern books have no sourced sales number, so they are never
 5. **Fact check** (`npm run review -- --mark-checked`): see below.
 6. **Human review** (`npm run review -- --approve ...`): upgrades a book to `reviewed`.
 
+## Hardcover data
+
+`npm run enrich` adds Hardcover's aggregate facts to `data/hardcover.json`: average rating and number of
+ratings, number of readers, page count, series name, position and total, moods, and reader-reported
+content warnings. Book pages show the rating (only with at least 20 ratings), page count, series
+position, and any reader-reported warnings we do not already list, always crediting Hardcover with a
+link. Browse can sort by "Most read on Hardcover".
+
+Hardcover's terms allow aggregate data with attribution. We never store descriptions, reviews or
+readers' libraries, and nothing from Hardcover is used to train a model. Our own text is still
+written by us. Refresh with `npm run enrich -- --refresh`.
+
+`npm run discover -- 150 --write` pages through Hardcover's most-read books, drops anything already
+in the catalogue (matching titles and authors loosely, so "Liu Cixin" equals "Cixin Liu"), and
+appends the rest. They then go through the usual steps below.
+
 ## Trending additions
 
 `npm run trending` lists what readers are currently reading on Hardcover (last 30 days) that the
@@ -52,12 +68,18 @@ marked `reviewed` on someone's behalf.
 
 ## Held-back books
 
-11 books are not published yet because a second independent source did not confirm them:
-Babel, Behind Closed Doors, Icebreaker, Percy Jackson and the Sea of Monsters, Pretty Girls, The Girl Before, The Secret Life of Bees, The Unhoneymooners, There Is No Antimemetics Division, Twenty Thousand Leagues Under the Sea, Ulysses.
+16 books are not published yet because a second independent source did not confirm them:
+Babel, Behind Closed Doors, Blood of Elves, Dust, Heartstopper: Volume One, Icebreaker, Infinite Jest, Mistborn: Secret History, Pretty Girls, Rogue Protocol, The Girl Before, The Secret Life of Bees, The Unhoneymooners, There Is No Antimemetics Division, Twenty Thousand Leagues Under the Sea, Ulysses.
 Either Open Library's work-level year is wrong for the book and neither Wikipedia nor Hardcover
 states ours, or neither could be matched to the exact book. The records are believed correct, but
 "checked" has to mean verified, so a person should confirm each and then run
 `npm run review -- --approve <slug> --reviewer "Name"`.
+
+Eight more books were drafted but have no usable English ISBN yet (mostly translations and
+unusual titles) and are left out of the catalogue's merged records: I Who Have Never Known Men,
+Before the Coffee Gets Cold, Tender Is the Flesh, The Sword of Kaigen, The Seven Deaths of Evelyn
+Hardcastle, The Girl Who Kicked the Hornet's Nest, The Serpent and the Wings of Night, and The
+Waste Lands. Add an ISBN to `data/catalogue/catalogue.json` and rerun the merge to include them.
 
 ## What the automatic check does
 

@@ -1,0 +1,45 @@
+{
+  "slug": "babylons-ashes",
+  "title": "Babylon's Ashes",
+  "author": "James S. A. Corey",
+  "isbn13": "9780316217644",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "epic"],
+  "tropes": ["war-story", "political-intrigue"],
+  "warnings": ["violence", "war", "death", "grief"],
+  "summary": "The sixth Expanse book. As a breakaway fleet fighting for the Belt turns to ever more brutal methods, the crew and a coalition of old rivals try to hold the solar system together.",
+  "readIf": "you like long space-war sagas where politics and personal loyalties are in constant conflict.",
+  "skipIf": "you haven't read the previous books, as it follows directly from their major events.",
+  "pairings": [
+    {
+      "slug": "starship-troopers",
+      "reason": "A classic novel about soldiers and what a society asks of them, with a very different philosophy.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-dispossessed",
+      "reason": "A reflective look at the politics of an off-world society built around an ideal.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A ruthless, fast-paced saga about class conflict and war across the planets.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316217644",
+    "https://en.wikipedia.org/wiki/Babylon's_Ashes",
+    "https://hardcover.app/books/babylons-ashes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

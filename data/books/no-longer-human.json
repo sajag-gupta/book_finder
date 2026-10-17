@@ -1,0 +1,45 @@
+{
+  "slug": "no-longer-human",
+  "title": "No Longer Human",
+  "author": "Osamu Dazai",
+  "isbn13": "9784805317426",
+  "firstPublished": 1948,
+  "series": null,
+  "genres": ["horror"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "haunting", "heartbreaking"],
+  "tropes": [],
+  "warnings": ["suicide", "addiction", "mental-illness"],
+  "summary": "A man writes three notebooks about his life, describing how he has pretended to be a clown to hide his fear of other people. His years of drink, debt and failed attempts to belong gradually wear him down.",
+  "readIf": "you like short, bleak literary fiction about alienation, told in a raw, confessional voice.",
+  "skipIf": "you are in a fragile place or want a hopeful book, as it is relentlessly sad.",
+  "pairings": [
+    {
+      "slug": "the-bell-jar",
+      "reason": "Another confessional novel about a narrator who feels disconnected and slowly loses her grip.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-stranger",
+      "reason": "A short, spare novel about a man who cannot perform the feelings others expect of him.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "convenience-store-woman",
+      "reason": "A lighter, drier Japanese story about someone who does not fit social norms.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9784805317426",
+    "https://en.wikipedia.org/wiki/No_Longer_Human",
+    "https://hardcover.app/books/no-longer-human"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

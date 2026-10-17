@@ -1,0 +1,44 @@
+{
+  "slug": "wind-and-truth",
+  "title": "Wind and Truth",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781250368287",
+  "firstPublished": 2024,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "tense", "thoughtful"],
+  "tropes": ["war-story", "gods-and-myth"],
+  "warnings": ["violence", "war", "death", "mental-illness"],
+  "summary": "The fifth and final book of the first arc of the Stormlight Archive, a huge fantasy series. It gathers storylines about a war with an ancient enemy and the characters' oaths into the long-awaited climax of this half of the story.",
+  "readIf": "you've been reading the series and want the big payoff, with all its threads and characters in play.",
+  "skipIf": "you haven't read the earlier books, since this assumes all of them.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another long, absorbing fantasy where the pleasure is in its voice and magic, although self-contained in focus.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "The great model of an epic finale, where a long war and many threads come to a head.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "Same author, with a tighter and shorter story to see the same style of magic and payoff.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250368287",
+    "https://en.wikipedia.org/wiki/Wind_and_Truth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

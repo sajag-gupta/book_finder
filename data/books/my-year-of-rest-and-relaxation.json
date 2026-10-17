@@ -1,0 +1,45 @@
+{
+  "slug": "my-year-of-rest-and-relaxation",
+  "title": "My Year of Rest and Relaxation",
+  "author": "Ottessa Moshfegh",
+  "isbn13": "9780525522126",
+  "firstPublished": 2013,
+  "series": null,
+  "genres": ["literary", "classic"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["dark", "witty", "melancholic"],
+  "tropes": ["satire"],
+  "warnings": ["addiction", "mental-illness", "grief"],
+  "summary": "A young, wealthy and numb woman in New York in 2000 decides to sleep through a year with the help of prescriptions from a careless psychiatrist. She believes it will let her wake up renewed.",
+  "readIf": "you like black comedy and unlikeable narrators, with a cool, deadpan view of privilege and numbness.",
+  "skipIf": "you want sympathy or a plot, or you find heavy drug use and depression hard to read about.",
+  "pairings": [
+    {
+      "slug": "the-bell-jar",
+      "reason": "The older classic of a bright young woman in New York falling into depression.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "convenience-store-woman",
+      "reason": "A short, offbeat novel about a woman at odds with expectations, with more warmth.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "eleanor-oliphant-is-completely-fine",
+      "reason": "Another isolated, sharp-tongued narrator, but with a hopeful and kinder arc.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780525522126",
+    "https://en.wikipedia.org/wiki/My_Year_of_Rest_and_Relaxation",
+    "https://hardcover.app/books/my-year-of-rest-and-relaxation"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

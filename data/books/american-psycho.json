@@ -1,0 +1,45 @@
+{
+  "slug": "american-psycho",
+  "title": "American Psycho",
+  "author": "Bret Easton Ellis",
+  "isbn13": "9781529077155",
+  "firstPublished": 1991,
+  "series": null,
+  "genres": ["horror", "classic", "thriller"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "witty", "tense"],
+  "tropes": ["serial-killer", "unreliable-narrator", "satire"],
+  "warnings": ["violence", "gore", "torture", "sexual-assault", "sexual-content", "animal-death"],
+  "summary": "Patrick Bateman is a wealthy, image-obsessed Manhattan banker in the late 1980s who spends his days on business cards and restaurant reservations. At night he leads a secret life of extreme violence.",
+  "readIf": "you want a cold, darkly satirical novel about status and emptiness, and can tolerate extreme content.",
+  "skipIf": "you are sensitive to graphic violence and sexual cruelty, which is among the most explicit in mainstream fiction.",
+  "pairings": [
+    {
+      "slug": "fight-club",
+      "reason": "Another bitter satire of modern masculinity and consumer life, narrated by a man coming apart.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-talented-mr-ripley",
+      "reason": "A charming killer and a far quieter, subtler study of identity and envy.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "a-clockwork-orange",
+      "reason": "Another unsettling novel narrated by a stylish young man who enjoys violence.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529077155",
+    "https://en.wikipedia.org/wiki/American_Psycho",
+    "https://hardcover.app/books/american-psycho"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

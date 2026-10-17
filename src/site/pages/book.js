@@ -91,6 +91,7 @@ const STATUS_OPTIONS = [
   .join('');
 const STAR = `<span class="star" data-fill="none"><span class="star__base">${icon('star', { size: 28 })}</span><span class="star__fill">${icon('star', { size: 28 })}</span></span>`;
 
+const cap = (text) => text.charAt(0).toUpperCase() + text.slice(1);
 const factsRow = (label, value) => `<div><dt>${esc(label)}</dt><dd>${value}</dd></div>`;
 
 export function bookPage(ctx, book) {
@@ -121,6 +122,39 @@ export function bookPage(ctx, book) {
   const sold = book.soldMillions
     ? `<span class="badge badge--sold">${icon('award', { size: 14 })}Bestseller: about ${esc(book.soldMillions)} million copies (estimate)</span>`
     : '';
+  const hc = ctx.hc(book.slug);
+  const hcLink = hc
+    ? `<a href="https://hardcover.app/books/${esc(hc.slug)}" rel="noopener">Hardcover</a>`
+    : '';
+  const rating =
+    hc?.rating && hc.ratingsCount >= 20
+      ? `<p class="rating">${icon('star', { size: 18 })}<strong>${esc(hc.rating.toFixed(1))}</strong><span class="muted"> out of 5, from ${esc(hc.ratingsCount.toLocaleString('en-US'))} ratings on ${hcLink}</span></p>`
+      : '';
+  const seriesFact = book.series
+    ? `Book ${esc(book.series.position)} of a series`
+    : hc?.series
+      ? hc.series.position
+        ? `Book ${esc(hc.series.position)}${hc.series.total ? ` of ${esc(hc.series.total)}` : ''} in ${esc(hc.series.name)}`
+        : `Part of ${esc(hc.series.name)}`
+      : 'Standalone';
+  // Reader-reported warnings from Hardcover that our own list does not already cover.
+  const ours = new Set(
+    [...warnings, ...book.warnings].map((w) =>
+      w
+        .toLowerCase()
+        .replace(/[^a-z]+/g, ' ')
+        .trim(),
+    ),
+  );
+  const reported = (hc?.contentWarnings ?? []).filter(
+    (w) =>
+      !ours.has(
+        w
+          .toLowerCase()
+          .replace(/[^a-z]+/g, ' ')
+          .trim(),
+      ),
+  );
   const notice =
     book.status === 'checked'
       ? `<aside class="notice" role="note">${icon('info', { size: 20 })}<p><strong>Facts checked, text awaiting review.</strong> The title, author, year and edition were verified against Open Library and Wikipedia. Our description and tags have not yet been read by an editor. <a href="/about/how-we-pick/">How we check</a></p></aside>`
@@ -139,12 +173,14 @@ export function bookPage(ctx, book) {
     <h1>${esc(book.title)}</h1>
     <p class="byline">by ${author}</p>
     ${sold}
+    ${rating}
     <p class="summary">${esc(book.summary)}</p>
     <dl class="facts">
       ${factsRow('First published', esc(book.firstPublished))}
-      ${factsRow('Pace', esc(book.pace))}
-      ${factsRow('Length', esc(book.length))}
-      ${factsRow('Format', book.series ? `Book ${esc(book.series.position)} of a series` : 'Standalone')}
+      ${factsRow('Pace', esc(cap(book.pace)))}
+      ${factsRow('Length', esc(cap(book.length)))}
+      ${hc?.pages ? factsRow('Pages', esc(hc.pages)) : ''}
+      ${factsRow('Format', seriesFact)}
     </dl>
     <div class="actions">
       <a class="btn btn--library btn--lg" href="${esc(goPath('libby', book.isbn13, `${book.title} ${book.author}`))}" rel="nofollow noopener" target="_blank">${icon('library', { size: 20 })}Borrow free with Libby</a>
@@ -165,7 +201,17 @@ ${notice}
       ${tropeLinks ? `<ul class="tags" aria-label="Tropes">${tropeLinks}</ul>` : ''}
     </section>
     <section class="panel" aria-labelledby="cw-h" data-cw><h2 id="cw-h">Content warnings</h2>
-      <div data-cw-body>${warnings.length ? `<ul class="tags">${warnings.map((w) => `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`).join('')}</ul>` : '<p>None noted yet.</p>'}</div>
+      <div data-cw-body>${warnings.length ? `<ul class="tags">${warnings.map((w) => `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`).join('')}</ul>` : '<p>None noted yet.</p>'}${
+        reported.length
+          ? `<p class="muted small cw__reported">Also reported by readers on ${hcLink}:</p><ul class="tags">${reported
+              .slice(0, 10)
+              .map(
+                (w) =>
+                  `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`,
+              )
+              .join('')}</ul>`
+          : ''
+      }</div>
       <div class="cw__controls">
         <button type="button" class="btn btn--ghost btn--small" data-cw-toggle aria-expanded="true" hidden>Hide content warnings</button>
         <label class="check" hidden><input type="checkbox" data-cw-pref><span>Hide them until I ask</span></label>

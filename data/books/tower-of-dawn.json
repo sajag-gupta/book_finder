@@ -1,0 +1,44 @@
+{
+  "slug": "tower-of-dawn",
+  "title": "Tower of Dawn",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781681198804",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["fantasy", "romance", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic", "hopeful"],
+  "tropes": ["slow-burn", "political-intrigue", "redemption"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "Chaol Westfall, badly injured and cut off from the war at home, sails to a powerful southern empire in search of its famed healers. He finds a court full of rival ambitions and a healer with her own reasons for wary distrust.",
+  "readIf": "you are deep into the Throne of Glass series and want to see a favourite character in a new place.",
+  "skipIf": "you have not read the earlier Throne of Glass books, since this one leans on them heavily.",
+  "pairings": [
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "Another big, multi-court fantasy built around powerful women, with an eastern and a western realm and plenty of politics.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "six-of-crows",
+      "reason": "Also a story of wounded people who have to rely on each other, in a sharper, faster-moving package.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-city-of-brass",
+      "reason": "Takes you to a richly imagined court in a non-European setting where outsiders must tread carefully.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781681198804",
+    "https://hardcover.app/books/tower-of-dawn"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

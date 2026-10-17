@@ -1,0 +1,41 @@
+{
+  "slug": "caraval",
+  "title": "Caraval",
+  "author": "Stephanie Garber",
+  "isbn13": "9781399739672",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "romantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "mysterious", "swoony"],
+  "tropes": ["quest"],
+  "warnings": ["abuse", "violence", "manipulation"],
+  "summary": "Scarlett and her sister Tella have lived under a harsh father on a remote island, and long to attend Caraval, a week-long magical performance. When Tella is taken, Scarlett must play the game to find her.",
+  "readIf": "you like young-adult fantasy with a dreamy, glittering setting, where nothing is quite what it seems.",
+  "skipIf": "you want hard world-building, as the magic is mostly atmosphere and the story leans on twists and romance.",
+  "pairings": [
+    {
+      "slug": "the-night-circus",
+      "reason": "A more grown-up and elegant story of a magical circus, with the same shimmering atmosphere.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "stardust",
+      "reason": "A lighter fairy-tale fantasy with a quest, a touch of romance and a wry voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "reason": "A more intense fantasy romance with a similarly strong pull between a heroine and a mysterious partner.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": ["https://openlibrary.org/isbn/9781399739672", "https://hardcover.app/books/caraval"],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

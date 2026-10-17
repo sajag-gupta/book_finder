@@ -1,0 +1,45 @@
+{
+  "slug": "the-kaiju-preservation-society",
+  "title": "The Kaiju Preservation Society",
+  "author": "John Scalzi",
+  "isbn13": "9780765389121",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "adventurous", "witty"],
+  "tropes": ["found-family", "monster"],
+  "warnings": [],
+  "summary": "Jamie Gray loses a job and takes a delivery gig with a mysterious outfit that turns out to look after enormous creatures in a hidden world. It is a quick, lighthearted monster adventure with a team of scientists.",
+  "readIf": "you want a short, breezy science-fiction romp with big creatures and banter.",
+  "skipIf": "you want deep characters or a serious, scientific treatment of its premise.",
+  "pairings": [
+    {
+      "slug": "redshirts",
+      "reason": "More fast, funny Scalzi, this time making fun of television space adventures.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "project-hail-mary",
+      "reason": "A science-first adventure that keeps its warmth, with a larger emotional payoff.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "jurassic-park",
+      "reason": "The classic story of people facing giant creatures, with a much more serious tone.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765389121",
+    "https://en.wikipedia.org/wiki/The_Kaiju_Preservation_Society",
+    "https://hardcover.app/books/the-kaiju-preservation-society"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

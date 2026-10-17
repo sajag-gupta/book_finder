@@ -1,0 +1,45 @@
+{
+  "slug": "the-devils",
+  "title": "The Devils",
+  "author": "Joe Abercrombie",
+  "isbn13": "9781250391131",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["fantasy", "epic-fantasy", "historical"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["dark", "witty", "adventurous"],
+  "tropes": ["morally-grey", "quest", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "A standalone fantasy from Joe Abercrombie in which a mismatched crew of outcasts and misfits is thrown together for a dangerous errand. Expect his usual bleak humour and sudden brutality.",
+  "readIf": "you like fantasy full of sarcastic, flawed people who bicker while the situation gets worse.",
+  "skipIf": "you prefer noble heroes and clean victories, or you dislike graphic violence and crude language.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "Abercrombie's own series opener, with the same sour humour and morally murky cast.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another fantasy about quick-tongued crooks and loyalty among thieves, with a similar mix of jokes and bloodshed.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A grim, soldier's-eye fantasy about a hardened band of mercenaries who are not on the side of the angels.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250391131",
+    "https://en.wikipedia.org/wiki/The_Devils",
+    "https://hardcover.app/books/the-devils-2025"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

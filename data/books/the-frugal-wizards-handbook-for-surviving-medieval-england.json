@@ -1,0 +1,44 @@
+{
+  "slug": "the-frugal-wizards-handbook-for-surviving-medieval-england",
+  "title": "The Frugal Wizard's Handbook for Surviving Medieval England",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781938570339",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["funny", "adventurous", "witty"],
+  "tropes": ["survival"],
+  "warnings": [],
+  "summary": "A comic fantasy that drops a modern-day man into medieval England, where getting by takes more than he expected. It is a light, playful adventure from an author better known for very long epics.",
+  "readIf": "you want a funny, fast fantasy adventure that does not ask for a big commitment.",
+  "skipIf": "you want the vast scale and depth of the author's longer fantasy epics.",
+  "pairings": [
+    {
+      "slug": "the-princess-bride",
+      "reason": "A fantasy adventure that loves jokes and treats the whole thing as a good story told with a grin.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "Another quick-witted fantasy with an ordinary person caught up in the extraordinary.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "tress-of-the-emerald-sea",
+      "reason": "More light-hearted Sanderson, a sweet, funny quest with a likeable narrator.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781938570339",
+    "https://hardcover.app/books/the-frugal-wizards-handbook-for-surviving-medieval-england"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

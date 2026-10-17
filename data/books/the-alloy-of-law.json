@@ -1,0 +1,44 @@
+{
+  "slug": "the-alloy-of-law",
+  "title": "The Alloy of Law",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781473233348",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "witty", "funny"],
+  "tropes": ["detective", "heist"],
+  "warnings": ["violence", "death"],
+  "summary": "Set centuries after the original Mistborn trilogy, in a city of trains, guns and electric lights, a lawman turned nobleman is pulled back into trouble. A hunt for criminals blends old-West style shootouts with the series' metal-based magic.",
+  "readIf": "you want a quick, banter-heavy fantasy with gunfights, clever magic and a buddy dynamic.",
+  "skipIf": "you want an epic like the original trilogy, since this is smaller, lighter and more of a caper.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "A similar mix of banter, clever plans and a city-based crew of charming rogues.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "storm-front",
+      "reason": "Also blends magic with detective-style investigation in a city, in a punchier, wisecracking way.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "guards-guards",
+      "reason": "Another fantasy city with a bumbling lawman, though comic and satirical in tone.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473233348",
+    "https://hardcover.app/books/the-alloy-of-law"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

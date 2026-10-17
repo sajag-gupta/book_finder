@@ -1,0 +1,45 @@
+{
+  "slug": "the-ballad-of-songbirds-and-snakes",
+  "title": "The Ballad of Songbirds and Snakes",
+  "author": "Suzanne Collins",
+  "isbn13": "9781339016580",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["dystopian", "young-adult", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "tense", "haunting"],
+  "tropes": ["morally-grey", "rags-to-riches"],
+  "warnings": ["violence", "death", "war", "child-death"],
+  "summary": "Set decades before the original trilogy, this is the story of an eighteen-year-old Coriolanus Snow in a capital still scarred by war. He is assigned to mentor a tribute from District 12 in the tenth Hunger Games, and his ambitions are on the line.",
+  "readIf": "you want a villain-origin story about how charm and ambition curdle.",
+  "skipIf": "you want a rebellion tale like the original trilogy, since the main character is no hero.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The original story it leads into; reading it first makes this prequel's quiet echoes land harder.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "lord-of-the-flies",
+      "reason": "Another account of how young people turn on each other when a violent system gives them permission.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-rising",
+      "reason": "A harsher, faster dystopia of caste, competition and a protagonist forced into a deadly game.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781339016580",
+    "https://en.wikipedia.org/wiki/The_Ballad_of_Songbirds_and_Snakes",
+    "https://hardcover.app/books/the-ballad-of-songbirds-and-snakes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-city-of-brass",
+  "title": "The City of Brass",
+  "author": "S. A. Chakraborty",
+  "isbn13": "9780062690951",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "literary"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "mysterious", "epic"],
+  "tropes": ["political-intrigue", "hidden-identity", "slow-burn"],
+  "warnings": ["violence", "death", "slavery", "prejudice", "war"],
+  "summary": "Nahri survives as a con artist in eighteenth-century Cairo, until a ritual she thinks is a trick summons a djinn warrior. He takes her to Daevabad, a hidden city where old feuds and royal politics are waiting. First in the Daevabad trilogy.",
+  "readIf": "you like fantasy built on dense politics, rival peoples and a richly drawn Middle Eastern setting.",
+  "skipIf": "you want a fast-moving plot, since the first half spends a lot of time on court intrigue and world detail.",
+  "pairings": [
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "A standalone epic with several cultures, a strong political thread and a similar large-scale sweep.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "the-hundred-thousand-kingdoms",
+      "reason": "A newcomer thrown into a royal court full of dangerous relatives and ancient secrets.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "children-of-blood-and-bone",
+      "reason": "Another young-adult fantasy of oppression and rebellion, with a faster pace and younger leads.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780062690951",
+    "https://en.wikipedia.org/wiki/The_City_of_Brass_(novel)",
+    "https://hardcover.app/books/the-city-of-brass"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

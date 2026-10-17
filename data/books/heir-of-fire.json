@@ -1,0 +1,44 @@
+{
+  "slug": "heir-of-fire",
+  "title": "Heir of Fire",
+  "author": "Sarah J. Maas",
+  "isbn13": "9781619630659",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["fantasy", "romance", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["epic", "swoony", "adventurous"],
+  "tropes": ["fae", "found-family"],
+  "warnings": ["violence", "death", "grief"],
+  "summary": "Third in a young-adult fantasy series. Celaena, once the king's chosen assassin, is sent to a foreign land and must come to terms with her past and her powers, while the king's darkness spreads at home.",
+  "readIf": "you like a long fantasy series where the heroine, the cast and the stakes all keep growing.",
+  "skipIf": "you haven't read the earlier books, because the story depends on them and several viewpoints have separated.",
+  "pairings": [
+    {
+      "slug": "six-of-crows",
+      "reason": "Another ensemble fantasy with sharp characters and high stakes, built around a tighter plot.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "an-ember-in-the-ashes",
+      "reason": "A comparable young adult fantasy with a fierce heroine and a brutal empire.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "A more adult romantic fantasy with a similar mix of danger, training and attraction.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781619630659",
+    "https://hardcover.app/books/heir-of-fire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

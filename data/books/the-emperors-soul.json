@@ -1,0 +1,45 @@
+{
+  "slug": "the-emperors-soul",
+  "title": "The Emperor's Soul",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781616964023",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "mysterious"],
+  "tropes": ["political-intrigue"],
+  "warnings": [],
+  "summary": "A novella about a condemned master forger who is given a hundred days to recreate the soul of an emperor left nearly lifeless by an assassination attempt. She must do it under the eyes of court officials who do not trust her.",
+  "readIf": "you like short, clever fantasy with an unusual magic system and a tight deadline.",
+  "skipIf": "you want a long story or a large cast, since this is a compact single-plot novella.",
+  "pairings": [
+    {
+      "slug": "elantris",
+      "reason": "Set in the same wider world, a full-length novel with a related feel for ideas and politics.",
+      "moodShift": "bigger"
+    },
+    {
+      "slug": "piranesi",
+      "reason": "A short, strange and thoughtful fantasy that is equally about identity and perception.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another fantasy that loves the craft of a gifted person learning a precise, magical skill.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781616964023",
+    "https://en.wikipedia.org/wiki/The_Emperor's_Soul",
+    "https://hardcover.app/books/the-emperors-soul"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

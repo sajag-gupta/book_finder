@@ -1,0 +1,44 @@
+{
+  "slug": "all-quiet-on-the-western-front",
+  "title": "All Quiet on the Western Front",
+  "author": "Erich Maria Remarque",
+  "isbn13": "9781454956617",
+  "firstPublished": 1928,
+  "series": null,
+  "genres": ["classic"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["heartbreaking", "haunting", "melancholic"],
+  "tropes": ["war-story", "coming-of-age"],
+  "warnings": ["war", "violence", "death", "gore"],
+  "summary": "Paul Bäumer joins up with his schoolmates in the First World War, fired by the speeches of their teacher. The trenches strip away every belief they had. A short, plain-spoken novel told from the German side.",
+  "readIf": "you want an honest, unglamorous portrait of ordinary young soldiers and what the front does to them.",
+  "skipIf": "you want hope or heroism, or find vivid battlefield injuries hard to read.",
+  "pairings": [
+    {
+      "slug": "slaughterhouse-five",
+      "reason": "Another anti-war classic, but told in a stranger, time-skipping and darkly comic way.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-forever-war",
+      "reason": "A science-fiction view of war's toll on soldiers who come home to a world that no longer fits.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "for-whom-the-bell-tolls",
+      "reason": "A war novel from another conflict, with more romance and a lingering sense of fate.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781454956617",
+    "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-will-of-the-many",
+  "title": "The Will of the Many",
+  "author": "James Islington",
+  "isbn13": "9781922790910",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "adventure"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["tense", "epic", "mysterious"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["violence", "death"],
+  "summary": "Vis, an orphan from a conquered land, is adopted into a powerful family of a Roman-flavoured republic where citizens lend their strength to those above them. To climb, he enters a harsh academy where students are ranked and tested against each other.",
+  "readIf": "you like fantasy with a school setting, ranked competitions and plenty of political scheming.",
+  "skipIf": "you want a short book or a story that wraps up without a sequel.",
+  "pairings": [
+    {
+      "slug": "red-rising",
+      "reason": "Also drops an outsider into a brutal, ranked academy inside a rigid class system, with a faster, more violent edge.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another long fantasy built around a gifted young person at a school, with a more lyrical and personal voice.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-shadow-of-what-was-lost",
+      "reason": "Same author, earlier and more traditional: a school for gifted youths, hidden powers and a long, layered mystery.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781922790910",
+    "https://en.wikipedia.org/wiki/The_Will_of_the_Many",
+    "https://hardcover.app/books/the-will-of-the-many-2023"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-bands-of-mourning",
+  "title": "The Bands of Mourning",
+  "author": "Brandon Sanderson",
+  "isbn13": "9780765378583",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "classic"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "witty", "mysterious"],
+  "tropes": ["quest", "heist"],
+  "warnings": ["violence", "death"],
+  "summary": "The third Wax and Wayne Mistborn novel. When rumours surface that a legendary relic from the series' ancient past has been found, the lawman and his companions race to track it down before dangerous groups do.",
+  "readIf": "you're following the Wax and Wayne books and want a fast, clever treasure hunt with a heist feel.",
+  "skipIf": "you haven't read the earlier Mistborn books, since this follows directly from them.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "More clever, character-driven schemes and banter, in a bleaker setting with higher stakes.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "A lighter classic quest with a treasure, a ragtag crew and a pleasing sense of adventure.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "foundryside",
+      "reason": "Another inventive fantasy with a heist and a magic system treated like technology.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765378583",
+    "https://hardcover.app/books/the-bands-of-mourning"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

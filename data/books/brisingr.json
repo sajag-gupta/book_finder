@@ -1,0 +1,45 @@
+{
+  "slug": "brisingr",
+  "title": "Brisingr",
+  "author": "Christopher Paolini",
+  "isbn13": "9780385613859",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["fantasy", "adventure", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic", "tense"],
+  "tropes": ["dragons", "chosen-one", "rebellion"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "In the Inheritance Cycle, Eragon is a young Dragon Rider who fights beside the rebels against a cruel king. In the third book, Eragon and his dragon Saphira continue the war and Eragon's cousin Roran takes on a larger role.",
+  "readIf": "you like traditional young-adult fantasy with dragons, swords and a long march toward a final confrontation.",
+  "skipIf": "you want a standalone, or the earlier books left you cold, as this is long and builds on them.",
+  "pairings": [
+    {
+      "slug": "eragon",
+      "reason": "The first book in the series, if you want to start where the dragon story begins.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "dragonflight",
+      "reason": "A classic about bonding with dragons, in a science-fiction setting.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "fourth-wing",
+      "reason": "A newer, more adult story of dragon riders, with romance and higher stakes.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780385613859",
+    "https://en.wikipedia.org/wiki/Brisingr",
+    "https://hardcover.app/books/brisingr"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

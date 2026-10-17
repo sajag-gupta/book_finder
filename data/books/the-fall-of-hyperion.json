@@ -1,0 +1,45 @@
+{
+  "slug": "the-fall-of-hyperion",
+  "title": "The Fall of Hyperion",
+  "author": "Dan Simmons",
+  "isbn13": "9780747279648",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["science-fiction"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["mind-bending", "epic", "thoughtful"],
+  "tropes": ["artificial-intelligence", "quest"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The second half of the story begun in Hyperion. Pilgrims travel to a distant world to face a dreaded figure while a galactic war closes in, and the book explains much of what the first one left open.",
+  "readIf": "you loved Hyperion and want the sweeping, idea-heavy answer to its mysteries.",
+  "skipIf": "you have not read Hyperion, because this is a direct continuation and makes little sense alone.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Another dense, philosophical science-fiction epic about power, religion and the future of humanity.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "neuromancer",
+      "reason": "Shorter and more streetwise, but just as interested in artificial minds and what they want.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "reason": "Equally ambitious about civilisations and cosmic threat, with a more scientific flavour.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780747279648",
+    "https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)",
+    "https://hardcover.app/books/the-fall-of-hyperion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

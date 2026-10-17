@@ -36,7 +36,7 @@ const metaLine = (book, ctx) =>
  */
 export function bookCard(book, ctx, { reason, rank, filterable = false } = {}) {
   const attrs = filterable
-    ? ` data-isbn="${esc(book.isbn13)}" data-title="${esc(`${book.title} ${book.author}`.toLowerCase())}" data-genres="${esc(book.genres.join(' '))}" data-moods="${esc(book.moods.join(' '))}" data-warnings="${esc(book.warnings.join(' '))}" data-length="${book.length}" data-pace="${book.pace}" data-year="${book.firstPublished}" data-sold="${book.soldMillions ?? 0}" data-series="${book.series ? 1 : 0}"`
+    ? ` data-isbn="${esc(book.isbn13)}" data-title="${esc(`${book.title} ${book.author}`.toLowerCase())}" data-genres="${esc(book.genres.join(' '))}" data-moods="${esc(book.moods.join(' '))}" data-warnings="${esc(book.warnings.join(' '))}" data-length="${book.length}" data-pace="${book.pace}" data-year="${book.firstPublished}" data-sold="${book.soldMillions ?? 0}" data-users="${ctx.hc(book.slug)?.usersCount ?? 0}" data-series="${book.series ? 1 : 0}"`
     : '';
   return `<li class="card"${attrs}>
   <a class="card__link" href="/books/${esc(book.slug)}/">

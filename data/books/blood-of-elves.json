@@ -1,0 +1,41 @@
+{
+  "slug": "blood-of-elves",
+  "title": "Blood of Elves",
+  "author": "Andrzej Sapkowski",
+  "isbn13": "9780316029186",
+  "firstPublished": 1994,
+  "series": null,
+  "genres": ["fantasy", "adventure", "historical"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "adventurous"],
+  "tropes": ["found-family", "political-intrigue"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The first full novel in the Witcher saga. The monster hunter Geralt takes charge of a young girl with strange inherited power, while a southern empire gathers its armies and many parties want to find her.",
+  "readIf": "you like gritty fantasy with dry humour, moral grey areas and a reluctant guardian at the centre.",
+  "skipIf": "you would rather start with the short stories, which introduce Geralt and are easier to enter.",
+  "pairings": [
+    {
+      "slug": "the-last-wish",
+      "reason": "The short-story collection that introduces Geralt and the world, which makes this novel richer.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Shares the cynical wit and the sense that no side in the story is clean.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "assassins-apprentice",
+      "reason": "Another quiet, character-first fantasy about a lonely young person caught up in royal schemes.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [],
+  "status": "draft",
+  "checkedOn": null,
+  "reviewedBy": null,
+  "reviewedOn": null
+}

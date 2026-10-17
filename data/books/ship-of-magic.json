@@ -1,0 +1,45 @@
+{
+  "slug": "ship-of-magic",
+  "title": "Ship of Magic",
+  "author": "Robin Hobb",
+  "isbn13": "9780007383467",
+  "firstPublished": 1998,
+  "series": null,
+  "genres": ["fantasy", "adventure", "young-adult"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "adventurous", "dark"],
+  "tropes": ["family-saga", "political-intrigue"],
+  "warnings": ["violence", "death", "slavery"],
+  "summary": "In the trading city of Bingtown, the Vestrit family owns a liveship, a vessel carved from magical wood that wakes up after generations. The first Liveship Traders book follows the family's struggle over the ship, with pirates and sea serpents in the background.",
+  "readIf": "you like slow, character-heavy fantasy with a strong sea setting and family rivalries.",
+  "skipIf": "you want a fast plot, as this one builds slowly through many viewpoints.",
+  "pairings": [
+    {
+      "slug": "assassins-apprentice",
+      "reason": "Hobb's most beloved series, set in the same wider world but with a quieter, more personal focus.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another fantasy with a busy port city and plenty of scheming, with more humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-priory-of-the-orange-tree",
+      "reason": "Another large, complex fantasy with several women at its heart and a wide political canvas.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007383467",
+    "https://en.wikipedia.org/wiki/Ship_of_Magic",
+    "https://hardcover.app/books/ship-of-magic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

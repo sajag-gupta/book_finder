@@ -1,0 +1,40 @@
+{
+  "slug": "the-testaments",
+  "title": "The Testaments",
+  "author": "Margaret Atwood",
+  "isbn13": "9780771009433",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["dystopian", "science-fiction", "literary"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["tense", "dark", "thoughtful"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["abuse", "violence", "sexual-assault"],
+  "summary": "Set fifteen years after The Handmaid's Tale, this novel is told through three women connected to Gilead, including the feared Aunt Lydia. Their stories move toward a risky attempt to bring the regime down.",
+  "readIf": "you read The Handmaid's Tale and want to see Gilead from new viewpoints.",
+  "skipIf": "you have not read the first book, since this sequel assumes you know Gilead already.",
+  "pairings": [
+    {
+      "slug": "the-handmaids-tale",
+      "reason": "The original novel, which sets up the regime and the world this sequel returns to.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-giver",
+      "reason": "A shorter, younger story about a controlled society and one person who sees through it.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780771009433",
+    "https://en.wikipedia.org/wiki/The_Testaments",
+    "https://hardcover.app/books/the-testaments"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

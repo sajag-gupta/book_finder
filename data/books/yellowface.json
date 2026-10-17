@@ -1,0 +1,45 @@
+{
+  "slug": "yellowface",
+  "title": "Yellowface",
+  "author": "R.F. Kuang",
+  "isbn13": "9780063330306",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["thriller", "mystery", "literary"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["tense", "dark", "witty"],
+  "tropes": ["unreliable-narrator", "satire"],
+  "warnings": ["racism", "death", "manipulation"],
+  "summary": "June Hayward, a struggling novelist, is present when a more successful and celebrated writer dies suddenly. She walks away with an unpublished manuscript and passes it off as her own, and the lie begins to snowball.",
+  "readIf": "you like sharp, biting satire of publishing and a narrator you can't fully trust.",
+  "skipIf": "you need likeable characters, or want a sincere look at the book world instead of a pointed one.",
+  "pairings": [
+    {
+      "slug": "gone-girl",
+      "reason": "Another twisty, darkly funny thriller narrated by someone who bends the truth to their advantage.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A literary slide from small compromise into disaster, narrated by someone watching themselves cross lines.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "babel",
+      "reason": "Same author, historical academic fantasy that tackles power and exploitation with far less irony.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063330306",
+    "https://en.wikipedia.org/wiki/Yellowface_(novel)",
+    "https://hardcover.app/books/yellowface"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

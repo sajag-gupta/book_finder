@@ -1,0 +1,45 @@
+{
+  "slug": "the-last-wish",
+  "title": "The Last Wish",
+  "author": "Andrzej Sapkowski",
+  "isbn13": "9781637999134",
+  "firstPublished": 1993,
+  "series": null,
+  "genres": ["fantasy", "adventure", "epic-fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "witty", "adventurous"],
+  "tropes": ["monster", "morally-grey", "fairy-tale-retelling"],
+  "warnings": ["violence", "death", "sexual-content", "prejudice"],
+  "summary": "Geralt of Rivia is a witcher, a mutant monster hunter who sells his sword to anyone who pays. Stories of his contracts are stitched together around his recovery in a temple, each one twisting a familiar fairy tale.",
+  "readIf": "you like grim, sardonic fantasy with a world-weary hero and monsters who are not always the villain.",
+  "skipIf": "you want a single continuous plot, since this is a collection of linked short stories.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another charismatic, cynical protagonist in a hard world, with banter and clever schemes.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-blade-itself",
+      "reason": "Shares moral ambiguity and black humour, but is a single connected novel with a large cast.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-colour-of-magic",
+      "reason": "A fantasy that also pokes at familiar tropes, but with broad comedy in place of grim cynicism.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781637999134",
+    "https://en.wikipedia.org/wiki/The_Last_Wish",
+    "https://hardcover.app/books/the-last-wish"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

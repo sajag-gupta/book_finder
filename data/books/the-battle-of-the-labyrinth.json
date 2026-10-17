@@ -1,0 +1,45 @@
+{
+  "slug": "the-battle-of-the-labyrinth",
+  "title": "The Battle of the Labyrinth",
+  "author": "Rick Riordan",
+  "isbn13": "9780545200493",
+  "firstPublished": 2008,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "adventure"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "funny", "tense"],
+  "tropes": ["quest", "gods-and-myth", "rebellion"],
+  "warnings": ["violence", "death"],
+  "summary": "The fourth Percy Jackson book. As a war with the Titans looms, the young demigods have to find a way through a vast, shifting maze beneath the modern world, where one wrong turn leads somewhere dangerous.",
+  "readIf": "you like kids' adventure with big stakes, fun monsters and a tightening sense of a final conflict.",
+  "skipIf": "you haven't read the earlier books, since the plot depends on them.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-goblet-of-fire",
+      "reason": "Another series where the fourth book turns darker and the heroes are forced to grow up.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-neverending-story",
+      "reason": "A classic quest through a wondrous, maze-like fantasy world, with a more dreamlike feel.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-golden-compass",
+      "reason": "A young hero heads into a dangerous, larger world full of intrigue and unusual creatures.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780545200493",
+    "https://en.wikipedia.org/wiki/The_Battle_of_the_Labyrinth",
+    "https://hardcover.app/books/the-battle-of-the-labyrinth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

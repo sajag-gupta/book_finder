@@ -1,0 +1,45 @@
+{
+  "slug": "light-bringer",
+  "title": "Light Bringer",
+  "author": "Pierce Brown",
+  "isbn13": "9780593722749",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "dystopian"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "epic", "dark"],
+  "tropes": ["rebellion", "war-story", "dystopian-regime"],
+  "warnings": ["violence", "war", "death", "gore"],
+  "summary": "The sixth Red Rising book begins a new stage of a bloody saga about class revolt across a colonised solar system. War is spreading, and the heroes must face what their choices have cost. Read the earlier books first.",
+  "readIf": "you already love Red Rising and want more relentless, high-stakes space war with a huge cast.",
+  "skipIf": "you are new to the series, since the story depends on the earlier books and spoils them.",
+  "pairings": [
+    {
+      "slug": "the-poppy-war",
+      "reason": "A war epic of similar brutality, with a driven heroine and a steep price for power.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "Another long, planet-spanning series with big battles and a growing cast.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "dune",
+      "reason": "An older story of conquest, empire and a leader who becomes a legend.",
+      "moodShift": "quieter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780593722749",
+    "https://en.wikipedia.org/wiki/Light_Bringer_(novel)",
+    "https://hardcover.app/books/light-bringer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

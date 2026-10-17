@@ -1,0 +1,45 @@
+{
+  "slug": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "author": "Mikhail Bulgakov",
+  "isbn13": "9780143108276",
+  "firstPublished": 1967,
+  "series": null,
+  "genres": ["classic", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["whimsical", "witty", "mind-bending"],
+  "tropes": ["satire", "book-within-a-book"],
+  "warnings": ["death"],
+  "summary": "The devil arrives in Soviet Moscow with a strange entourage, which includes a talking cat, and turns the city's literary elite upside down. Meanwhile, a writer known as the Master and his lover Margarita have a story of their own.",
+  "readIf": "you like wild, funny satire that mixes the supernatural with a story about art and cowardice.",
+  "skipIf": "you want a straightforward plot, since it jumps between settings and styles.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Another comic story where a devilish visitor causes chaos, in a much lighter English key.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-trial",
+      "reason": "Another classic about the absurd power of bureaucracy, with a grimmer, more claustrophobic tone.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "one-hundred-years-of-solitude",
+      "reason": "A dreamlike novel where the fantastic is treated as ordinary and history gets a comic edge.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780143108276",
+    "https://en.wikipedia.org/wiki/The_Master_and_Margarita",
+    "https://hardcover.app/books/the-master-and-margarita"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

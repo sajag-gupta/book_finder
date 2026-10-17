@@ -1,0 +1,44 @@
+{
+  "slug": "so-long-and-thanks-for-all-the-fish",
+  "title": "So Long, and Thanks for All the Fish",
+  "author": "Douglas Adams",
+  "isbn13": "9780606251235",
+  "firstPublished": 1984,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["funny", "whimsical", "witty"],
+  "tropes": ["satire"],
+  "warnings": [],
+  "summary": "After years drifting through the galaxy, Arthur Dent finds his way home to an oddly ordinary life, and to a love story he never planned. It is the quietest and most romantic Hitchhiker's book, still full of dry jokes.",
+  "readIf": "you like Douglas Adams and want a gentler instalment with a love story at its centre.",
+  "skipIf": "you want the frantic space-hopping of the first two books, or have not started the series.",
+  "pairings": [
+    {
+      "slug": "good-omens",
+      "reason": "Shares the same wry, English way of treating cosmic stakes as a bit of an administrative muddle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "redshirts",
+      "reason": "A modern, equally playful science-fiction comedy that pokes at its own genre.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-rosie-project",
+      "reason": "A warm, funny love story about an awkward man learning something about connection.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780606251235",
+    "https://en.wikipedia.org/wiki/So_Long%2C_and_Thanks_for_All_the_Fish"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-last-olympian",
+  "title": "The Last Olympian",
+  "author": "Rick Riordan",
+  "isbn13": "9781405664424",
+  "firstPublished": 2009,
+  "series": null,
+  "genres": ["fantasy", "young-adult", "children"],
+  "pace": "fast",
+  "length": "medium",
+  "moods": ["adventurous", "tense", "epic"],
+  "tropes": ["gods-and-myth", "war-story", "chosen-one"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "The fifth and final Percy Jackson book of the first series. The war between the Olympian gods and the Titans arrives in New York, and the young demigods must defend it while a prophecy hangs over Percy's sixteenth birthday.",
+  "readIf": "you've followed the series and want a big, action-heavy finale for the young heroes.",
+  "skipIf": "you haven't read the four books before it, as it wraps up all their plots.",
+  "pairings": [
+    {
+      "slug": "harry-potter-and-the-deathly-hallows",
+      "reason": "Another finale where young heroes defend their hidden world and must face the cost of the war.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "mockingjay",
+      "reason": "A more serious, bleaker end to a young-adult series about a war and a teenager at its centre.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-return-of-the-king",
+      "reason": "The classic fantasy final battle that many later series learned from, at a more solemn scale.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405664424",
+    "https://en.wikipedia.org/wiki/The_Last_Olympian",
+    "https://hardcover.app/books/the-last-olympian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "empire-of-silence",
+  "title": "Empire of Silence",
+  "author": "Christopher Ruocchio",
+  "isbn13": "9781664470125",
+  "firstPublished": 2018,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "dark", "adventurous"],
+  "tropes": ["morally-grey", "political-intrigue"],
+  "warnings": ["violence", "war", "death"],
+  "summary": "The first of a far-future saga, told as the memoir of Hadrian Marlowe, a man now cursed across the galaxy for burning a sun. He recalls how a young scholar's son was pulled into an empire at war.",
+  "readIf": "you like long, ornate space opera with a guilty narrator and a feudal, religious empire.",
+  "skipIf": "you want brisk plotting, since the voice is formal and the story takes its time.",
+  "pairings": [
+    {
+      "slug": "dune",
+      "reason": "Shares the mix of feudal houses, a zealous church and an interstellar empire, with a similarly grave tone.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Also a famous man telling his own story in retrospect, with the same ornate, confessional voice.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "A literary, many-voiced space epic with a similar sense of ancient dread behind the politics.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781664470125",
+    "https://hardcover.app/books/empire-of-silence"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-shadow-of-what-was-lost",
+  "title": "The Shadow of What Was Lost",
+  "author": "James Islington",
+  "isbn13": "9780316552745",
+  "firstPublished": 2014,
+  "series": null,
+  "genres": ["fantasy", "epic-fantasy", "young-adult"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["epic", "mysterious", "adventurous"],
+  "tropes": ["chosen-one", "magic-school", "coming-of-age"],
+  "warnings": ["violence", "death", "war"],
+  "summary": "First of a fantasy trilogy. Decades after a war that destroyed those with magic, a few young people still show signs of power and must hide it while a quiet, dangerous conspiracy gathers in the background.",
+  "readIf": "you like long, slow-building epic fantasy with hidden mysteries and a magic system to piece together.",
+  "skipIf": "you want fast action, as the early chapters take their time and set up a great deal.",
+  "pairings": [
+    {
+      "slug": "the-name-of-the-wind",
+      "reason": "Another long, immersive fantasy about a gifted young person learning the rules of a hidden power.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-eye-of-the-world",
+      "reason": "A comparable traditional epic where a group of young people are drawn toward an ancient struggle.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "mistborn-the-final-empire",
+      "reason": "A faster, tighter epic with a similar fascination for hidden powers and a good twist.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316552745",
+    "https://en.wikipedia.org/wiki/The_Shadow_of_What_Was_Lost",
+    "https://hardcover.app/books/the-shadow-of-what-was-lost"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

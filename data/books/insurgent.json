@@ -1,0 +1,45 @@
+{
+  "slug": "insurgent",
+  "title": "Insurgent",
+  "author": "Veronica Roth",
+  "isbn13": "9780063040526",
+  "firstPublished": 2012,
+  "series": null,
+  "genres": ["young-adult", "dystopian", "science-fiction"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["tense", "adventurous"],
+  "tropes": ["dystopian-regime", "rebellion"],
+  "warnings": ["violence", "death", "war", "grief"],
+  "summary": "The second book of a dystopian trilogy set in a city split into factions defined by a single virtue. The simmering conflict between factions turns to open war, and Tris must decide whom to trust.",
+  "readIf": "you like quick, plot-driven young adult dystopia with a conflicted heroine.",
+  "skipIf": "you haven't read the first book, as it follows on directly and assumes you know the setup.",
+  "pairings": [
+    {
+      "slug": "the-hunger-games",
+      "reason": "The model for this genre, with sharper stakes and a more resourceful narrator.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "red-queen",
+      "reason": "Another teen rebel caught between the regime and its enemies, with plenty of twists.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "legend",
+      "reason": "A fast dystopian story with a cat-and-mouse dynamic and two very different leads.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063040526",
+    "https://en.wikipedia.org/wiki/Insurgent_(novel)",
+    "https://hardcover.app/books/insurgent"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

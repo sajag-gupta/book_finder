@@ -1,0 +1,44 @@
+{
+  "slug": "exhalation",
+  "title": "Exhalation",
+  "author": "Ted Chiang",
+  "isbn13": "9781529014488",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "literary", "fantasy"],
+  "pace": "slow",
+  "length": "medium",
+  "moods": ["thoughtful", "mind-bending", "melancholic"],
+  "tropes": ["time-travel", "artificial-intelligence"],
+  "warnings": ["grief"],
+  "summary": "A collection of nine short stories about time, free will, artificial minds and what it means to be a person. Each story builds one clear idea and follows it carefully to its human consequences.",
+  "readIf": "you like quiet, brainy science fiction that makes you think and sometimes ache.",
+  "skipIf": "you want long plots or action, since these are slow, ideas-first stories.",
+  "pairings": [
+    {
+      "slug": "klara-and-the-sun",
+      "reason": "A tender story about an artificial being, with the same careful attention to what feeling means.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "reason": "Classic science fiction that uses a strange world to examine human habits of thought.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "solaris",
+      "reason": "A cerebral story of contact with something beyond human comprehension.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781529014488",
+    "https://en.wikipedia.org/wiki/Exhalation_(short_story)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

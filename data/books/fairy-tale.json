@@ -1,0 +1,45 @@
+{
+  "slug": "fairy-tale",
+  "title": "Fairy Tale",
+  "author": "Stephen King",
+  "isbn13": "9781668002193",
+  "firstPublished": 2022,
+  "series": null,
+  "genres": ["fantasy", "thriller", "horror"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "dark", "whimsical"],
+  "tropes": ["portal-fantasy", "quest", "unlikely-friendship"],
+  "warnings": ["violence", "death"],
+  "summary": "Seventeen-year-old Charlie Reade befriends a reclusive old man and his loyal dog, then finds that the locked shed behind the man's house hides a way into another world. What waits there is part fairy story, part war.",
+  "readIf": "you like Stephen King in a more adventurous, kid-hero mode, with a portal world and a strong bond between a boy and a dog.",
+  "skipIf": "you want King at his most frightening, since this leans toward dark fantasy and the first stretch is slow and character-led.",
+  "pairings": [
+    {
+      "slug": "the-ocean-at-the-end-of-the-lane",
+      "reason": "Also a dark fairy story seen through a young narrator, but much shorter and more dreamlike.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-neverending-story",
+      "reason": "A classic about slipping out of the ordinary world into a vast, imperilled fantasy land, with a gentler touch.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-institute",
+      "reason": "Another King novel built around a resourceful young hero up against a hidden, ruthless power.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781668002193",
+    "https://en.wikipedia.org/wiki/Fairy_tale",
+    "https://hardcover.app/books/fairy-tale-2022"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

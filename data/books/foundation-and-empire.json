@@ -1,0 +1,45 @@
+{
+  "slug": "foundation-and-empire",
+  "title": "Foundation and Empire",
+  "author": "Isaac Asimov",
+  "isbn13": "9780007270446",
+  "firstPublished": 2000,
+  "series": null,
+  "genres": ["science-fiction", "classic", "fantasy"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["thoughtful", "epic"],
+  "tropes": ["political-intrigue"],
+  "warnings": ["war"],
+  "summary": "Second in Asimov's classic series. The Foundation, created to shorten a coming galactic dark age, meets its first major outside threats, and the plan its founder drew up is tested in ways he may not have foreseen.",
+  "readIf": "you like idea-driven classic science fiction told as a sweep of history rather than one hero's story.",
+  "skipIf": "you want character-driven drama, as the people change every few chapters.",
+  "pairings": [
+    {
+      "slug": "foundation",
+      "reason": "The first book in the series, which sets up the plan and characters you need here.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "dune",
+      "reason": "Another classic that treats empire, prophecy and political forces on a vast scale.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "hyperion",
+      "reason": "A later, more literary space epic about the long arc of human civilisation.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780007270446",
+    "https://en.wikipedia.org/wiki/Foundation_and_Empire",
+    "https://hardcover.app/books/foundation-and-empire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

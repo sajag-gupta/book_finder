@@ -1,0 +1,52 @@
+{
+  "slug": "the-vegetarian",
+  "title": "The Vegetarian",
+  "author": "Han Kang",
+  "isbn13": "9780553448184",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["literary", "horror"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["haunting", "dark", "melancholic"],
+  "tropes": [],
+  "warnings": [
+    "abuse",
+    "sexual-assault",
+    "mental-illness",
+    "self-harm",
+    "eating-disorder",
+    "violence"
+  ],
+  "summary": "After a disturbing dream, a quiet South Korean woman stops eating meat, and her family reacts with growing force. The story is told in three parts by her husband, her brother-in-law and her sister, never by her.",
+  "readIf": "you like spare, unsettling literary fiction that raises questions without explaining them.",
+  "skipIf": "you want a clear plot or sympathetic explanations, or you would find the family violence and assault upsetting.",
+  "pairings": [
+    {
+      "slug": "convenience-store-woman",
+      "reason": "Another short Asian novel about a woman who refuses social expectations, though with far more humour.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-metamorphosis",
+      "reason": "A short, strange story of a person changing and a family that cannot cope with it.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "my-year-of-rest-and-relaxation",
+      "reason": "A cool, bleak study of a woman withdrawing from the world on her own terms.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780553448184",
+    "https://en.wikipedia.org/wiki/The_Vegetarian",
+    "https://hardcover.app/books/the-vegetarian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

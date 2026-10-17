@@ -1,0 +1,45 @@
+{
+  "slug": "bunny",
+  "title": "Bunny",
+  "author": "Mona Awad",
+  "isbn13": "9781788545433",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["horror", "literary", "young-adult"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "mind-bending", "witty"],
+  "tropes": ["unreliable-narrator", "secret-society"],
+  "warnings": ["violence", "gore"],
+  "summary": "Samantha is a scornful outsider in a university writing programme, until she is drawn into a clique of sugary women who call each other Bunny. Their invitation leads to rituals that get stranger and bloodier.",
+  "readIf": "you like dark, satirical campus stories that slip from social comedy into surreal horror.",
+  "skipIf": "you want a grounded plot, as it turns bizarre and ambiguous, and it has some graphic scenes.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "A classic of insular groups at a university where devotion turns deadly.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "we-have-always-lived-in-the-castle",
+      "reason": "A short, strange novel about close women and a toxic bond, with an unreliable narrator.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "the-vegetarian",
+      "reason": "A colder, sparer story of a woman whose behaviour disturbs everyone around her.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781788545433",
+    "https://en.wikipedia.org/wiki/Bunny_(novel)",
+    "https://hardcover.app/books/bunny"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

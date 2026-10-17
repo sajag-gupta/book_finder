@@ -1,0 +1,45 @@
+{
+  "slug": "to-sleep-in-a-sea-of-stars",
+  "title": "To Sleep in a Sea of Stars",
+  "author": "Christopher Paolini",
+  "isbn13": "9781250794093",
+  "firstPublished": 2019,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "young-adult"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic", "tense"],
+  "tropes": ["first-contact", "space-survival", "war-story"],
+  "warnings": ["violence", "death", "grief", "war"],
+  "summary": "Kira Navarez is a xenobiologist on a survey mission when she finds something alien that changes her life. It draws her into a conflict between humans and a far larger threat across the stars.",
+  "readIf": "you like big, old-fashioned space opera with a first-contact heart and a lot of action.",
+  "skipIf": "you want a short or understated science-fiction story, as this one is long and crowded.",
+  "pairings": [
+    {
+      "slug": "project-hail-mary",
+      "reason": "Another first-contact story with a lone scientist at its centre, wittier and tighter.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A larger-cast space opera with a mystery that grows into a war.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "annihilation",
+      "reason": "Another story of a scientist who meets an alien presence and is changed by it, much stranger.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250794093",
+    "https://en.wikipedia.org/wiki/To_Sleep_in_a_Sea_of_Stars",
+    "https://hardcover.app/books/to-sleep-in-a-sea-of-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

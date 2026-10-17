@@ -48,6 +48,8 @@ export function createContext({ data, site }) {
     byAuthor,
     topSellers,
     modern,
+    /** Hardcover's aggregate facts for a book (rating, pages, series, reader-reported warnings), if any. */
+    hc: (slug) => data.hardcover?.books?.[slug] ?? null,
     authorSlug: (book) => slugify(book.author),
     /** Author pages exist only for authors with two or more books here. */
     hasAuthorPage: (book) => (byAuthor.get(slugify(book.author))?.length ?? 0) >= 2,

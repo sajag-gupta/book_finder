@@ -1,0 +1,45 @@
+{
+  "slug": "consider-phlebas",
+  "title": "Consider Phlebas",
+  "author": "Iain M. Banks",
+  "isbn13": "9780356521633",
+  "firstPublished": 1987,
+  "series": null,
+  "genres": ["science-fiction", "adventure", "fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["adventurous", "epic", "dark"],
+  "tropes": ["war-story", "quest", "artificial-intelligence"],
+  "warnings": ["violence", "war", "death", "gore"],
+  "summary": "In a vast war between a religious empire and the machine-run, post-scarcity Culture, a shapeshifting agent is sent to retrieve an escaped artificial Mind. It is the first novel in Iain M. Banks's Culture series and works as a standalone.",
+  "readIf": "you want sprawling space opera with big set pieces, a morally tangled hero, and a dry sense of humour.",
+  "skipIf": "you want a tidy plot or a likeable protagonist, since the episodes are wild and several are very grim.",
+  "pairings": [
+    {
+      "slug": "hyperion",
+      "reason": "Another far-future epic with a rich, varied cast and set pieces that feel like separate stories.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "leviathan-wakes",
+      "reason": "A more grounded space adventure with a faster plot and a smaller, closer cast.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-forever-war",
+      "reason": "A bleaker, shorter look at what a long interstellar war does to the people fighting it.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780356521633",
+    "https://en.wikipedia.org/wiki/Consider_Phlebas",
+    "https://hardcover.app/books/consider-phlebas"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

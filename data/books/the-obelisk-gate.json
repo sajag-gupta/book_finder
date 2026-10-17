@@ -1,0 +1,45 @@
+{
+  "slug": "the-obelisk-gate",
+  "title": "The Obelisk Gate",
+  "author": "N. K. Jemisin",
+  "isbn13": "9781405537278",
+  "firstPublished": 2016,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "dystopian"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "heartbreaking", "haunting"],
+  "tropes": ["dystopian-regime", "post-apocalyptic"],
+  "warnings": ["violence", "death", "grief", "child-death", "prejudice"],
+  "summary": "Second in a trilogy set on a planet wrecked by regular apocalyptic upheavals. A woman who can command the earth and her young daughter, who has the same gift, each look for a place of safety in a hostile world.",
+  "readIf": "you like layered, angry fantasy with a harsh world and a strong focus on mothers and daughters.",
+  "skipIf": "you haven't read The Fifth Season, because this novel continues directly from it.",
+  "pairings": [
+    {
+      "slug": "parable-of-the-sower",
+      "reason": "A powerful story of a young woman building a community in a collapsing world.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-road",
+      "reason": "A bleaker, quieter account of a parent trying to protect a child after the world ends.",
+      "moodShift": "quieter"
+    },
+    {
+      "slug": "kindred",
+      "reason": "A short, searing novel about power, bondage and survival through generations.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781405537278",
+    "https://en.wikipedia.org/wiki/The_Obelisk_Gate",
+    "https://hardcover.app/books/the-obelisk-gate"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

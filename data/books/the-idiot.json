@@ -1,0 +1,45 @@
+{
+  "slug": "the-idiot",
+  "title": "The Idiot",
+  "author": "Fyodor Dostoevsky",
+  "isbn13": "9781544014302",
+  "firstPublished": 1869,
+  "series": null,
+  "genres": ["classic", "historical"],
+  "pace": "slow",
+  "length": "long",
+  "moods": ["thoughtful", "melancholic", "heartbreaking"],
+  "tropes": ["love-triangle"],
+  "warnings": ["death", "violence"],
+  "summary": "Prince Myshkin returns to Russia after treatment abroad, a kind, trusting man in a society that does not know what to do with him. He is drawn into the rivalries around a beautiful, troubled woman.",
+  "readIf": "you like long, character-driven classics about goodness, morality and love going wrong.",
+  "skipIf": "you want a quick read, or you find nineteenth-century talk-heavy novels tiring.",
+  "pairings": [
+    {
+      "slug": "crime-and-punishment",
+      "reason": "Dostoevsky's tighter, darker moral drama, with a plot that moves faster.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "anna-karenina",
+      "reason": "Another Russian classic about love, society and what happens when feeling meets convention.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-prayer-for-owen-meany",
+      "reason": "A modern novel built around an unusually sincere character at odds with the world.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781544014302",
+    "https://en.wikipedia.org/wiki/The_Idiot",
+    "https://hardcover.app/books/the-idiot-trans-by-david-mcduff-1869"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

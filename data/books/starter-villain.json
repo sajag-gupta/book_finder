@@ -1,0 +1,44 @@
+{
+  "slug": "starter-villain",
+  "title": "Starter Villain",
+  "author": "John Scalzi",
+  "isbn13": "9780765389237",
+  "firstPublished": 2023,
+  "series": null,
+  "genres": ["science-fiction", "fantasy", "adventure"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["funny", "witty", "whimsical"],
+  "tropes": ["satire", "talking-animals"],
+  "warnings": ["violence"],
+  "summary": "Charlie is a divorced substitute teacher with money problems who inherits his uncle's business, which turns out to be a supervillain operation. His staff includes talking cats and other surprising colleagues.",
+  "readIf": "you want a quick, silly, sharp comedy with talking animals and wry jabs at billionaires.",
+  "skipIf": "you want serious science fiction or deep characterisation, since it is a light, playful romp.",
+  "pairings": [
+    {
+      "slug": "the-hitchhikers-guide-to-the-galaxy",
+      "reason": "The model for comic science fiction in which absurd ideas are played completely straight.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "good-omens",
+      "reason": "A very British comic fantasy with the same love of mischief and an unlikely partnership.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "dungeon-crawler-carl",
+      "reason": "A longer, more violent comedy with a snarky talking cat and a very strange premise.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780765389237",
+    "https://en.wikipedia.org/wiki/Starter_Villain"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

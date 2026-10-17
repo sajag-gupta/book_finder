@@ -1,0 +1,45 @@
+{
+  "slug": "stoner",
+  "title": "Stoner",
+  "author": "John Williams",
+  "isbn13": "9781448156023",
+  "firstPublished": 1965,
+  "series": null,
+  "genres": ["classic", "literary", "historical"],
+  "pace": "slow",
+  "length": "short",
+  "moods": ["melancholic", "thoughtful"],
+  "tropes": ["coming-of-age"],
+  "warnings": ["infidelity", "death"],
+  "summary": "The life of William Stoner, a farm boy who goes to university and becomes an English teacher. It follows a quiet career, a disappointing marriage and small private joys, told in clear, calm prose.",
+  "readIf": "you like quiet, sad novels about an ordinary life and what makes it count.",
+  "skipIf": "you want plot twists or momentum, since almost nothing dramatic happens.",
+  "pairings": [
+    {
+      "slug": "the-remains-of-the-day",
+      "reason": "A restrained story about a man looking back on a life of duty and missed chances.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "olive-kitteridge",
+      "reason": "A set of linked stories about a prickly, ordinary woman, equally honest and understated.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "a-man-called-ove",
+      "reason": "A warmer, funnier take on an isolated older man and the life that shaped him.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781448156023",
+    "https://en.wikipedia.org/wiki/Stoner_(novel)",
+    "https://hardcover.app/books/stoner"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

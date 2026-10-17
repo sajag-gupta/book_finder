@@ -1,0 +1,45 @@
+{
+  "slug": "if-we-were-villains",
+  "title": "If We Were Villains",
+  "author": "M.L. Rio",
+  "isbn13": "9781250289780",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["thriller", "fantasy", "mystery"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["dark", "tense", "mysterious"],
+  "tropes": ["whodunit", "dual-timeline"],
+  "warnings": ["death", "violence"],
+  "summary": "Ten years after a conviction, Oliver Marks tells the detective who put him away what really happened. His story goes back to a tight group of Shakespeare students at an elite arts conservatory, and the night one of them died.",
+  "readIf": "you like dark academia, a close-knit group of rivals and a murder that unfolds in the shadow of Shakespeare.",
+  "skipIf": "you dislike heavy quotation of Shakespeare, or you want a fast-paced thriller rather than a slow, theatrical build.",
+  "pairings": [
+    {
+      "slug": "the-secret-history",
+      "reason": "The classic of the type: an elite group of students, a death, and the aftermath told from inside.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-atlas-six",
+      "reason": "Another story of gifted, competitive students in a closed world, with more fantasy and less murder.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "in-the-woods",
+      "reason": "A slow-burning mystery with a damaged narrator and a past that will not stay buried.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781250289780",
+    "https://en.wikipedia.org/wiki/If_We_Were_Villains",
+    "https://hardcover.app/books/if-we-were-villains"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

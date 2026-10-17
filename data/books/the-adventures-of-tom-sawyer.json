@@ -1,0 +1,45 @@
+{
+  "slug": "the-adventures-of-tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "isbn13": "9781402511530",
+  "firstPublished": 1864,
+  "series": null,
+  "genres": ["young-adult", "adventure"],
+  "pace": "medium",
+  "length": "short",
+  "moods": ["nostalgic", "funny", "adventurous"],
+  "tropes": ["coming-of-age", "small-town", "unlikely-friendship"],
+  "warnings": ["death", "violence", "racism"],
+  "summary": "Tom Sawyer is a mischievous boy growing up beside the Mississippi, always scheming his way out of chores and into trouble. A graveyard witness, a hunt for buried treasure and a cave all bring him closer to real danger.",
+  "readIf": "you want a funny, affectionate portrait of boyhood in a river town, with pranks, treasure hunts and a few real scares.",
+  "skipIf": "you dislike period language, since the book carries racist terms and attitudes of its 1800s setting.",
+  "pairings": [
+    {
+      "slug": "adventures-of-huckleberry-finn",
+      "reason": "Twain's follow-up, narrated by Tom's friend Huck, is deeper and sharper about the society around him.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "treasure-island",
+      "reason": "Another boy's adventure story built on a map, buried treasure and a chilling villain.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "holes",
+      "reason": "A modern boy's adventure with buried treasure and a wry voice, aimed at a younger crowd.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781402511530",
+    "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+    "https://hardcover.app/books/the-adventures-of-tom-sawyer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

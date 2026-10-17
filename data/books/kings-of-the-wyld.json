@@ -1,0 +1,45 @@
+{
+  "slug": "kings-of-the-wyld",
+  "title": "Kings of the Wyld",
+  "author": "Nicholas Eames",
+  "isbn13": "9780316362474",
+  "firstPublished": 2017,
+  "series": null,
+  "genres": ["fantasy", "adventure"],
+  "pace": "fast",
+  "length": "long",
+  "moods": ["funny", "adventurous", "nostalgic"],
+  "tropes": ["quest", "found-family"],
+  "warnings": ["violence", "death"],
+  "summary": "A once-famous band of mercenaries has long since gone their separate ways. When one of them asks for help to rescue his daughter from a besieged city, they get back together for one more dangerous job.",
+  "readIf": "you like comic fantasy with an aging crew, old rivalries and a warm sense of friendship.",
+  "skipIf": "you want a serious, slow epic, since this one is playful and sometimes crude.",
+  "pairings": [
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Another banter-filled fantasy about a close crew, with more scheming and a darker streak.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-princess-bride",
+      "reason": "A classic, funny adventure that treats fantasy tropes with love and mischief.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-hobbit",
+      "reason": "The gentle origin of the fantasy company on a quest, with a quieter, more storybook feel.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780316362474",
+    "https://en.wikipedia.org/wiki/Kings_of_the_Wyld",
+    "https://hardcover.app/books/kings-of-the-wyld"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

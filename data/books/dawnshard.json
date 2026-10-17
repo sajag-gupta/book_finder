@@ -1,0 +1,44 @@
+{
+  "slug": "dawnshard",
+  "title": "Dawnshard",
+  "author": "Brandon Sanderson",
+  "isbn13": "9781803361062",
+  "firstPublished": 2020,
+  "series": null,
+  "genres": ["fantasy", "science-fiction", "young-adult"],
+  "pace": "fast",
+  "length": "short",
+  "moods": ["adventurous", "hopeful"],
+  "tropes": ["quest"],
+  "warnings": ["violence"],
+  "summary": "A novella set in an existing epic fantasy world, following a young trader and a cheerful warrior on a ship bound for a mysterious island. It reads best after the earlier books in the series.",
+  "readIf": "you like a sea voyage with a warm, funny crew and you are already reading this series.",
+  "skipIf": "you are new to the Stormlight books, because it relies on context from them.",
+  "pairings": [
+    {
+      "slug": "tress-of-the-emerald-sea",
+      "reason": "The same author's whimsical sea adventure, which works as a standalone and has a similar bright tone.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "treasure-island",
+      "reason": "The classic voyage to a dangerous island, for the same appetite for ship life and hidden stakes.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-way-of-kings",
+      "reason": "The series opener, for a reader who wants to see the wider story this novella belongs to.",
+      "moodShift": "bigger"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781803361062",
+    "https://hardcover.app/books/dawnshard"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

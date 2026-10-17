@@ -1,0 +1,44 @@
+{
+  "slug": "before-they-are-hanged",
+  "title": "Before They Are Hanged",
+  "author": "Joe Abercrombie",
+  "isbn13": "9781473223028",
+  "firstPublished": 2007,
+  "series": null,
+  "genres": ["fantasy", "adventure", "science-fiction"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "witty", "adventurous"],
+  "tropes": ["morally-grey", "quest"],
+  "warnings": ["violence", "torture", "war", "death"],
+  "summary": "Second in the First Law trilogy. A crippled torturer is sent to defend a besieged southern city, while a wizard leads a mismatched band on a quest to the edge of the known world.",
+  "readIf": "you like bleak, funny fantasy where nobody is purely good and violence is never glamorous.",
+  "skipIf": "you haven't read the first book, since the characters and their alliances arrive already formed.",
+  "pairings": [
+    {
+      "slug": "the-blade-itself",
+      "reason": "The opening book of this trilogy, which sets up the characters and tone you are picking up here.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-lies-of-locke-lamora",
+      "reason": "Shares the sardonic voice and a crew of flawed people, with more heist and less war.",
+      "moodShift": "lighter"
+    },
+    {
+      "slug": "the-black-company",
+      "reason": "A weary, cynical mercenary fantasy narrated from deep inside the dirty side of a war.",
+      "moodShift": "darker"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781473223028",
+    "https://hardcover.app/books/before-they-are-hanged"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

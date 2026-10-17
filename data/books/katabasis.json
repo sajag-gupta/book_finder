@@ -1,0 +1,45 @@
+{
+  "slug": "katabasis",
+  "title": "Katabasis",
+  "author": "R.F. Kuang",
+  "isbn13": "9780063021471",
+  "firstPublished": 2025,
+  "series": null,
+  "genres": ["fantasy"],
+  "pace": "medium",
+  "length": "long",
+  "moods": ["dark", "witty", "thoughtful"],
+  "tropes": ["academic-rivals", "quest"],
+  "warnings": ["death"],
+  "summary": "Two rival graduate students at a magical Cambridge descend into Hell to bring back their dead supervisor, whose recommendation each of them badly needs. It is a standalone mix of academic satire and underworld quest.",
+  "readIf": "you like dark academia with a dry sense of humour and a mythic setting.",
+  "skipIf": "you want a light or romantic read, since the tone is bleak and the characters are driven and prickly.",
+  "pairings": [
+    {
+      "slug": "babel",
+      "reason": "The author's earlier novel, also about scholars, power and the price of ambition in a magical Oxford.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "the-secret-history",
+      "reason": "A classic of clever students whose obsession with their field leads them somewhere deadly.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "if-we-were-villains",
+      "reason": "Another intense circle of ambitious students, with a theatrical setting and a slow reveal.",
+      "moodShift": "similar"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9780063021471",
+    "https://en.wikipedia.org/wiki/Katabasis_(disambiguation)",
+    "https://hardcover.app/books/katabasis-2025"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}

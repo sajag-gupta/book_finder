@@ -1,0 +1,45 @@
+{
+  "slug": "miss-peregrines-home-for-peculiar-children",
+  "title": "Miss Peregrine’s Home for Peculiar Children",
+  "author": "Ransom Riggs",
+  "isbn13": "9781594749025",
+  "firstPublished": 2011,
+  "series": null,
+  "genres": ["young-adult", "fantasy"],
+  "pace": "medium",
+  "length": "medium",
+  "moods": ["mysterious", "whimsical", "spooky"],
+  "tropes": ["coming-of-age", "monster"],
+  "warnings": ["violence", "death"],
+  "summary": "Teenager Jacob travels to a remote Welsh island after his grandfather's strange death, hoping to find the children's home from the old man's stories. The book includes real vintage photographs, which shape the story's eerie mood.",
+  "readIf": "you like young-adult fantasy with an eerie, old-fashioned atmosphere and a mystery to unravel.",
+  "skipIf": "you want a self-contained story, since it sets up a series and leaves many questions open.",
+  "pairings": [
+    {
+      "slug": "the-graveyard-book",
+      "reason": "Another young-adult fantasy about an unusual child in a gothic setting, with warm and creepy sides in balance.",
+      "moodShift": "similar"
+    },
+    {
+      "slug": "coraline",
+      "reason": "A shorter and scarier story where a child finds something wrong behind a pleasant surface.",
+      "moodShift": "darker"
+    },
+    {
+      "slug": "the-bad-beginning",
+      "reason": "Gothic oddness and orphaned children, played much more for dry laughs.",
+      "moodShift": "lighter"
+    }
+  ],
+  "soldMillions": null,
+  "tier": "modern",
+  "sources": [
+    "https://openlibrary.org/isbn/9781594749025",
+    "https://en.wikipedia.org/wiki/Miss_Peregrine's_Home_for_Peculiar_Children",
+    "https://hardcover.app/books/miss-peregrine-s-home-for-peculiar-children"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-16",
+  "reviewedBy": null,
+  "reviewedOn": null
+}
