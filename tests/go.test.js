@@ -57,7 +57,10 @@ test('404s for an unknown store or a bad ISBN, and never logs', async () => {
 test('the search hint is encoded and cannot change the destination host', async () => {
   const response = await call('kobo', ISBN, { query: '?q=' + encodeURIComponent('x#@evil.test/') });
   const location = new URL(response.headers.get('Location'));
-  assert.equal(location.host, 'www.kobo.com');
+  // Kobo goes through the Rakuten tracker; the real destination travels encoded in murl.
+  assert.equal(location.host, 'click.linksynergy.com');
+  assert.equal(location.searchParams.get('mid'), '37217');
+  assert.equal(new URL(location.searchParams.get('murl')).host, 'www.kobo.com');
 });
 
 test('a failing click log never breaks the redirect', async () => {

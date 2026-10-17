@@ -65,6 +65,13 @@ if (form && list) {
   const known = new Set(cards.map((c) => c.dataset.isbn));
   let remoteTimer;
 
+  const remoteStatus = document.querySelector('[data-remote-status]');
+  let remoteRun = 0;
+  const say = (text) => {
+    remoteStatus.hidden = !text;
+    remoteStatus.textContent = text ?? '';
+  };
+
   function loadRemote(query, localCount) {
     clearTimeout(remoteTimer);
     if (query.length < 3 || localCount >= 12) {
@@ -72,10 +79,21 @@ if (form && list) {
       return;
     }
     remoteTimer = setTimeout(async () => {
+      const run = ++remoteRun;
+      remoteQuery.textContent = query;
+      remoteList.replaceChildren();
+      say('Searching Open Library…');
+      remoteBox.hidden = false;
       try {
         const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
-        if (!response.ok) return;
+        if (run !== remoteRun) return;
+        if (!response.ok) throw new Error(`search ${response.status}`);
         const results = (await response.json()).results.filter((r) => !known.has(r.isbn13));
+        say(
+          results.length || localCount
+            ? ''
+            : `No books found for “${query}”. Check the spelling or try just the author’s name.`,
+        );
         remoteList.replaceChildren(
           ...results.map((r) =>
             resultCard({
@@ -88,10 +106,10 @@ if (form && list) {
             }),
           ),
         );
-        remoteQuery.textContent = query;
-        remoteBox.hidden = results.length === 0;
+        remoteBox.hidden = results.length === 0 && localCount > 0;
       } catch {
-        remoteBox.hidden = true;
+        if (run !== remoteRun) return;
+        say('Open Library search is unavailable right now. Try again in a moment.');
       }
     }, 350);
   }
@@ -127,7 +145,11 @@ if (form && list) {
   }
 
   form.addEventListener('input', () => apply());
-  form.addEventListener('submit', (event) => event.preventDefault());
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    apply();
+    list.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  });
   form.querySelector('[data-reset]').addEventListener('click', () => {
     form.reset();
     apply();

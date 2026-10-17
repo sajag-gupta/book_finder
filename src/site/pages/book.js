@@ -56,6 +56,7 @@ ${body}</tbody>`;
 <table><thead><tr><th scope="col">Store</th><th scope="col">Price</th><th scope="col"><span class="sr-only">Link</span></th></tr></thead>
 ${sections}</table>
 <p class="muted small">Prices appear here as retailer feeds are connected. Where none is shown, check the store. Links open the store in a new tab.</p>
+<p class="muted small disclosure">Some store links, including Kobo, are affiliate links: we may earn a commission if you buy, at no extra cost to you. Library links are never affiliate links. <a href="/about/affiliate-disclosure/">How this works</a></p>
 </section>`;
 }
 
@@ -123,12 +124,11 @@ export function bookPage(ctx, book) {
     ? `<span class="badge badge--sold">${icon('award', { size: 14 })}Bestseller: about ${esc(book.soldMillions)} million copies (estimate)</span>`
     : '';
   const hc = ctx.hc(book.slug);
-  const hcLink = hc
-    ? `<a href="https://hardcover.app/books/${esc(hc.slug)}" rel="noopener">Hardcover</a>`
-    : '';
+  // Attribution is text only: we never send readers to Hardcover.
+  const hcLink = hc ? 'Hardcover readers' : '';
   const rating =
     hc?.rating && hc.ratingsCount >= 20
-      ? `<p class="rating">${icon('star', { size: 18 })}<strong>${esc(hc.rating.toFixed(1))}</strong><span class="muted"> out of 5, from ${esc(hc.ratingsCount.toLocaleString('en-US'))} ratings on ${hcLink}</span></p>`
+      ? `<p class="rating">${icon('star', { size: 18 })}<strong>${esc(hc.rating.toFixed(1))}</strong><span class="muted"> out of 5, from ${esc(hc.ratingsCount.toLocaleString('en-US'))} ratings from ${hcLink}</span></p>`
       : '';
   const seriesFact = book.series
     ? `Book ${esc(book.series.position)} of a series`
@@ -203,7 +203,7 @@ ${notice}
     <section class="panel" aria-labelledby="cw-h" data-cw><h2 id="cw-h">Content warnings</h2>
       <div data-cw-body>${warnings.length ? `<ul class="tags">${warnings.map((w) => `<li class="tag tag--warn">${icon('triangle-alert', { size: 14 })}${esc(w)}</li>`).join('')}</ul>` : '<p>None noted yet.</p>'}${
         reported.length
-          ? `<p class="muted small cw__reported">Also reported by readers on ${hcLink}:</p><ul class="tags">${reported
+          ? `<p class="muted small cw__reported">Also reported by ${hcLink}:</p><ul class="tags">${reported
               .slice(0, 10)
               .map(
                 (w) =>

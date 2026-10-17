@@ -40,7 +40,7 @@ export function browsePage(ctx) {
   const filters = `<form class="filters" data-filters aria-label="Filter books">
   <div class="filters__top">
     <label class="sr-only" for="bq">Search within results</label>
-    <div class="search search--block">${icon('search', { size: 18, className: 'search__icon' })}<input id="bq" type="search" name="q" placeholder="Title or author" autocomplete="off"></div>
+    <div class="search search--block">${icon('search', { size: 18, className: 'search__icon' })}<input id="bq" type="search" name="q" placeholder="Title or author…" autocomplete="off" enterkeyhint="search"><button class="search__btn" type="submit" aria-label="Search">${icon('search', { size: 18 })}</button></div>
     <label class="select"><span class="sr-only">Sort by</span>
       <select name="sort"><option value="top">Top sellers first</option><option value="popular">Most read on Hardcover</option><option value="az">Title A to Z</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select>
     </label>
@@ -65,6 +65,7 @@ export function browsePage(ctx) {
       <section class="section" data-remote hidden aria-live="polite">
         <h2>More books matching &ldquo;<span data-remote-q></span>&rdquo;</h2>
         <p class="muted">From Open Library. We have not written about these yet, but you can still see where to borrow, buy or listen to them.</p>
+        <p class="remote-status" data-remote-status hidden></p>
         <ul class="grid" data-remote-list></ul>
       </section>
       <button type="button" class="btn btn--ghost more-btn" data-more hidden>Show more</button>

@@ -85,10 +85,14 @@ export function signupForm(id) {
 </form>`;
 }
 
-export const searchForm = (id, { large = false, placeholder = 'Search by title or author' } = {}) =>
+export const searchForm = (
+  id,
+  { large = false, placeholder = 'Search by title or author…' } = {},
+) =>
   `<form class="search${large ? ' search--large' : ''}" role="search" action="/books/" method="get">
-  <label class="sr-only" for="${id}">Search books</label>
-  ${icon('search', { size: large ? 24 : 18, className: 'search__icon' })}
-  <input id="${id}" name="q" type="search" autocomplete="off" placeholder="${esc(placeholder)}" data-search>
+  <label class="sr-only" for="${id}">Search books by title or author</label>
+  ${icon('search', { size: large ? 22 : 18, className: 'search__icon' })}
+  <input id="${id}" name="q" type="search" autocomplete="off" enterkeyhint="search" placeholder="${esc(placeholder)}" data-search>
+  <button class="search__btn" type="submit" aria-label="Search">${icon('search', { size: large ? 22 : 18 })}<span class="search__btn-text">Search</span></button>
   <ul class="suggest" data-suggest hidden></ul>
 </form>`;

@@ -12,6 +12,8 @@ export default [
       '.work/',
       '.review/',
       'out/',
+      '.claude/',
+      '.playwright-cli/',
     ],
   },
   js.configs.recommended,

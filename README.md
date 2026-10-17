@@ -45,8 +45,8 @@ npm run check        # lint, format check, data validation, tests
 npm run build:preview
 ```
 
-`build:preview` includes draft books and marks every page `noindex`. Serve `dist/` with any static
-server to look at it. `npm run build` is the production build and publishes `reviewed` and `checked`
+`build:preview` includes draft books and marks every page `noindex`. Run `npm run serve` to look at
+`dist/` with search and store redirects working (design notes: [docs/design.md](docs/design.md)). `npm run build` is the production build and publishes `reviewed` and `checked`
 books (about 1,200 pages and 1,000 share cards).
 
 | Command                   | What it does                                                                      |
@@ -61,6 +61,7 @@ books (about 1,200 pages and 1,000 share cards).
 | `npm run discover -- 150` | List the most-read books we are missing (`--write` adds them to the catalogue)    |
 | `npm run trending`        | Refresh data/trending.json from Hardcover's API (needs HARDCOVER_TOKEN)           |
 | `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books                       |
+| `npm run serve`           | Serve `dist/` on http://127.0.0.1:8788 with `/api/*` and `/go/*` working locally  |
 | `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)                    |
 
 ## Repository layout

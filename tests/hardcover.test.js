@@ -136,7 +136,8 @@ test('the book page credits Hardcover for ratings, pages and series', () => {
     withHc({ ...base, series: { name: 'The Test Series', position: 2, total: 7 } }),
   );
   assert.ok(html.includes('<strong>4.3</strong>'));
-  assert.ok(html.includes('4,196 ratings on <a href="https://hardcover.app/books/piranesi-2020"'));
+  assert.ok(html.includes('4,196 ratings from Hardcover readers'));
+  assert.ok(!/href="[^"]*hardcover\.app/i.test(html), 'no outbound link to Hardcover');
   assert.ok(html.includes('<dt>Pages</dt><dd>272</dd>'));
   assert.ok(html.includes('Book 2 of 7 in The Test Series'));
 });
@@ -161,11 +162,11 @@ test('reader-reported warnings skip ones we already list and are escaped', () =>
       contentWarnings: ['Death', 'Manipulation', 'Body horror', '<script>x</script>'],
     }),
   );
-  assert.ok(html.includes('Also reported by readers on'));
+  assert.ok(html.includes('Also reported by Hardcover readers'));
   assert.ok(html.includes('Body horror'));
   assert.ok(!html.includes('<script>x</script>'));
   assert.ok(html.includes('&lt;script&gt;'));
-  const reported = html.slice(html.indexOf('Also reported by readers on'));
+  const reported = html.slice(html.indexOf('Also reported by Hardcover readers'));
   assert.ok(
     !/>\s*Death\s*</.test(reported.slice(0, reported.indexOf('</section>'))),
     'Death is already in our list',

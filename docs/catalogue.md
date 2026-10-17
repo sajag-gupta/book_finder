@@ -37,8 +37,8 @@ figure an estimate. Modern books have no sourced sales number, so they are never
 `npm run enrich` adds Hardcover's aggregate facts to `data/hardcover.json`: average rating and number of
 ratings, number of readers, page count, series name, position and total, moods, and reader-reported
 content warnings. Book pages show the rating (only with at least 20 ratings), page count, series
-position, and any reader-reported warnings we do not already list, always crediting Hardcover with a
-link. Browse can sort by "Most read on Hardcover".
+position, and any reader-reported warnings we do not already list, always crediting Hardcover as plain
+text (never a link). Browse can sort by "Most read on Hardcover".
 
 Hardcover's terms allow aggregate data with attribution. We never store descriptions, reviews or
 readers' libraries, and nothing from Hardcover is used to train a model. Our own text is still

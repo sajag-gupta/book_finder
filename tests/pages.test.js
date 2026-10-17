@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { loadData } from '../src/site/data.js';
 import { bookPage, booksLikePage, createContext, homePage } from '../src/site/pages.js';
 import { esc } from '../src/site/html.js';
+import { searchForm } from '../src/site/components.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const site = {
@@ -14,6 +15,18 @@ const site = {
 };
 const ctx = createContext({ data: loadData(root), site });
 const dune = ctx.bySlug.get('dune');
+
+test('every search form has a visible, labelled submit button', () => {
+  const html = searchForm('x', { large: true });
+  assert.ok(html.includes('role="search"'));
+  assert.ok(html.includes('<button class="search__btn" type="submit" aria-label="Search">'));
+});
+
+test('no page links out to Hardcover and book pages disclose affiliate links', () => {
+  const html = bookPage(ctx, dune) + homePage(ctx);
+  assert.ok(!/href="[^"]*hardcover/i.test(html));
+  assert.ok(html.includes('are affiliate links'));
+});
 
 test('esc neutralises HTML', () => {
   assert.equal(esc('<script>"a" & \'b\''), '&lt;script&gt;&quot;a&quot; &amp; &#39;b&#39;');
