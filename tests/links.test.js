@@ -1,9 +1,22 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { buildStoreUrl, goPath } from '../src/shared/links.js';
-import { allStores, getStore } from '../src/shared/registry.js';
+import { allStores, getStore, affiliateIds } from '../src/shared/registry.js';
 
 const ISBN = '9780441013593';
+
+test('the shipped config sends Kobo traffic to the US program, not Brazil', () => {
+  const { url, affiliate } = buildStoreUrl(
+    getStore('kobo'),
+    { isbn13: ISBN, query: 'Dune Frank Herbert' },
+    affiliateIds,
+  );
+  assert.equal(affiliate, true);
+  const u = new URL(url);
+  assert.equal(u.hostname, 'click.linksynergy.com');
+  assert.equal(u.searchParams.get('mid'), '37217');
+  assert.ok(u.searchParams.get('murl').startsWith('https://www.kobo.com/us/'));
+});
 
 test('uses the plain URL when affiliate IDs are missing', () => {
   const result = buildStoreUrl(

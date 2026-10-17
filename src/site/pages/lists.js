@@ -237,7 +237,7 @@ export function howWePickPage(ctx) {
 <p><strong>Reviewed</strong> books have been read by an editor, who checked the details against at least two public sources and signed off.</p>
 <p><strong>Facts checked</strong> books have had their title, author, first-publication year and edition verified automatically against Open Library and Wikipedia. Their descriptions and tags are written by us but have not yet been read by an editor, and the page says so. We are working through them.</p>
 <h2>Ratings and reader data</h2>
-<p>Reader ratings, reader counts, page counts, series order and reader-reported content warnings come from <a href="https://hardcover.app" rel="noopener">Hardcover</a>, credited wherever they appear. Everything we write about a book is our own.</p>
+<p>Reader ratings, reader counts, page counts, series order and reader-reported content warnings come from Hardcover, credited wherever they appear. Everything we write about a book is our own.</p>
 <h2>Bestseller rankings</h2>
 <p>Sales figures are estimates from public sources and vary widely. We show them as approximate and never as exact.</p>
 <h2>Money and honesty</h2>
@@ -254,7 +254,7 @@ export function disclosurePage(ctx) {
     body: `<div class="prose">${head({ kicker: 'About', title: 'Affiliate disclosure' })}
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
 <p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
-<p>Buttons that go to a store without a partner program are plain links.</p></div>`,
+<p>Kobo links use our Rakuten Advertising partnership (Kobo US). Bookshop.org and Libro.fm links use Awin once those programs approve us. Buttons that go to a store without a partner program are plain links.</p></div>`,
   });
 }
 
