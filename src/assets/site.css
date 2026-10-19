@@ -2441,3 +2441,74 @@ a.tag:hover {
   color: #fff;
   border-color: #fff;
 }
+
+/* ---------- Hero: one full-width painting, text straight on it ---------- */
+.hero2 {
+  display: block;
+  position: relative;
+  isolation: isolate;
+  min-height: clamp(30rem, 78vh, 42rem);
+  color: #fff;
+  background: #23221f url('/assets/bg/landscape-window-overlooking-the-woods.jpg') center / cover
+    no-repeat;
+}
+.hero2::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: rgb(14 13 11 / 46%);
+}
+.hero2__text {
+  max-width: 46rem;
+  min-height: inherit;
+  justify-content: center;
+}
+.hero2__text h1,
+.hero2__lede,
+.hero2__stats li,
+.hero2__stats strong {
+  color: #fff;
+}
+.hero2__lede {
+  color: rgb(255 255 255 / 90%);
+}
+.hero2__text .btn--accent {
+  color: #1c2a21;
+  background: #fff;
+  border-color: #fff;
+}
+.hero2__visual {
+  position: absolute;
+  inset: 0;
+  min-height: 0;
+  background: none;
+  animation: none;
+  pointer-events: none;
+}
+.hero2__visual::before {
+  content: none;
+}
+.hero2__note {
+  top: auto;
+  right: var(--gutter);
+  bottom: 12%;
+}
+@media (min-width: 60rem) {
+  .hero2 {
+    display: block;
+    grid-template-columns: none;
+  }
+  .hero2__text {
+    padding-inline: var(--gutter);
+  }
+}
+@media (max-width: 40rem) {
+  .hero2__note {
+    display: none;
+  }
+}
+
+.nav a {
+  white-space: nowrap;
+}
