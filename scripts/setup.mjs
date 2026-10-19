@@ -10,8 +10,12 @@ import { copyFileSync, existsSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
+// Run npm through the same npm that started this script, so there is no shell and no Windows quirks.
+const npmCli = process.env.npm_execpath;
 const run = (command, args) =>
-  spawnSync(command, args, { cwd: root, stdio: 'inherit', shell: process.platform === 'win32' });
+  npmCli && command === 'npm'
+    ? spawnSync(process.execPath, [npmCli, ...args], { cwd: root, stdio: 'inherit' })
+    : spawnSync(command, args, { cwd: root, stdio: 'inherit' });
 const step = (text) => console.log(`\n→ ${text}`);
 const fail = (text) => {
   console.error(`\n✗ ${text}`);
