@@ -1,27 +1,5 @@
 [
   {
-    "file": "src/assets/bg/landscape-window-overlooking-the-woods.jpg",
-    "media": "image",
-    "ref": "aic:109926",
-    "title": "Landscape: Window Overlooking the Woods",
-    "creator": "Édouard Jean Vuillard",
-    "creatorUrl": null,
-    "date": "1899",
-    "license": "public domain (CC0)",
-    "licenseCode": "cc0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "creditRequired": false,
-    "page": "https://www.artic.edu/artworks/109926",
-    "via": "Art Institute of Chicago",
-    "image": "https://www.artic.edu/iiif/2/a1dc6109-6e0c-7801-ebe8-8c95fec2c4e4/full/1100,/0/default.jpg",
-    "width": 1100,
-    "height": 705,
-    "bytes": 342661,
-    "credit": "\"Landscape: Window Overlooking the Woods\" by Édouard Jean Vuillard, 1899, public domain (CC0), via Art Institute of Chicago",
-    "notes": [],
-    "saved": "2026-10-17T17:02:20.011Z"
-  },
-  {
     "file": "src/assets/bg/sunrise.jpg",
     "media": "image",
     "ref": "aic:43259",
@@ -328,5 +306,27 @@
     "credit": "\"The Winter Sun\" by George Gardner Symons, about 1909, public domain (CC0), via Art Institute of Chicago",
     "notes": [],
     "saved": "2026-10-17T17:02:37.829Z"
+  },
+  {
+    "file": "src/assets/bg/landscape-window-overlooking-the-woods.jpg",
+    "media": "image",
+    "ref": "aic:109926",
+    "title": "Landscape: Window Overlooking the Woods",
+    "creator": "Édouard Jean Vuillard",
+    "creatorUrl": null,
+    "date": "1899",
+    "license": "public domain (CC0)",
+    "licenseCode": "cc0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "creditRequired": false,
+    "page": "https://www.artic.edu/artworks/109926",
+    "via": "Art Institute of Chicago",
+    "image": "https://www.artic.edu/iiif/2/a1dc6109-6e0c-7801-ebe8-8c95fec2c4e4/full/1600,/0/default.jpg",
+    "width": 1600,
+    "height": 1026,
+    "bytes": 668401,
+    "credit": "\"Landscape: Window Overlooking the Woods\" by Édouard Jean Vuillard, 1899, public domain (CC0), via Art Institute of Chicago",
+    "notes": [],
+    "saved": "2026-10-19T08:53:28.725Z"
   }
 ]
