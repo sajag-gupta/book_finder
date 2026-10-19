@@ -16,9 +16,13 @@
   "skipIf": "you are sensitive to detailed portrayals of anorexia and self-harm.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781101026397",
+    "https://en.wikipedia.org/wiki/Wintergirls",
+    "https://hardcover.app/books/wintergirls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

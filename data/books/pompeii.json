@@ -16,9 +16,13 @@
   "skipIf": "you want deep character study over technical detail and suspense.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781588363930",
+    "https://en.wikipedia.org/wiki/Pompeii_(novel)",
+    "https://hardcover.app/books/pompeii"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you need an uplifting ending or are sensitive to depictions of despair.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781461039785",
+    "https://en.wikipedia.org/wiki/Martin_Eden",
+    "https://hardcover.app/books/martin-eden"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

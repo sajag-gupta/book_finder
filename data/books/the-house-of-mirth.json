@@ -16,9 +16,13 @@
   "skipIf": "you want an uplifting story or a heroine who gets a fair break.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780684146584",
+    "https://en.wikipedia.org/wiki/The_House_of_Mirth",
+    "https://hardcover.app/books/the-house-of-mirth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

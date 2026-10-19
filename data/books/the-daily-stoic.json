@@ -16,9 +16,13 @@
   "skipIf": "you want to read the Stoics' own works at length.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780735211735",
+    "https://en.wikipedia.org/wiki/The_Daily_Stoic",
+    "https://hardcover.app/books/the-daily-stoic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

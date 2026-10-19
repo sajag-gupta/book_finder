@@ -16,9 +16,12 @@
   "skipIf": "you want practical tips instead of theory and research summaries.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780141039169",
+    "https://en.wikipedia.org/wiki/The_Righteous_Mind"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a conventional story with events and resolution.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780141182544",
+    "https://en.wikipedia.org/wiki/Nausea_(novel)",
+    "https://hardcover.app/books/nausea"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

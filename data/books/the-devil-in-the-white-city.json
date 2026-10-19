@@ -16,9 +16,12 @@
   "skipIf": "you want a pure crime story, since half the book covers architecture and planning.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780739343814",
+    "https://en.wikipedia.org/wiki/The_Devil_in_the_White_City"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

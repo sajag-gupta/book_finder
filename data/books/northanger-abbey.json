@@ -16,9 +16,13 @@
   "skipIf": "you want a deep romance, since the plot is slighter than her later novels.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781854598370",
+    "https://en.wikipedia.org/wiki/Northanger_Abbey",
+    "https://hardcover.app/books/northanger-abbey"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

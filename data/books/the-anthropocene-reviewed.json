@@ -16,9 +16,13 @@
   "skipIf": "you want a single argument or fast plot rather than a collection of short pieces.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781529109870",
+    "https://en.wikipedia.org/wiki/The_Anthropocene_Reviewed",
+    "https://hardcover.app/books/the-anthropocene-reviewed"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

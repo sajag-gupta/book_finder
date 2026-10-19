@@ -16,9 +16,12 @@
   "skipIf": "you want a short, focused story or dislike books that end on a cliffhanger.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780345479211",
+    "https://hardcover.app/books/pandoras-star"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

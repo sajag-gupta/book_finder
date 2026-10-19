@@ -16,9 +16,12 @@
   "skipIf": "you want concrete exercises or step-by-step methods for finishing a project.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781838858643",
+    "https://hardcover.app/books/the-creative-act"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

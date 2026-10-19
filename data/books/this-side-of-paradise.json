@@ -16,9 +16,13 @@
   "skipIf": "you want a tightly plotted story or a character you easily root for.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780497902698",
+    "https://en.wikipedia.org/wiki/This_Side_of_Paradise",
+    "https://hardcover.app/books/this-side-of-paradise"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you prefer fast, modern fantasy with lots of action and little commentary.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780763649432",
+    "https://en.wikipedia.org/wiki/The_Tale_of_Despereaux",
+    "https://hardcover.app/books/the-tale-of-despereaux"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

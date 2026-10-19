@@ -16,9 +16,13 @@
   "skipIf": "you want a conventional battlefield plot with a single storyline.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780833574862",
+    "https://en.wikipedia.org/wiki/The_Things_They_Carried",
+    "https://hardcover.app/books/the-things-they-carried"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

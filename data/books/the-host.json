@@ -16,9 +16,13 @@
   "skipIf": "you want hard science fiction or a quick pace, since the book is long and slow in places.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780316036917",
+    "https://en.wikipedia.org/wiki/The_Host_(novel)",
+    "https://hardcover.app/books/the-host"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

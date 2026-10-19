@@ -16,9 +16,13 @@
   "skipIf": "you cannot stand depictions of animal cruelty and dog fights.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781840119848",
+    "https://en.wikipedia.org/wiki/White_Fang",
+    "https://hardcover.app/books/white-fang"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

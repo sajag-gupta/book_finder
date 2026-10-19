@@ -16,9 +16,13 @@
   "skipIf": "you want brisk storytelling or find extended arguments between characters tiring.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781400044214",
+    "https://en.wikipedia.org/wiki/The_Magic_Mountain",
+    "https://hardcover.app/books/the-magic-mountain"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

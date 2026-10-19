@@ -16,9 +16,13 @@
   "skipIf": "you prefer the traditional heroic Arthur or want a fast-moving plot.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781570422058",
+    "https://en.wikipedia.org/wiki/The_Mists_of_Avalon",
+    "https://hardcover.app/books/the-mists-of-avalon"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you are not ready for sustained, unrelieved descriptions of cruelty and death.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781883332501",
+    "https://en.wikipedia.org/wiki/Night_(memoir)",
+    "https://hardcover.app/books/night-1955"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you prefer rhyming, traditional verse or plain narrative.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781556594953",
+    "https://en.wikipedia.org/wiki/Night_Sky_with_Exit_Wounds",
+    "https://hardcover.app/books/night-sky-with-exit-wounds"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

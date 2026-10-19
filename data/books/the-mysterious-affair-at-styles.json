@@ -16,9 +16,13 @@
   "skipIf": "you want modern pacing or a darker, more psychological crime novel.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781556853739",
+    "https://en.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles",
+    "https://hardcover.app/books/the-mysterious-affair-at-styles"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a novel with a developed plot or are put off by religious themes.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780020867807",
+    "https://en.wikipedia.org/wiki/The_Great_Divorce",
+    "https://hardcover.app/books/the-great-divorce"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

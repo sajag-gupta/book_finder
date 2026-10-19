@@ -16,9 +16,13 @@
   "skipIf": "you want a longer story or a modern voice.",
   "soldMillions": 45,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780307119506",
+    "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit",
+    "https://hardcover.app/books/the-tale-of-peter-rabbit"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

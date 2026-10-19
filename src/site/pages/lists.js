@@ -1,5 +1,6 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
+import { BACKDROPS, backdropFor } from '../backdrops.js';
 import { layout } from '../layout.js';
 import {
   cardGrid,
@@ -15,8 +16,8 @@ import {
 import { allStores } from '../../shared/registry.js';
 import { FORMAT_ORDER, FORMAT_TITLES } from '../../shared/offers.js';
 
-const head = ({ kicker, title, lede, iconName }) =>
-  `<header class="pagehead">${iconName ? `<span class="pagehead__icon">${icon(iconName, { size: 30 })}</span>` : ''}${kicker ? `<p class="kicker">${esc(kicker)}</p>` : ''}<h1>${esc(title)}</h1>${lede ? `<p class="lede">${esc(lede)}</p>` : ''}</header>`;
+const head = ({ kicker, title, lede, iconName, bg }) =>
+  `<header class="pagehead" data-bg="${esc(bg ?? backdropFor(title))}">${iconName ? `<span class="pagehead__icon">${icon(iconName, { size: 30 })}</span>` : ''}${kicker ? `<p class="kicker">${esc(kicker)}</p>` : ''}<h1>${esc(title)}</h1>${lede ? `<p class="lede">${esc(lede)}</p>` : ''}</header>`;
 
 const page = (ctx, { path, title, description, body, noindex, breadcrumbs, structuredData }) =>
   layout({
@@ -72,7 +73,7 @@ export function moodPage(ctx, mood, pageNum = 1) {
     breadcrumbs: [['Moods', '/moods/'], [pg.title]],
     structuredData: listData(ctx, pg.title, pg.list),
     description: `${mood.blurb} ${books.length} books for when you want something ${mood.name.toLowerCase()}, best sellers first.${pg.suffix}`,
-    body: `${head({ kicker: `${books.length} books`, title: `${mood.name} books`, lede: mood.blurb, iconName: mood.icon })}
+    body: `${head({ kicker: `${books.length} books`, title: `${mood.name} books`, lede: mood.blurb, iconName: mood.icon, bg: backdropFor(mood.slug, mood.slug) })}
 ${cardGrid(pg.list, ctx)}${pg.nav}
 <section class="section">${sectionHead({ title: 'Try another mood', href: '/moods/', linkText: 'All moods' })}<ul class="chips chips--small">${others.map((m) => `<li>${moodChip(m, { blurb: false })}</li>`).join('')}</ul></section>`,
   });
@@ -338,6 +339,19 @@ export function disclosurePage(ctx) {
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
 <p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
 <p>Kobo links use our Rakuten Advertising partnership (Kobo US). Bookshop.org and Libro.fm links use Awin once those programs approve us. Buttons that go to a store without a partner program are plain links.</p></div>`,
+  });
+}
+
+export function creditsPage(ctx) {
+  return page(ctx, {
+    path: '/about/credits/',
+    title: 'Image credits',
+    description:
+      'Where the background paintings on this site come from. All are in the public domain.',
+    breadcrumbs: [['About'], ['Image credits']],
+    body: `<div class="prose">${head({ kicker: 'About', title: 'Image credits' })}
+<p>The background paintings on this site are in the public domain (CC0) and come from the Art Institute of Chicago&rsquo;s open collection. Book covers come from Open Library and Google Books.</p>
+<ul class="credits">${BACKDROPS.map((b) => `<li><strong>${esc(b.title)}</strong>, ${esc(b.creator ?? 'unknown')}${b.date ? `, ${esc(b.date)}` : ''}. <a href="${esc(b.page)}" rel="noopener">${esc(b.via)}</a></li>`).join('')}</ul></div>`,
   });
 }
 

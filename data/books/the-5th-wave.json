@@ -16,9 +16,13 @@
   "skipIf": "you dislike shifting narrators or want hopeful, low-stakes science fiction.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781101598962",
+    "https://en.wikipedia.org/wiki/The_5th_Wave_(novel)",
+    "https://hardcover.app/books/the-5th-wave"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

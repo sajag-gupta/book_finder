@@ -16,9 +16,13 @@
   "skipIf": "you want hard science detail or a slow, quiet story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781781089231",
+    "https://en.wikipedia.org/wiki/Mickey7",
+    "https://hardcover.app/books/mickey7"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

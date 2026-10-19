@@ -16,9 +16,13 @@
   "skipIf": "you cannot stomach cruelty to animals.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781606601150",
+    "https://en.wikipedia.org/wiki/The_Call_of_the_Wild",
+    "https://hardcover.app/books/the-call-of-the-wild"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

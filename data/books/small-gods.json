@@ -16,9 +16,13 @@
   "skipIf": "you want a serious religious novel or an earnest, non-satirical fantasy.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781804990193",
+    "https://en.wikipedia.org/wiki/Small_Gods",
+    "https://hardcover.app/books/small-gods"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you prefer short novels or have not read the earlier Outlander books.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781784751357",
+    "https://en.wikipedia.org/wiki/Voyager_(novel)",
+    "https://hardcover.app/books/voyager"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

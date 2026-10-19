@@ -16,9 +16,13 @@
   "skipIf": "you want a fast plot with few characters.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780143037743",
+    "https://en.wikipedia.org/wiki/On_Beauty",
+    "https://hardcover.app/books/on-beauty"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

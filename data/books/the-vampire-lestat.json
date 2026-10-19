@@ -16,9 +16,13 @@
   "skipIf": "you want brisk modern horror or find ornate, self-regarding narration tiring.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781565210011",
+    "https://en.wikipedia.org/wiki/The_Vampire_Lestat",
+    "https://hardcover.app/books/the-vampire-lestat"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a short book or a critical rather than authorised account.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780748131327",
+    "https://en.wikipedia.org/wiki/Steve_Jobs_(book)",
+    "https://hardcover.app/books/steve-jobs"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

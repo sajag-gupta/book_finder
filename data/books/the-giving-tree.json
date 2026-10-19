@@ -16,9 +16,13 @@
   "skipIf": "you want a story with a clear, cheerful lesson rather than an ambiguous, bittersweet one.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060586751",
+    "https://en.wikipedia.org/wiki/The_Giving_Tree",
+    "https://hardcover.app/books/the-giving-tree"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

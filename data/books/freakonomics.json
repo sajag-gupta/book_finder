@@ -16,9 +16,13 @@
   "skipIf": "you want a systematic introduction to economics or are wary of some of its contested claims.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780061245138",
+    "https://en.wikipedia.org/wiki/Freakonomics",
+    "https://hardcover.app/books/freakonomics"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

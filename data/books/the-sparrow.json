@@ -16,9 +16,13 @@
   "skipIf": "you want an upbeat tale or cannot read about sexual violence.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780449912553",
+    "https://en.wikipedia.org/wiki/The_Sparrow_(novel)",
+    "https://hardcover.app/books/the-sparrow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,12 @@
   "skipIf": "you want hard science fiction with rigorous technical detail.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781423187783",
+    "https://hardcover.app/books/these-broken-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

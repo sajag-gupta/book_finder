@@ -16,9 +16,13 @@
   "skipIf": "you dislike dated sexual politics or digressive books that are partly philosophy.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780425070505",
+    "https://en.wikipedia.org/wiki/Time_Enough_for_Love",
+    "https://hardcover.app/books/time-enough-for-love"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -19996,21 +19996,6 @@
       ],
       "contentWarnings": ["Racial slurs", "Suicidal thoughts", "Slavery"]
     },
-    "quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking": {
-      "id": "817984",
-      "slug": "quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking",
-      "rating": 4,
-      "ratingsCount": 821,
-      "usersCount": 2464,
-      "pages": 370,
-      "series": {
-        "name": "Quiet",
-        "position": null,
-        "total": 1
-      },
-      "moods": ["Informative", "Reflective", "Inspiring", "Lighthearted", "Introspective"],
-      "contentWarnings": ["Infidelity", "Medical content", "Alcohol", "Ableism"]
-    },
     "paradise-lost": {
       "id": "377089",
       "slug": "paradise-lost",
@@ -21608,17 +21593,6 @@
       "moods": ["Informative", "Inspiring", "Reflective", "Challenging", "Educational", "Tense"],
       "contentWarnings": []
     },
-    "range-why-generalists-triumph-in-a-specialized-world": {
-      "id": "378776",
-      "slug": "range",
-      "rating": 4.1,
-      "ratingsCount": 364,
-      "usersCount": 1188,
-      "pages": 352,
-      "series": null,
-      "moods": ["Informative", "Inspiring", "Reflective"],
-      "contentWarnings": []
-    },
     "essentialism-the-disciplined-pursuit-of-less": {
       "id": "314284",
       "slug": "essentialism",
@@ -22975,26 +22949,6 @@
       "pages": 640,
       "series": null,
       "moods": ["Informative", "Challenging", "Reflective"],
-      "contentWarnings": []
-    },
-    "nexus-a-brief-history-of-information-networks-from-the-stone-age-to-ai": {
-      "id": "1634384",
-      "slug": "nexus-ai",
-      "rating": 3.9,
-      "ratingsCount": 202,
-      "usersCount": 971,
-      "pages": 529,
-      "series": null,
-      "moods": [
-        "Informative",
-        "Challenging",
-        "Reflective",
-        "Dark",
-        "Inspiring",
-        "Sad",
-        "Tense",
-        "Adventurous"
-      ],
       "contentWarnings": []
     },
     "witchcraft-for-wayward-girls": {
@@ -27094,6 +27048,52 @@
         "total": 2
       },
       "moods": ["Reflective", "Challenging", "Inspiring", "Dark", "Informative"],
+      "contentWarnings": []
+    },
+    "nexus": {
+      "id": "1634384",
+      "slug": "nexus-ai",
+      "rating": 3.9,
+      "ratingsCount": 202,
+      "usersCount": 971,
+      "pages": 529,
+      "series": null,
+      "moods": [
+        "Informative",
+        "Challenging",
+        "Reflective",
+        "Dark",
+        "Inspiring",
+        "Sad",
+        "Tense",
+        "Adventurous"
+      ],
+      "contentWarnings": []
+    },
+    "quiet": {
+      "id": "817984",
+      "slug": "quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking",
+      "rating": 4,
+      "ratingsCount": 821,
+      "usersCount": 2464,
+      "pages": 370,
+      "series": {
+        "name": "Quiet",
+        "position": null,
+        "total": 1
+      },
+      "moods": ["Informative", "Reflective", "Inspiring", "Lighthearted", "Introspective"],
+      "contentWarnings": ["Infidelity", "Medical content", "Alcohol", "Ableism"]
+    },
+    "range": {
+      "id": "378776",
+      "slug": "range",
+      "rating": 4.1,
+      "ratingsCount": 364,
+      "usersCount": 1188,
+      "pages": 352,
+      "series": null,
+      "moods": ["Informative", "Inspiring", "Reflective"],
       "contentWarnings": []
     }
   }

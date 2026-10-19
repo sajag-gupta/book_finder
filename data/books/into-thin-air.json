@@ -16,9 +16,13 @@
   "skipIf": "you find accounts of people dying of exposure and exhaustion upsetting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780676543148",
+    "https://en.wikipedia.org/wiki/Into_Thin_Air",
+    "https://hardcover.app/books/into-thin-air-a-personal-account-of-the-mount-everest-disaster"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

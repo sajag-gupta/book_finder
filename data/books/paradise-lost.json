@@ -16,9 +16,12 @@
   "skipIf": "you want a quick or plot-driven read, since the language demands patience.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781784289218",
+    "https://en.wikipedia.org/wiki/Paradise_Lost"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

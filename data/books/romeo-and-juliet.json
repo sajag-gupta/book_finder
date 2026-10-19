@@ -16,9 +16,13 @@
   "skipIf": "you struggle with Elizabethan language and dislike plays in script form.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781885564023",
+    "https://en.wikipedia.org/wiki/Romeo_and_Juliet",
+    "https://hardcover.app/books/romeo-and-juliet"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

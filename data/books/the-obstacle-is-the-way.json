@@ -16,9 +16,12 @@
   "skipIf": "you want original philosophy or are tired of the repeated-anecdote self-help format.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781781251492",
+    "https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

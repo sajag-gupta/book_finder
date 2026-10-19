@@ -16,9 +16,13 @@
   "skipIf": "you want intricate puzzles and high suspense.",
   "soldMillions": 15,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780349116754",
+    "https://en.wikipedia.org/wiki/The_No._1_Ladies'_Detective_Agency",
+    "https://hardcover.app/books/the-no1-ladies-detective-agency"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

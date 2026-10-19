@@ -16,9 +16,13 @@
   "skipIf": "you prefer secular fiction or are uncomfortable with a story that starts with a child's murder.",
   "soldMillions": 22.5,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781609414115",
+    "https://en.wikipedia.org/wiki/The_Shack_(Young_novel)",
+    "https://hardcover.app/books/the-shack"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

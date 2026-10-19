@@ -16,9 +16,9 @@
   "skipIf": "you want action-driven plots or find long technical passages dull.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": ["https://openlibrary.org/isbn/9780593358825", "https://hardcover.app/books/red-mars"],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

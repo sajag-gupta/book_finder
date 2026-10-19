@@ -16,9 +16,13 @@
   "skipIf": "you want a linear, in-depth career story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781447283287",
+    "https://en.wikipedia.org/wiki/Yes_Please",
+    "https://hardcover.app/books/yes-please"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

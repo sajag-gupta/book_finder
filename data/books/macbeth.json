@@ -16,9 +16,13 @@
   "skipIf": "you find Shakespearean verse hard going or dislike bleak plays.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780618031467",
+    "https://en.wikipedia.org/wiki/Macbeth",
+    "https://hardcover.app/books/macbeth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -7,6 +7,7 @@
  * Not for production. Click logging and /api/subscribe are not emulated.
  */
 import { createServer } from 'node:http';
+import { readFileSync } from 'node:fs';
 import { readFile } from 'node:fs/promises';
 import { extname, join, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -26,6 +27,10 @@ const types = {
   '.txt': 'text/plain',
 };
 const env = { OL_CONTACT: process.env.OL_CONTACT };
+// Send the same Content-Security-Policy as production, so a page that would break there breaks here.
+const csp = readFileSync(new URL('../public/_headers', import.meta.url), 'utf8').match(
+  /^\s*Content-Security-Policy:\s*(.+)$/m,
+)?.[1];
 
 createServer(async (req, res) => {
   const url = new URL(req.url, `http://localhost:${port}`);
@@ -46,7 +51,10 @@ createServer(async (req, res) => {
     if (!path.startsWith(root)) throw new Error('outside dist');
     if (url.pathname.endsWith('/')) path = join(path, 'index.html');
     const data = await readFile(path);
-    res.writeHead(200, { 'Content-Type': types[extname(path)] ?? 'application/octet-stream' });
+    res.writeHead(200, {
+      'Content-Type': types[extname(path)] ?? 'application/octet-stream',
+      ...(csp && path.endsWith('.html') ? { 'Content-Security-Policy': csp } : {}),
+    });
     res.end(data);
   } catch {
     res.writeHead(404, { 'Content-Type': 'text/plain' });

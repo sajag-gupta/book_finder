@@ -16,9 +16,13 @@
   "skipIf": "you want high drama or a fast plot, as this is a gentle, character-focused book.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781760504922",
+    "https://en.wikipedia.org/wiki/With_the_Fire_on_High",
+    "https://hardcover.app/books/with-the-fire-on-high"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

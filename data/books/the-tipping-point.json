@@ -16,9 +16,12 @@
   "skipIf": "you want rigorous evidence and are wary of broad claims drawn from anecdotes.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780316679077",
+    "https://en.wikipedia.org/wiki/The_Tipping_Point"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

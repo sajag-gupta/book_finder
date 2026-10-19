@@ -16,9 +16,13 @@
   "skipIf": "you want a plot-driven story with a tidy, upbeat ending.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780241259740",
+    "https://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter",
+    "https://hardcover.app/books/the-heart-is-a-lonely-hunter"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

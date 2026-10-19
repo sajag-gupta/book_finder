@@ -16,9 +16,13 @@
   "skipIf": "you want fast pacing and modern language.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780198448891",
+    "https://en.wikipedia.org/wiki/Silas_Marner",
+    "https://hardcover.app/books/silas-marner"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a straightforward spy thriller or cannot read about torture.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781472151384",
+    "https://en.wikipedia.org/wiki/The_Sympathizer",
+    "https://hardcover.app/books/the-sympathizer"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

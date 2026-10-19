@@ -16,9 +16,13 @@
   "skipIf": "you want a straightforward story and easy reading.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780679410775",
+    "https://en.wikipedia.org/wiki/Pale_Fire",
+    "https://hardcover.app/books/pale-fire"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

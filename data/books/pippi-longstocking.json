@@ -16,9 +16,13 @@
   "skipIf": "you dislike episodic stories without much overall plot.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780140308945",
+    "https://en.wikipedia.org/wiki/Pippi_Longstocking",
+    "https://hardcover.app/books/pippi-longstocking"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

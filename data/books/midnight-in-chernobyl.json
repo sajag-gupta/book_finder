@@ -16,9 +16,13 @@
   "skipIf": "you dislike graphic descriptions of radiation injuries.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593076842",
+    "https://en.wikipedia.org/wiki/Midnight_in_Chernobyl",
+    "https://hardcover.app/books/midnight-in-chernobyl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

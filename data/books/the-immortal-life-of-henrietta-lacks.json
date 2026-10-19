@@ -16,9 +16,12 @@
   "skipIf": "you want a technical account of cell biology.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780307888440",
+    "https://en.wikipedia.org/wiki/The_Immortal_Life_of_Henrietta_Lacks"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

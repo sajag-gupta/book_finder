@@ -16,9 +16,13 @@
   "skipIf": "you expect the pace and action of the film adaptation.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780571258178",
+    "https://en.wikipedia.org/wiki/The_Children_of_Men",
+    "https://hardcover.app/books/the-children-of-men"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

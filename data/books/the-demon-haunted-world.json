@@ -16,9 +16,13 @@
   "skipIf": "you want new science news, as many examples are from the 1990s.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781578151707",
+    "https://en.wikipedia.org/wiki/The_Demon-Haunted_World",
+    "https://hardcover.app/books/the-demon-haunted-world"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

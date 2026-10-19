@@ -16,9 +16,12 @@
   "skipIf": "you value a warm, collaborative approach to work and relationships.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780670881468",
+    "https://en.wikipedia.org/wiki/The_48_Laws_of_Power"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you prefer stories with clear answers and a lot of action.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780141180625",
+    "https://en.wikipedia.org/wiki/The_Yellow_Wallpaper",
+    "https://hardcover.app/books/the-yellow-wallpaper"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

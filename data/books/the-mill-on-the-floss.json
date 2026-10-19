@@ -16,9 +16,13 @@
   "skipIf": "you want a happy ending or a light read.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780375757839",
+    "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss",
+    "https://hardcover.app/books/the-mill-on-the-floss"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

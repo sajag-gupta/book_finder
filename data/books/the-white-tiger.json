@@ -16,9 +16,13 @@
   "skipIf": "you want a sympathetic narrator or a story without cynicism.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781843547228",
+    "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)",
+    "https://hardcover.app/books/the-white-tiger"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

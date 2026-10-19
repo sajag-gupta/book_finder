@@ -16,9 +16,13 @@
   "skipIf": "you want a clear plot with tidy resolutions and characters who are easy to like.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780099760016",
+    "https://en.wikipedia.org/wiki/Sula_(novel)",
+    "https://hardcover.app/books/sula"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

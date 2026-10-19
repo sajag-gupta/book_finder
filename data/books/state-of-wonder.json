@@ -16,9 +16,13 @@
   "skipIf": "you want a quick thriller with a neat, fast payoff.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781408818756",
+    "https://en.wikipedia.org/wiki/State_of_Wonder",
+    "https://hardcover.app/books/state-of-wonder"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

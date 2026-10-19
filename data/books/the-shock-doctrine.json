@@ -16,9 +16,13 @@
   "skipIf": "you want a balanced debate, as it argues one position firmly.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780805079838",
+    "https://en.wikipedia.org/wiki/The_Shock_Doctrine",
+    "https://hardcover.app/books/the-shock-doctrine"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

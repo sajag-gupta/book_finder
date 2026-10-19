@@ -16,9 +16,13 @@
   "skipIf": "you do not enjoy poetry-style formatting or want a story with a lot of plot twists.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780062662804",
+    "https://en.wikipedia.org/wiki/The_Poet_X",
+    "https://hardcover.app/books/the-poet-x"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

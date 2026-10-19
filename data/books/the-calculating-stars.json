@@ -16,9 +16,13 @@
   "skipIf": "you want action-heavy space adventure rather than character and procedure.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780765378385",
+    "https://en.wikipedia.org/wiki/The_Calculating_Stars",
+    "https://hardcover.app/books/the-calculating-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

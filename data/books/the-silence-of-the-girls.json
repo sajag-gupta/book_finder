@@ -16,9 +16,13 @@
   "skipIf": "you are sensitive to depictions of sexual violence or want heroic adventure.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780241338070",
+    "https://en.wikipedia.org/wiki/The_Silence_of_the_Girls",
+    "https://hardcover.app/books/the-silence-of-the-girls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want rigorous academic argument rather than story-led persuasion.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780316535571",
+    "https://en.wikipedia.org/wiki/Talking_to_Strangers",
+    "https://hardcover.app/books/talking-to-strangers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

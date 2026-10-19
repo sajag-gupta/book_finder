@@ -16,9 +16,13 @@
   "skipIf": "you want emotional realism rather than an artificial farce.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780521639521",
+    "https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest",
+    "https://hardcover.app/books/the-importance-of-being-earnest"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

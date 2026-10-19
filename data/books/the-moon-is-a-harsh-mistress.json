@@ -16,9 +16,13 @@
   "skipIf": "you dislike dated gender roles and long political discussions in fiction.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780312861766",
+    "https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress",
+    "https://hardcover.app/books/the-moon-is-a-harsh-mistress"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

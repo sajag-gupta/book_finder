@@ -16,9 +16,13 @@
   "skipIf": "you cannot read depictions of abuse of children and racial violence.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781785417962",
+    "https://en.wikipedia.org/wiki/The_Nickel_Boys",
+    "https://hardcover.app/books/the-nickel-boys"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you need detailed, verifiable financial guidance rather than anecdotes and broad claims.",
   "soldMillions": 32,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781612680194",
+    "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad",
+    "https://hardcover.app/books/rich-dad-poor-dad"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a warm romance or a quick read.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060902667",
+    "https://en.wikipedia.org/wiki/Villette_(novel)",
+    "https://hardcover.app/books/villette"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

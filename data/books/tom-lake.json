@@ -16,9 +16,13 @@
   "skipIf": "you want plot twists or a high-stakes story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781526664280",
+    "https://en.wikipedia.org/wiki/Tom_Lake",
+    "https://hardcover.app/books/tom-lake"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

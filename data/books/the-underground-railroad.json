@@ -16,9 +16,13 @@
   "skipIf": "you cannot read graphic depictions of brutality.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780385542364",
+    "https://en.wikipedia.org/wiki/The_Underground_Railroad_(novel)",
+    "https://hardcover.app/books/the-underground-railroad"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

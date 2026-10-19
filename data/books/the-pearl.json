@@ -16,9 +16,13 @@
   "skipIf": "you want a hopeful ending or do not like bleak, allegorical stories.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781447962915",
+    "https://en.wikipedia.org/wiki/The_Pearl_(novella)",
+    "https://hardcover.app/books/the-pearl"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

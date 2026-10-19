@@ -16,9 +16,13 @@
   "skipIf": "you want a quick, light read, as it is long and dense.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780141918921",
+    "https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow",
+    "https://hardcover.app/books/thinking-fast-and-slow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

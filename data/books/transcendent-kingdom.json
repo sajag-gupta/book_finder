@@ -16,9 +16,13 @@
   "skipIf": "you want an upbeat read or are unsettled by close portraits of addiction and depression.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781524711771",
+    "https://en.wikipedia.org/wiki/Transcendent_Kingdom",
+    "https://hardcover.app/books/transcendent-kingdom"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

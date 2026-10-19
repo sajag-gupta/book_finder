@@ -16,9 +16,13 @@
   "skipIf": "you want romance or a small-scale story away from the battlefield.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780345444127",
+    "https://en.wikipedia.org/wiki/The_Killer_Angels",
+    "https://hardcover.app/books/the-killer-angels"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

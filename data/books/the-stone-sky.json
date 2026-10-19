@@ -16,9 +16,13 @@
   "skipIf": "you have not read the earlier volumes, since this one cannot stand on its own.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781478916291",
+    "https://en.wikipedia.org/wiki/The_Stone_Sky",
+    "https://hardcover.app/books/the-stone-sky"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

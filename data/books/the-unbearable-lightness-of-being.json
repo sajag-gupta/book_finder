@@ -16,9 +16,13 @@
   "skipIf": "you want a straightforward plot without essayistic digressions.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780571135394",
+    "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being",
+    "https://hardcover.app/books/the-unbearable-lightness-of-being"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

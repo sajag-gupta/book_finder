@@ -16,9 +16,12 @@
   "skipIf": "you want detailed technique or dislike tough-love tone.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781936891023",
+    "https://en.wikipedia.org/wiki/The_War_of_Art_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

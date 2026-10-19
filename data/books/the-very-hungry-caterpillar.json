@@ -16,9 +16,13 @@
   "skipIf": "you want a story with dialogue, characters and plot twists for older children.",
   "soldMillions": 43,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780399218705",
+    "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar",
+    "https://hardcover.app/books/the-very-hungry-caterpillar"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

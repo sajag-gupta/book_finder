@@ -16,9 +16,12 @@
   "skipIf": "you want straightforward action and fast answers.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780545424929",
+    "https://hardcover.app/books/the-raven-boys"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

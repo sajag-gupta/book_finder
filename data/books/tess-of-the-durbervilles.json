@@ -16,9 +16,13 @@
   "skipIf": "you want a happy ending or a lively pace.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780394309460",
+    "https://en.wikipedia.org/wiki/Tess_of_the_d'Urbervilles",
+    "https://hardcover.app/books/tess-of-the-durbervilles"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

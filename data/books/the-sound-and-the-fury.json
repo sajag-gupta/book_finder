@@ -16,9 +16,13 @@
   "skipIf": "you want a straightforward, linear story you can read in a relaxed way.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781850891437",
+    "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+    "https://hardcover.app/books/the-sound-and-the-fury"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

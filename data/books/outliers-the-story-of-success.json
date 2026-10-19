@@ -16,9 +16,9 @@
   "skipIf": "you want tight statistics, since critics find his generalisations loose.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": ["https://openlibrary.org/isbn/9780316017930", "https://hardcover.app/books/outliers"],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

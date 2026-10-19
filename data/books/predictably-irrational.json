@@ -16,9 +16,13 @@
   "skipIf": "you want rigorous methodology or a skeptical treatment of behavioral economics.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780061958724",
+    "https://en.wikipedia.org/wiki/Predictably_Irrational",
+    "https://hardcover.app/books/predictably-irrational"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,9 @@
   "skipIf": "you want data or detailed frameworks for a larger business.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": ["https://openlibrary.org/isbn/9780091929787", "https://hardcover.app/books/rework"],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

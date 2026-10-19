@@ -2,7 +2,7 @@ import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
 import { cardGrid, cover, searchForm, sectionHead, signupForm } from '../components.js';
-import { HERO_ART } from '../hero-art.js';
+import { HOME } from '../backdrops.js';
 
 const STEPS = [
   [
@@ -22,17 +22,6 @@ const STEPS = [
   ],
 ];
 
-// Soft background for each feeling card on the mood strip.
-const TONES = [
-  '#fbe9b7',
-  '#d9e8f7',
-  '#e4e0ee',
-  '#dcebd5',
-  '#f6d9d9',
-  '#d6e9f0',
-  '#ece8e1',
-  '#fbe4c4',
-];
 const CATEGORIES = [
   'romance',
   'fantasy',
@@ -56,6 +45,7 @@ export function homePage(ctx) {
   <div class="hero2__text">
     <h1>Books for wherever your mind is.</h1>
     <p class="hero2__lede">${empty ? 'We check every pick by hand before it goes live, and our first ones are almost ready. Check back soon.' : 'Sometimes you don&rsquo;t know what to read, but you know how you feel. Tell us how you feel and how you want to feel, and find books that fit.'}</p>
+    ${empty ? '' : `<div class="hero2__cta"><a class="btn btn--accent btn--lg" href="/feel/">Find my next read</a></div>`}
     ${empty ? '' : searchForm('hero-q', { large: true, placeholder: 'e.g. I feel lost and need a fresh start…' })}
     <ul class="hero2__stats" aria-label="The collection">
       <li>${icon('book-open', { size: 26 })}<span><strong>${fmt(listed)}</strong> books</span></li>
@@ -63,13 +53,13 @@ export function homePage(ctx) {
       <li>${icon('layout-grid', { size: 26 })}<span><strong>${genreCount}</strong> categories</span></li>
     </ul>
   </div>
-  <div class="hero2__visual">${HERO_ART}<p class="hero2__note" aria-hidden="true">A different book for a different you.</p></div>
+  <div class="hero2__visual" role="img" aria-label="A painting of a window looking out over woods"><p class="hero2__note" aria-hidden="true">A different book for a different you.</p></div>
 </section>`;
 
   const feelings = ctx.feelings
     .map(
       (f, i) =>
-        `<a class="feelcard" style="--tone:${TONES[i % TONES.length]}" href="/feel/${esc(f.slug)}/">${icon(f.icon, { size: 28 })}<span>${esc(f.name)}</span></a>`,
+        `<a class="feelcard tone-${i % 8}" href="/feel/${esc(f.slug)}/">${icon(f.icon, { size: 28 })}<span>${esc(f.name)}</span></a>`,
     )
     .join('');
   const wants = data.moods
@@ -101,11 +91,11 @@ export function homePage(ctx) {
         : '';
     return `<li class="trend"><span class="trend__n" aria-hidden="true">${i + 1}</span><a class="trend__link" href="/books/${esc(b.slug)}/">${cover(b, { eager: i < 6 })}<strong class="trend__title">${esc(b.title)}</strong><span class="trend__author">${esc(b.author)}</span>${rating}</a></li>`;
   };
-  const trendingSection = `<section class="wrap section">
+  const trendingSection = `<div class="bgband" data-bg="${HOME.trending}"><section class="wrap section">
   ${sectionHead({ title: 'Trending right now', href: '/books/?sort=popular', linkText: 'View all' })}
   <p class="muted small sub">${ctx.trending.length >= 4 ? 'Most-read books over the last 30 days, according to Hardcover readers.' : 'Popular books readers are loving, according to Hardcover readers.'}</p>
   <div class="scroller"><ol class="trendlist">${trending.map(trendItem).join('')}</ol></div>
-</section>`;
+</section></div>`;
 
   const slugs = [
     ...CATEGORIES.filter((s) => ctx.byGenre.has(s)),
@@ -118,7 +108,7 @@ export function homePage(ctx) {
     .map((slug, i) => {
       const g = ctx.genre(slug);
       const books = ctx.byGenre.get(slug).slice(0, 3);
-      return `<li><a class="catcard" style="--tone:${TONES[i % TONES.length]}" href="/genres/${esc(slug)}/"><span class="catcard__fan">${books.map((b) => cover(b, { width: 90, height: 135 })).join('')}</span><span class="catcard__name">${esc(g.name)}</span><span class="catcard__count">${fmt(ctx.byGenre.get(slug).length)} books</span></a></li>`;
+      return `<li><a class="catcard tone-${i % 8}" href="/genres/${esc(slug)}/"><span class="catcard__fan">${books.map((b) => cover(b, { width: 90, height: 135 })).join('')}</span><span class="catcard__name">${esc(g.name)}</span><span class="catcard__count">${fmt(ctx.byGenre.get(slug).length)} books</span></a></li>`;
     })
     .join('');
   const categories = `<section class="wrap section">
@@ -132,23 +122,23 @@ export function homePage(ctx) {
     ? ''
     : `${trendingSection}
 ${categories}
-<section class="wrap section">
-  ${sectionHead({ kicker: 'Sold by the million', title: 'Top sellers of all time', href: '/bestsellers/', linkText: 'See the full ranking' })}
+<div class="bgband" data-bg="${HOME.sellers}"><section class="wrap section">
+  ${sectionHead({ title: 'Top sellers of all time', href: '/bestsellers/', linkText: 'See the full ranking' })}
   <div class="scroller">${cardGrid(sellers, ctx, { ranked: true })}</div>
-</section>
+</section></div>
 <section class="wrap section">
-  ${sectionHead({ kicker: 'Read this decade', title: 'Popular right now', href: '/books/?sort=newest', linkText: 'More recent books' })}
+  ${sectionHead({ title: 'Popular right now', href: '/books/?sort=newest', linkText: 'More recent books' })}
   <div class="scroller">${cardGrid(ctx.modern.slice(0, 12), ctx)}</div>
 </section>
-<section class="wrap section how">
+<div class="bgband" data-bg="${HOME.how}"><section class="wrap section how">
   ${sectionHead({ title: 'How it works' })}
-  <ol class="steps">${STEPS.map(([i, t, d], n) => `<li><span class="steps__num">${n + 1}</span>${icon(i, { size: 28, className: 'steps__icon' })}<h3>${esc(t)}</h3><p>${esc(d)}</p></li>`).join('')}</ol>
-</section>`;
+  <ol class="steps">${STEPS.map(([, t, d]) => `<li><h3>${esc(t)}</h3><p>${esc(d)}</p></li>`).join('')}</ol>
+</section></div>`;
 
-  const band = `<section class="wrap section"><div class="band">
-  <div><p class="kicker">Every week</p><h2>Three books and one honest deal</h2><p>One email, picked by hand. We only share a price we have checked ourselves.</p></div>
+  const band = `<div class="bgband" data-bg="${HOME.newsletter}"><section class="wrap section"><div class="band">
+  <div><h2>Three books and one honest deal, every week</h2><p>One email, picked by hand. We only share a price we have checked ourselves.</p></div>
   ${signupForm('hero-signup')}
-</div></section>`;
+</div></section></div>`;
 
   return layout({
     site,

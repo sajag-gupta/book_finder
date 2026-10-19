@@ -16,9 +16,12 @@
   "skipIf": "you want an up-to-date overview of modern biology or find strong claims off-putting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780195200003",
+    "https://en.wikipedia.org/wiki/The_Selfish_Gene"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

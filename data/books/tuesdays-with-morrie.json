@@ -16,9 +16,13 @@
   "skipIf": "you find sentimental reflections hard to take or want to avoid stories about terminal illness.",
   "soldMillions": 14,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781405500661",
+    "https://en.wikipedia.org/wiki/Tuesdays_with_Morrie",
+    "https://hardcover.app/books/tuesdays-with-morrie"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

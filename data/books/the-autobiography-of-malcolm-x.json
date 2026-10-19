@@ -16,9 +16,13 @@
   "skipIf": "you want a balanced, outside biography with multiple viewpoints.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780671045081",
+    "https://en.wikipedia.org/wiki/The_Autobiography_of_Malcolm_X",
+    "https://hardcover.app/books/the-autobiography-of-malcolm-x"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

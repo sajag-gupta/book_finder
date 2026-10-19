@@ -16,9 +16,13 @@
   "skipIf": "you dislike dated attitudes or soapy stories where nearly everyone ends up in trouble.",
   "soldMillions": 31,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780553242867",
+    "https://en.wikipedia.org/wiki/Valley_of_the_Dolls_(novel)",
+    "https://hardcover.app/books/valley-of-the-dolls"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a neutral overview of Northern Irish history rather than a narrative of one case.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780008159269",
+    "https://en.wikipedia.org/wiki/Say_Nothing_(book)",
+    "https://hardcover.app/books/say-nothing"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

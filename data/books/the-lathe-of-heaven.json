@@ -16,9 +16,13 @@
   "skipIf": "you want detailed world-building or a fast-paced adventure.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780380791859",
+    "https://en.wikipedia.org/wiki/The_Lathe_of_Heaven",
+    "https://hardcover.app/books/the-lathe-of-heaven"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

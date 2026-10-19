@@ -16,9 +16,13 @@
   "skipIf": "you prefer long, slow-building stories or dislike a disturbed narrator's inner voice.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781947844605",
+    "https://en.wikipedia.org/wiki/The_Tell-Tale_Heart",
+    "https://hardcover.app/books/the-tell-tale-heart"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

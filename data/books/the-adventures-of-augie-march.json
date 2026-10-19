@@ -16,9 +16,13 @@
   "skipIf": "you want brisk storytelling and a tight, linear plot.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780670032426",
+    "https://en.wikipedia.org/wiki/The_Adventures_of_Augie_March",
+    "https://hardcover.app/books/the-adventures-of-augie-march"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,12 @@
   "skipIf": "you want a short book or struggle with accounts of political persecution.",
   "soldMillions": 10,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780743246989",
+    "https://hardcover.app/books/wild-swans"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,12 @@
   "skipIf": "you want a novel with a developed plot or are uninterested in religious ideas.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060652937",
+    "https://en.wikipedia.org/wiki/The_Screwtape_Letters"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

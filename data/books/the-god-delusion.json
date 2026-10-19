@@ -16,9 +16,12 @@
   "skipIf": "you want a respectful, balanced treatment of faith or dislike polemic.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593055489",
+    "https://en.wikipedia.org/wiki/The_God_Delusion"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

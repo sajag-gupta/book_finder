@@ -16,9 +16,12 @@
   "skipIf": "you find stories of a young parent's terminal illness too painful right now.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780399590405",
+    "https://en.wikipedia.org/wiki/When_Breath_Becomes_Air"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

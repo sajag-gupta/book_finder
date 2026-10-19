@@ -16,9 +16,13 @@
   "skipIf": "you already read widely on race and want deeper academic or historical analysis.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781580056779",
+    "https://en.wikipedia.org/wiki/So_You_Want_to_Talk_About_Race",
+    "https://hardcover.app/books/so-you-want-to-talk-about-race"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want complex plotting or are troubled by harsh depictions of women's lives.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781416511106",
+    "https://en.wikipedia.org/wiki/The_Good_Earth_(film)",
+    "https://hardcover.app/books/the-good-earth"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

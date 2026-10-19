@@ -16,9 +16,12 @@
   "skipIf": "you want a quick, neutral summary of criminal justice policy.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781595585301",
+    "https://en.wikipedia.org/wiki/The_New_Jim_Crow"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

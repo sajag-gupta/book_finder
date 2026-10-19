@@ -16,9 +16,12 @@
   "skipIf": "you dislike books with an obvious moral message.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780679822738",
+    "https://en.wikipedia.org/wiki/The_Lorax"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

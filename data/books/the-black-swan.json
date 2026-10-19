@@ -16,9 +16,12 @@
   "skipIf": "you dislike abrasive authors who dismiss experts and repeat their central point.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780812973815",
+    "https://hardcover.app/books/the-black-swan"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

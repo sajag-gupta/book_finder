@@ -16,9 +16,12 @@
   "skipIf": "you want advice that suits a conventional career or distrust get-rich-quick style claims.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781446490594",
+    "https://en.wikipedia.org/wiki/The_4-Hour_Workweek"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

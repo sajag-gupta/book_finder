@@ -16,9 +16,13 @@
   "skipIf": "you want a stand-alone book or are looking for an upbeat finish.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060234935",
+    "https://en.wikipedia.org/wiki/The_Last_Battle",
+    "https://hardcover.app/books/the-last-battle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }
