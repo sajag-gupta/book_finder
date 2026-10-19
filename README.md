@@ -1,24 +1,76 @@
-# Book Finder
+<p align="center">
+  <img src="docs/assets/logo.png" alt="ReadYourMood: a smiling open book reading a book. Books for wherever your mind is." width="420">
+</p>
 
-A mood-first book finder that also shows, for any book, every place to buy, borrow or listen to it
-in every format, at the best price.
+<h1 align="center">ReadYourMood</h1>
 
-1. **Decide what to read.** Say how you want to feel, or name a book you loved. Get a short list with
-   a plain reason for each pick, written by us. 700 books: the best sellers of all time plus genre
-   staples, filterable by genre, mood, length, pace and content warnings.
-2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook and library options
-   side by side. Library borrowing is always shown first.
+<p align="center">
+  <strong>Books for wherever your mind is.</strong><br>
+  Say how you feel and how you want to feel. Get books that fit, then see every way to borrow, buy or listen, library first.
+</p>
 
-Also: bestseller rankings, a nightly "Trending now" shelf from Hardcover's API, genre, mood, trope and
-author pages, a private reading shelf (statuses, half-star ratings, stats, Goodreads/StoryGraph CSV
-import), content warnings you can hide until you ask, a weekly email, and shareable cards. See [docs/catalogue.md](docs/catalogue.md) for how the catalogue is built and what
-`checked` and `reviewed` mean.
+<p align="center">
+  <a href="https://book-finder-azs.pages.dev">Live site</a> ·
+  <a href="docs/architecture.md">Architecture</a> ·
+  <a href="docs/design.md">Design</a> ·
+  <a href="docs/seo.md">SEO</a> ·
+  <a href="CONTRIBUTING.md">Contributing</a>
+</p>
 
-Store buttons are affiliate links where a program exists. See [docs/product.md](docs/product.md) for
-the product plan and [docs/architecture.md](docs/architecture.md) for how it is built.
+---
 
-> Name: **ReadYourMood**. It is set in one place (`site.name` in
-> [scripts/build.js](scripts/build.js)).
+## What it does
+
+1. **Two questions, one right book.** Pick how you feel now (stressed, lonely, bored…) and how you
+   want to feel (cozy, hopeful, tense…), or describe it in your own words. You get a short list
+   with a plain reason for each pick, written by us, filterable by genre, mood, length, pace and
+   content warnings.
+2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook and library options side
+   by side. Borrowing from a library is always shown first.
+
+Also: bestseller rankings, 120+ genres across fiction and non-fiction, a private reading shelf
+(statuses, ratings, stats, Goodreads/StoryGraph CSV import), content warnings you can hide, light and
+dark themes, a weekly email and shareable cards. How the catalogue is built, and what `checked` and
+`reviewed` mean, is in [docs/catalogue.md](docs/catalogue.md). Store buttons are affiliate links where
+a program exists; see [docs/product.md](docs/product.md).
+
+## Set it up in one step
+
+You need [Node.js](https://nodejs.org) 24 or newer (see [.nvmrc](.nvmrc)). Nothing else: no accounts
+and no keys.
+
+```bash
+git clone https://github.com/sajag-gupta/book_finder.git
+cd book_finder
+npm run setup     # installs, checks, builds
+npm run serve     # then open http://127.0.0.1:8788
+```
+
+**Or let an AI assistant do it.** Open the cloned folder in Claude Code, Codex, Cursor or any
+coding assistant and paste:
+
+> Read AGENTS.md, set this project up and start it so I can open the site in my browser.
+
+[AGENTS.md](AGENTS.md) holds the exact steps, the rules to follow and what "done" means.
+
+## Commands
+
+| Command                   | What it does                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| `npm run setup`           | Check Node, install, create `.env`, run the checks, build                             |
+| `npm run serve`           | Serve `dist/` on http://127.0.0.1:8788 with `/api/*` and `/go/*` working locally      |
+| `npm run check`           | Lint, format check, data validation and tests (what CI runs)                          |
+| `npm run build`           | Production build to `dist/` (add `-- --skip-share-cards` for a fast one)              |
+| `npm run build:preview`   | Preview build including drafts, `noindex`                                             |
+| `npm run seo`             | Audit the built site for SEO, structured data, links and sitemap                      |
+| `npm run validate`        | Validate every record in `data/` against the schema and vocabulary                    |
+| `npm run covers`          | Find a working cover image for each book (writes `data/covers.json`)                  |
+| `npm run review`          | Fact-check drafts; `-- --mark-checked` or `-- --approve <slug> --reviewer "Name"`     |
+| `npm run enrich`          | Add Hardcover ratings, pages, series and warnings (needs `HARDCOVER_TOKEN`)           |
+| `npm run discover -- 150` | List the most-read books we are missing (`--write` adds them to the catalogue)        |
+| `npm run trending`        | Refresh `data/trending.json` from Hardcover's API (needs `HARDCOVER_TOKEN`)           |
+| `npm run email -- <date>` | Render a weekly issue to HTML and text (see [docs/newsletter.md](docs/newsletter.md)) |
+| `npm run dev`             | Preview build plus `wrangler pages dev` (needs Wrangler)                              |
 
 ## How it works
 
@@ -33,76 +85,52 @@ data/ ──► scripts/build.js ──► dist/ ──► Cloudflare Pages
 ```
 
 No framework and no client-side rendering: every page is real HTML, and a few small scripts add
-filters, search suggestions and the saved shelf. Icons are inlined Lucide SVGs.
-
-## Quick start
-
-Requires Node.js 24 or newer (see [.nvmrc](.nvmrc)).
-
-```bash
-npm ci
-npm run check        # lint, format check, data validation, tests
-npm run build:preview
-```
-
-`build:preview` includes draft books and marks every page `noindex`. Run `npm run serve` to look at
-`dist/` with search and store redirects working (design notes: [docs/design.md](docs/design.md)). `npm run build` is the production build and publishes `reviewed` and `checked`
-books (about 1,200 pages and 1,000 share cards).
-
-| Command                   | What it does                                                                       |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| `npm run check`           | Lint, format check, data validation and tests (what CI runs)                       |
-| `npm run build`           | Production build to `dist/` (reviewed and checked books)                           |
-| `npm run build:preview`   | Preview build including drafts, `noindex`                                          |
-| `npm run validate`        | Validate every record in `data/` against the schema and vocab                      |
-| `npm run email -- <date>` | Render a weekly issue to HTML and text (see docs/newsletter.md)                    |
-| `npm run review`          | Fact-check drafts; `-- --mark-checked` or `-- --approve <slug> --reviewer "Name"`  |
-| `npm run enrich`          | Add Hardcover ratings, pages, series and reader warnings (needs HARDCOVER_TOKEN)   |
-| `npm run discover -- 150` | List the most-read books we are missing (`--write` adds them to the catalogue)     |
-| `npm run trending`        | Refresh data/trending.json from Hardcover's API (needs HARDCOVER_TOKEN)            |
-| `npm run verify:isbns`    | Cross-check each ISBN against Open Library and Google Books                        |
-| `npm run seo`             | Audit the built site for SEO, structured data, links and sitemap (see docs/seo.md) |
-| `npm run covers`          | Find a working cover image for each book (writes data/covers.json)                 |
-| `npm run serve`           | Serve `dist/` on http://127.0.0.1:8788 with `/api/*` and `/go/*` working locally   |
-| `npm run dev`             | Preview build plus `wrangler pages dev` (needs local Wrangler)                     |
+filters, search, the feeling picker and the saved shelf. Icons are inlined Lucide SVGs. Background
+paintings are public domain, from the Art Institute of Chicago.
 
 ## Repository layout
 
 | Path                     | Purpose                                                              |
 | ------------------------ | -------------------------------------------------------------------- |
 | `data/books/`            | One JSON record per book: facts plus our editorial layer             |
-| `data/series/`           | Reading-order lists                                                  |
-| `data/vocab/`            | The fixed vocabulary of moods, tropes and content warnings           |
+| `data/light/`            | Facts-only listings for more of the most-read books (not indexed)    |
+| `data/vocab/`            | Fixed vocabulary: genres, moods, tropes, content warnings, feelings  |
 | `data/schema/`           | JSON Schema for book records                                         |
 | `config/stores.json`     | Every retailer: URL templates, commission, cookie window             |
-| `config/affiliates.json` | Public affiliate IDs (blank until approved)                          |
-| `src/shared/`            | Code shared by the build and the edge function (links, offers, ISBN) |
+| `config/affiliates.json` | Public affiliate IDs (blank until a program approves us)             |
 | `src/site/`              | Page templates and data loading                                      |
-| `src/assets/`            | CSS and the small browser scripts (site, browse, shelf, share)       |
-| `functions/`             | Cloudflare Pages Functions (`/go/...`, `/api/subscribe`)             |
-| `migrations/`            | D1 database migrations                                               |
-| `scripts/`               | Build, validation and ISBN verification                              |
+| `src/assets/`            | CSS, browser scripts, brand images (`brand/`) and paintings (`bg/`)  |
+| `src/shared/`            | Code shared by the build and the edge functions                      |
+| `functions/`             | Cloudflare Pages Functions (`/go/...`, `/api/...`)                   |
+| `scripts/`               | Build, setup, validation, SEO audit and catalogue tools              |
 | `tests/`                 | Unit tests (`node --test`)                                           |
-| `data/catalogue/`        | The 500-book list with ISBNs and sales estimates                     |
-| `docs/`                  | Product, catalogue, architecture, editorial guide, deployment        |
+| `docs/`                  | Product, architecture, design, SEO, catalogue, editorial, deployment |
 
 ## Adding a book
 
-Read the [editorial guide](docs/editorial-guide.md). In short: copy an existing file in
-`data/books/`, write original text, keep `status: "draft"`, run `npm run review -- <slug>`, then have a
-person check it against two public sources before setting `status: "reviewed"`.
+Read the [editorial guide](docs/editorial-guide.md). In short: copy a file in `data/books/`, write
+original text, keep `status: "draft"`, run `npm run review -- <slug>`, then have a person check it
+against two public sources before setting `status: "reviewed"`.
 
 ## Configuration and secrets
 
-Copy [.env.example](.env.example) to `.env`. `.env` is git-ignored and is only used by local scripts.
-The deployed site's one secret, `EMAIL_API_KEY` for the sign-up form, is a Cloudflare Pages secret. Deploy credentials live in GitHub repository secrets. See
-[docs/deployment.md](docs/deployment.md).
+`npm run setup` creates `.env` from [.env.example](.env.example). `.env` is git-ignored and only
+used by local data-refresh scripts, so you can leave it empty to run the site. The deployed site's
+one secret, `EMAIL_API_KEY` for the sign-up form, is a Cloudflare Pages secret, and deploy
+credentials live in GitHub repository secrets. See [docs/deployment.md](docs/deployment.md).
 
 ## Ground rules
 
-- No scraping of retailer or competitor pages. Facts come from open sources, text is ours.
+- Original text only. No scraping of retailer or competitor pages; facts come from open sources.
 - No hosting of, or links to, pirated copies.
-- Sponsored placements, if ever added, are labelled and never mixed into mood results.
+- Affiliate links are disclosed next to the buttons and never change which books we recommend.
+- Ratings come from Hardcover readers and are credited as text, never linked.
+
+## Changing the logo
+
+The master is `src/assets/brand/logo.png`. `node scripts/make-brand.mjs` regenerates the favicon,
+app icons and link-preview image from it. The transparent mascot used in the header,
+`src/assets/brand/mark.png`, is cut from the logo and committed.
 
 ## Contributing and security
 
@@ -111,3 +139,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
 ## License
 
 All rights reserved. No license has been granted yet; see [CONTRIBUTING.md](CONTRIBUTING.md).
+Logo and brand images are the property of the project owner. Background paintings are public domain
+(see `/about/credits/` on the site).

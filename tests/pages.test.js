@@ -60,7 +60,12 @@ test('book page offers a share card and sets link-preview metadata', () => {
   );
   assert.ok(html.includes('twitter:card'));
   assert.ok(html.includes('/assets/share.js'));
-  assert.ok(!homePage(ctx).includes('og:image'), 'only book pages carry a card');
+  // Pages without a card of their own fall back to the brand image for link previews.
+  assert.ok(
+    homePage(ctx).includes('content="https://example.test/assets/brand/og-default.png"'),
+    'other pages use the default brand preview',
+  );
+  assert.ok(!homePage(ctx).includes('/share/'), 'but never a book share card');
 });
 
 test('preview builds are noindex, production builds are not', () => {

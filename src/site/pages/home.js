@@ -168,6 +168,12 @@ ${categories}
           '@id': `${site.url}/#org`,
           name: site.name,
           url: site.url,
+          logo: {
+            '@type': 'ImageObject',
+            url: `${site.url}/assets/brand/icon-512.png`,
+            width: 512,
+            height: 512,
+          },
           description:
             'A book discovery site that matches books to how you feel and how you want to feel, and shows every way to borrow, buy or listen.',
         },

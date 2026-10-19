@@ -1,0 +1,13 @@
+{
+  "name": "ReadYourMood",
+  "short_name": "ReadYourMood",
+  "description": "Books for wherever your mind is.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf9ee",
+  "theme_color": "#f3f1ec",
+  "icons": [
+    { "src": "/assets/brand/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
