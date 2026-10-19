@@ -7,7 +7,11 @@ import { HOME } from './backdrops.js';
  * @typedef {{name: string, url: string, preview: boolean}} Site
  */
 
-const LOGO = `<svg class="brand__mark" viewBox="0 0 32 32" width="34" height="34" aria-hidden="true" focusable="false"><path d="M16 8.5C13.5 6.6 9.6 6 5 6.6v16.8c4.6-.6 8.5 0 11 1.9 2.5-1.9 6.4-2.5 11-1.9V6.6c-4.600-.6-8.500 0-11 1.900zM16 8.500v16.800" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+const LOGO = `<img class="brand__mark" src="/assets/brand/mark.png" width="44" height="44" alt="" decoding="async">`;
+
+/** "ReadYourMood" is set with "Your" in the logo's coral; any other name is plain. */
+const wordmark = (name) =>
+  name === 'ReadYourMood' ? 'Read<b class="brand__your">Your</b>Mood' : esc(name);
 
 /** Wraps page content in the shared document shell. */
 export function layout({
@@ -28,7 +32,10 @@ export function layout({
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">`
-    : '<meta name="twitter:card" content="summary">';
+    : `<meta property="og:image" content="${esc(site.url)}/assets/brand/og-default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">`;
   // The site name is added only when the whole title still fits in a search result (about 60 characters).
   const withName = `${title} | ${site.name}`;
   const fullTitle = path === '/' || withName.length > 60 ? title : withName;
@@ -86,7 +93,9 @@ ${robots}
 ${social}
 <meta name="theme-color" content="#f8f4ea">
 <meta name="color-scheme" content="light dark">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/brand/icon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://covers.openlibrary.org">
@@ -100,7 +109,7 @@ ${ld}
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap site-bar">
-    <a class="brand" href="/">${LOGO}<span>${esc(site.name)}</span></a>
+    <a class="brand" href="/">${LOGO}<span>${wordmark(site.name)}</span></a>
     <nav class="nav" aria-label="Main">
       <a href="/">Home</a>
       <a href="/books/">Explore</a>
@@ -121,7 +130,7 @@ ${crumbNav}${body}
 <footer class="site-footer" data-bg="${HOME.footer}">
   <div class="wrap footer__grid">
     <div>
-      <p class="brand brand--footer">${LOGO}<span>${esc(site.name)}</span></p>
+      <p class="brand brand--footer">${LOGO}<span>${wordmark(site.name)}</span></p>
       <p class="muted">Pick a book by how you want to feel, then see every way to borrow, buy or listen to it. Library first, always.</p>
     </div>
     <nav aria-label="Explore">

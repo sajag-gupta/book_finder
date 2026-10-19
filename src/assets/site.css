@@ -2512,3 +2512,17 @@ a.tag:hover {
 .nav a {
   white-space: nowrap;
 }
+
+/* ---------- Logo ---------- */
+.brand__mark {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+.brand__your {
+  font-weight: inherit;
+  color: #d9735a;
+}
+.brand {
+  color: var(--ink);
+}
