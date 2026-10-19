@@ -32,7 +32,7 @@ const NAMED = {
     footer: find('nocturne'),
   },
   moods: {
-    cozy: find('reading'),
+    cozy: find('poet-s-garden'),
     comforting: find('window-overlooking'),
     swoony: find('bathers'),
     adventurous: find('cotopaxi'),

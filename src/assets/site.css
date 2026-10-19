@@ -2236,7 +2236,7 @@ a.tag:hover {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: rgb(14 13 11 / 55%);
+  background: rgb(14 13 11 / 42%);
 }
 .bgband {
   margin-block: clamp(1.5rem, 4vw, 3rem);
@@ -2403,4 +2403,41 @@ a.tag:hover {
   .card:hover .cover {
     transform: translateY(-4px) scale(1.01);
   }
+}
+
+/* ---------- Polish ---------- */
+.chips--small {
+  grid-template-columns: repeat(auto-fit, minmax(min(15rem, 100%), 1fr));
+}
+.chip__name {
+  white-space: normal;
+}
+.book__hero[data-bg] {
+  position: relative;
+  isolation: isolate;
+  color: #fff;
+  overflow: hidden;
+}
+.book__hero[data-bg]::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: rgb(14 13 11 / 52%);
+}
+.book__hero[data-bg] h1,
+.book__hero[data-bg] .byline,
+.book__hero[data-bg] .byline a,
+.book__hero[data-bg] .summary,
+.book__hero[data-bg] .kicker,
+.book__hero[data-bg] .facts dt,
+.book__hero[data-bg] .facts dd,
+.book__hero[data-bg] .muted,
+.book__hero[data-bg] .rating,
+.book__hero[data-bg] .checked {
+  color: #fff;
+}
+.book__hero[data-bg] .btn--ghost {
+  color: #fff;
+  border-color: #fff;
 }

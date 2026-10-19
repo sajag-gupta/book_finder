@@ -198,28 +198,6 @@
     "saved": "2026-10-17T17:02:29.007Z"
   },
   {
-    "file": "src/assets/bg/reading.jpg",
-    "media": "image",
-    "ref": "aic:106718",
-    "title": "Reading",
-    "creator": "James McNeill Whistler",
-    "creatorUrl": null,
-    "date": "1879, published 1887",
-    "license": "public domain (CC0)",
-    "licenseCode": "cc0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "creditRequired": false,
-    "page": "https://www.artic.edu/artworks/106718",
-    "via": "Art Institute of Chicago",
-    "image": "https://www.artic.edu/iiif/2/435debf6-56a6-a587-6260-ae2fdff4dcb7/full/1100,/0/default.jpg",
-    "width": 1100,
-    "height": 817,
-    "bytes": 285393,
-    "credit": "\"Reading\" by James McNeill Whistler, 1879, published 1887, public domain (CC0), via Art Institute of Chicago",
-    "notes": [],
-    "saved": "2026-10-17T17:02:30.902Z"
-  },
-  {
     "file": "src/assets/bg/bathers-in-a-forest.jpg",
     "media": "image",
     "ref": "aic:186400",

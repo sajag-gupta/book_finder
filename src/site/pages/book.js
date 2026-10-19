@@ -1,6 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
+import { backdropFor } from '../backdrops.js';
 import { cardGrid, cover, saveButton } from '../components.js';
 import { goPath } from '../../shared/links.js';
 import { allStores } from '../../shared/registry.js';
@@ -213,7 +214,7 @@ export function bookPage(ctx, book) {
 
   const body = `<article class="wrap book">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a>${icon('chevron-right', { size: 14 })}${primary ? `<a href="/genres/${esc(primary.slug)}/">${esc(primary.name)}</a>${icon('chevron-right', { size: 14 })}` : ''}<span aria-current="page">${esc(book.title)}</span></nav>
-<div class="book__hero">
+<div class="book__hero" data-bg="${backdropFor(book.slug, book.moods[0])}">
   <div class="book__cover">${cover(book, { size: 'L', width: 220, height: 330, eager: true })}</div>
   <div class="book__intro">
     <p class="kicker">${book.genres.map((g) => esc(ctx.genre(g)?.name ?? g)).join(' · ')}</p>
