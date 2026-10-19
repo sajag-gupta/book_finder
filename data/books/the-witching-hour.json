@@ -16,9 +16,12 @@
   "skipIf": "you want brisk horror, or you are uncomfortable with incest and sexual violence in the history.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781299010888",
+    "https://hardcover.app/books/the-witching-hour"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

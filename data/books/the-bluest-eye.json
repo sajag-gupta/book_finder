@@ -16,9 +16,13 @@
   "skipIf": "you want to avoid graphic depictions of child abuse and sexual violence.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780452287068",
+    "https://en.wikipedia.org/wiki/The_Bluest_Eye",
+    "https://hardcover.app/books/the-bluest-eye"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -1,6 +1,7 @@
 import { esc, jsonLd } from './html.js';
 import { icon } from './icons.js';
 import { searchForm, signupForm } from './components.js';
+import { HOME } from './backdrops.js';
 
 /**
  * @typedef {{name: string, url: string, preview: boolean}} Site
@@ -83,7 +84,7 @@ ${robots}
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
 ${social}
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#f8f4ea">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -117,7 +118,7 @@ ${ld}
 <main id="main">
 ${crumbNav}${body}
 </main>
-<footer class="site-footer">
+<footer class="site-footer" data-bg="${HOME.footer}">
   <div class="wrap footer__grid">
     <div>
       <p class="brand brand--footer">${LOGO}<span>${esc(site.name)}</span></p>
@@ -129,7 +130,7 @@ ${crumbNav}${body}
     </nav>
     <nav aria-label="About">
       <h2 class="footer__h">About</h2>
-      <ul><li><a href="/about/how-we-pick/">How we pick</a></li><li><a href="/about/affiliate-disclosure/">Affiliate disclosure</a></li></ul>
+      <ul><li><a href="/about/how-we-pick/">How we pick</a></li><li><a href="/about/affiliate-disclosure/">Affiliate disclosure</a></li><li><a href="/about/credits/">Image credits</a></li></ul>
     </nav>
     <div>
       <h2 class="footer__h">Weekly email</h2>
@@ -138,7 +139,7 @@ ${crumbNav}${body}
   </div>
   <div class="wrap footer__legal">
     <p>Some links on this site are affiliate links: if you buy through them we may earn a small commission at no extra cost to you. It never changes which books we recommend.</p>
-    <p>Cover images are provided by Open Library. Reader ratings and reader-reported content warnings come from Hardcover readers. All descriptions and recommendations are written by us.</p>
+    <p>Cover images are provided by Open Library. Reader ratings and reader-reported content warnings come from Hardcover readers. All descriptions and recommendations are written by us. Background paintings are public domain, from the Art Institute of Chicago (<a href="/about/credits/">credits</a>).</p>
   </div>
 </footer>
 ${scriptTags}

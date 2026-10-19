@@ -16,9 +16,12 @@
   "skipIf": "you are bothered by detailed accounts of sexual violence and murder.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780571345168",
+    "https://en.wikipedia.org/wiki/I'll_Be_Gone_in_the_Dark"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

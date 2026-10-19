@@ -16,9 +16,12 @@
   "skipIf": "you want deep evidence or detailed management tactics.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781101148204",
+    "https://en.wikipedia.org/wiki/Start_with_Why"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

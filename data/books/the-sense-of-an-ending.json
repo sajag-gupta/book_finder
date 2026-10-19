@@ -16,9 +16,13 @@
   "skipIf": "you want a lot of action, or a hopeful, cosy story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780099570332",
+    "https://en.wikipedia.org/wiki/The_Sense_of_an_Ending",
+    "https://hardcover.app/books/the-sense-of-an-ending"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

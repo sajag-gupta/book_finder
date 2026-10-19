@@ -16,9 +16,13 @@
   "skipIf": "you are hoping for magic or a light, comforting read like the author's wizard books.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780316228596",
+    "https://en.wikipedia.org/wiki/The_Casual_Vacancy",
+    "https://hardcover.app/books/the-casual-vacancy"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

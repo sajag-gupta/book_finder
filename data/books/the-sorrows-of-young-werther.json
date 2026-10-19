@@ -16,9 +16,13 @@
   "skipIf": "you find suicide a difficult subject to read about.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781681951973",
+    "https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther",
+    "https://hardcover.app/books/the-sorrows-of-young-werther-1774"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

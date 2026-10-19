@@ -16,9 +16,13 @@
   "skipIf": "you want upbeat characters or a light, simple story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780316462433",
+    "https://en.wikipedia.org/wiki/Revelation_Space",
+    "https://hardcover.app/books/revelation-space"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

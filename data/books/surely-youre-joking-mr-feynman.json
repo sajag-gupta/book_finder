@@ -16,9 +16,12 @@
   "skipIf": "you want a rigorous account of physics or an even-handed portrait of the author.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781784877798",
+    "https://en.wikipedia.org/wiki/Surely_You're_Joking%2C_Mr._Feynman!"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

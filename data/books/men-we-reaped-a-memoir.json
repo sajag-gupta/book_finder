@@ -16,9 +16,12 @@
   "skipIf": "you are not ready for sustained sadness and loss.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781608195213",
+    "https://hardcover.app/books/men-we-reaped"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

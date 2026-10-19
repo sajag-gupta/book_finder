@@ -16,9 +16,12 @@
   "skipIf": "you want a rigorous psychology text, since the book leans on anecdote and popular summary.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780307352149",
+    "https://en.wikipedia.org/wiki/Quiet%3A_The_Power_of_Introverts_in_a_World_That_Can't_Stop_Talking"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

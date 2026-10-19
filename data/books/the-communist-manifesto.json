@@ -16,9 +16,13 @@
   "skipIf": "you want a balanced evaluation or an explanation of how it played out in practice.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781420954005",
+    "https://en.wikipedia.org/wiki/The_Communist_Manifesto",
+    "https://hardcover.app/books/the-communist-manifesto"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

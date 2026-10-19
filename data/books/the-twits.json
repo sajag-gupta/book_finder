@@ -16,9 +16,13 @@
   "skipIf": "you prefer gentle stories with kind characters.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780425290095",
+    "https://en.wikipedia.org/wiki/The_Twits",
+    "https://hardcover.app/books/the-twits"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

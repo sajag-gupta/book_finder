@@ -21,5 +21,6 @@ export {
   subscribedPage,
   howWePickPage,
   disclosurePage,
+  creditsPage,
   notFoundPage,
 } from './pages/lists.js';

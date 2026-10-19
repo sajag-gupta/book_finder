@@ -62,6 +62,7 @@ page('/genres/', pages.genresIndexPage(ctx));
 page('/tropes/', pages.tropesIndexPage(ctx));
 page('/about/how-we-pick/', pages.howWePickPage(ctx));
 page('/about/affiliate-disclosure/', pages.disclosurePage(ctx));
+page('/about/credits/', pages.creditsPage(ctx));
 page('/shelf/', pages.shelfPage(ctx), { listed: false });
 page('/b/', pages.lookupPage(ctx), { listed: false });
 page('/subscribed/', pages.subscribedPage(ctx, true), { listed: false });

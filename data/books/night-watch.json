@@ -16,9 +16,13 @@
   "skipIf": "you want the lighter, purely comic side of Discworld.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780753140505",
+    "https://en.wikipedia.org/wiki/Night_Watch_(Pratchett_novel)",
+    "https://hardcover.app/books/night-watch"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

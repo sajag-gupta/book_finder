@@ -16,9 +16,12 @@
   "skipIf": "you prefer romance with little explicit content or a more realistic view of academia.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781408725795",
+    "https://hardcover.app/books/love-theoretically"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

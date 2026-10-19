@@ -16,9 +16,12 @@
   "skipIf": "you want an up-to-date picture, since the book stops around 2015.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780753555644",
+    "https://en.wikipedia.org/wiki/Elon_Musk"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

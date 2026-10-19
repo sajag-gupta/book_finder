@@ -16,9 +16,13 @@
   "skipIf": "you are squeamish about bodies or the detail of how they are used.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780393069198",
+    "https://en.wikipedia.org/wiki/Stiff%3A_The_Curious_Lives_of_Human_Cadavers",
+    "https://hardcover.app/books/stiff-the-curious-lives-of-human-cadavers"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

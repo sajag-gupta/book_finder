@@ -16,9 +16,13 @@
   "skipIf": "you want the sparkle and quick wit of Pride and Prejudice.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780199535538",
+    "https://en.wikipedia.org/wiki/Mansfield_Park",
+    "https://hardcover.app/books/mansfield-park"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a deep theory text rather than anecdotes and workplace examples.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593395783",
+    "https://en.wikipedia.org/wiki/Think_Again",
+    "https://hardcover.app/books/think-again"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

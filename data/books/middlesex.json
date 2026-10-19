@@ -16,9 +16,13 @@
   "skipIf": "you prefer short novels or are uneasy about a story centred on a gene and family incest.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780312422158",
+    "https://en.wikipedia.org/wiki/Middlesex_(novel)",
+    "https://hardcover.app/books/middlesex"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

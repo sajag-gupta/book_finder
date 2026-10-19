@@ -16,9 +16,13 @@
   "skipIf": "you want research-heavy management theory.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781250103505",
+    "https://en.wikipedia.org/wiki/Radical_Candor",
+    "https://hardcover.app/books/radical-candor"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

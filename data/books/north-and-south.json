@@ -16,9 +16,13 @@
   "skipIf": "you want modern pacing and a quick resolution between the leads.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781546926399",
+    "https://en.wikipedia.org/wiki/North_and_South_(Gaskell_novel)",
+    "https://hardcover.app/books/north-and-south"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

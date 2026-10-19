@@ -16,9 +16,13 @@
   "skipIf": "you are sensitive to stories of captivity and abuse.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781554688326",
+    "https://en.wikipedia.org/wiki/Room_(novel)",
+    "https://hardcover.app/books/room"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

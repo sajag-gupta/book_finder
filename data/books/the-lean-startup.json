@@ -16,9 +16,12 @@
   "skipIf": "you work in a large established firm and want detailed management guidance.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780670921621",
+    "https://en.wikipedia.org/wiki/The_Lean_Startup"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

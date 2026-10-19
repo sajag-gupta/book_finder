@@ -16,9 +16,13 @@
   "skipIf": "you want fast plotting or a story with big dramatic events.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780586037300",
+    "https://en.wikipedia.org/wiki/Wives_and_Daughters",
+    "https://hardcover.app/books/wives-and-daughters"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

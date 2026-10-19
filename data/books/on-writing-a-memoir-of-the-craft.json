@@ -16,9 +16,13 @@
   "skipIf": "you want a formal writing course or you dislike King's blunt opinions.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781848941083",
+    "https://en.wikipedia.org/wiki/On_Writing%3A_A_Memoir_of_the_Craft",
+    "https://hardcover.app/books/on-writing"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

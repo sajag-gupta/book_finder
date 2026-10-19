@@ -16,9 +16,13 @@
   "skipIf": "you prefer lean, fast horror or would be starting the series here.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780517052273",
+    "https://en.wikipedia.org/wiki/The_Queen_of_the_Damned",
+    "https://hardcover.app/books/the-queen-of-the-damned"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a continuous story or serious, polished verse.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060586539",
+    "https://en.wikipedia.org/wiki/Where_the_Sidewalk_Ends",
+    "https://hardcover.app/books/where-the-sidewalk-ends"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

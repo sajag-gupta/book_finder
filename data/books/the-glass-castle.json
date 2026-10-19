@@ -16,9 +16,13 @@
   "skipIf": "you find stories of childhood neglect and poverty too upsetting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781416544661",
+    "https://en.wikipedia.org/wiki/The_Glass_Castle",
+    "https://hardcover.app/books/the-glass-castle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

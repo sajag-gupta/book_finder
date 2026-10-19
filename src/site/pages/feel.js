@@ -1,6 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
+import { backdropFor } from '../backdrops.js';
 import { cardGrid, moodChip, sectionHead } from '../components.js';
 
 const MAX_BOOKS = 36;
@@ -63,7 +64,7 @@ export function feelHubPage(ctx) {
     description:
       'Tell us how you feel today and how you want to feel. Get books chosen for that shift, with every way to borrow, buy or listen.',
     body: `<section class="wrap page">
-<header class="pagehead"><p class="kicker">Start here</p><h1>How do you feel, and how do you want to?</h1>
+<header class="pagehead" data-bg="${backdropFor('feel', 'cozy')}"><p class="kicker">Start here</p><h1>How do you feel, and how do you want to?</h1>
 <p class="lede">A book is a small way to change your day. Say where you are and where you would like to be, and we will point you to the right shelf.</p></header>
 ${feelPicker(ctx)}
 <section class="section vibe" data-vibe>
@@ -115,7 +116,7 @@ export function feelingPage(ctx, feeling) {
     title: `What to read when you feel ${name}`,
     description: `${feeling.blurb} Books chosen for when you feel ${name}, grouped by how you would like to feel next.`,
     body: `<section class="wrap page">
-<header class="pagehead"><span class="pagehead__icon">${icon(feeling.icon, { size: 30 })}</span><p class="kicker">When you feel ${esc(name)}</p><h1>What to read when you feel ${esc(name)}</h1>
+<header class="pagehead" data-bg="${backdropFor(feeling.slug, feeling.wants[0]?.mood)}"><span class="pagehead__icon">${icon(feeling.icon, { size: 30 })}</span><p class="kicker">When you feel ${esc(name)}</p><h1>What to read when you feel ${esc(name)}</h1>
 <p class="lede">${esc(feeling.blurb)} Pick where you would like to end up and we will show you the books that get you there.</p></header>
 <section class="answer" aria-labelledby="answer-h"><h2 id="answer-h">What should I read when I feel ${esc(name)}?</h2><p>${esc(answer)}</p></section>
 ${sections}
@@ -162,7 +163,7 @@ export function feelPairPage(ctx, feeling, want) {
         158,
       ),
     body: `<section class="wrap page">
-<header class="pagehead"><p class="kicker">${esc(feeling.name)} to ${esc(mood.name)}</p><h1>${esc(title)}</h1>
+<header class="pagehead" data-bg="${backdropFor(want.mood, want.mood)}"><p class="kicker">${esc(feeling.name)} to ${esc(mood.name)}</p><h1>${esc(title)}</h1>
 <p class="lede">${esc(want.line)}</p></header>
 <section class="answer" aria-labelledby="answer-h"><h2 id="answer-h">What should I read when I feel ${esc(now)} and want to feel ${esc(to)}?</h2><p>${esc(pairAnswer)}</p></section>
 ${cardGrid(books, ctx)}

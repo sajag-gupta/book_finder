@@ -16,9 +16,13 @@
   "skipIf": "you want conventional sentences and a fast-moving plot.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780007718733",
+    "https://en.wikipedia.org/wiki/The_Shipping_News",
+    "https://hardcover.app/books/the-shipping-news"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

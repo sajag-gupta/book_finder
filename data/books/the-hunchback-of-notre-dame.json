@@ -16,9 +16,13 @@
   "skipIf": "you want the full novel with its long digressions on architecture and history.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780831714659",
+    "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame",
+    "https://hardcover.app/books/the-hunchback-of-notre-dame"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

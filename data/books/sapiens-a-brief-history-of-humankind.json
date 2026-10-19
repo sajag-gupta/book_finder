@@ -16,9 +16,13 @@
   "skipIf": "you want detailed, tightly sourced scholarship rather than broad, opinionated generalizations.",
   "soldMillions": 25,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781494556907",
+    "https://en.wikipedia.org/wiki/Sapiens%3A_A_Brief_History_of_Humankind",
+    "https://hardcover.app/books/sapiens"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

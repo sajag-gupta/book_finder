@@ -16,9 +16,12 @@
   "skipIf": "you prefer serious, high-tension romantic suspense with a gritty edge.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781250219398",
+    "https://hardcover.app/books/the-bodyguard-2022"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

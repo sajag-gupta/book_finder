@@ -16,9 +16,13 @@
   "skipIf": "you are not ready for first-hand accounts of camp life and its cruelty.",
   "soldMillions": 12,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781299562493",
+    "https://en.wikipedia.org/wiki/Man's_Search_for_Meaning",
+    "https://hardcover.app/books/mans-search-for-meaning"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a quiet story, since the cat's chaos is loud and mischievous.",
   "soldMillions": 10.5,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780394801711",
+    "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat",
+    "https://hardcover.app/books/the-cat-in-the-hat"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a light, uncomplicated love story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780140184952",
+    "https://en.wikipedia.org/wiki/The_End_of_the_Affair",
+    "https://hardcover.app/books/the-end-of-the-affair"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

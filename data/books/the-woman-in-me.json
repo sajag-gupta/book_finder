@@ -16,9 +16,13 @@
   "skipIf": "you want a balanced, outside investigation with multiple perspectives.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781668009062",
+    "https://en.wikipedia.org/wiki/The_Woman_in_Me",
+    "https://hardcover.app/books/the-woman-in-me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

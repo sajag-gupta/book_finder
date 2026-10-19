@@ -16,9 +16,12 @@
   "skipIf": "you want a neat mystery, since the story is bleak and its outcome incomplete.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593377345",
+    "https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

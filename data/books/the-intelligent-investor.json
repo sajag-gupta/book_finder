@@ -16,9 +16,13 @@
   "skipIf": "you want modern trading tips or an easy, quick read.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780694518012",
+    "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
+    "https://hardcover.app/books/the-intelligent-investor"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a training plan or lots of Murakami's fiction themes.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780307389831",
+    "https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running",
+    "https://hardcover.app/books/what-i-talk-about-when-i-talk-about-running"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

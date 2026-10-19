@@ -16,9 +16,13 @@
   "skipIf": "you want an action-led spy thriller.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780143039020",
+    "https://en.wikipedia.org/wiki/The_Quiet_American",
+    "https://hardcover.app/books/the-quiet-american"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

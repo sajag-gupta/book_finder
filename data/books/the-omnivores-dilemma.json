@@ -16,9 +16,13 @@
   "skipIf": "you want a diet plan or concrete recipes.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780803735002",
+    "https://en.wikipedia.org/wiki/The_Omnivore's_Dilemma",
+    "https://hardcover.app/books/the-omnivores-dilemma"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

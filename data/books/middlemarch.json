@@ -16,9 +16,13 @@
   "skipIf": "you prefer brisk plots, since it is long and digressive.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781544983790",
+    "https://en.wikipedia.org/wiki/Middlemarch",
+    "https://hardcover.app/books/middlemarch"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -62,6 +62,55 @@ for (const scroller of document.querySelectorAll('.scroller')) {
   update();
 }
 
+// ---------- Background paintings: set when a section nears the screen ----------
+{
+  const backs = [...document.querySelectorAll('[data-bg]')];
+  const show = (el) => {
+    el.style.backgroundImage = `url("${el.dataset.bg}")`;
+  };
+  if ('IntersectionObserver' in window) {
+    const watch = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+          show(entry.target);
+          watch.unobserve(entry.target);
+        }
+      },
+      { rootMargin: '700px 0px' },
+    );
+    for (const el of backs) watch.observe(el);
+  } else {
+    for (const el of backs) show(el);
+  }
+}
+
+// ---------- Entrances: parts of each section rise in as they come into view ----------
+{
+  const parts = [
+    ...document.querySelectorAll(
+      '.hero2__text > *, .moodstrip > *, .section__head, .sub, .scroller, .catcard, .steps li, .band, .pagehead > *, .answer, .pill, .feelcard, .trend',
+    ),
+  ];
+  if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const rise = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+          entry.target.classList.add('rise--in');
+          rise.unobserve(entry.target);
+        }
+      },
+      { rootMargin: '0px 0px -8% 0px' },
+    );
+    parts.forEach((el, i) => {
+      el.classList.add('rise');
+      el.style.setProperty('--d', `${(i % 6) * 70}ms`);
+      rise.observe(el);
+    });
+  }
+}
+
 // ---------- Covers: drop images that failed so the generated cover shows ----------
 for (const img of document.querySelectorAll('img[data-cover]')) {
   if (img.complete && img.naturalWidth === 0) img.remove();

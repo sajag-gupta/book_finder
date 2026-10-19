@@ -16,9 +16,12 @@
   "skipIf": "you want a quick, high-drama love story that gets to the point.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781515906070",
+    "https://hardcover.app/books/the-wall-of-winnipeg-and-me"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

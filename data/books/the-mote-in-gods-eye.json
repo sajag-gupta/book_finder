@@ -16,9 +16,13 @@
   "skipIf": "you want rounded characters and modern pacing rather than ideas-first 1970s storytelling.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780860079064",
+    "https://en.wikipedia.org/wiki/The_Mote_in_God's_Eye",
+    "https://hardcover.app/books/the-mote-in-gods-eye"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

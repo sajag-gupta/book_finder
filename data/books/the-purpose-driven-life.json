@@ -16,9 +16,13 @@
   "skipIf": "you want a non-religious approach to purpose or find devotional writing preachy.",
   "soldMillions": 50,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780310209072",
+    "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+    "https://hardcover.app/books/the-purpose-driven-life"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

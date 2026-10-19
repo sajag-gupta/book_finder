@@ -16,9 +16,13 @@
   "skipIf": "you need a lot of action or conventional character drama.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781473521391",
+    "https://en.wikipedia.org/wiki/The_Glass_Bead_Game",
+    "https://hardcover.app/books/the-glass-bead-game"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

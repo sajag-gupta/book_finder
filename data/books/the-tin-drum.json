@@ -16,9 +16,13 @@
   "skipIf": "you prefer realism or are uneasy with a morally repellent narrator and disturbing scenes.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780099540656",
+    "https://en.wikipedia.org/wiki/The_Tin_Drum",
+    "https://hardcover.app/books/the-tin-drum"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

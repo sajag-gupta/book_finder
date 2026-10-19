@@ -16,9 +16,13 @@
   "skipIf": "you want a graphic or in-depth account of the war.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780833552082",
+    "https://en.wikipedia.org/wiki/Number_the_Stars",
+    "https://hardcover.app/books/number-the-stars"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

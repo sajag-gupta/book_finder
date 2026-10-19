@@ -16,9 +16,13 @@
   "skipIf": "you want a longer, more complex poetry collection.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593465288",
+    "https://en.wikipedia.org/wiki/The_Hill_We_Climb",
+    "https://hardcover.app/books/the-hill-we-climb"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

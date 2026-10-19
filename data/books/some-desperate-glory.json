@@ -16,9 +16,13 @@
   "skipIf": "you want a light read, as it includes brutal violence and a bleak start.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780356517179",
+    "https://en.wikipedia.org/wiki/Some_Desperate_Glory_(novel)",
+    "https://hardcover.app/books/some-desperate-glory"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

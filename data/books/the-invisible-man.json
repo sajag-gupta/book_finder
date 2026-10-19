@@ -16,9 +16,13 @@
   "skipIf": "you want modern characters and detailed psychology.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781539551515",
+    "https://en.wikipedia.org/wiki/The_Invisible_Man",
+    "https://hardcover.app/books/the-invisible-man"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

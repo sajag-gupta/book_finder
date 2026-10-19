@@ -16,9 +16,13 @@
   "skipIf": "you want a short, tightly focused novel or dislike grisly horror in your science fiction.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780333634271",
+    "https://en.wikipedia.org/wiki/The_Reality_Dysfunction",
+    "https://hardcover.app/books/the-reality-dysfunction"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you are looking for a deep academic study of gender with data and theory.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781101872932",
+    "https://en.wikipedia.org/wiki/We_Should_All_Be_Feminists",
+    "https://hardcover.app/books/we-should-all-be-feminists"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

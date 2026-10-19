@@ -16,9 +16,13 @@
   "skipIf": "you prefer sincere, heartfelt memoir over dry exaggeration.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780748123032",
+    "https://en.wikipedia.org/wiki/Me_Talk_Pretty_One_Day",
+    "https://hardcover.app/books/me-talk-pretty-one-day"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

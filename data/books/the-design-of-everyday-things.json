@@ -16,9 +16,13 @@
   "skipIf": "you want visual design inspiration rather than a user-centered argument.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780262640374",
+    "https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things",
+    "https://hardcover.app/books/the-design-of-everyday-things"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

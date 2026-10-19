@@ -16,9 +16,12 @@
   "skipIf": "you want deep technical detail on cryptography or a short, fast read.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780008455842",
+    "https://hardcover.app/books/the-rose-code"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

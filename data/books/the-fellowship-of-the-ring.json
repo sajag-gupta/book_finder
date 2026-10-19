@@ -16,9 +16,13 @@
   "skipIf": "you want fast plotting, since the opening chapters and travel sections move leisurely.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780345248275",
+    "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+    "https://hardcover.app/books/the-fellowship-of-the-ring"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

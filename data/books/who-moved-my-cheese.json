@@ -16,9 +16,13 @@
   "skipIf": "you want depth or evidence, since the message is stated in a thin parable.",
   "soldMillions": 28,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780091816971",
+    "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F",
+    "https://hardcover.app/books/who-moved-my-cheese"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

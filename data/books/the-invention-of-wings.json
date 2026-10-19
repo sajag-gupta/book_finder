@@ -16,9 +16,12 @@
   "skipIf": "you prefer lighter reading or avoid depictions of slavery and cruelty.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781472212757",
+    "https://hardcover.app/books/the-invention-of-wings"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

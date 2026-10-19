@@ -16,9 +16,13 @@
   "skipIf": "you want complex plotting or a story without Christian allegory.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780006716655",
+    "https://en.wikipedia.org/wiki/The_Voyage_of_the_Dawn_Treader",
+    "https://hardcover.app/books/the-voyage-of-the-dawn-treader"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

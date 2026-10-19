@@ -16,9 +16,12 @@
   "skipIf": "you want a large collection of recipes or fast weeknight meals.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781782112303",
+    "https://en.wikipedia.org/wiki/Salt_Fat_Acid_Heat_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

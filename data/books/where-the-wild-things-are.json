@@ -16,9 +16,13 @@
   "skipIf": "you are looking for a detailed story with much text or plot.",
   "soldMillions": 20,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780064431781",
+    "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are",
+    "https://hardcover.app/books/where-the-wild-things-are"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

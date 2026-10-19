@@ -16,9 +16,13 @@
   "skipIf": "you find fiction about school violence too upsetting to read.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781741769036",
+    "https://en.wikipedia.org/wiki/Nineteen_Minutes",
+    "https://hardcover.app/books/nineteen-minutes"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

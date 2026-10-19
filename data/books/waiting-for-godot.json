@@ -16,9 +16,13 @@
   "skipIf": "you want a plot with events or resolution.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780660179810",
+    "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+    "https://hardcover.app/books/waiting-for-godot"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

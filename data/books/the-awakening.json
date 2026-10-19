@@ -16,9 +16,13 @@
   "skipIf": "you want a plot-driven story or a happy resolution.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781573920988",
+    "https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)",
+    "https://hardcover.app/books/the-awakening-by-kate-chopin-illustrated"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

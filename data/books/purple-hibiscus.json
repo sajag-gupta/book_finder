@@ -16,9 +16,13 @@
   "skipIf": "you want to avoid scenes of domestic violence and religious strictness.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780007272358",
+    "https://en.wikipedia.org/wiki/Purple_Hibiscus",
+    "https://hardcover.app/books/purple-hibiscus"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

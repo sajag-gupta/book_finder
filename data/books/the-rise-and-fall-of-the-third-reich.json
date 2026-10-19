@@ -16,9 +16,13 @@
   "skipIf": "you want recent scholarship or a short introduction, since it is long and dates from 1960.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780449209363",
+    "https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich",
+    "https://hardcover.app/books/the-rise-and-fall-of-the-third-reich"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

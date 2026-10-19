@@ -16,9 +16,13 @@
   "skipIf": "you want empirical research or a range of views, as it is a single-argument essay.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781974923403",
+    "https://en.wikipedia.org/wiki/White_Fragility",
+    "https://hardcover.app/books/white-fragility"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

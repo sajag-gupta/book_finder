@@ -16,9 +16,13 @@
   "skipIf": "you want gritty war fiction or fast plotting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781408412374",
+    "https://en.wikipedia.org/wiki/The_Guernsey_Literary_and_Potato_Peel_Pie_Society",
+    "https://hardcover.app/books/the-guernsey-literary-and-potato-peel-pie-society"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

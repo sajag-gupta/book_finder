@@ -1,6 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
+import { backdropFor } from '../backdrops.js';
 import { cardGrid, pageCount, pageHref, pageSlice, pager } from '../components.js';
 
 const LENGTHS = [
@@ -57,7 +58,7 @@ export function browsePage(ctx, pageNum = 1) {
 </form>`;
 
   const body = `<section class="wrap page page--browse">
-  <header class="pagehead"><p class="kicker">The whole catalogue</p><h1>Browse all books</h1>
+  <header class="pagehead" data-bg="${backdropFor('browse')}"><p class="kicker">The whole catalogue</p><h1>Browse all books</h1>
   <p class="lede">Filter by genre, mood, length and pace, or hide content you would rather avoid.</p></header>
   <div class="browse">
     <aside class="browse__side">${filters}</aside>

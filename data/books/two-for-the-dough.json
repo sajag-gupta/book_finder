@@ -16,9 +16,13 @@
   "skipIf": "you like realistic procedural detail and careful plotting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780671001797",
+    "https://en.wikipedia.org/wiki/Two_for_the_Dough",
+    "https://hardcover.app/books/two-for-the-dough"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

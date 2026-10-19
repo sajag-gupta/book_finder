@@ -16,9 +16,12 @@
   "skipIf": "you find archaic language and heavy gloom off-putting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781496153715",
+    "https://en.wikipedia.org/wiki/The_Raven"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

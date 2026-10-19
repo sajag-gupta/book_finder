@@ -16,9 +16,13 @@
   "skipIf": "you want deep historical detail or a politically neutral treatment.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780804190114",
+    "https://en.wikipedia.org/wiki/On_Tyranny",
+    "https://hardcover.app/books/on-tyranny"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

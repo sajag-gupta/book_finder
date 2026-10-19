@@ -16,9 +16,13 @@
   "skipIf": "you want a hopeful story, as the family's troubles pile up.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780252014949",
+    "https://en.wikipedia.org/wiki/The_Jungle",
+    "https://hardcover.app/books/the-jungle"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

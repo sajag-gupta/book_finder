@@ -16,9 +16,12 @@
   "skipIf": "you want a balanced profile of the technology or a book about startup lessons.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781509868063",
+    "https://hardcover.app/books/bad-blood"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

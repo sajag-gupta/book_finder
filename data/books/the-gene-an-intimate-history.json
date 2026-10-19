@@ -16,9 +16,13 @@
   "skipIf": "you want a short, technical or purely practical guide to genetics.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781432837815",
+    "https://en.wikipedia.org/wiki/The_Gene%3A_An_Intimate_History",
+    "https://hardcover.app/books/the-gene"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

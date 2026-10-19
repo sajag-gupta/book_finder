@@ -16,9 +16,13 @@
   "skipIf": "you want a warm, sentimental school story.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060923983",
+    "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie_(novel)",
+    "https://hardcover.app/books/the-prime-of-miss-jean-brodie"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

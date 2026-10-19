@@ -16,9 +16,12 @@
   "skipIf": "you want rich fiction or a modern take on software and service work.",
   "soldMillions": 10,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781565114241",
+    "https://hardcover.app/books/the-goal-a-process-of-ongoing-improvement"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

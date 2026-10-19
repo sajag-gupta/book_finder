@@ -16,9 +16,13 @@
   "skipIf": "you want technical detail on AI or find sweeping generalisations frustrating.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780593734247",
+    "https://en.wikipedia.org/wiki/Nexus%3A_A_Brief_History_of_Information_Networks_from_the_Stone_Age_to_AI",
+    "https://hardcover.app/books/nexus-ai"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

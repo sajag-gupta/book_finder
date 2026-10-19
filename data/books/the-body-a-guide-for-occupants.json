@@ -16,9 +16,13 @@
   "skipIf": "you want a deep clinical text or practical health advice for your own body.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780385685740",
+    "https://en.wikipedia.org/wiki/The_Body%3A_A_Guide_for_Occupants",
+    "https://hardcover.app/books/the-body"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

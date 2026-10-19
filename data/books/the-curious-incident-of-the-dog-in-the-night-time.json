@@ -16,9 +16,13 @@
   "skipIf": "you want a tightly plotted whodunit with a satisfying puzzle.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781101911617",
+    "https://en.wikipedia.org/wiki/The_Curious_Incident_of_the_Dog_in_the_Night-Time",
+    "https://hardcover.app/books/the-curious-incident-of-the-dog-in-the-night-time"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you are freshly bereaved and want comfort rather than unflinching analysis.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780007318001",
+    "https://en.wikipedia.org/wiki/The_Year_of_Magical_Thinking",
+    "https://hardcover.app/books/the-year-of-magical-thinking"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

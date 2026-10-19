@@ -16,9 +16,13 @@
   "skipIf": "you want tidy worldbuilding and answers explained plainly.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780547572697",
+    "https://en.wikipedia.org/wiki/Ubik",
+    "https://hardcover.app/books/ubik"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

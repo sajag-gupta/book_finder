@@ -16,9 +16,12 @@
   "skipIf": "you want a light read or find Holocaust-era violence too heavy.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780062887917",
+    "https://hardcover.app/books/the-huntress"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

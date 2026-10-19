@@ -16,9 +16,13 @@
   "skipIf": "you want a dense, character-led story with little technical speculation.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780812536362",
+    "https://en.wikipedia.org/wiki/Rainbows_End_(Vinge_novel)",
+    "https://hardcover.app/books/rainbows-end"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

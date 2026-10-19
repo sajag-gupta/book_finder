@@ -16,9 +16,13 @@
   "skipIf": "you have not read the first book or dislike graphic war violence.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780062662613",
+    "https://en.wikipedia.org/wiki/The_Dragon_Republic",
+    "https://hardcover.app/books/the-dragon-republic"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

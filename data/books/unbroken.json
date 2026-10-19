@@ -16,9 +16,12 @@
   "skipIf": "you cannot read detailed accounts of wartime cruelty and torture.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781984818447",
+    "https://en.wikipedia.org/wiki/Unbroken_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

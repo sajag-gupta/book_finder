@@ -16,9 +16,12 @@
   "skipIf": "you want a neutral overview of religion or are not receptive to apologetics.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780006280545",
+    "https://en.wikipedia.org/wiki/Mere_Christianity"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want fast action and rounded human characters above ideas.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780449228838",
+    "https://en.wikipedia.org/wiki/The_Gods_Themselves",
+    "https://hardcover.app/books/the-gods-themselves"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

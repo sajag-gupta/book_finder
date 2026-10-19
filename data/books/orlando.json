@@ -16,9 +16,13 @@
   "skipIf": "you need a conventional plot and a fixed historical setting.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780143138372",
+    "https://en.wikipedia.org/wiki/Orlando",
+    "https://hardcover.app/books/orlando"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

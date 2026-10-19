@@ -16,9 +16,12 @@
   "skipIf": "you want cautious science, as some of its claims have been criticised.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781508279310",
+    "https://en.wikipedia.org/wiki/Why_We_Sleep"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

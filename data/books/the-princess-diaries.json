@@ -16,9 +16,13 @@
   "skipIf": "you want a serious story or have outgrown teenage voice narrators.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780060292102",
+    "https://en.wikipedia.org/wiki/The_Princess_Diaries_(film)",
+    "https://hardcover.app/books/the-princess-diaries"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

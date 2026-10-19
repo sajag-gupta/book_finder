@@ -16,9 +16,13 @@
   "skipIf": "you want action, fast storytelling or a conventional plot.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780140087642",
+    "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian",
+    "https://hardcover.app/books/memoirs-of-hadrian"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

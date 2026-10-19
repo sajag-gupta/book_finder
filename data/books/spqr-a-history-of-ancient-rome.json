@@ -16,9 +16,13 @@
   "skipIf": "you want a battle-focused narrative or a strict year-by-year chronology.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780871404237",
+    "https://en.wikipedia.org/wiki/SPQR%3A_A_History_of_Ancient_Rome",
+    "https://hardcover.app/books/spqr"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

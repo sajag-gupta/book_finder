@@ -16,9 +16,13 @@
   "skipIf": "you want a short book or struggle with large casts and Latin names.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780099792307",
+    "https://en.wikipedia.org/wiki/The_First_Man_in_Rome",
+    "https://hardcover.app/books/the-first-man-in-rome"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

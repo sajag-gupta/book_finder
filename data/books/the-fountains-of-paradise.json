@@ -16,9 +16,13 @@
   "skipIf": "you want deep characters, romance or a lot of conflict and action.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781857987218",
+    "https://en.wikipedia.org/wiki/The_Fountains_of_Paradise",
+    "https://hardcover.app/books/the-fountains-of-paradise"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

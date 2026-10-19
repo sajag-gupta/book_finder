@@ -16,9 +16,13 @@
   "skipIf": "you want in-depth theory or a detailed creative process.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780761171256",
+    "https://en.wikipedia.org/wiki/Steal_Like_an_Artist",
+    "https://hardcover.app/books/steal-like-an-artist"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

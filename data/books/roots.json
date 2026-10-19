@@ -16,9 +16,13 @@
   "skipIf": "you cannot read harrowing scenes of cruelty and suffering.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780440803119",
+    "https://en.wikipedia.org/wiki/Roots_(1977_miniseries)",
+    "https://hardcover.app/books/roots"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want a quiet, low-stakes story without much talk of race, money or the music industry.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780062999344",
+    "https://en.wikipedia.org/wiki/On_the_Come_Up",
+    "https://hardcover.app/books/on-the-come-up"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

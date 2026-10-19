@@ -16,9 +16,12 @@
   "skipIf": "you want argument or concrete detail, as the style is aphoristic and elevated.",
   "soldMillions": 11,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780394404288",
+    "https://en.wikipedia.org/wiki/The_Prophet_(book)"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

@@ -16,9 +16,13 @@
   "skipIf": "you want fast plotting or a satisfying, romantic ending.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780020264781",
+    "https://en.wikipedia.org/wiki/The_Age_of_Innocence",
+    "https://hardcover.app/books/the-age-of-innocence"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

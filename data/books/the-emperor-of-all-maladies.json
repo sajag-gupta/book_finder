@@ -16,9 +16,13 @@
   "skipIf": "you are facing a recent cancer diagnosis and want something gentler or more practical.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780007250912",
+    "https://en.wikipedia.org/wiki/The_Emperor_of_All_Maladies",
+    "https://hardcover.app/books/the-emperor-of-all-maladies"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

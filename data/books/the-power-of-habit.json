@@ -16,9 +16,13 @@
   "skipIf": "you want deep science or a detailed plan, as the book is mostly anecdote.",
   "soldMillions": null,
   "tier": "modern",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9781497465435",
+    "https://en.wikipedia.org/wiki/The_Power_of_Habit",
+    "https://hardcover.app/books/the-power-of-habit"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }

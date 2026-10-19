@@ -16,9 +16,13 @@
   "skipIf": "you find motivational frameworks repetitive or prefer evidence-heavy psychology.",
   "soldMillions": 25,
   "tier": "all-time",
-  "sources": [],
-  "status": "draft",
-  "checkedOn": null,
+  "sources": [
+    "https://openlibrary.org/isbn/9780743272452",
+    "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People",
+    "https://hardcover.app/books/7-habits-of-highly-effective-people-the-ultimate-revelations-of-steven-covey"
+  ],
+  "status": "checked",
+  "checkedOn": "2026-10-17",
   "reviewedBy": null,
   "reviewedOn": null
 }
