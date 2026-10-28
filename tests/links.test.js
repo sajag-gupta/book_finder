@@ -18,44 +18,22 @@ test('the shipped config sends Kobo traffic to the US program, not Brazil', () =
   assert.ok(u.searchParams.get('murl').startsWith('https://www.kobo.com/us/'));
 });
 
-test('uses the plain URL when affiliate IDs are missing', () => {
-  const result = buildStoreUrl(
-    getStore('bookshop'),
-    { isbn13: ISBN },
-    { awin_publisher_id: '777' },
-  );
-  assert.deepEqual(result, { url: `https://bookshop.org/book/${ISBN}`, affiliate: false });
+test('Amazon stays a plain link until an Associates tag is set', () => {
+  const store = getStore('amazon');
+  const plain = buildStoreUrl(store, { isbn13: ISBN }, { amazon_tag: '' });
+  assert.deepEqual(plain, {
+    url: `https://www.amazon.com/s?k=${ISBN}&i=stripbooks`,
+    affiliate: false,
+  });
+  const tagged = buildStoreUrl(store, { isbn13: ISBN }, { amazon_tag: 'example-20' });
+  assert.equal(tagged.affiliate, true);
+  assert.equal(tagged.url, `https://www.amazon.com/s?k=${ISBN}&i=stripbooks&tag=example-20`);
 });
 
-test('uses the Awin template once the account and the program are both set', () => {
-  const ids = { awin_publisher_id: '777', awin_bookshop_mid: '92005' };
-  const result = buildStoreUrl(getStore('bookshop'), { isbn13: ISBN }, ids);
-  assert.equal(result.affiliate, true);
-  assert.equal(
-    result.url,
-    `https://www.awin1.com/cread.php?awinmid=92005&awinaffid=777&ued=${encodeURIComponent(`https://bookshop.org/book/${ISBN}`)}`,
-  );
-});
-
-test('Libro.fm stays a plain link until its Awin program is approved', () => {
-  const store = getStore('librofm');
-  const query = 'Dune Frank Herbert';
-  assert.equal(
-    buildStoreUrl(store, { isbn13: ISBN, query }, { awin_publisher_id: '777' }).affiliate,
-    false,
-  );
-  const approved = buildStoreUrl(
-    store,
-    { isbn13: ISBN, query },
-    { awin_publisher_id: '777', awin_librofm_mid: '25361' },
-  );
-  assert.equal(approved.affiliate, true);
-  assert.ok(
-    approved.url.startsWith('https://www.awin1.com/cread.php?awinmid=25361&awinaffid=777&ued='),
-  );
-  assert.ok(
-    approved.url.includes(encodeURIComponent('https://libro.fm/search?q=Dune%20Frank%20Herbert')),
-  );
+test('no Awin, Bookshop.org or Libro.fm stores remain', () => {
+  const ids = allStores.map((store) => store.id);
+  assert.ok(!ids.includes('bookshop') && !ids.includes('librofm'));
+  assert.ok(!JSON.stringify(allStores).includes('awin'));
 });
 
 test('requires every ID, not just one (Kobo needs partner and merchant)', () => {
