@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://book-finder-azs.pages.dev">Live site</a> ·
+  <a href="https://readyourmood.app">Live site</a> ·
   <a href="docs/architecture.md">Architecture</a> ·
   <a href="docs/design.md">Design</a> ·
   <a href="docs/seo.md">SEO</a> ·

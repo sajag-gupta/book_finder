@@ -8,7 +8,7 @@ because Wrangler's native dependencies do not run on some locked-down workstatio
 
 The D1 database (`book-finder`) and the Pages project (`book-finder`, production branch `main`,
 `DB` binding on production and preview) already exist, and the GitHub secrets and variables below
-are set. The site will be at <https://book-finder-azs.pages.dev> after the first deploy from `main`.
+are set. The site is at <https://readyourmood.app> (also reachable at `www.` and the original `book-finder-azs.pages.dev`). Canonical links and the sitemap use `readyourmood.app`.
 The steps below are kept for recreating the setup in another Cloudflare account.
 
 ## One-time setup
