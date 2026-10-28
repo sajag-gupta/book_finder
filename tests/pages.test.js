@@ -35,14 +35,14 @@ test('esc neutralises HTML', () => {
 test('book page routes every store button through /go and shows the library row first', () => {
   const html = bookPage(ctx, dune);
   assert.ok(html.includes('/go/libby/9780441013593'));
-  assert.ok(html.includes('/go/bookshop/9780441013593'));
-  assert.ok(!html.includes('https://bookshop.org'), 'no direct retailer links on the page');
+  assert.ok(html.includes('/go/amazon/9780441013593'));
+  assert.ok(!html.includes('https://www.amazon.com'), 'no direct retailer links on the page');
   assert.ok(html.indexOf('Borrow free') < html.indexOf('Print, new'));
 });
 
 test('paid links are marked sponsored, library links are not', () => {
   const html = bookPage(ctx, dune);
-  assert.match(html, /href="\/go\/bookshop\/[^"]+" rel="sponsored nofollow noopener"/);
+  assert.match(html, /href="\/go\/amazon\/[^"]+" rel="sponsored nofollow noopener"/);
   assert.match(html, /href="\/go\/libby\/[^"]+" rel="nofollow noopener"/);
 });
 
@@ -82,7 +82,7 @@ test('price feeds keep the store object and mark the lowest price', () => {
     ...ctx.data,
     offers: {
       9780441013593: [
-        { store: 'bookshop', price: 12.5, currency: 'USD' },
+        { store: 'amazon', price: 12.5, currency: 'USD' },
         { store: 'googleplay', price: 6, currency: 'USD' },
       ],
     },

@@ -64,11 +64,9 @@ Drafts only appear in `npm run build:preview`, which is `noindex`.
 
 ## Affiliate IDs
 
-**Awin (Bookshop.org and Libro.fm).** One Awin publisher account covers both. `awin_publisher_id` is the
-account number. `awin_bookshop_mid` (`92005`) and `awin_librofm_mid` (`25361`) are the program IDs:
-fill each in only after Awin shows the program as **Joined**, because links to a program you have
-not joined earn nothing. Until then both stores serve plain links. Apply in the Awin dashboard
-(Advertisers, then Join). Awin's API cannot apply for you.
+**Amazon (and Audible).** Join Amazon Associates, then put the store ID in `amazon_tag` in
+`config/affiliates.json`. Until it is set, Amazon links are plain. Audible runs through the same account;
+add the exact link format Associates gives you to `config/stores.json` before turning it on.
 
 **Rakuten (Kobo).** Two different IDs exist. `kobo_partner_id` is the short alphanumeric code after
 `id=` in your tracking links (not your numeric account/publisher ID). `kobo_merchant_id` is the

@@ -10,19 +10,6 @@
     "cookieDays": 0
   },
   {
-    "id": "bookshop",
-    "name": "Bookshop.org",
-    "kind": "print",
-    "label": "Buy new",
-    "plain": "https://bookshop.org/book/{isbn13}",
-    "affiliate": {
-      "template": "https://www.awin1.com/cread.php?awinmid={awin_bookshop_mid}&awinaffid={awin_publisher_id}&ued={plain_encoded}",
-      "requires": ["awin_publisher_id", "awin_bookshop_mid"]
-    },
-    "commissionRate": 0.1,
-    "cookieDays": 2
-  },
-  {
     "id": "amazon",
     "name": "Amazon",
     "kind": "print",
@@ -57,19 +44,6 @@
     "affiliate": null,
     "commissionRate": 0,
     "cookieDays": 0
-  },
-  {
-    "id": "librofm",
-    "name": "Libro.fm",
-    "kind": "audio",
-    "label": "Buy audiobook",
-    "plain": "https://libro.fm/search?q={query}",
-    "affiliate": {
-      "template": "https://www.awin1.com/cread.php?awinmid={awin_librofm_mid}&awinaffid={awin_publisher_id}&ued={plain_encoded}",
-      "requires": ["awin_publisher_id", "awin_librofm_mid"]
-    },
-    "commissionRate": 0.1,
-    "cookieDays": 30
   },
   {
     "id": "audible",

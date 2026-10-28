@@ -338,7 +338,7 @@ export function disclosurePage(ctx) {
     body: `<div class="prose">${head({ kicker: 'About', title: 'Affiliate disclosure' })}
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
 <p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
-<p>Kobo links use our Rakuten Advertising partnership (Kobo US). Bookshop.org and Libro.fm links use Awin once those programs approve us. Buttons that go to a store without a partner program are plain links.</p></div>`,
+<p>Kobo links use our Rakuten Advertising partnership (Kobo US). Amazon links will carry our Amazon Associates tag once that program approves us. Buttons that go to a store without a partner program are plain links.</p></div>`,
   });
 }
 
