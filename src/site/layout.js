@@ -147,7 +147,7 @@ ${crumbNav}${body}
     </div>
   </div>
   <div class="wrap footer__legal">
-    <p>Some links on this site are affiliate links: if you buy through them we may earn a small commission at no extra cost to you. It never changes which books we recommend.</p>
+    <p>As an Amazon Associate I earn from qualifying purchases. Some links on this site are affiliate links: if you buy through them we may earn a small commission at no extra cost to you. It never changes which books we recommend.</p>
     <p>Cover images are provided by Open Library. Reader ratings and reader-reported content warnings come from Hardcover readers. All descriptions and recommendations are written by us. Background paintings are public domain, from the Art Institute of Chicago (<a href="/about/credits/">credits</a>).</p>
   </div>
 </footer>

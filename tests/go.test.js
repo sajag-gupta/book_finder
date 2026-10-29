@@ -40,10 +40,13 @@ test('redirects to the store and logs the click', async () => {
     headers: { Referer: 'https://example.test/books/dune/?secret=1' },
   });
   assert.equal(response.status, 302);
-  assert.equal(response.headers.get('Location'), `https://www.amazon.com/s?k=${ISBN}&i=stripbooks`);
+  assert.equal(
+    response.headers.get('Location'),
+    `https://www.amazon.com/s?k=${ISBN}&i=stripbooks&tag=readyourmood-20`,
+  );
   assert.equal(response.headers.get('Cache-Control'), 'no-store');
   assert.equal(db.calls.length, 1);
-  assert.deepEqual(db.calls[0].args, ['amazon', ISBN, 0, 'example.test', null]);
+  assert.deepEqual(db.calls[0].args, ['amazon', ISBN, 1, 'example.test', null]);
 });
 
 test('404s for an unknown store or a bad ISBN, and never logs', async () => {
@@ -79,4 +82,15 @@ test('a failing click log never breaks the redirect', async () => {
 
 test('works without a database binding', async () => {
   assert.equal((await call('amazon', ISBN)).status, 302);
+});
+
+test('Amazon links from the newsletter are plain, because Amazon forbids affiliate links in email', async () => {
+  const site = new URL((await call('amazon', ISBN)).headers.get('Location'));
+  assert.equal(site.searchParams.get('tag'), 'readyourmood-20');
+  const email = new URL(
+    (await call('amazon', ISBN, { query: '?utm_source=newsletter&utm_medium=email' })).headers.get(
+      'Location',
+    ),
+  );
+  assert.equal(email.searchParams.get('tag'), null);
 });

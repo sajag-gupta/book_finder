@@ -77,3 +77,9 @@ test('goPath builds the first-party redirect path', () => {
   assert.equal(goPath('kobo', ISBN), `/go/kobo/${ISBN}`);
   assert.equal(goPath('kobo', ISBN, 'Dune & more'), `/go/kobo/${ISBN}?q=Dune%20%26%20more`);
 });
+
+test('the shipped config tags Amazon links with the Associates ID', () => {
+  const { url, affiliate } = buildStoreUrl(getStore('amazon'), { isbn13: ISBN }, affiliateIds);
+  assert.equal(affiliate, true);
+  assert.equal(new URL(url).searchParams.get('tag'), 'readyourmood-20');
+});
