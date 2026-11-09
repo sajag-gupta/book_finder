@@ -139,7 +139,7 @@ ${crumbNav}${body}
     </nav>
     <nav aria-label="About">
       <h2 class="footer__h">About</h2>
-      <ul><li><a href="/about/how-we-pick/">How we pick</a></li><li><a href="/about/affiliate-disclosure/">Affiliate disclosure</a></li><li><a href="/about/credits/">Image credits</a></li></ul>
+      <ul><li><a href="/about/">About us</a></li><li><a href="/about/how-we-pick/">How we pick</a></li><li><a href="/about/affiliate-disclosure/">Affiliate disclosure</a></li><li><a href="/about/credits/">Image credits</a></li></ul>
     </nav>
     <div>
       <h2 class="footer__h">Weekly email</h2>

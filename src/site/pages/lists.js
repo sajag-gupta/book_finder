@@ -1,6 +1,7 @@
 import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { BACKDROPS, backdropFor } from '../backdrops.js';
+import { OWNER } from '../config.js';
 import { layout } from '../layout.js';
 import {
   cardGrid,
@@ -340,6 +341,37 @@ export function disclosurePage(ctx) {
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
 <p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
 <p>Kobo links use our Rakuten Advertising partnership (Kobo US). Amazon links carry our Amazon Associates tag (readyourmood-20). We do not put Amazon affiliate links in email. Buttons that go to a store without a partner program are plain links.</p></div>`,
+  });
+}
+
+export function aboutPage(ctx) {
+  return page(ctx, {
+    path: '/about/',
+    title: `About ${ctx.site.name}`,
+    description: `${ctx.site.name} is a book discovery site run by ${OWNER.name}. How it works, how it earns money, and how to get in touch.`,
+    breadcrumbs: [['About']],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'AboutPage',
+      name: `About ${ctx.site.name}`,
+      url: `${ctx.site.url}/about/`,
+      mainEntity: {
+        '@type': 'Person',
+        name: OWNER.name,
+        email: OWNER.email,
+        url: `${ctx.site.url}/about/`,
+      },
+    },
+    body: `<div class="prose">${head({ kicker: 'About', title: `About ${ctx.site.name}`, lede: 'Books for wherever your mind is.' })}
+<p>${esc(ctx.site.name)} helps you find a book by how you feel now and how you want to feel. Pick a feeling, or describe it in your own words, and you get books chosen for that shift, each with a plain reason, content warnings and every way to borrow, buy or listen. Library borrowing is always shown first.</p>
+<h2>Who runs it</h2>
+<p>${esc(ctx.site.name)} is built and run by <strong>${esc(OWNER.name)}</strong>. Questions, corrections and suggestions are welcome: write to <a href="mailto:${esc(OWNER.email)}">${esc(OWNER.email)}</a>.</p>
+<h2>How we pick and check books</h2>
+<p>Every description and recommendation is written by us, never copied. Facts such as titles, authors, years and ISBNs are checked against open sources. Read <a href="/about/how-we-pick/">how we pick and check books</a>.</p>
+<h2>How the site earns money</h2>
+<p>As an Amazon Associate I earn from qualifying purchases. Some other store links, such as Kobo, are also affiliate links. This never changes which books we recommend. Full details are on the <a href="/about/affiliate-disclosure/">affiliate disclosure</a> page.</p>
+<h2>Credits</h2>
+<p>Book covers come from Open Library and Google Books, ratings from Hardcover readers, and the background paintings are public domain. See the <a href="/about/credits/">image credits</a>.</p></div>`,
   });
 }
 
