@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
 import { loadData } from '../src/site/data.js';
 import { layout } from '../src/site/layout.js';
-import { bookPage, createContext, feelPairPage, feelPairs } from '../src/site/pages.js';
+import { aboutPage, bookPage, createContext, feelPairPage, feelPairs } from '../src/site/pages.js';
 import { pageCount, pageHref, pager } from '../src/site/components.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
@@ -85,4 +85,11 @@ test('feeling pages open with a visible answer that names real books', () => {
     faq.mainEntity[0].acceptedAnswer.text.replace(/&#39;/g, "'"),
     answer.replace(/&#39;/g, "'"),
   );
+});
+
+test('the About page names who runs the site and how to reach them', () => {
+  const html = aboutPage(ctx);
+  assert.ok(html.includes('Sajag Gupta'));
+  assert.ok(html.includes('mailto:stg.violin@gmail.com'));
+  assert.ok(html.includes('As an Amazon Associate I earn from qualifying purchases.'));
 });

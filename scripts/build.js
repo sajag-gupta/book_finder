@@ -60,6 +60,7 @@ for (const { feeling, want } of pages.feelPairs(ctx)) {
 }
 page('/genres/', pages.genresIndexPage(ctx));
 page('/tropes/', pages.tropesIndexPage(ctx));
+page('/about/', pages.aboutPage(ctx));
 page('/about/how-we-pick/', pages.howWePickPage(ctx));
 page('/about/affiliate-disclosure/', pages.disclosurePage(ctx));
 page('/about/credits/', pages.creditsPage(ctx));
