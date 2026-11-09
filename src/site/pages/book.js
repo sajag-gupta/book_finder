@@ -63,7 +63,7 @@ ${body}</tbody>`;
 <table><thead><tr><th scope="col">Store</th><th scope="col">Price</th><th scope="col"><span class="sr-only">Link</span></th></tr></thead>
 ${sections}</table>
 <p class="muted small">Prices appear here as retailer feeds are connected. Where none is shown, check the store. Links open the store in a new tab.</p>
-<p class="muted small disclosure">Some store links, including Kobo, are affiliate links: we may earn a commission if you buy, at no extra cost to you. Library links are never affiliate links. <a href="/about/affiliate-disclosure/">How this works</a></p>
+<p class="muted small disclosure">As an Amazon Associate I earn from qualifying purchases. Some store links, including Amazon and Kobo, are affiliate links: we may earn a commission if you buy, at no extra cost to you. Library links are never affiliate links. <a href="/about/affiliate-disclosure/">How this works</a></p>
 </section>`;
 }
 
