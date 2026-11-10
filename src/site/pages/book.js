@@ -8,7 +8,6 @@ import { allStores } from '../../shared/registry.js';
 import { FORMAT_ORDER, FORMAT_TITLES, rankOffers } from '../../shared/offers.js';
 
 const FORMAT_ICONS = {
-  library: 'library',
   print: 'book',
   ebook: 'tablet',
   audio: 'headphones',
@@ -41,17 +40,10 @@ export function offersTable(book, ctx) {
           book.isbn13,
           o.store.plain.includes('{query}') ? query : '',
         );
-        const price =
-          o.store.kind === 'library'
-            ? 'Free with a library card'
-            : typeof o.price === 'number'
-              ? money(o)
-              : 'Check price';
+        const price = typeof o.price === 'number' ? money(o) : 'Check price';
         const badge = o.isLowest ? ' <span class="badge">Lowest price</span>' : '';
-        const rel =
-          o.store.kind === 'library' ? 'nofollow noopener' : 'sponsored nofollow noopener';
         return `<tr><td class="offer__store">${esc(o.store.name)}${badge}</td><td class="offer__price">${esc(price)}</td>
-<td class="offer__go"><a class="btn${o.store.kind === 'library' ? ' btn--library' : ''}" href="${esc(href)}" rel="${rel}" target="_blank">${esc(o.store.label)}<span class="sr-only"> from ${esc(o.store.name)}</span>${icon('arrow-up-right', { size: 16 })}</a></td></tr>`;
+<td class="offer__go"><a class="btn" href="${esc(href)}" rel="sponsored nofollow noopener" target="_blank">${esc(o.store.label)}<span class="sr-only"> from ${esc(o.store.name)}</span>${icon('arrow-up-right', { size: 16 })}</a></td></tr>`;
       })
       .join('\n');
     return `<tbody><tr class="group"><th scope="rowgroup" colspan="3">${icon(FORMAT_ICONS[kind], { size: 18 })} ${esc(FORMAT_TITLES[kind])}</th></tr>
@@ -63,7 +55,7 @@ ${body}</tbody>`;
 <table><thead><tr><th scope="col">Store</th><th scope="col">Price</th><th scope="col"><span class="sr-only">Link</span></th></tr></thead>
 ${sections}</table>
 <p class="muted small">Prices appear here as retailer feeds are connected. Where none is shown, check the store. Links open the store in a new tab.</p>
-<p class="muted small disclosure">As an Amazon Associate I earn from qualifying purchases. Some store links, including Amazon and Kobo, are affiliate links: we may earn a commission if you buy, at no extra cost to you. Library links are never affiliate links. <a href="/about/affiliate-disclosure/">How this works</a></p>
+<p class="muted small disclosure">As an Amazon Associate I earn from qualifying purchases. Some store links, including Amazon and Kobo, are affiliate links: we may earn a commission if you buy, at no extra cost to you. <a href="/about/affiliate-disclosure/">How this works</a></p>
 </section>`;
 }
 
@@ -192,8 +184,8 @@ export function bookPage(ctx, book) {
         : 'We have not noted any content warnings for this book yet.',
     ],
     [
-      `Can I borrow ${book.title} for free?`,
-      `Often, yes. Check Libby (OverDrive) to see whether your library lends ${book.title}; the borrow button above searches it for you.`,
+      `Where can I buy ${book.title}?`,
+      `${book.title} is sold as a print book, an ebook and an audiobook. The table on this page lists each store, with the buy buttons.`,
     ],
     ...(picks.length
       ? [
@@ -232,7 +224,7 @@ export function bookPage(ctx, book) {
       ${factsRow('Format', seriesFact)}
     </dl>
     <div class="actions">
-      <a class="btn btn--library btn--lg" href="${esc(goPath('libby', book.isbn13, `${book.title} ${book.author}`))}" rel="nofollow noopener" target="_blank">${icon('library', { size: 20 })}Borrow free with Libby</a>
+      <a class="btn btn--accent btn--lg" href="${esc(goPath('amazon', book.isbn13, ''))}" rel="sponsored nofollow noopener" target="_blank">${icon('book', { size: 20 })}Buy on Amazon</a>
       <a class="btn btn--ghost btn--lg" href="#offers-h">Compare prices</a>
       <span class="actions__save">${saveButton(book)}<span class="sr-only">Save to my shelf</span></span>
     </div>
@@ -316,7 +308,7 @@ ${more.length ? `<section class="section" aria-labelledby="more-h"><div class="s
         `${book.title} by ${book.author}: where to read`,
         `${book.title} by ${book.author}`,
       ].find((t) => t.length <= 60) ?? book.title,
-    description: clip(`${book.summary} Compare library, print, ebook and audiobook options.`, 158),
+    description: clip(`${book.summary} Compare print, ebook and audiobook options.`, 158),
     image: `/share/${book.slug}-og.png`,
     body,
     scripts: ['share', 'book'],

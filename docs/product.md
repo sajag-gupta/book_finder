@@ -21,7 +21,7 @@ competitors charge).
 
 1. Mood and trope picker, with pace, length and series filters.
 2. "If you loved X" search: 3 to 5 picks, each with a reason we wrote.
-3. Book page with an offers table: one row per format and store, cheapest marked, library row always shown.
+3. Book page with an offers table: one row per format and store, cheapest marked. The library row was removed.
 4. Content warnings.
 5. Series reading order.
 6. Share cards (one tap to an image for TikTok, Instagram, messaging).
@@ -57,7 +57,7 @@ apply to Journey by Mediavine (accepts sites from about 1,000 sessions a month).
 ## Status
 
 Live: a catalogue of about 700 books (bestsellers plus genre staples; see [catalogue.md](catalogue.md)), browse
-with filters, bestseller rankings, genre/mood/trope/author pages, offers table with library first,
+with filters, bestseller rankings, genre/mood/trope/author pages, offers table,
 `/go` redirect with click log, saved shelf, newsletter sign-up, share cards, review workflow.
 Not yet done: human review of the `checked` books, price feeds, affiliate approvals, automated
 email sending, Release 2 features.

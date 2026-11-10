@@ -89,13 +89,15 @@ test('the lookup page is a noindex shell with the store list and format titles e
   assert.ok(html.includes('data-lookup') && html.includes('noindex'));
   assert.ok(html.includes('<script type="module" src="/assets/lookup.js">'));
   const stores = JSON.parse(html.match(/id="stores">(.*?)<\/script>/)[1]);
-  assert.ok(stores.some((s) => s.id === 'libby' && s.kind === 'library'));
+  assert.ok(stores.some((s) => s.id === 'amazon' && s.kind === 'print'));
+  assert.ok(!stores.some((s) => s.kind === 'library'));
   assert.ok(
     stores.every((s) => !('plain' in s) && !('affiliate' in s)),
     'no URL templates or IDs leak to the page',
   );
   const titles = JSON.parse(html.match(/id="format-titles">(.*?)<\/script>/)[1]);
-  assert.equal(titles.library, 'Borrow free');
+  assert.equal(titles.library, undefined);
+  assert.equal(titles.print, 'Print, new');
 });
 
 test('the browse page can show books beyond the catalogue, and the index lists every ISBN', () => {

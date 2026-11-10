@@ -69,7 +69,7 @@ export function browsePage(ctx, pageNum = 1) {
       <p class="empty" data-empty hidden>None of our hand-picked books match those filters. Try clearing one.</p>
       <section class="section" data-remote hidden aria-live="polite">
         <h2>More books matching &ldquo;<span data-remote-q></span>&rdquo;</h2>
-        <p class="muted">From Open Library. We have not written about these yet, but you can still see where to borrow, buy or listen to them.</p>
+        <p class="muted">From Open Library. We have not written about these yet, but you can still see where to buy or listen to them.</p>
         <p class="remote-status" data-remote-status hidden></p>
         <ul class="grid" data-remote-list></ul>
       </section>

@@ -131,7 +131,7 @@ ${crumbNav}${body}
   <div class="wrap footer__grid">
     <div>
       <p class="brand brand--footer">${LOGO}<span>${wordmark(site.name)}</span></p>
-      <p class="muted">Pick a book by how you want to feel, then see every way to borrow, buy or listen to it. Library first, always.</p>
+      <p class="muted">Pick a book by how you want to feel, then see every way to buy or listen to it.</p>
     </div>
     <nav aria-label="Explore">
       <h2 class="footer__h">Explore</h2>

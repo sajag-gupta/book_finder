@@ -36,15 +36,15 @@ if (root) {
       tbody.append(title);
       for (const store of group) {
         const tr = el('tr');
-        const link = el('a', `btn${kind === 'library' ? ' btn--library' : ''}`, store.label);
+        const link = el('a', 'btn', store.label);
         link.href = `/go/${store.id}/${isbn}${store.q ? `?q=${encodeURIComponent(query)}` : ''}`;
-        link.rel = kind === 'library' ? 'nofollow noopener' : 'sponsored nofollow noopener';
+        link.rel = 'sponsored nofollow noopener';
         link.target = '_blank';
         const go = el('td', 'offer__go');
         go.append(link);
         tr.append(
           el('td', 'offer__store', store.name),
-          el('td', 'offer__price', kind === 'library' ? 'Free with a library card' : 'Check price'),
+          el('td', 'offer__price', 'Check price'),
           go,
         );
         tbody.append(tr);
@@ -55,7 +55,7 @@ if (root) {
   };
 
   const show = (book) => {
-    document.title = `${book.title} | where to buy or borrow`;
+    document.title = `${book.title} | where to buy or listen`;
     const author = book.authors.join(', ');
     status.hidden = true;
     body.hidden = false;

@@ -45,14 +45,13 @@ test('offers with no known price sort after priced ones and never get the badge'
   assert.equal(ranked[1].isLowest, false);
 });
 
-test('library rows are kept and never take the lowest-price badge', () => {
+test('only the cheapest priced offer takes the lowest-price badge', () => {
   const ranked = rankOffers([
-    { store: store('libby', 'library', 0), price: 0 },
-    { store: store('shop', 'print', 0.1), price: 8 },
+    { store: store('dear', 'print', 0.1), price: 12 },
+    { store: store('cheap', 'print', 0.1), price: 8 },
   ]);
-  assert.equal(ranked.length, 2);
-  assert.equal(ranked.find((o) => o.store.id === 'libby').isLowest, false);
-  assert.equal(ranked.find((o) => o.store.id === 'shop').isLowest, true);
+  assert.equal(ranked.find((o) => o.store.id === 'cheap').isLowest, true);
+  assert.equal(ranked.find((o) => o.store.id === 'dear').isLowest, false);
 });
 
 test('does not mutate its input', () => {

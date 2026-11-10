@@ -3,7 +3,7 @@
 This file tells an assistant (Claude Code, Codex, Cursor, Copilot, Gemini and others) how to set up
 and work on **ReadYourMood**, a book discovery site: "Books for wherever your mind is." Readers say
 how they feel now and how they want to feel; the site matches books to that shift and shows every
-way to borrow, buy or listen, library first.
+way to buy or listen. There is no library option: every outbound button should be able to earn.
 
 **Read [docs/RULEBOOK.md](docs/RULEBOOK.md) before changing anything.** It is the full process (workflow,
 checks, visual review, content and affiliate rules, secrets, deploy, reporting) that keeps the quality

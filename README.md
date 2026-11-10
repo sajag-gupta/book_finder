@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Books for wherever your mind is.</strong><br>
-  Say how you feel and how you want to feel. Get books that fit, then see every way to borrow, buy or listen, library first.
+  Say how you feel and how you want to feel. Get books that fit, then see every way to buy or listen.
 </p>
 
 <p align="center">
@@ -26,13 +26,12 @@
    with a plain reason for each pick, written by us, filterable by genre, mood, length, pace and
    content warnings.
 2. **Get it the cheapest way.** Open a book and see print, ebook, audiobook and library options side
-   by side. Borrowing from a library is always shown first.
-
-Also: bestseller rankings, 120+ genres across fiction and non-fiction, a private reading shelf
-(statuses, ratings, stats, Goodreads/StoryGraph CSV import), content warnings you can hide, light and
-dark themes, a weekly email and shareable cards. How the catalogue is built, and what `checked` and
-`reviewed` mean, is in [docs/catalogue.md](docs/catalogue.md). Store buttons are affiliate links where
-a program exists; see [docs/product.md](docs/product.md).
+   by side.
+   Also: bestseller rankings, 120+ genres across fiction and non-fiction, a private reading shelf
+   (statuses, ratings, stats, Goodreads/StoryGraph CSV import), content warnings you can hide, light and
+   dark themes, a weekly email and shareable cards. How the catalogue is built, and what `checked` and
+   `reviewed` mean, is in [docs/catalogue.md](docs/catalogue.md). Store buttons are affiliate links where
+   a program exists; see [docs/product.md](docs/product.md).
 
 ## Set it up in one step
 

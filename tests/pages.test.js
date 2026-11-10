@@ -32,18 +32,18 @@ test('esc neutralises HTML', () => {
   assert.equal(esc('<script>"a" & \'b\''), '&lt;script&gt;&quot;a&quot; &amp; &#39;b&#39;');
 });
 
-test('book page routes every store button through /go and shows the library row first', () => {
+test('book page routes every store button through /go and has no library option', () => {
   const html = bookPage(ctx, dune);
-  assert.ok(html.includes('/go/libby/9780441013593'));
   assert.ok(html.includes('/go/amazon/9780441013593'));
+  assert.ok(!html.includes('/go/libby/'), 'the library option is gone');
+  assert.ok(!html.includes('Borrow free'));
   assert.ok(!html.includes('https://www.amazon.com'), 'no direct retailer links on the page');
-  assert.ok(html.indexOf('Borrow free') < html.indexOf('Print, new'));
 });
 
-test('paid links are marked sponsored, library links are not', () => {
+test('every store link is marked sponsored', () => {
   const html = bookPage(ctx, dune);
   assert.match(html, /href="\/go\/amazon\/[^"]+" rel="sponsored nofollow noopener"/);
-  assert.match(html, /href="\/go\/libby\/[^"]+" rel="nofollow noopener"/);
+  assert.ok(!/href="\/go\/[^"]+" rel="nofollow noopener"/.test(html));
 });
 
 test('book page carries structured data and a canonical URL', () => {

@@ -272,7 +272,7 @@ export function lookupPage(ctx) {
     site: ctx.site,
     path: '/b/',
     title: 'Book details',
-    description: 'Where to borrow, buy or listen to this book.',
+    description: 'Where to buy or listen to this book.',
     noindex: true,
     scripts: ['lookup'],
     body: `<article class="wrap book" data-lookup>
@@ -286,7 +286,7 @@ export function lookupPage(ctx) {
       <p class="byline" data-author></p>
       <dl class="facts" data-facts></dl>
       <ul class="tags" data-subjects aria-label="Subjects"></ul>
-      <p class="muted">We have not written about this book yet. Here is where to get it, library first.</p>
+      <p class="muted">We have not written about this book yet. Here is where to get it.</p>
     </div>
   </div>
   <section class="panel offers" aria-labelledby="offers-h"><h2 id="offers-h">Where to get it</h2><div data-offers></div></section>
@@ -326,7 +326,7 @@ export function howWePickPage(ctx) {
 <h2>Bestseller rankings</h2>
 <p>Sales figures are estimates from public sources and vary widely. We show them as approximate and never as exact.</p>
 <h2>Money and honesty</h2>
-<p>Sponsored placements, if we ever have any, will be labelled and kept out of mood results. We never hide a cheaper option to push a commission, and library borrowing is always shown first.</p>
+<p>Sponsored placements, if we ever have any, will be labelled and kept out of mood results. We never hide a cheaper option to push a commission.</p>
 <p>We do not host, link to or help you find pirated copies. If we get something wrong, tell us and we will fix it.</p></div>`,
   });
 }
@@ -339,7 +339,7 @@ export function disclosurePage(ctx) {
     body: `<div class="prose">${head({ kicker: 'About', title: 'Affiliate disclosure' })}
 <p>As an Amazon Associate I earn from qualifying purchases.</p>
 <p>Some buttons on this site are affiliate links. If you buy after clicking one, the store may pay us a commission. It costs you nothing extra.</p>
-<p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option, and library borrowing is always shown, even though it earns us nothing.</p>
+<p>Offers are ordered by lowest price first. Where prices tie, we may list the store that pays us more first. We never hide a cheaper option.</p>
 <p>Kobo links use our Rakuten Advertising partnership (Kobo US). Amazon links carry our Amazon Associates tag (readyourmood-20). We do not put Amazon affiliate links in email. Buttons that go to a store without a partner program are plain links.</p></div>`,
   });
 }
@@ -375,7 +375,7 @@ export function trendingPage(ctx) {
         })),
       },
     },
-    body: `${head({ kicker: when, title: 'Trending right now', lede: `The ${flat.length} books on this month's bestseller charts. Titles without our own write-up show the facts and every way to borrow, buy or listen.` })}
+    body: `${head({ kicker: when, title: 'Trending right now', lede: `The ${flat.length} books on this month's bestseller charts. Titles without our own write-up show the facts and every way to buy or listen.` })}
 ${groups.map((g) => `<section class="section"><h2>${esc(g.name)}</h2><ul class="grid">${g.items.map(card).join('')}</ul></section>`).join('')}`,
   });
 }
@@ -399,7 +399,7 @@ export function aboutPage(ctx) {
       },
     },
     body: `<div class="prose">${head({ kicker: 'About', title: `About ${ctx.site.name}`, lede: 'Books for wherever your mind is.' })}
-<p>${esc(ctx.site.name)} helps you find a book by how you feel now and how you want to feel. Pick a feeling, or describe it in your own words, and you get books chosen for that shift, each with a plain reason, content warnings and every way to borrow, buy or listen. Library borrowing is always shown first.</p>
+<p>${esc(ctx.site.name)} helps you find a book by how you feel now and how you want to feel. Pick a feeling, or describe it in your own words, and you get books chosen for that shift, each with a plain reason, content warnings and every way to buy or listen.</p>
 <h2>Who runs it</h2>
 <p>${esc(ctx.site.name)} is built and run by <strong>${esc(OWNER.name)}</strong>. Questions, corrections and suggestions are welcome: write to <a href="mailto:${esc(OWNER.email)}">${esc(OWNER.email)}</a>.</p>
 <h2>How we pick and check books</h2>

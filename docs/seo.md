@@ -32,7 +32,7 @@ common advice.
 | robots.txt       | Search and AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, PerplexityBot, Google-Extended, Applebot-Extended and others) are named and allowed; only `/go/`, `/api/`, `/shelf/` and `/b/` are blocked. |
 | `llms.txt`       | A short plain-text map for AI assistants. Optional and unproven; it costs nothing and Google does not need it.                                                                                                          |
 | Structured data  | One JSON-LD graph per page: `Book`, `WebPage` (with `dateModified`), `FAQPage`, `BreadcrumbList`, `ItemList`, `Person`, `Organization`, `WebSite`. We do not mark up third-party ratings.                               |
-| Answer-first     | Book pages carry a visible "Quick answers" block (what it is about, who should read it, length and pace, content warnings, can I borrow it, what next). Feeling pages open with a direct answer naming real books.      |
+| Answer-first     | Book pages carry a visible "Quick answers" block (what it is about, who should read it, length and pace, content warnings, where to buy it, what next). Feeling pages open with a direct answer naming real books.      |
 | Freshness, trust | "Facts last checked" date on book pages; ratings credited in text to Hardcover readers; sales marked as estimates; affiliate disclosure on the page.                                                                    |
 | Speed            | Static files, no client framework, explicit image sizes, first covers eager and the rest lazy, one small stylesheet.                                                                                                    |
 

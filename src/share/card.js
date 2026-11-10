@@ -135,7 +135,7 @@ export function cardTree(book, { moods, host, siteName, variant = 'portrait' }) 
       ]),
       ...(readIf ? [readIf] : []),
       div({ flexDirection: 'column', fontFamily: 'Nunito Sans' }, [
-        div({ fontSize: og ? 26 : 38, fontWeight: 700 }, 'Borrow it free, or compare every format'),
+        div({ fontSize: og ? 26 : 38, fontWeight: 700 }, 'Compare every format and store'),
         div(
           { fontSize: og ? 24 : 34, color: '#4A5568', marginTop: 8 },
           `${host}/books/${book.slug}`,
