@@ -5,6 +5,10 @@ and work on **ReadYourMood**, a book discovery site: "Books for wherever your mi
 how they feel now and how they want to feel; the site matches books to that shift and shows every
 way to borrow, buy or listen, library first.
 
+**Read [docs/RULEBOOK.md](docs/RULEBOOK.md) before changing anything.** It is the full process (workflow,
+checks, visual review, content and affiliate rules, secrets, deploy, reporting) that keeps the quality
+the same whoever does the work.
+
 ## Set up (do this first)
 
 ```bash
@@ -19,6 +23,10 @@ says what to fix. Then:
 ```bash
 npm run serve        # http://127.0.0.1:8788, with /api/* and /go/* working locally
 ```
+
+To get the working keys (only if the owner gives you the passphrase, never otherwise):
+`VAULT_PASSPHRASE=<passphrase> node scripts/ops/vault.mjs unlock` writes `.env` from the encrypted
+`secrets/env.enc.json`. Never put a key or the passphrase in a commit, a PR or a chat message.
 
 If the user only said "set it up", stop after `npm run serve` works and tell them the address.
 

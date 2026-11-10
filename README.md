@@ -132,6 +132,11 @@ The master is `src/assets/brand/logo.png`. `node scripts/make-brand.mjs` regener
 app icons and link-preview image from it. The transparent mascot used in the header,
 `src/assets/brand/mark.png`, is cut from the logo and committed.
 
+## Process
+
+[docs/RULEBOOK.md](docs/RULEBOOK.md) is the full, step-by-step process for making any change here: workflow,
+checks, visual review, content and affiliate rules, secrets, deploy and reporting.
+
 ## Contributing and security
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
