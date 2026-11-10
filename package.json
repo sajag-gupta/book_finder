@@ -1,7 +1,7 @@
 {
   "name": "book-finder",
   "version": "0.1.0",
-  "description": "Mood-first book finder that shows every way to buy, borrow or listen to a book.",
+  "description": "Mood-first book finder that shows every way to buy or listen to a book.",
   "private": true,
   "type": "module",
   "license": "UNLICENSED",

@@ -158,7 +158,7 @@ if (!includeDrafts) {
     'llms.txt',
     `# ${site.name}
 
-> A book discovery site built on two questions: how do you feel right now, and how do you want to feel? It matches ${ctx.published.length} books to that shift and shows every way to borrow (library first), buy or listen to each one. Descriptions and recommendations are written by us; facts are checked against Open Library and a second source; ratings come from Hardcover readers.
+> A book discovery site built on two questions: how do you feel right now, and how do you want to feel? It matches ${ctx.published.length} books to that shift and shows every way to buy or listen to each one. Descriptions and recommendations are written by us; facts are checked against Open Library and a second source; ratings come from Hardcover readers.
 
 ## Start here
 - [Books by how you feel](${site.url}/feel/): pick a current feeling and a desired one

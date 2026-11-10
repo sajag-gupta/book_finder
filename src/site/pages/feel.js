@@ -62,7 +62,7 @@ export function feelHubPage(ctx) {
     breadcrumbs: [['Books by feeling']],
     title: 'Books for how you feel right now and how you want to feel',
     description:
-      'Tell us how you feel today and how you want to feel. Get books chosen for that shift, with every way to borrow, buy or listen.',
+      'Tell us how you feel today and how you want to feel. Get books chosen for that shift, with every way to buy or listen.',
     body: `<section class="wrap page">
 <header class="pagehead" data-bg="${backdropFor('feel', 'cozy')}"><p class="kicker">Start here</p><h1>How do you feel, and how do you want to?</h1>
 <p class="lede">A book is a small way to change your day. Say where you are and where you would like to be, and we will point you to the right shelf.</p></header>

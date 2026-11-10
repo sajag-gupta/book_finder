@@ -1,15 +1,5 @@
 [
   {
-    "id": "libby",
-    "name": "Libby / OverDrive",
-    "kind": "library",
-    "label": "Borrow free with Libby",
-    "plain": "https://www.overdrive.com/search?q={query}",
-    "affiliate": null,
-    "commissionRate": 0,
-    "cookieDays": 0
-  },
-  {
     "id": "amazon",
     "name": "Amazon",
     "kind": "print",

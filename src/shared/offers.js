@@ -2,7 +2,7 @@
  * Offer ordering, following the product plan:
  *   1. Sort by lowest total price. Offers without a known price sort after priced ones.
  *   2. Break ties toward the higher-paying program.
- *   3. Never hide a cheaper option to push a commission. Library rows are always kept.
+ *   3. Never hide a cheaper option to push a commission.
  */
 
 const total = (offer) => (offer.price ?? 0) + (offer.shipping ?? 0);
@@ -19,24 +19,17 @@ export function rankOffers(offers) {
     return b.store.commissionRate - a.store.commissionRate;
   });
 
-  // The "lowest price" badge goes to the cheapest paid option; library copies are free by
-  // definition and are labelled separately.
-  const paid = ranked.filter((o) => o.store.kind !== 'library' && hasPrice(o));
-  const lowest = paid.length ? total(paid[0]) : null;
+  const priced = ranked.filter(hasPrice);
+  const lowest = priced.length ? total(priced[0]) : null;
   return ranked.map((offer) => ({
     ...offer,
-    isLowest:
-      lowest !== null &&
-      offer.store.kind !== 'library' &&
-      hasPrice(offer) &&
-      total(offer) === lowest,
+    isLowest: lowest !== null && hasPrice(offer) && total(offer) === lowest,
   }));
 }
 
-export const FORMAT_ORDER = ['library', 'print', 'ebook', 'audio'];
+export const FORMAT_ORDER = ['print', 'ebook', 'audio'];
 
 export const FORMAT_TITLES = {
-  library: 'Borrow free',
   print: 'Print, new',
   ebook: 'Ebook',
   audio: 'Audiobook',

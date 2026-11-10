@@ -15,11 +15,6 @@ const STEPS = [
     'See every way to get it',
     'Print, ebook and audiobook side by side, with the lowest price marked.',
   ],
-  [
-    'library',
-    'Borrow it free first',
-    'Your library is always the first option. Buying is there when you want it.',
-  ],
 ];
 
 const CATEGORIES = [
@@ -165,7 +160,7 @@ ${categories}
     path: '/',
     title: `${site.name}: find books by how you feel`,
     description:
-      'Tell us how you feel and how you want to feel. Find books that fit, then see every way to borrow, buy or listen, with the cheapest option marked.',
+      'Tell us how you feel and how you want to feel. Find books that fit, then see every way to buy or listen, with the cheapest option marked.',
     body: hero + moodStrip + sections + band,
     structuredData: {
       '@context': 'https://schema.org',
@@ -195,7 +190,7 @@ ${categories}
             height: 512,
           },
           description:
-            'A book discovery site that matches books to how you feel and how you want to feel, and shows every way to borrow, buy or listen.',
+            'A book discovery site that matches books to how you feel and how you want to feel, and shows every way to buy or listen.',
         },
       ],
     },

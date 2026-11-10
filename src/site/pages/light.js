@@ -2,6 +2,7 @@ import { esc } from '../html.js';
 import { icon } from '../icons.js';
 import { layout } from '../layout.js';
 import { cover } from '../components.js';
+import { goPath } from '../../shared/links.js';
 import { offersTable } from './book.js';
 
 /**
@@ -45,7 +46,7 @@ export function lightBookPage(ctx, entry) {
     ${rating}
     <p class="summary">${esc(sentence)}</p>
     <div class="actions">
-      <a class="btn btn--library btn--lg" href="/go/libby/${esc(entry.i)}?q=${encodeURIComponent(`${entry.t} ${entry.a}`)}" rel="nofollow noopener" target="_blank">${icon('library', { size: 20 })}Borrow free with Libby</a>
+      <a class="btn btn--accent btn--lg" href="${esc(goPath('amazon', entry.i, ''))}" rel="sponsored nofollow noopener" target="_blank">${icon('book', { size: 20 })}Buy on Amazon</a>
       <a class="btn btn--ghost btn--lg" href="#offers-h">Compare prices</a>
     </div>
   </div>
@@ -58,7 +59,7 @@ export function lightBookPage(ctx, entry) {
     site: ctx.site,
     path: `/books/${entry.s}/`,
     title: `${entry.t} by ${entry.a}`,
-    description: `${entry.t} by ${entry.a}: where to borrow, buy or listen.`,
+    description: `${entry.t} by ${entry.a}: where to buy or listen.`,
     body,
     noindex: true,
   });

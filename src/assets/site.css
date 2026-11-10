@@ -227,11 +227,6 @@ ol {
   border-color: var(--accent);
   color: var(--on-accent);
 }
-.btn--library {
-  background: var(--mint);
-  border-color: var(--mint);
-  color: #14213d;
-}
 .btn--lg {
   min-height: 52px;
   padding-inline: 1.5rem;

@@ -41,7 +41,7 @@ under their published limits. Prices come only from approved affiliate feeds.
 Our editorial catalogue is a curated layer, not the limit of what readers can find. Search
 (header suggestions and `/books/?q=`) shows our books first, then fills in from Open Library through
 `/api/search`. Choosing one opens `/b/?isbn=...`, a static shell that `/api/book` fills with facts
-(title, authors, year, pages, publisher, subjects) and the full where-to-get-it table, library first.
+(title, authors, year, pages, publisher, subjects) and the full where-to-get-it table.
 If the ISBN is one of our books, the shell redirects to its full page.
 
 - Only English editions' ISBNs are used (a work lists every translation's ISBN, and linking a reader
@@ -66,7 +66,7 @@ page says "Check price". Amazon prices must not be shown until its API terms are
 ## Known gaps
 
 - Ebook and audio links search by title and author, not by edition ISBN.
-- Libby links are a generic OverDrive search; per-library deep links depend on the Title Link API terms.
+- The Libby/OverDrive library option was removed (earns nothing); only paid stores are listed.
 - Cover images are loaded from Open Library by ISBN. Confirm their cover terms before launch.
 - The price-refresh job is not built yet (see the offers section above).
 - Share cards and the weekly email exist; see [newsletter.md](newsletter.md).
