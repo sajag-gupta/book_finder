@@ -1,0 +1,276 @@
+{
+  "updated": "2026-11-10",
+  "note": "Books on the November 2026 bestseller charts, supplied by the site owner. Titles and authors only.",
+  "groups": [
+    {
+      "name": "Biggest fiction and novel hits",
+      "books": [
+        {
+          "rank": 1,
+          "title": "A Court of Splintered Harmony",
+          "author": "Sarah J. Maas"
+        },
+        {
+          "rank": 2,
+          "title": "The Hollow",
+          "author": "Michael Connelly"
+        },
+        {
+          "rank": 3,
+          "title": "The French Illusion",
+          "author": "John Grisham"
+        },
+        {
+          "rank": 4,
+          "title": "Threshing Day",
+          "author": "Rebecca Yarros"
+        },
+        {
+          "rank": 5,
+          "title": "The Witch",
+          "author": "Freida McFadden"
+        },
+        {
+          "rank": 6,
+          "title": "The Calamity Club",
+          "author": "Kathryn Stockett"
+        },
+        {
+          "rank": 7,
+          "title": "A Married Little Christmas",
+          "author": "Abby Jimenez"
+        },
+        {
+          "rank": 8,
+          "title": "The Family Cross",
+          "author": "James Patterson"
+        },
+        {
+          "rank": 9,
+          "title": "Chain Reaction",
+          "author": "Lee Child"
+        },
+        {
+          "rank": 10,
+          "title": "Miss Wolcott's Ghost",
+          "author": "Louise Penny"
+        },
+        {
+          "rank": 11,
+          "title": "Partita",
+          "author": "Barbara Kingsolver"
+        },
+        {
+          "rank": 12,
+          "title": "Hollow Bones",
+          "author": "Jodi Picoult"
+        },
+        {
+          "rank": 13,
+          "title": "The Pirate Queen",
+          "author": "Ariel Lawhon"
+        },
+        {
+          "rank": 14,
+          "title": "Peck & Peck",
+          "author": "Bonnie Garmus"
+        },
+        {
+          "rank": 15,
+          "title": "The Keeper",
+          "author": "Ana Huang"
+        },
+        {
+          "rank": 16,
+          "title": "The Correspondent",
+          "author": "Virginia Evans"
+        },
+        {
+          "rank": 17,
+          "title": "The First Time I Saw Him",
+          "author": "Laura Dave"
+        },
+        {
+          "rank": 18,
+          "title": "Half His Age",
+          "author": "Jennette McCurdy"
+        },
+        {
+          "rank": 19,
+          "title": "Theo of Golden",
+          "author": "Allen Levi"
+        },
+        {
+          "rank": 20,
+          "title": "Dungeon Crawler Carl",
+          "author": "Matt Dinniman"
+        }
+      ]
+    },
+    {
+      "name": "More trending fiction, romance, fantasy and thrillers",
+      "books": [
+        {
+          "rank": 21,
+          "title": "The Things We Leave Unfinished",
+          "author": "Rebecca Yarros"
+        },
+        {
+          "rank": 22,
+          "title": "Game Changer",
+          "author": "Rachel Reid"
+        },
+        {
+          "rank": 23,
+          "title": "Heated Rivalry",
+          "author": "Rachel Reid"
+        },
+        {
+          "rank": 24,
+          "title": "The Long Game",
+          "author": "Rachel Reid"
+        },
+        {
+          "rank": 25,
+          "title": "The Summer Hikaru Died, Vol. 8",
+          "author": "Mokumokuren"
+        },
+        {
+          "rank": 26,
+          "title": "Fourth Wing",
+          "author": "Rebecca Yarros"
+        },
+        {
+          "rank": 27,
+          "title": "Warm Bodies",
+          "author": "Isaac Marion"
+        },
+        {
+          "rank": 28,
+          "title": "Verity",
+          "author": "Colleen Hoover"
+        },
+        {
+          "rank": 29,
+          "title": "The Women",
+          "author": "Kristin Hannah"
+        },
+        {
+          "rank": 30,
+          "title": "Christmas Staycation",
+          "author": "Meghan Quinn"
+        }
+      ]
+    },
+    {
+      "name": "Trending nonfiction, memoirs and biographies",
+      "books": [
+        {
+          "rank": 31,
+          "title": "Simply Ina",
+          "author": "Ina Garten"
+        },
+        {
+          "rank": 32,
+          "title": "Contend",
+          "author": "Philip Anthony Mitchell"
+        },
+        {
+          "rank": 33,
+          "title": "Simple Kitchen Magic",
+          "author": "Rebekah Moyer"
+        },
+        {
+          "rank": 34,
+          "title": "And I Will Tell You Mine",
+          "author": "Sophia Bush"
+        },
+        {
+          "rank": 35,
+          "title": "In the Shadow of Eight",
+          "author": "Collin Gosselin"
+        },
+        {
+          "rank": 36,
+          "title": "Andy's Bravo Scrapbook",
+          "author": "Andy Cohen"
+        },
+        {
+          "rank": 37,
+          "title": "Coffee, for Here",
+          "author": "Morgan Eckroth"
+        },
+        {
+          "rank": 38,
+          "title": "Uniting the States",
+          "author": "Brian Kilmeade"
+        },
+        {
+          "rank": 39,
+          "title": "Princes and Thieves",
+          "author": "Matthew Cole"
+        },
+        {
+          "rank": 40,
+          "title": "Blockers",
+          "author": "Michael Lewis"
+        }
+      ]
+    },
+    {
+      "name": "Other current chart entries and popular Kindle discoveries",
+      "books": [
+        {
+          "rank": 41,
+          "title": "The American Way of Killing",
+          "author": "Malcolm Gladwell"
+        },
+        {
+          "rank": 42,
+          "title": "The Steps",
+          "author": "Sylvester Stallone"
+        },
+        {
+          "rank": 43,
+          "title": "Swan Song",
+          "author": "Charles Spencer"
+        },
+        {
+          "rank": 44,
+          "title": "One Helluva Ride",
+          "author": "Michael Douglas"
+        },
+        {
+          "rank": 45,
+          "title": "Abandoning a Cat",
+          "author": "Haruki Murakami"
+        },
+        {
+          "rank": 46,
+          "title": "Murdoku",
+          "author": "Manuel Garand"
+        },
+        {
+          "rank": 47,
+          "title": "Murdoku: Around the World",
+          "author": "Manuel Garand"
+        },
+        {
+          "rank": 48,
+          "title": "Fight or Flight",
+          "author": "Jeff Kinney"
+        },
+        {
+          "rank": 49,
+          "title": "I Accidentally Joined a Wolf Shifter Group Chat",
+          "author": "C.P. Rider"
+        },
+        {
+          "rank": 50,
+          "title": "The Washwoman at the River's End",
+          "author": "J. R. Thorn"
+        }
+      ]
+    }
+  ]
+}

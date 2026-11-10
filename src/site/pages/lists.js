@@ -344,6 +344,42 @@ export function disclosurePage(ctx) {
   });
 }
 
+export function trendingPage(ctx) {
+  const { groups, updated, flat } = ctx.trendingNow;
+  const when = updated
+    ? new Date(`${updated}T00:00:00Z`).toLocaleDateString('en-US', {
+        month: 'long',
+        year: 'numeric',
+        timeZone: 'UTC',
+      })
+    : '';
+  const card = (b) =>
+    `<li class="card"><a class="card__link" href="/books/${esc(b.slug)}/"><span class="rank" aria-label="Rank ${b.rank}">${b.rank}</span>${cover(b)}<span class="card__body"><strong class="card__title">${esc(b.title)}</strong><span class="card__author">${esc(b.author)}</span>${b.rating ? `<span class="card__meta">${icon('star', { size: 13 })} ${esc(b.rating.toFixed(1))}</span>` : ''}</span></a></li>`;
+  return page(ctx, {
+    path: '/trending/',
+    title: `Trending books, ${when}`,
+    description: `The ${flat.length} books on this month's bestseller charts: new releases, fiction, romance and fantasy, and non-fiction. Updated ${when}.`,
+    breadcrumbs: [['Trending']],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: `Trending books, ${when}`,
+      mainEntity: {
+        '@type': 'ItemList',
+        numberOfItems: flat.length,
+        itemListElement: flat.slice(0, 20).map((b, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: `${ctx.site.url}/books/${b.slug}/`,
+          name: b.title,
+        })),
+      },
+    },
+    body: `${head({ kicker: when, title: 'Trending right now', lede: `The ${flat.length} books on this month's bestseller charts. Titles without our own write-up show the facts and every way to borrow, buy or listen.` })}
+${groups.map((g) => `<section class="section"><h2>${esc(g.name)}</h2><ul class="grid">${g.items.map(card).join('')}</ul></section>`).join('')}`,
+  });
+}
+
 export function aboutPage(ctx) {
   return page(ctx, {
     path: '/about/',

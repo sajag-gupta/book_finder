@@ -135,7 +135,7 @@ ${crumbNav}${body}
     </div>
     <nav aria-label="Explore">
       <h2 class="footer__h">Explore</h2>
-      <ul><li><a href="/books/">All books</a></li><li><a href="/bestsellers/">Bestsellers</a></li><li><a href="/moods/">Moods</a></li><li><a href="/genres/">Genres</a></li><li><a href="/tropes/">Tropes</a></li><li><a href="/shelf/">My shelf</a></li></ul>
+      <ul><li><a href="/books/">All books</a></li><li><a href="/trending/">Trending</a></li><li><a href="/bestsellers/">Bestsellers</a></li><li><a href="/moods/">Moods</a></li><li><a href="/genres/">Genres</a></li><li><a href="/tropes/">Tropes</a></li><li><a href="/shelf/">My shelf</a></li></ul>
     </nav>
     <nav aria-label="About">
       <h2 class="footer__h">About</h2>

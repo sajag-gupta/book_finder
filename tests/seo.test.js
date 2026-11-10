@@ -3,7 +3,15 @@ import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
 import { loadData } from '../src/site/data.js';
 import { layout } from '../src/site/layout.js';
-import { aboutPage, bookPage, createContext, feelPairPage, feelPairs } from '../src/site/pages.js';
+import {
+  aboutPage,
+  bookPage,
+  createContext,
+  feelPairPage,
+  feelPairs,
+  homePage,
+  trendingPage,
+} from '../src/site/pages.js';
 import { pageCount, pageHref, pager } from '../src/site/components.js';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
@@ -92,4 +100,16 @@ test('the About page names who runs the site and how to reach them', () => {
   assert.ok(html.includes('Sajag Gupta'));
   assert.ok(html.includes('mailto:stg.violin@gmail.com'));
   assert.ok(html.includes('As an Amazon Associate I earn from qualifying purchases.'));
+});
+
+test('the chart list drives the home Trending rail and the /trending/ page', () => {
+  const { flat, groups } = ctx.trendingNow;
+  assert.ok(flat.length >= 40, `most of the 50 chart books resolve (${flat.length})`);
+  assert.equal(groups.length, 4);
+  const home = homePage(ctx);
+  assert.ok(home.includes('On this month&rsquo;s bestseller charts'));
+  assert.ok(home.includes(`href="/books/${flat[0].slug}/"`));
+  const page = trendingPage(ctx);
+  for (const item of flat) assert.ok(page.includes(`href="/books/${item.slug}/"`), item.title);
+  assert.match(page, /<h1>Trending right now<\/h1>/);
 });
