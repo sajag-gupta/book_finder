@@ -16,6 +16,8 @@
   "scripts": {
     "build": "node scripts/build.js",
     "setup": "node scripts/setup.mjs",
+    "vault:lock": "node scripts/ops/vault.mjs lock",
+    "vault:unlock": "node scripts/ops/vault.mjs unlock",
     "serve": "node scripts/dev-server.mjs",
     "start": "npm run build -- --skip-share-cards && node scripts/dev-server.mjs",
     "seo": "node scripts/seo-audit.js",
