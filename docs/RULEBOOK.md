@@ -166,8 +166,10 @@ After Deploy succeeds, run a small Node script (not a browser) against the live 
   About pages). **Amazon forbids affiliate links in email**, so `/go/amazon/...` with
   `utm_medium=email` redirects without the tag (tested). The first 3 qualifying sales are due within
   180 days of joining. Amazon US payouts need a US bank account; the owner is arranging payment.
-- **Audible** runs through Associates: get one real Audible link from Associates Central and copy its
-  format into `config/stores.json`; do not guess it. Google Play Books has no public affiliate program, so it was removed from the store list.
+- **Audible** runs through Associates. The button ("Try Audible") goes to the Amazon Audible membership
+  page (`node=18145289011`, link supplied by the owner from SiteStripe) with the `readyourmood-20` tag;
+  it pays a bounty on membership sign-ups, not on single audiobooks, and is not per book. Google Play
+  Books has no public affiliate program, so it was removed from the store list.
 - **Removed for good:** Awin, Bookshop.org, Libro.fm (Awin rejected the applications), Impact,
   ThriftBooks, AbeBooks, Barnes & Noble. There is a test that none of them reappear.
 - Every affiliate link is disclosed near the buttons and on `/about/affiliate-disclosure/`, carries

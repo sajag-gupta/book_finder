@@ -29,9 +29,12 @@
     "id": "audible",
     "name": "Audible",
     "kind": "audio",
-    "label": "Buy audiobook",
-    "plain": "https://www.audible.com/search?keywords={query}",
-    "affiliate": null,
+    "label": "Try Audible",
+    "plain": "https://www.amazon.com/b?node=18145289011",
+    "affiliate": {
+      "template": "https://www.amazon.com/b?node=18145289011&tag={amazon_tag}",
+      "requires": ["amazon_tag"]
+    },
     "commissionRate": 0,
     "cookieDays": 1
   }
