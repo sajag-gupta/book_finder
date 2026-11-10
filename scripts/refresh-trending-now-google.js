@@ -24,7 +24,9 @@ const list = read('data', 'trending-now.json');
 const lightFile = join(root, 'data', 'light', 'books.json');
 const books = readdirSync(join(root, 'data', 'books'))
   .filter((f) => f.endsWith('.json'))
-  .map((f) => read('data', 'books', f));
+  .map((f) => read('data', 'books', f))
+  // Only published records count: a draft has no page yet, so its facts-only listing must stay.
+  .filter((b) => b.status === 'checked' || b.status === 'reviewed');
 const written = (entry) => books.some((b) => sameBook(b, entry));
 // A written page always wins, so a facts-only listing for the same book is dropped.
 const light = (existsSync(lightFile) ? read('data', 'light', 'books.json') : []).filter(

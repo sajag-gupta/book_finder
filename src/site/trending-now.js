@@ -5,6 +5,9 @@ import { sameBook } from '../shared/hardcover.js';
  * pages can show. Each is matched to a written book first, then to a facts-only listing; a title the
  * site does not have is left out rather than shown with a dead link.
  */
+/** A long subtitle makes a card unreadable; the full title is on the book's own page. */
+const short = (title) => (title.length > 38 && title.includes(':') ? title.split(':')[0] : title);
+
 export function resolveTrendingNow(list, published, light, hc) {
   if (!list?.groups) return { updated: null, groups: [], flat: [] };
   const groups = list.groups.map((group) => ({
@@ -17,7 +20,7 @@ export function resolveTrendingNow(list, published, light, hc) {
           return {
             rank: entry.rank,
             slug: book.slug,
-            title: book.title,
+            title: short(book.title),
             author: book.author,
             isbn13: book.isbn13,
             written: true,
@@ -29,7 +32,7 @@ export function resolveTrendingNow(list, published, light, hc) {
           ? {
               rank: entry.rank,
               slug: entryLight.s,
-              title: entryLight.t,
+              title: short(entryLight.t),
               author: entryLight.a,
               isbn13: entryLight.i,
               written: false,

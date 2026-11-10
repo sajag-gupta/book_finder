@@ -23,7 +23,8 @@ const lightFile = join(root, 'data', 'light', 'books.json');
 const light = existsSync(lightFile) ? read('data', 'light', 'books.json') : [];
 const books = readdirSync(join(root, 'data', 'books'))
   .filter((f) => f.endsWith('.json'))
-  .map((f) => read('data', 'books', f));
+  .map((f) => read('data', 'books', f))
+  .filter((b) => b.status === 'checked' || b.status === 'reviewed');
 
 const known = (entry) =>
   books.some((b) => sameBook(b, entry)) ||
