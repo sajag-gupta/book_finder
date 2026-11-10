@@ -26,16 +26,6 @@
     "cookieDays": 14
   },
   {
-    "id": "googleplay",
-    "name": "Google Play Books",
-    "kind": "ebook",
-    "label": "Buy ebook",
-    "plain": "https://play.google.com/store/search?q={query}&c=books",
-    "affiliate": null,
-    "commissionRate": 0,
-    "cookieDays": 0
-  },
-  {
     "id": "audible",
     "name": "Audible",
     "kind": "audio",
