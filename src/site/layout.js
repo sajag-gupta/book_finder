@@ -72,7 +72,7 @@ export function layout({
           )
           .join('')}</nav>`
       : '';
-  const scriptTags = ['site', ...scripts]
+  const scriptTags = ['site', 'dock', ...scripts]
     .map((name) => `<script type="module" src="/assets/${name}.js"></script>`)
     .join('\n');
   return `<!doctype html>
@@ -91,8 +91,8 @@ ${robots}
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
 ${social}
-<meta name="theme-color" content="#f8f4ea">
-<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#5a3e2b">
+<meta name="color-scheme" content="light">
 <link rel="icon" href="/assets/brand/icon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
@@ -102,7 +102,6 @@ ${social}
 <link rel="preconnect" href="https://books.google.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;600&family=Inter:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
-<script src="/assets/theme.js"></script>
 ${ld}
 </head>
 <body>
@@ -119,7 +118,6 @@ ${ld}
     </nav>
     <div class="bar__tools">
       ${searchForm('hq', { placeholder: 'Search books, authors, or moods…' })}
-      <button type="button" class="theme-toggle" data-theme-toggle hidden aria-pressed="false" aria-label="Switch to dark theme"><span class="theme-toggle__sun">${icon('sun', { size: 22 })}</span><span class="theme-toggle__moon">${icon('moon', { size: 22 })}</span></button>
       <a class="shelf-link" href="/shelf/" aria-label="My shelf">${icon('bookmark', { size: 22 })}<span class="shelf-count" data-shelf-count hidden>0</span></a>
     </div>
   </div>
@@ -151,6 +149,13 @@ ${crumbNav}${body}
     <p>Cover images are provided by Open Library. Reader ratings and reader-reported content warnings come from Hardcover readers. All descriptions and recommendations are written by us. Background paintings are public domain, from the Art Institute of Chicago (<a href="/about/credits/">credits</a>).</p>
   </div>
 </footer>
+<nav class="dock" aria-label="Quick navigation" data-dock>
+  <a class="dock__item" href="/" data-dock-item>${icon('house', { size: 24 })}<span>Home</span></a>
+  <a class="dock__item" href="/feel/" data-dock-item>${icon('heart', { size: 24 })}<span>Mood</span></a>
+  <a class="dock__item" href="/books/" data-dock-item>${icon('compass', { size: 24 })}<span>Explore</span></a>
+  <a class="dock__item" href="/bestsellers/" data-dock-item>${icon('trending-up', { size: 24 })}<span>Top lists</span></a>
+  <a class="dock__item" href="/shelf/" data-dock-item>${icon('bookmark', { size: 24 })}<span>Shelf</span></a>
+</nav>
 ${scriptTags}
 </body>
 </html>

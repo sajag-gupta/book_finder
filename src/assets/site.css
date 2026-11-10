@@ -1,66 +1,38 @@
-/* ---------- Tokens ---------- */
+/* ---------- Tokens ----------
+   One theme. Sage green is the ground (about 60%), walnut brown the surfaces, header, footer and
+   picture scrims (about 30%), amber the buttons and accents (about 10%). */
 :root {
-  color-scheme: light dark;
-  --bg: #f3f1ec;
-  --bg-soft: #ebe8e1;
-  --surface: #fbfaf7;
-  --ink: #1c2a21;
-  --muted: #5b675e;
-  --line: #dfdbd2;
-  --sky: #e8e5dd;
-  --sunshine: #d9a441;
-  --coral: #c9674f;
-  --violet: #1f4d3a;
-  --mint: #3d7a55;
-  --accent: #1f4d3a;
-  --on-accent: #ffffff;
+  color-scheme: light;
+  --sage: #87a96b;
+  --walnut: #5a3e2b;
+  --amber: #d5851f;
+  --amber-light: #f0b867;
+  --on-walnut: #f6efe0;
+  --on-walnut-muted: #dccfb6;
+  --field: #fbfdf6;
+  --paper: #e1ebd1;
+  --bg: #f0f4e6;
+  --bg-soft: #e4ecd6;
+  --surface: #e1ebd1;
+  --ink: #3a281b;
+  --muted: #5a3e2b;
+  --line: rgb(90 62 43 / 20%);
+  --sky: #d6e3c1;
+  --sunshine: var(--amber);
+  --coral: var(--amber);
+  --violet: #5a3e2b;
+  --mint: var(--walnut);
+  --accent: var(--amber);
+  --on-accent: #2b1d12;
   --shadow: none;
-  --shadow-lg:
-    0 0 0 1px rgb(31 29 26 / 5%), 0 8px 24px rgb(31 29 26 / 12%), 0 20px 48px rgb(31 29 26 / 12%);
+  --shadow-lg: 0 2px 4px rgb(43 29 18 / 30%), 0 18px 48px rgb(43 29 18 / 35%);
   --radius: 14px;
   --radius-lg: 20px;
   --max: 90rem;
   --gutter: clamp(1rem, 3.5vw, 3rem);
-  --sunshine-ink: #b27a00;
+  --sunshine-ink: #8a560f;
   --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
   --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
-}
-
-:root:where([data-theme='light']) {
-  color-scheme: light;
-}
-:root:where([data-theme='dark']) {
-  color-scheme: dark;
-  --sunshine-ink: var(--sunshine);
-  --bg: #131312;
-  --bg-soft: #1a1a18;
-  --surface: #20201d;
-  --ink: #ebebe8;
-  --muted: #aaa79e;
-  --line: #2e2d2a;
-  --sky: #272622;
-  --violet: #e9c46a;
-  --accent: #e9c46a;
-  --on-accent: #1a1608;
-  --shadow: none;
-  --shadow-lg: 0 2px 4px rgb(0 0 0 / 40%), 0 18px 48px rgb(0 0 0 / 45%);
-}
-@media (prefers-color-scheme: dark) {
-  :root:where(:not([data-theme='light'])) {
-    --sunshine-ink: var(--sunshine);
-    --bg: #131312;
-    --bg-soft: #1a1a18;
-    --surface: #20201d;
-    --ink: #ebebe8;
-    --muted: #aaa79e;
-    --line: #2e2d2a;
-    --sky: #272622;
-    --violet: #e9c46a;
-    --accent: #e9c46a;
-    --on-accent: #1a1608;
-    --shadow: none;
-    --shadow-lg: 0 2px 4px rgb(0 0 0 / 40%), 0 18px 48px rgb(0 0 0 / 45%);
-  }
 }
 
 /* ---------- Base ---------- */
@@ -282,31 +254,6 @@ ol {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-}
-.theme-toggle {
-  display: inline-grid;
-  place-items: center;
-  width: 44px;
-  height: 44px;
-  padding: 0;
-  color: var(--ink);
-  background: transparent;
-  border: 0;
-  border-radius: 50%;
-  cursor: pointer;
-  touch-action: manipulation;
-}
-.theme-toggle:hover {
-  background: var(--sky);
-}
-.theme-toggle__sun,
-.theme-toggle__moon {
-  display: none;
-  line-height: 0;
-}
-:root[data-theme='dark'] .theme-toggle__sun,
-:root[data-theme='light'] .theme-toggle__moon {
-  display: inline;
 }
 .shelf-link {
   position: relative;
@@ -2520,4 +2467,323 @@ a.tag:hover {
 }
 .brand {
   color: var(--ink);
+}
+
+/* ---------- Sage / walnut / amber ---------- */
+/* Walnut surfaces: everything inside reads in cream, so the tokens flip once, here. */
+.panel,
+.notice,
+.callout,
+.steps li,
+.band,
+.rankrow,
+.trust ul,
+.chip,
+.tile,
+.catcard,
+.feelcard,
+.tab,
+.pill,
+.rail__btn,
+.card__status,
+.facet,
+.filters,
+.stats,
+.share-preview,
+.answer,
+.faq {
+  background: var(--paper);
+  color: var(--ink);
+}
+.site-header {
+  background: var(--walnut);
+  color: var(--on-walnut);
+  --ink: var(--on-walnut);
+  --muted: var(--on-walnut-muted);
+  --violet: var(--amber-light);
+  --line: rgb(246 239 224 / 24%);
+}
+.chip,
+.pill,
+.tab {
+  background: var(--sage);
+  color: #2b1d12;
+  --ink: #2b1d12;
+  --muted: #3a281b;
+}
+.tab[aria-pressed='true'],
+.pill[aria-pressed='true'] {
+  background: var(--amber);
+  border-color: var(--amber);
+  color: #2b1d12;
+}
+.pill[aria-pressed='true'] .icon,
+.tab[aria-pressed='true'] .icon {
+  color: #2b1d12;
+}
+
+/* Buttons are the amber 10%. */
+.btn {
+  background: var(--amber);
+  border-color: var(--amber);
+  color: #2b1d12;
+}
+.btn:hover {
+  background: var(--amber-light);
+  border-color: var(--amber-light);
+}
+.btn--ghost,
+.btn--ghost:hover {
+  background: transparent;
+  color: var(--ink);
+  border-color: var(--ink);
+}
+.btn--ghost:hover {
+  background: rgb(43 29 18 / 10%);
+}
+.btn--accent {
+  background: var(--amber);
+  border-color: var(--amber);
+  color: #2b1d12;
+}
+:focus-visible {
+  outline-color: var(--amber);
+}
+.on-sage :focus-visible,
+main :focus-visible {
+  outline-color: #2b1d12;
+}
+
+/* Fields stay light so typing is easy to read. */
+.search input,
+.select select,
+.suggest,
+.signup input[type='email'],
+.hero2__text .search--large input {
+  background: var(--field);
+  color: #2b1d12;
+  --ink: #2b1d12;
+  --muted: #46301f;
+}
+
+/* Header: walnut bar, cream text, amber accent. */
+.site-header {
+  background: var(--walnut);
+  backdrop-filter: none;
+}
+.brand,
+.brand span {
+  color: var(--on-walnut);
+}
+.brand__your {
+  color: var(--amber-light);
+}
+@media (max-width: 52rem) {
+  .nav {
+    display: none;
+  }
+}
+.shelf-link:hover,
+.nav a:hover {
+  background: rgb(246 239 224 / 14%);
+}
+.shelf-count {
+  background: var(--amber);
+  color: #2b1d12;
+}
+.shelf-link {
+  color: var(--on-walnut);
+}
+
+/* Pictures: recolour every painting to sage, then a walnut scrim, so they all match the theme. */
+[data-bg] {
+  background-color: #b8d09f;
+  background-blend-mode: multiply;
+}
+.hero2 {
+  background-color: #b8d09f;
+  background-blend-mode: multiply;
+}
+.chip .icon,
+.pill .icon,
+.tab .icon {
+  color: #3a281b;
+}
+.bgband::before,
+.pagehead[data-bg]::before,
+.site-footer[data-bg]::before,
+.hero2::before,
+.book__hero[data-bg]::before {
+  background: rgb(52 36 25 / 38%);
+}
+.hero2::before {
+  background: rgb(52 36 25 / 34%);
+}
+.bgband .kicker,
+.pagehead[data-bg] .kicker {
+  color: var(--amber-light);
+}
+.hero2__text .btn--accent {
+  background: var(--amber);
+  border-color: var(--amber);
+  color: #2b1d12;
+}
+.hero2__text .btn--ghost,
+.book__hero[data-bg] .btn--ghost {
+  color: #fff;
+  border-color: #fff;
+}
+.bgband .steps li,
+.bgband .steps li a,
+.bgband .steps h3,
+.bgband .signup label,
+.bgband .band h2 {
+  color: var(--ink);
+}
+.bgband .band .muted,
+.bgband .band p {
+  color: var(--muted);
+}
+.bgband .band a:not(.btn) {
+  color: var(--walnut);
+}
+.tone-0 {
+  --tone: #d5851f;
+}
+.tone-1 {
+  --tone: #87a96b;
+}
+.tone-2 {
+  --tone: #b9cf9f;
+}
+.tone-3 {
+  --tone: #a9794d;
+}
+.tone-4 {
+  --tone: #f0b867;
+}
+.tone-5 {
+  --tone: #6f8f55;
+}
+.tone-6 {
+  --tone: #c9b79c;
+}
+.tone-7 {
+  --tone: #8a5a36;
+}
+
+/* ---------- Dock (after motion-primitives' Dock, in plain CSS and JS) ---------- */
+.dock {
+  display: none;
+}
+@media (max-width: 52rem) {
+  body {
+    padding-bottom: 6.5rem;
+  }
+  .dock {
+    display: flex;
+  }
+}
+.dock {
+  position: fixed;
+  left: 50%;
+  bottom: max(0.75rem, env(safe-area-inset-bottom));
+  z-index: 40;
+  align-items: flex-end;
+  gap: 0.35rem;
+  padding: 0.5rem 0.65rem;
+  border-radius: 22px;
+  background: var(--walnut);
+  box-shadow: var(--shadow-lg);
+  transform: translateX(-50%);
+  max-width: calc(100vw - 1rem);
+}
+.dock__item {
+  --s: 1;
+  display: grid;
+  justify-items: center;
+  gap: 0.15rem;
+  min-width: 54px;
+  padding: 0.4rem 0.55rem;
+  border-radius: 14px;
+  color: var(--on-walnut);
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.1;
+  text-decoration: none;
+  transform: scale(var(--s));
+  transform-origin: 50% 100%;
+  transition: transform 0.12s ease-out;
+}
+.dock__item:hover,
+.dock__item:focus-visible {
+  background: rgb(246 239 224 / 14%);
+}
+.dock__item[aria-current='page'] {
+  background: var(--amber);
+  color: #2b1d12;
+}
+.dock__item .icon {
+  vertical-align: baseline;
+}
+@media (max-width: 30rem) {
+  .dock {
+    gap: 0.1rem;
+    padding-inline: 0.4rem;
+  }
+  .dock__item {
+    min-width: 0;
+    padding-inline: 0.45rem;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dock__item {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* ---------- Phones ---------- */
+@media (max-width: 40rem) {
+  .brand__mark {
+    width: 40px;
+    height: 40px;
+  }
+  .brand {
+    font-size: 1.15rem;
+  }
+  .site-bar {
+    gap: 0.5rem;
+    padding-block: 0.4rem;
+  }
+  .bar__tools {
+    order: 3;
+    flex: 1 0 100%;
+  }
+  .bar__tools .search {
+    flex: 1;
+    max-width: none;
+  }
+  .shelf-link {
+    display: none;
+  }
+  h1 {
+    font-size: clamp(1.9rem, 8.4vw, 2.4rem);
+  }
+  .hero2 {
+    min-height: clamp(26rem, 74vh, 34rem);
+  }
+}
+
+/* Small print stays readable. */
+.small,
+.card__author,
+.card__meta,
+.card__reason,
+.trend__author,
+.sub,
+.catcard__count,
+.tile__count,
+.chip__blurb {
+  font-size: 0.9rem;
 }
