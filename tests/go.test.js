@@ -94,3 +94,14 @@ test('Amazon links from the newsletter are plain, because Amazon forbids affilia
   );
   assert.equal(email.searchParams.get('tag'), null);
 });
+
+test('Audible goes to the tagged membership page, and untagged from the newsletter', async () => {
+  const site = new URL((await call('audible', ISBN)).headers.get('Location'));
+  assert.equal(site.host, 'www.amazon.com');
+  assert.equal(site.searchParams.get('node'), '18145289011');
+  assert.equal(site.searchParams.get('tag'), 'readyourmood-20');
+  const email = new URL(
+    (await call('audible', ISBN, { query: '?utm_medium=email' })).headers.get('Location'),
+  );
+  assert.equal(email.searchParams.get('tag'), null);
+});
