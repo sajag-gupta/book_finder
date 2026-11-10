@@ -19,7 +19,7 @@ import { Resvg, initWasm } from '@resvg/resvg-wasm';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const at = (...p) => new URL(`../${p.join('/')}`, import.meta.url);
-const GROUND = '#fdf9ee';
+const GROUND = '#f4ede0';
 const logo = `data:image/png;base64,${readFileSync(at('src/assets/brand/logo.png')).toString('base64')}`;
 
 await initWasm(readFileSync(at('node_modules/@resvg/resvg-wasm/index_bg.wasm')));

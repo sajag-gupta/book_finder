@@ -10,11 +10,11 @@ export const SIZES = {
 };
 
 const INK = '#14213D';
-const SKY = '#EAF5FF';
+const SKY = '#f4ede0';
 const COLORS = {
   sunshine: { bg: '#FFC933', fg: INK },
-  coral: { bg: '#FF6B6B', fg: INK },
-  violet: { bg: '#5A43E0', fg: '#FFFFFF' },
+  coral: { bg: '#ff6b5b', fg: '#FFFFFF' },
+  violet: { bg: '#14213D', fg: '#FFFFFF' },
   mint: { bg: '#3DDC97', fg: INK },
 };
 

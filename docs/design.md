@@ -20,15 +20,15 @@ nothing from them is vendored into the repo.
 
 ## Decisions
 
-| Area          | Decision                                                                                      | Why                                                    |
-| ------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Search        | Pill input with a visible blue Search button in the header, hero and browse page              | Search was the weakest part: no visible way to submit  |
-| Colour        | Warm off-white canvas, one blue accent; mood colours only as small tinted icons and top rules | Covers carry the colour, chrome stays quiet            |
-| Type          | Fraunces (headings) and Inter (body)                                                          | Bookish without feeling dated; both are variable fonts |
-| Width         | Container up to 90rem, gutter `clamp(1rem, 3.5vw, 3rem)`                                      | Uses wide screens instead of a narrow centred column   |
-| Cards         | Cover first, one soft shadow, generated cover when the real one is missing                    | Handles missing covers, long titles and authors        |
-| Search states | Loading, empty and error text for the Open Library results block                              | A search should never dead-end or fail silently        |
-| Dark mode     | Follows the system; same tokens, warm dark greys                                              | No separate theme to maintain                          |
+| Area          | Decision                                                                               | Why                                                    |
+| ------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Search        | Pill input with a visible blue Search button in the header, hero and browse page       | Search was the weakest part: no visible way to submit  |
+| Colour        | Warm cream canvas (#f4ede0), deep navy ink (#14213D), and coral touch accent (#ff6b5b) | Covers carry the colour, chrome stays quiet            |
+| Type          | Fraunces (headings) and Inter (body)                                                   | Bookish without feeling dated; both are variable fonts |
+| Width         | Container up to 90rem, gutter `clamp(1rem, 3.5vw, 3rem)`                               | Uses wide screens instead of a narrow centred column   |
+| Cards         | Cover first, one soft shadow, generated cover when the real one is missing             | Handles missing covers, long titles and authors        |
+| Search states | Loading, empty and error text for the Open Library results block                       | A search should never dead-end or fail silently        |
+| Dark mode     | Follows the system; deep navy surfaces with warm cream ink and coral accents           | Rich contrast without a separate theme to maintain     |
 
 ## Two questions, one right book
 

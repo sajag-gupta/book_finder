@@ -40,7 +40,7 @@ function walk(dir) {
 const files = walk(dist).map((f) => relative(dist, f).split(sep).join('/'));
 // 404.html and Google Search Console's ownership file (google<token>.html) are not content pages.
 const htmlFiles = files.filter(
-  (f) => f.endsWith('.html') && f !== '404.html' && !/^google[0-9a-f]+\.html$/.test(f),
+  (f) => f.endsWith('.html') && f !== '404.html' && !/^google[0-9a-f]+\.html$/i.test(f),
 );
 const fileSet = new Set(files);
 

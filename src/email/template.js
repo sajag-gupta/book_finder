@@ -8,7 +8,7 @@ import { goPath } from '../shared/links.js';
 import { allStores } from '../shared/registry.js';
 
 const INK = '#14213D';
-const SKY = '#EAF5FF';
+const SKY = '#f4ede0';
 const SUNSHINE = '#FFC933';
 const FONT = "'Trebuchet MS', 'Segoe UI', Arial, sans-serif";
 

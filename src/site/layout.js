@@ -91,7 +91,7 @@ ${robots}
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
 ${social}
-<meta name="theme-color" content="#f8f4ea">
+<meta name="theme-color" content="#f4ede0">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/assets/brand/icon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">

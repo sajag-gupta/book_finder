@@ -1,22 +1,22 @@
 /* ---------- Tokens ---------- */
 :root {
   color-scheme: light dark;
-  --bg: #f3f1ec;
-  --bg-soft: #ebe8e1;
-  --surface: #fbfaf7;
-  --ink: #1c2a21;
-  --muted: #5b675e;
-  --line: #dfdbd2;
-  --sky: #e8e5dd;
+  --bg: #f4ede0;
+  --bg-soft: #eae1d2;
+  --surface: #faf6ef;
+  --ink: #14213d;
+  --muted: #4e5a71;
+  --line: #ded3c1;
+  --sky: #eae1d2;
   --sunshine: #d9a441;
-  --coral: #c9674f;
-  --violet: #1f4d3a;
-  --mint: #3d7a55;
-  --accent: #1f4d3a;
+  --coral: #ff6b5b;
+  --violet: #14213d;
+  --mint: #2e6f47;
+  --accent: #ff6b5b;
   --on-accent: #ffffff;
   --shadow: none;
   --shadow-lg:
-    0 0 0 1px rgb(31 29 26 / 5%), 0 8px 24px rgb(31 29 26 / 12%), 0 20px 48px rgb(31 29 26 / 12%);
+    0 0 0 1px rgb(20 33 61 / 6%), 0 8px 24px rgb(20 33 61 / 10%), 0 20px 48px rgb(20 33 61 / 10%);
   --radius: 14px;
   --radius-lg: 20px;
   --max: 90rem;
@@ -32,32 +32,32 @@
 :root:where([data-theme='dark']) {
   color-scheme: dark;
   --sunshine-ink: var(--sunshine);
-  --bg: #131312;
-  --bg-soft: #1a1a18;
-  --surface: #20201d;
-  --ink: #ebebe8;
-  --muted: #aaa79e;
-  --line: #2e2d2a;
-  --sky: #272622;
-  --violet: #e9c46a;
-  --accent: #e9c46a;
-  --on-accent: #1a1608;
+  --bg: #0d1526;
+  --bg-soft: #121c32;
+  --surface: #14213d;
+  --ink: #f4ede0;
+  --muted: #a6b2c8;
+  --line: #223254;
+  --sky: #1c2a47;
+  --violet: #ff6b5b;
+  --accent: #ff6b5b;
+  --on-accent: #ffffff;
   --shadow: none;
   --shadow-lg: 0 2px 4px rgb(0 0 0 / 40%), 0 18px 48px rgb(0 0 0 / 45%);
 }
 @media (prefers-color-scheme: dark) {
   :root:where(:not([data-theme='light'])) {
     --sunshine-ink: var(--sunshine);
-    --bg: #131312;
-    --bg-soft: #1a1a18;
-    --surface: #20201d;
-    --ink: #ebebe8;
-    --muted: #aaa79e;
-    --line: #2e2d2a;
-    --sky: #272622;
-    --violet: #e9c46a;
-    --accent: #e9c46a;
-    --on-accent: #1a1608;
+    --bg: #0d1526;
+    --bg-soft: #121c32;
+    --surface: #14213d;
+    --ink: #f4ede0;
+    --muted: #a6b2c8;
+    --line: #223254;
+    --sky: #1c2a47;
+    --violet: #ff6b5b;
+    --accent: #ff6b5b;
+    --on-accent: #ffffff;
     --shadow: none;
     --shadow-lg: 0 2px 4px rgb(0 0 0 / 40%), 0 18px 48px rgb(0 0 0 / 45%);
   }
@@ -2093,7 +2093,7 @@ a.tag:hover {
   gap: 0.5rem;
   width: 7.5rem;
   height: 6.5rem;
-  color: #1c2a21;
+  color: var(--ink);
   background: var(--tone);
   border-radius: var(--radius);
   font-weight: 500;
@@ -2167,7 +2167,7 @@ a.tag:hover {
   min-height: 11rem;
   padding: 1rem;
   overflow: hidden;
-  color: #1c2a21;
+  color: var(--ink);
   background: var(--tone);
   border-radius: var(--radius);
   text-decoration: none;
@@ -2469,9 +2469,14 @@ a.tag:hover {
   color: rgb(255 255 255 / 90%);
 }
 .hero2__text .btn--accent {
-  color: #1c2a21;
-  background: #fff;
-  border-color: #fff;
+  color: #14213d;
+  background: var(--surface);
+  border-color: var(--surface);
+}
+.hero2__text .btn--accent:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
 }
 .hero2__visual {
   position: absolute;
@@ -2516,7 +2521,7 @@ a.tag:hover {
 }
 .brand__your {
   font-weight: inherit;
-  color: #d9735a;
+  color: var(--coral);
 }
 .brand {
   color: var(--ink);
