@@ -9,3 +9,5 @@ package-lock.json
 out
 data/covers.json
 data/light/books.json
+
+public/google*.html
