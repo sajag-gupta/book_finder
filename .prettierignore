@@ -8,3 +8,4 @@ package-lock.json
 .review
 out
 data/covers.json
+data/light/books.json

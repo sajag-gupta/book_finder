@@ -1,6 +1,7 @@
 import { slugify } from '../shared/slug.js';
 import { isPublished } from './data.js';
 import { matchTrending } from './trending.js';
+import { resolveTrendingNow } from './trending-now.js';
 
 const byTitle = (a, b) => a.title.localeCompare(b.title);
 const bySales = (a, b) => (b.soldMillions ?? 0) - (a.soldMillions ?? 0) || byTitle(a, b);
@@ -34,11 +35,14 @@ export function createContext({ data, site }) {
     .sort((a, b) => b.firstPublished - a.firstPublished || byTitle(a, b));
 
   const trending = matchTrending(data.trending?.entries, published).slice(0, 12);
+  const hcFacts = (slug) => data.hardcover?.books?.[slug] ?? null;
+  const trendingNow = resolveTrendingNow(data.trendingNow, published, data.light ?? [], hcFacts);
 
   return {
     data,
     site,
     trending,
+    trendingNow,
     published,
     bySlug,
     pairings,

@@ -23,5 +23,6 @@ export {
   disclosurePage,
   creditsPage,
   aboutPage,
+  trendingPage,
   notFoundPage,
 } from './pages/lists.js';

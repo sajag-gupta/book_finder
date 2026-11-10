@@ -10,7 +10,9 @@ import { bookPage, browsePage, homePage, lookupPage, shelfPage } from '../src/si
 const root = fileURLToPath(new URL('..', import.meta.url));
 const data = loadData(root);
 const site = { name: 'Test', url: 'https://example.test', preview: false, includeDrafts: true };
-const fullCtx = (trending) => createContext({ data: { ...data, trending }, site });
+// trendingNow is switched off here so these tests exercise the Hardcover fallback (see seo.test.js for the chart list).
+const fullCtx = (trending) =>
+  createContext({ data: { ...data, trending, trendingNow: null }, site });
 
 const pub = [
   { slug: 'dune', title: 'Dune', author: 'Frank Herbert' },

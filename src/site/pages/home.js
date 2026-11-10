@@ -78,22 +78,42 @@ export function homePage(ctx) {
   <ul class="pills" aria-label="Moods you can aim for">${wants}</ul>
 </section>`;
 
-  // Trending: this month's most-read when we have enough of them, else the most-read overall.
+  // Trending: this month's bestseller charts when we have them, else Hardcover's last 30 days, else the
+  // most-read overall.
   const byReaders = [...published].sort(
     (a, b) => (ctx.hc(b.slug)?.usersCount ?? 0) - (ctx.hc(a.slug)?.usersCount ?? 0),
   );
-  const trending = (ctx.trending.length >= 4 ? ctx.trending : byReaders).slice(0, 10);
+  const charts = ctx.trendingNow.flat;
+  const fromHardcover = ctx.trending.length >= 4;
+  const trending = (
+    charts.length >= 4
+      ? charts
+      : (fromHardcover ? ctx.trending : byReaders).map((b) => ({
+          slug: b.slug,
+          title: b.title,
+          author: b.author,
+          isbn13: b.isbn13,
+          rating:
+            ctx.hc(b.slug)?.rating && ctx.hc(b.slug).ratingsCount >= 20
+              ? ctx.hc(b.slug).rating
+              : null,
+        }))
+  ).slice(0, 12);
   const trendItem = (b, i) => {
-    const hc = ctx.hc(b.slug);
-    const rating =
-      hc?.rating && hc.ratingsCount >= 20
-        ? `<span class="trend__rating">${icon('star', { size: 14 })}${esc(hc.rating.toFixed(1))}</span>`
-        : '';
+    const rating = b.rating
+      ? `<span class="trend__rating">${icon('star', { size: 14 })}${esc(b.rating.toFixed(1))}</span>`
+      : '';
     return `<li class="trend"><span class="trend__n" aria-hidden="true">${i + 1}</span><a class="trend__link" href="/books/${esc(b.slug)}/">${cover(b, { eager: i < 6 })}<strong class="trend__title">${esc(b.title)}</strong><span class="trend__author">${esc(b.author)}</span>${rating}</a></li>`;
   };
+  const trendNote =
+    charts.length >= 4
+      ? `On this month&rsquo;s bestseller charts, updated ${esc(new Date(`${ctx.trendingNow.updated}T00:00:00Z`).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }))}.`
+      : fromHardcover
+        ? 'Most-read books over the last 30 days, according to Hardcover readers.'
+        : 'Popular books readers are loving, according to Hardcover readers.';
   const trendingSection = `<div class="bgband" data-bg="${HOME.trending}"><section class="wrap section">
-  ${sectionHead({ title: 'Trending right now', href: '/books/?sort=popular', linkText: 'View all' })}
-  <p class="muted small sub">${ctx.trending.length >= 4 ? 'Most-read books over the last 30 days, according to Hardcover readers.' : 'Popular books readers are loving, according to Hardcover readers.'}</p>
+  ${sectionHead({ title: 'Trending right now', href: charts.length >= 4 ? '/trending/' : '/books/?sort=popular', linkText: 'View all' })}
+  <p class="muted small sub">${trendNote}</p>
   <div class="scroller"><ol class="trendlist">${trending.map(trendItem).join('')}</ol></div>
 </section></div>`;
 
